@@ -1,0 +1,2590 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3ehcQjNwPoIX04QFNscJ24Ua8BClr3zPI8MPc6KglPWoZGJD3obkDjTHFKNwmqt3YS0787JJLUD-p6pJcSEmTZOTlo10sL_txJDRgR3ja0dEdS-CwbcGxFfW1Hd_fqUqqPRJaqPTR2CIqGzpLCzkCRHQylIWTPaPBg1hGz0DC6qc8zm",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7947215,
+          "lng": -73.9665356
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7960831802915,
+            "lng": -73.96505166970849
+          },
+          "southwest": {
+            "lat": 40.7933852197085,
+            "lng": -73.9677496302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "Quik Park 808 Garage LLC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ-6ZxFif2wokRaUd9SxWrAUM",
+      "plus_code": {
+        "compound_code": "Q2VM+V9 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+V9"
+      },
+      "rating": 3.4,
+      "reference": "ChIJ-6ZxFif2wokRaUd9SxWrAUM",
+      "scope": "GOOGLE",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "808 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7946826,
+          "lng": -73.966641
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79557913029151,
+            "lng": -73.9656022697085
+          },
+          "southwest": {
+            "lat": 40.79288116970851,
+            "lng": -73.9683002302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Columbus Square",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105757902910674900229\">Columbus Square</a>"
+          ],
+          "photo_reference": "AeJbb3ejlPYE9EOfU1dNyPr4LAA9WTz4dPLZCijCkkWahQDplPxpcViuJFR8OU3UM1O13Ei-j5shzoFbqrHZtpRfjOfhXBPkfk7Nx_79TYK9_p93S7iLJIBvhntCbABwLYM1HQ5YwzBKYZfHT_nbM0qmqBsDkanLqtM-uw2Gx1-uxFkZyWKu",
+          "width": 1150
+        }
+      ],
+      "place_id": "ChIJ80_1ICf2wokRoKC5Fh2SIJQ",
+      "plus_code": {
+        "compound_code": "Q2VM+V8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+V8"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ80_1ICf2wokRoKC5Fh2SIJQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 182,
+      "vicinity": "808 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7938269,
+          "lng": -73.9665529
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79522268029151,
+            "lng": -73.9653125697085
+          },
+          "southwest": {
+            "lat": 40.79252471970851,
+            "lng": -73.96801053029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Make My Cake",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 510,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114877616331822840397\">Make My Cake</a>"
+          ],
+          "photo_reference": "AeJbb3dWuK6NQHkperu2ZYGODOZ7wvJzqPcXvWci4O7ZYEXtLYN4EuD3fJc9zjuXPYOyhJidTNRdrT_c6lFJBRNIlFyeSAFZdNRleOx2dTMds5mZ4D7UzHVUeGJK9y2YsMTl-w2jwqNrtiO43AEP62vc6HQzlHAbQ33HWbFyVjsFoUeF2BhS",
+          "width": 683
+        }
+      ],
+      "place_id": "ChIJNwcgOhH2wokRtiA9lKM5egc",
+      "plus_code": {
+        "compound_code": "Q2VM+G9 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+G9"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJNwcgOhH2wokRtiA9lKM5egc",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 237,
+      "vicinity": "775 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79489239999999,
+          "lng": -73.9663853
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7965998802915,
+            "lng": -73.96490716970848
+          },
+          "southwest": {
+            "lat": 40.7939019197085,
+            "lng": -73.9676051302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "T.J. Maxx",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102493823871712619373\">Kenneth Tangerois3 Maroc</a>"
+          ],
+          "photo_reference": "AeJbb3dytaG6Ix1KzZqDxANzd2a5yyGmQ9DSyMhLM0l2TN9GMUJw2kFbht-4cqz00OLT-vt7rfiLNS3OxVv64KZINZV52qpmD7KOeIlalUfjhY7KHKmfRzNXhYLlDX5PhGp6mXOawrK99_zUTfPdRmoOwPAZee30eIUk-ixz404zpeL4yXE",
+          "width": 1936
+        }
+      ],
+      "place_id": "ChIJ-6ZxFif2wokRqTqMOeNHhDk",
+      "plus_code": {
+        "compound_code": "Q2VM+XC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+XC"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJ-6ZxFif2wokRqTqMOeNHhDk",
+      "scope": "GOOGLE",
+      "types": [
+        "department_store",
+        "jewelry_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1205,
+      "vicinity": "808 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.79465829999999,
+          "lng": -73.96662770000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7960442302915,
+            "lng": -73.9651037697085
+          },
+          "southwest": {
+            "lat": 40.7933462697085,
+            "lng": -73.96780173029153
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "LocalOnSpot",
+      "permanently_closed": true,
+      "place_id": "ChIJ80_1ICf2wokRpujKyej76DQ",
+      "plus_code": {
+        "compound_code": "Q2VM+V8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+V8"
+      },
+      "reference": "ChIJ80_1ICf2wokRpujKyej76DQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "808 Columbus Avenue #23G, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.793337,
+          "lng": -73.967587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7946300302915,
+            "lng": -73.96608551970849
+          },
+          "southwest": {
+            "lat": 40.7919320697085,
+            "lng": -73.96878348029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West 96th Apartments",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105021003361401331253\">West 96th Apartments</a>"
+          ],
+          "photo_reference": "AeJbb3cARlAV8s3L5tI3AqNlTbMRMym-ZjwkQMtWiK1_9bf3djUWA9UYNX9On-jPhsE7uGnYivkwRvYOSicq9KV2bW0rNYRQ_66n6v_hk6p2kfQBQHhqfAsSQU1nNlJyYaPSl-Qj_qfq8cMcFakTiX1cQzO0qwlghtBVyw8_KecMhKLE7gc0",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJq8owcif2wokRsY8wNSIBaH0",
+      "plus_code": {
+        "compound_code": "Q2VJ+8X \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VJ+8X"
+      },
+      "rating": 4.7,
+      "reference": "ChIJq8owcif2wokRsY8wNSIBaH0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "750 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7939667,
+          "lng": -73.9671163
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7952682302915,
+            "lng": -73.9656122697085
+          },
+          "southwest": {
+            "lat": 40.7925702697085,
+            "lng": -73.96831023029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Whole Foods Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116508613387585310062\">Shachar Ashkenazi</a>"
+          ],
+          "photo_reference": "AeJbb3fdXcZMcLr7PGuHN27X4vM6nau846frsBQeYt1YA6jfM9oxsGKm2cq5GHyL_v7bPUy3cgP6bwEfvYggARgQDf9RnFZvauEHBTL6aYkRZYNi9TL97CrNnM_5FoT7HDpBzzJ6hjAOEJwg_whyBdAogyuSsxCsuLICCmgXj_YiCz0H7dTc",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-6ZxFif2wokRaRaETTJc_9Q",
+      "plus_code": {
+        "compound_code": "Q2VM+H5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+H5"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJ-6ZxFif2wokRaRaETTJc_9Q",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "supermarket",
+        "store",
+        "health",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2244,
+      "vicinity": "808 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7947802,
+          "lng": -73.9663988
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7960993802915,
+            "lng": -73.9649420197085
+          },
+          "southwest": {
+            "lat": 40.7934014197085,
+            "lng": -73.96763998029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "SEPHORA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109896805750470100724\">Maria Eugenia</a>"
+          ],
+          "photo_reference": "AeJbb3dtwVdqi6oE5BWk8N0yAo9bifbkC1KyeUZzxiMIpjnyrMTO7Jj2iUcrdc8zzPRvdZvGraXSIldXQNRdxGrfvvt9ahjw6nsfeyF0bBmeURC-NcxEIQLl_kxNU0Kgr_QhvqNC4DcmeFCkbh4xzGDrrJcXnS_6F462rIO4gJVH6GwszuQD",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ-6ZxFif2wokRbfUmp2gH3nc",
+      "plus_code": {
+        "compound_code": "Q2VM+WC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+WC"
+      },
+      "price_level": 3,
+      "rating": 4,
+      "reference": "ChIJ-6ZxFif2wokRbfUmp2gH3nc",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 218,
+      "vicinity": "808 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7942319,
+          "lng": -73.963672
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7957018302915,
+            "lng": -73.9622358197085
+          },
+          "southwest": {
+            "lat": 40.79300386970851,
+            "lng": -73.9649337802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ashland Hercules",
+      "permanently_closed": true,
+      "place_id": "ChIJ7-K54SD2wokRoSNEOwXBO6g",
+      "plus_code": {
+        "compound_code": "Q2VP+MG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VP+MG"
+      },
+      "reference": "ChIJ7-K54SD2wokRoSNEOwXBO6g",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "400 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.792823,
+          "lng": -73.9647354
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7941034802915,
+            "lng": -73.96344291970848
+          },
+          "southwest": {
+            "lat": 40.7914055197085,
+            "lng": -73.96614088029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Vaux Condominium",
+      "photos": [
+        {
+          "height": 3226,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115034317907569632101\">Slava Gorodovoy</a>"
+          ],
+          "photo_reference": "AeJbb3e7ffDVJtBhd2p6riZ6qKBjVuMOYgOXEWouV9DMU5iCMEwovEE1fmwPAurdBvll4GdW9jBlniV--BWuFcN6Jo2flu406Ore9J277mBIV7PS_bCcbF3yDIKSWgPAxmF36qFapgjmcKWV-VzcUcaP-GBicjqNLqMwBsYe3VUwQjuREFzr",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ4w-SvCD2wokRvr3Vp2a6Gps",
+      "plus_code": {
+        "compound_code": "Q2VP+44 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VP+44"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ4w-SvCD2wokRvr3Vp2a6Gps",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "372 Central Park West #12G, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79464979999999,
+          "lng": -73.9659842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7959645802915,
+            "lng": -73.96476011970849
+          },
+          "southwest": {
+            "lat": 40.7932666197085,
+            "lng": -73.96745808029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "HomeGoods",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107068838566965446335\">Moe Friedman</a>"
+          ],
+          "photo_reference": "AeJbb3c4l3hL74VMRWvrEjXGzN9fjxKG4ovao5lw1SCm9u82_SBJpkTxrK__ltp5-cdSLzwD1rOynlDCrk4v7T54dH0DnGFWBE7IK2_K8SuxznnQELZhfv8AGYUWLTtjN8Uectu38mKDyIp25IBLV4CqrxiKBCcYpr9VgcBrEX_9p_cOTwRk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCXgc0Sb2wokRjVr7qx9-YPM",
+      "plus_code": {
+        "compound_code": "Q2VM+VJ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+VJ"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJCXgc0Sb2wokRjVr7qx9-YPM",
+      "scope": "GOOGLE",
+      "types": [
+        "department_store",
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1104,
+      "vicinity": "795 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.794212,
+          "lng": -73.9636647
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7954307802915,
+            "lng": -73.9620047697085
+          },
+          "southwest": {
+            "lat": 40.7927328197085,
+            "lng": -73.9647027302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Clear Blue Associates - Executive and Team Coaching",
+      "place_id": "ChIJ7-K54SD2wokR1_0zpN7gBks",
+      "plus_code": {
+        "compound_code": "Q2VP+MG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VP+MG"
+      },
+      "rating": 3,
+      "reference": "ChIJ7-K54SD2wokR1_0zpN7gBks",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "400 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7893796,
+          "lng": -73.966726
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7906539302915,
+            "lng": -73.9654307197085
+          },
+          "southwest": {
+            "lat": 40.78795596970851,
+            "lng": -73.9681286802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Peter V.K. Funk, Jr.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113133607182355191199\">Peter V.K. Funk, Jr.</a>"
+          ],
+          "photo_reference": "AeJbb3d1yU5yhlCptO2DIidVJleGGIwx-5B6sQTwYn4qbZX4m2pjYx78wCiU-yq8iiarRgNX_0ggh4y6Cd2FEU8rGIKRBWgHD_IxqMds74i_iSl7adzn1S5LDDJB95qUTEOsM5q7OzZL3vloEAlhAwqpFc7RSx5pR80DRU4q2Eq9cbUuDAP2",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJ82Kx2ABZwokRC5W3D-01XtI",
+      "plus_code": {
+        "compound_code": "Q2QM+Q8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2QM+Q8"
+      },
+      "rating": 5,
+      "reference": "ChIJ82Kx2ABZwokRC5W3D-01XtI",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "322 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.790214,
+          "lng": -73.9668174
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7915009802915,
+            "lng": -73.96552466970849
+          },
+          "southwest": {
+            "lat": 40.7888030197085,
+            "lng": -73.96822263029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Columbia Grammar & Preparatory School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 517,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108924645521111916980\">Columbia Grammar &amp; Preparatory School</a>"
+          ],
+          "photo_reference": "AeJbb3dB0jVKiX6I9JFiZKqFWacGAYvuqsBGdSlgiYfvOT7n6R-X99MoSOGRlHmIE74eyd-EtazSgkIR-8a_ZbPijp10ewA7sLc41fEy5xtrps21eqsvRaVkrGpSbD_yahdRO_fNUrfKb8296InRzlOuA7FoJfdJfCChPFoP3jgvxvOdsHgN",
+          "width": 1170
+        }
+      ],
+      "place_id": "ChIJ94gBtp1YwokR0FAmoIYBSrM",
+      "plus_code": {
+        "compound_code": "Q2RM+37 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2RM+37"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ94gBtp1YwokR0FAmoIYBSrM",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "5 West 93rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7906666,
+          "lng": -73.9658766
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7919576802915,
+            "lng": -73.9643554697085
+          },
+          "southwest": {
+            "lat": 40.7892597197085,
+            "lng": -73.9670534302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Manhattan Neuropsychology and Assessment NY NY",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJOcDY3Z1YwokR18CGS2WJkBU",
+      "plus_code": {
+        "compound_code": "Q2RM+7J \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2RM+7J"
+      },
+      "reference": "ChIJOcDY3Z1YwokR18CGS2WJkBU",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "350 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.793337,
+          "lng": -73.967587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7946300302915,
+            "lng": -73.96608551970849
+          },
+          "southwest": {
+            "lat": 40.7919320697085,
+            "lng": -73.96878348029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Birch Coffee",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113719639442868633401\">Ashley Hughes</a>"
+          ],
+          "photo_reference": "AeJbb3cNA9w5odTmNIZPs5vB9laEzHn2xA0HBIhupjDfrRxsGgfK0ZtxxPltcpt6ji66XF_mELaTdMFA1-zNOxzcLeo2CQrAgvEshmyMf3iJU2xxISwJn0ulu-KcKVTXZOllFFcADNO-dHVzLSnKg_thgkAng-tYmu8AsuQ2wKgAjzUQrXkL",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJVQZ5bif2wokRdOKgFt-pfL4",
+      "plus_code": {
+        "compound_code": "Q2VJ+8X \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VJ+8X"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJVQZ5bif2wokRdOKgFt-pfL4",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 603,
+      "vicinity": "750 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79355,
+          "lng": -73.965862
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7950502802915,
+            "lng": -73.96441656970849
+          },
+          "southwest": {
+            "lat": 40.7923523197085,
+            "lng": -73.96711453029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Custom & Private New York Tours Inc",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115813736896025586189\">Custom &amp; Private New York Tours Inc</a>"
+          ],
+          "photo_reference": "AeJbb3chpebWr6VnuHexcNKOzAM7oGJUNG64ZvELFPCVAULc8kawIdmUtBfb1zaqHGYNFVRdqEKNLP-mMubmXWmp5GsmTtiSm1cmw3otgw3AMMfsLtR7Dw_F0v6n1HbFsOGxlQrYGmkUwTuQqFvO50semMtz0bKH2gPO84aCN248ywTrAq0k",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJgbfRMCf2wokRp8uoeQ9eGYA",
+      "plus_code": {
+        "compound_code": "Q2VM+CM \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+CM"
+      },
+      "rating": 4.9,
+      "reference": "ChIJgbfRMCf2wokRp8uoeQ9eGYA",
+      "scope": "GOOGLE",
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 43,
+      "vicinity": "382 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7928421,
+          "lng": -73.96588950000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7942977302915,
+            "lng": -73.96446291970851
+          },
+          "southwest": {
+            "lat": 40.7915997697085,
+            "lng": -73.96716088029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Smiles on the Upper Westside",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1335,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109885586368224654209\">Smiles on the Upper Westside</a>"
+          ],
+          "photo_reference": "AeJbb3dP12V8FC0t9SQn9Kke470l1xg7mm_j_11Br0nlzWafic5G2pjc1gFuoknAzNGA9Q0S_OEvroGclFkwxb-TlMWdcCtSBhftc3m6IXHG0c6PEcfwj3d4IzRte8o9wU92OKsdfuFkScFiBKAJeaOjrtugNLJ6HD2qjSP74AmSKn1wlRvD",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJSfYeRif2wokRyiBGnCZYmRc",
+      "plus_code": {
+        "compound_code": "Q2VM+4J \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2VM+4J"
+      },
+      "rating": 4.9,
+      "reference": "ChIJSfYeRif2wokRyiBGnCZYmRc",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 179,
+      "vicinity": "50 West 97th Street Suite 1C, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7830603,
+          "lng": -73.9712488
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.820045,
+            "lng": -73.90331300000001
+          },
+          "southwest": {
+            "lat": 40.698078,
+            "lng": -74.03514899999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813",
+      "photos": [
+        {
+          "height": 1199,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108803842220307386999\">Debeli Atleti\u010dar</a>"
+          ],
+          "photo_reference": "AeJbb3eC5VepDn8p-VxomQbinQV4_K8OOUb2A20l8Y10VDQgQPuCbbKGWB_95LwaDIVapb4haDiXdiKrRe-n8GltWISut9svAOfObcdcIVSO-mzGyWiE6PpkYVVGoBAfTNaTqJQ4ex8B7YnSerSuCTeQddiOwpWbz66VGNWnsueces8u_F2F",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+      "reference": "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79073399999999,
+          "lng": -73.9655591
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7920570302915,
+            "lng": -73.9641397197085
+          },
+          "southwest": {
+            "lat": 40.7893590697085,
+            "lng": -73.9668376802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Neuropsychology Evaluation in New York",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJOcDY3Z1YwokRM7FoJCpWico",
+      "plus_code": {
+        "compound_code": "Q2RM+7Q New York, NY, USA",
+        "global_code": "87G8Q2RM+7Q"
+      },
+      "reference": "ChIJOcDY3Z1YwokRM7FoJCpWico",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "350 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7907843,
+          "lng": -73.9657105
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7920925802915,
+            "lng": -73.96420471970849
+          },
+          "southwest": {
+            "lat": 40.7893946197085,
+            "lng": -73.96690268029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "350 Central Park West Apartments",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113934572466677386548\">Elizabeth Le Bras</a>"
+          ],
+          "photo_reference": "AeJbb3dJ6sRGAVZAle-BH9S8hMBflpIxJWg-JKWEB2Y7PZ-J5gGWN4FH45Vg9htSLSQAWZwGb_LhldURXaE2jf6cOtpwaPyr2z_GDlpQIMQ1-lnGf7HWeYiWcQ88dvFcX_9Dy0IxDjZre3SxC_kf9ExNv7R-_jkC2mOW6rB54fIkj3-O5TnG",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOcDY3Z1YwokRL1LOOwlBYw8",
+      "plus_code": {
+        "compound_code": "Q2RM+8P New York, NY, USA",
+        "global_code": "87G8Q2RM+8P"
+      },
+      "rating": 4.9,
+      "reference": "ChIJOcDY3Z1YwokRL1LOOwlBYw8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "350 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79282919999999,
+          "lng": -73.965881
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79428843029149,
+            "lng": -73.9644518197085
+          },
+          "southwest": {
+            "lat": 40.7915904697085,
+            "lng": -73.9671497802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Volokitin Mikhail, M.D., D.O.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112993523081481690926\">Volokitin Mikhail, M.D., D.O.</a>"
+          ],
+          "photo_reference": "AeJbb3c5kQFjaKs-kE-jrBCk4UvZuAbMIMtuC0P_SCURBm2D8diqnQJ9xEUGC2ZEad6lWuuzAAPlMZN9TGkQ_C3635xQtuAfj_AgtWCwJW4ZwWYDtX6zOGme7ZXlOCHXz4lbNkd9byAKieCANpGhC892hocGbMvu8_RmDZlFCDJyi_56Mpw3",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJSfYeRif2wokRigkR_qqPI3Y",
+      "plus_code": {
+        "compound_code": "Q2VM+4J New York, NY, USA",
+        "global_code": "87G8Q2VM+4J"
+      },
+      "rating": 5,
+      "reference": "ChIJSfYeRif2wokRigkR_qqPI3Y",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "50 West 97th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7928421,
+          "lng": -73.96588950000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7942977302915,
+            "lng": -73.96446291970851
+          },
+          "southwest": {
+            "lat": 40.7915997697085,
+            "lng": -73.96716088029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Ez Fashion Jobs",
+      "permanently_closed": true,
+      "place_id": "ChIJs00STif2wokRU92mvt-CQRs",
+      "plus_code": {
+        "compound_code": "Q2VM+4J New York, NY, USA",
+        "global_code": "87G8Q2VM+4J"
+      },
+      "reference": "ChIJs00STif2wokRU92mvt-CQRs",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "50 West 97th Street # 14B, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79282919999999,
+          "lng": -73.965881
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79428843029149,
+            "lng": -73.9644518197085
+          },
+          "southwest": {
+            "lat": 40.7915904697085,
+            "lng": -73.9671497802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bader Claudia",
+      "place_id": "ChIJSfYeRif2wokRm1N9DK8IgW8",
+      "plus_code": {
+        "compound_code": "Q2VM+4J New York, NY, USA",
+        "global_code": "87G8Q2VM+4J"
+      },
+      "reference": "ChIJSfYeRif2wokRm1N9DK8IgW8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "50 West 97th Street # 1h, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7928421,
+          "lng": -73.96588950000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7942977302915,
+            "lng": -73.96446291970851
+          },
+          "southwest": {
+            "lat": 40.7915997697085,
+            "lng": -73.96716088029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kahn Edwin",
+      "place_id": "ChIJSfYeRif2wokRRc0ptOLVevc",
+      "plus_code": {
+        "compound_code": "Q2VM+4J New York, NY, USA",
+        "global_code": "87G8Q2VM+4J"
+      },
+      "reference": "ChIJSfYeRif2wokRRc0ptOLVevc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "50 West 97th Street # 1J, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79668499999999,
+          "lng": -73.9625822
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79798093029149,
+            "lng": -73.9611982197085
+          },
+          "southwest": {
+            "lat": 40.7952829697085,
+            "lng": -73.96389618029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Central Park Apartments",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100817774440817334553\">John Smith</a>"
+          ],
+          "photo_reference": "AeJbb3chRJ5m58eT69zWEe0QhM1Pem-1-V6vBBfi038OEUUBvTBFYcvBvj6DCa6JL8oX6A6wbwLMl8_oHddcAJyrQ7a0bY-zR5kV6S0Tao6a8r1uVrL2dKttXaMA8tRGw2sXEGpN_m2JByURX49pCXgMHwfTJIrmUoTw7svaaFCIpKlzj36c",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJmdCc1SP2wokRK9kQWlKfokI",
+      "plus_code": {
+        "compound_code": "Q2WP+MX New York, NY, USA",
+        "global_code": "87G8Q2WP+MX"
+      },
+      "rating": 3.8,
+      "reference": "ChIJmdCc1SP2wokRK9kQWlKfokI",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 49,
+      "vicinity": "19 West 103rd Street Suite 503, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7935638,
+          "lng": -73.96568789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79503268029151,
+            "lng": -73.9642624697085
+          },
+          "southwest": {
+            "lat": 40.79233471970851,
+            "lng": -73.96696043029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Terrie Williams",
+      "place_id": "ChIJva_ANif2wokRlxxVnpIdjpw",
+      "plus_code": {
+        "compound_code": "Q2VM+CP New York, NY, USA",
+        "global_code": "87G8Q2VM+CP"
+      },
+      "reference": "ChIJva_ANif2wokRlxxVnpIdjpw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "382 Central Park West #17u, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7922822,
+          "lng": -73.9673893
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79349478029149,
+            "lng": -73.96614076970849
+          },
+          "southwest": {
+            "lat": 40.79079681970849,
+            "lng": -73.9688387302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Columbus House",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108081002342523964867\">Gerard Rose</a>"
+          ],
+          "photo_reference": "AeJbb3f4sxefwnif99itl7hmUAqZ5d0kAQGl_sLjF2GNHO0tsflO8xcvdp-unbinrmoE5vIM8mFC9lOeNVh6OX3cHbcC8EhKOmlx8JSR-N07kUi-nH7VHiKczoX7nkkS_cL8lDJN4xL8TPcMaUpchMcZbkNTMXFqAoyzKLTVMtM_wCY9W4Xm",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJ5Raohp1YwokRzZmxUwaX7Vs",
+      "plus_code": {
+        "compound_code": "Q2RM+W2 New York, NY, USA",
+        "global_code": "87G8Q2RM+W2"
+      },
+      "rating": 2.6,
+      "reference": "ChIJ5Raohp1YwokRzZmxUwaX7Vs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "95 West 95th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7908073,
+          "lng": -73.9657398
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7920883802915,
+            "lng": -73.96423101970849
+          },
+          "southwest": {
+            "lat": 40.7893904197085,
+            "lng": -73.9669289802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Nancy Freeman-Carroll, Psy.D.",
+      "place_id": "ChIJOcDY3Z1YwokRNeldWUKfH88",
+      "plus_code": {
+        "compound_code": "Q2RM+8P New York, NY, USA",
+        "global_code": "87G8Q2RM+8P"
+      },
+      "reference": "ChIJOcDY3Z1YwokRNeldWUKfH88",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "350 Central Park West #13e, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7955992,
+          "lng": -73.96664419999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79690658029149,
+            "lng": -73.96536326970848
+          },
+          "southwest": {
+            "lat": 40.7942086197085,
+            "lng": -73.9680612302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PWV Management",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJCSUe6Cb2wokRBlGhC_OFo8Y",
+      "plus_code": {
+        "compound_code": "Q2WM+68 New York, NY, USA",
+        "global_code": "87G8Q2WM+68"
+      },
+      "rating": 2.4,
+      "reference": "ChIJCSUe6Cb2wokRBlGhC_OFo8Y",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "792 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7945333,
+          "lng": -73.9649319
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79608648029149,
+            "lng": -73.96340091970849
+          },
+          "southwest": {
+            "lat": 40.79338851970849,
+            "lng": -73.9660988802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mitton Mark",
+      "place_id": "ChIJLVgfKyH2wokRQ2mNBdS9m_0",
+      "plus_code": {
+        "compound_code": "Q2VP+R2 New York, NY, USA",
+        "global_code": "87G8Q2VP+R2"
+      },
+      "rating": 5,
+      "reference": "ChIJLVgfKyH2wokRQ2mNBdS9m_0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "392 Central Park West # 20A, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7936758,
+          "lng": -73.96598709999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7951367302915,
+            "lng": -73.9646696697085
+          },
+          "southwest": {
+            "lat": 40.7924387697085,
+            "lng": -73.96736763029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Christina Vescovo, New York City, Keller Williams",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100263654693426339817\">Christina Vescovo, New York City, Keller Williams</a>"
+          ],
+          "photo_reference": "AeJbb3fsgXlWFOpR0PeFTKlYHO7oWhdMhmobO09fCpomFSSbM6gyRilkrI1ZKoOv4gzC6za27Q26xgN5007QSzYKRx1Za6TyFABhKxKBCXrdAyVu1PHZ_jxrpmfZy5oJE9RyCOtcjMcWtjqOisag7mUzUhPiGVTbe_Cf2w3omzaPvSANguuE",
+          "width": 534
+        }
+      ],
+      "place_id": "ChIJva_ANif2wokRZf_2X-9o8nU",
+      "plus_code": {
+        "compound_code": "Q2VM+FJ New York, NY, USA",
+        "global_code": "87G8Q2VM+FJ"
+      },
+      "reference": "ChIJva_ANif2wokRZf_2X-9o8nU",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "382 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7945328,
+          "lng": -73.96493509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7960866802915,
+            "lng": -73.9634034697085
+          },
+          "southwest": {
+            "lat": 40.7933887197085,
+            "lng": -73.9661014302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ross Publishing LLC",
+      "place_id": "ChIJLVgfKyH2wokRU6ebcn4mPi4",
+      "plus_code": {
+        "compound_code": "Q2VP+R2 New York, NY, USA",
+        "global_code": "87G8Q2VP+R2"
+      },
+      "reference": "ChIJLVgfKyH2wokRU6ebcn4mPi4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "392 Central Park West #20C, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7942319,
+          "lng": -73.963672
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7957018302915,
+            "lng": -73.9622358197085
+          },
+          "southwest": {
+            "lat": 40.79300386970851,
+            "lng": -73.9649337802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Collegiate Mail Services",
+      "place_id": "ChIJ7-K54SD2wokRe9Fdf2Q6gU8",
+      "plus_code": {
+        "compound_code": "Q2VP+MG New York, NY, USA",
+        "global_code": "87G8Q2VP+MG"
+      },
+      "reference": "ChIJ7-K54SD2wokRe9Fdf2Q6gU8",
+      "scope": "GOOGLE",
+      "types": [
+        "post_office",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "400 Central Park West # 20d, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7943185,
+          "lng": -73.9674452
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7957179302915,
+            "lng": -73.9662187197085
+          },
+          "southwest": {
+            "lat": 40.7930199697085,
+            "lng": -73.9689166802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SeeMeSmart",
+      "photos": [
+        {
+          "height": 1109,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108316178831027024882\">SeeMeSmart</a>"
+          ],
+          "photo_reference": "AeJbb3eufF35BSx8F7OVs71LgQRKijsRq5xeaR_DmGDpQAGMONa-5o_0kl3M1Avei1x-AAn2Ver8T2sgwUE7RbcAmRK7N89hrghiwybEXg0bwGYtD7XmibzascBJta6LncD9OCJOlxvNQi93ucY6rObSmgzfuXO8Qaj7EU8-ppBG8LKXYTM",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJaSkvBSf2wokR8k9Ln2byHmk",
+      "plus_code": {
+        "compound_code": "Q2VM+P2 New York, NY, USA",
+        "global_code": "87G8Q2VM+P2"
+      },
+      "reference": "ChIJaSkvBSf2wokR8k9Ln2byHmk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "784 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7953252,
+          "lng": -73.962295
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7966316302915,
+            "lng": -73.96084526970849
+          },
+          "southwest": {
+            "lat": 40.7939336697085,
+            "lng": -73.9635432302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "STAMM & OLIVO, LLP: PHILIP STAMM",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 661,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113794466944180017082\">STAMM &amp; OLIVO, LLP: PHILIP STAMM</a>"
+          ],
+          "photo_reference": "AeJbb3fa29S8pLbOr_FhZxE8DfQiO05ZjDAaZUFbg0E_VU2M7S4c-KhGGkmyrXzKMCtvbiTYRDoLLqUEDncf72RjIvrw1I7pUJfmsyO4pYLb73aJIF0w-sUTQM0F20aQaI2M8gCpMeDkGKdS0gevNPrU6Q3eX4WwTzymixZqaNGATmRNZNL6",
+          "width": 453
+        }
+      ],
+      "place_id": "ChIJywfGBQFZwokR0wgN066vmls",
+      "plus_code": {
+        "compound_code": "Q2WQ+43 New York, NY, USA",
+        "global_code": "87G8Q2WQ+43"
+      },
+      "reference": "ChIJywfGBQFZwokR0wgN066vmls",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "418 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79421829999999,
+          "lng": -73.96752959999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79561573029149,
+            "lng": -73.96629831970849
+          },
+          "southwest": {
+            "lat": 40.7929177697085,
+            "lng": -73.9689962802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Holistic Psychotherapy Tina Felluss, LCSW",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJaSkvBSf2wokRq1jkpTnPUaw",
+      "plus_code": {
+        "compound_code": "Q2VJ+MX New York, NY, USA",
+        "global_code": "87G8Q2VJ+MX"
+      },
+      "reference": "ChIJaSkvBSf2wokRq1jkpTnPUaw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "doctor",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "784 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7943185,
+          "lng": -73.9674452
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7957179302915,
+            "lng": -73.9662187197085
+          },
+          "southwest": {
+            "lat": 40.7930199697085,
+            "lng": -73.9689166802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ealy Mays Artworks",
+      "permanently_closed": true,
+      "place_id": "ChIJaSkvBSf2wokR7-8ET6LMG-0",
+      "plus_code": {
+        "compound_code": "Q2VM+P2 New York, NY, USA",
+        "global_code": "87G8Q2VM+P2"
+      },
+      "reference": "ChIJaSkvBSf2wokR7-8ET6LMG-0",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "784 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79402319999999,
+          "lng": -73.96321089999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7953368302915,
+            "lng": -73.96177751970849
+          },
+          "southwest": {
+            "lat": 40.7926388697085,
+            "lng": -73.96447548029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Concierge Desk 400 Central",
+      "place_id": "ChIJ7-K54SD2wokRDq_cbvr4KIg",
+      "plus_code": {
+        "compound_code": "Q2VP+JP New York, NY, USA",
+        "global_code": "87G8Q2VP+JP"
+      },
+      "reference": "ChIJ7-K54SD2wokRDq_cbvr4KIg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "400 Central Park West, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.79402319999999,
+          "lng": -73.96321089999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7953368302915,
+            "lng": -73.96177751970849
+          },
+          "southwest": {
+            "lat": 40.7926388697085,
+            "lng": -73.96447548029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lola Pazos Real Estate",
+      "permanently_closed": true,
+      "place_id": "ChIJ7-K54SD2wokRX3MNzlyo4dI",
+      "plus_code": {
+        "compound_code": "Q2VP+JP New York, NY, USA",
+        "global_code": "87G8Q2VP+JP"
+      },
+      "rating": 3,
+      "reference": "ChIJ7-K54SD2wokRX3MNzlyo4dI",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "400 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.793337,
+          "lng": -73.967587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7946300302915,
+            "lng": -73.96608551970849
+          },
+          "southwest": {
+            "lat": 40.7919320697085,
+            "lng": -73.96878348029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Herman Samantha P MD",
+      "place_id": "ChIJq8owcif2wokRJHw57gcJ2nM",
+      "plus_code": {
+        "compound_code": "Q2VJ+8X New York, NY, USA",
+        "global_code": "87G8Q2VJ+8X"
+      },
+      "reference": "ChIJq8owcif2wokRJHw57gcJ2nM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "750 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7942319,
+          "lng": -73.963672
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7957018302915,
+            "lng": -73.9622358197085
+          },
+          "southwest": {
+            "lat": 40.79300386970851,
+            "lng": -73.9649337802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lifelong Growth Center",
+      "place_id": "ChIJ7-K54SD2wokR8EgfVSuklnc",
+      "plus_code": {
+        "compound_code": "Q2VP+MG New York, NY, USA",
+        "global_code": "87G8Q2VP+MG"
+      },
+      "reference": "ChIJ7-K54SD2wokR8EgfVSuklnc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "400 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79420990000001,
+          "lng": -73.9636725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79542763029151,
+            "lng": -73.96201016970849
+          },
+          "southwest": {
+            "lat": 40.79272966970851,
+            "lng": -73.96470813029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Randi S. Cohen, ACSW",
+      "place_id": "ChIJ7-K54SD2wokRnHB9ZK_Jj1M",
+      "plus_code": {
+        "compound_code": "Q2VP+MG New York, NY, USA",
+        "global_code": "87G8Q2VP+MG"
+      },
+      "reference": "ChIJ7-K54SD2wokRnHB9ZK_Jj1M",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "400 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79420990000001,
+          "lng": -73.9636725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79542763029151,
+            "lng": -73.96201016970849
+          },
+          "southwest": {
+            "lat": 40.79272966970851,
+            "lng": -73.96470813029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Michelle M. Lalinde, FNP",
+      "place_id": "ChIJ7-K54SD2wokRPEyb8nhaBQE",
+      "plus_code": {
+        "compound_code": "Q2VP+MG New York, NY, USA",
+        "global_code": "87G8Q2VP+MG"
+      },
+      "reference": "ChIJ7-K54SD2wokRPEyb8nhaBQE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "400 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79420990000001,
+          "lng": -73.9636725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79542763029151,
+            "lng": -73.96201016970849
+          },
+          "southwest": {
+            "lat": 40.79272966970851,
+            "lng": -73.96470813029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Thomas F. Barton, LCSW",
+      "place_id": "ChIJ7-K54SD2wokRfm7He8Kl2yY",
+      "plus_code": {
+        "compound_code": "Q2VP+MG New York, NY, USA",
+        "global_code": "87G8Q2VP+MG"
+      },
+      "reference": "ChIJ7-K54SD2wokRfm7He8Kl2yY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "400 Central Park West, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.79585099999999,
+          "lng": -73.9676214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79739258029149,
+            "lng": -73.9661523197085
+          },
+          "southwest": {
+            "lat": 40.79469461970849,
+            "lng": -73.9688502802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Bloomingdale Library",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107542443173392886540\">Al Cohen</a>"
+          ],
+          "photo_reference": "AeJbb3c0Zvb8M_KHpqNwXwos-wFGg6MHbpuYR3tlQLn4s6oiaz1GhD9TIBny8sj7pxdZQY8taSFMDLWv9BSKtk0oWO978nPHRQ666S2cGO31LqOUYS7YhIfNdEk9dyV2z-lD3GYwchRTTDbdVVtQLMS6LXlodVqeWmeNvtU-e4Q5InIT7LYE",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ6SGU8yb2wokRmPVa0OGGWD4",
+      "plus_code": {
+        "compound_code": "Q2WJ+8X New York, NY, USA",
+        "global_code": "87G8Q2WJ+8X"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ6SGU8yb2wokRmPVa0OGGWD4",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "150 West 100th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7939572,
+          "lng": -73.9683426
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7953612802915,
+            "lng": -73.9669536197085
+          },
+          "southwest": {
+            "lat": 40.7926633197085,
+            "lng": -73.96965158029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hair 3nvy- Ask For Aprille Ray",
+      "permanently_closed": true,
+      "place_id": "ChIJeSB3Cif2wokRLTYKcVlOTj4",
+      "plus_code": {
+        "compound_code": "Q2VJ+HM New York, NY, USA",
+        "global_code": "87G8Q2VJ+HM"
+      },
+      "reference": "ChIJeSB3Cif2wokRLTYKcVlOTj4",
+      "scope": "GOOGLE",
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "70 West 106th, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7929093,
+          "lng": -73.9646624
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79414663029149,
+            "lng": -73.96340641970849
+          },
+          "southwest": {
+            "lat": 40.7914486697085,
+            "lng": -73.9661043802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "BourneDigital",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJKQgxtyD2wokRucTyOTalN10",
+      "plus_code": {
+        "compound_code": "Q2VP+54 New York, NY, USA",
+        "global_code": "87G8Q2VP+54"
+      },
+      "reference": "ChIJKQgxtyD2wokRucTyOTalN10",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "372 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7944295,
+          "lng": -73.9628931
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7957463302915,
+            "lng": -73.9614674697085
+          },
+          "southwest": {
+            "lat": 40.7930483697085,
+            "lng": -73.9641654302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Perfect Picnic NYC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 933,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105536380063738372124\">Perfect Picnic NYC</a>"
+          ],
+          "photo_reference": "AeJbb3f_u3mqiIy9lmWakXwYV-Trcv_IMFx4knUVdbcl6g4ewGEqyRq0rEZ-5A7BywIy4VEItbTw055wTcYDn1vq1jOcEoyF-bHDhNTE84KW9PlXkgnLjuMo13w7A9uBxM9PL5puDvGh9F1AA4nbVDPqfgdBcEfKqL_b2VsY4eIxNYisAMKL",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJrViEM4FZwokR81etLl343Vo",
+      "plus_code": {
+        "compound_code": "Q2VP+QR New York, NY, USA",
+        "global_code": "87G8Q2VP+QR"
+      },
+      "price_level": 3,
+      "rating": 4.6,
+      "reference": "ChIJrViEM4FZwokR81etLl343Vo",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 65,
+      "vicinity": "405 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79117329999999,
+          "lng": -73.9683561
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79258893029149,
+            "lng": -73.96716331970849
+          },
+          "southwest": {
+            "lat": 40.78989096970849,
+            "lng": -73.9698612802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "\u30ab\u30fc\u30c9\u30c8\u30ed\u30cb\u30af\u30b9 ATM",
+      "place_id": "ChIJx_KjdZ1YwokRcP_mQkLwbEo",
+      "plus_code": {
+        "compound_code": "Q2RJ+FM New York, NY, USA",
+        "global_code": "87G8Q2RJ+FM"
+      },
+      "reference": "ChIJx_KjdZ1YwokRcP_mQkLwbEo",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "697 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7910284,
+          "lng": -73.9678618
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7924818302915,
+            "lng": -73.96643636970849
+          },
+          "southwest": {
+            "lat": 40.7897838697085,
+            "lng": -73.9691343302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Family Dentist - Blisko Solomon DDS",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJTxqqop1YwokRVJy7hy5LlRo",
+      "plus_code": {
+        "compound_code": "Q2RJ+CV New York, NY, USA",
+        "global_code": "87G8Q2RJ+CV"
+      },
+      "reference": "ChIJTxqqop1YwokRVJy7hy5LlRo",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "66 West 94th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.793337,
+          "lng": -73.967587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7946300302915,
+            "lng": -73.96608551970849
+          },
+          "southwest": {
+            "lat": 40.7919320697085,
+            "lng": -73.96878348029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Barry Tracy L Do",
+      "place_id": "ChIJq8owcif2wokRElZmYN8mQL8",
+      "plus_code": {
+        "compound_code": "Q2VJ+8X New York, NY, USA",
+        "global_code": "87G8Q2VJ+8X"
+      },
+      "reference": "ChIJq8owcif2wokRElZmYN8mQL8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "750 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7900728,
+          "lng": -73.9662932
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7913524802915,
+            "lng": -73.96477861970848
+          },
+          "southwest": {
+            "lat": 40.7886545197085,
+            "lng": -73.9674765802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kalinich Lila MD",
+      "place_id": "ChIJmxRzzp1YwokRZNLrF63Ki_U",
+      "plus_code": {
+        "compound_code": "Q2RM+2F New York, NY, USA",
+        "global_code": "87G8Q2RM+2F"
+      },
+      "reference": "ChIJmxRzzp1YwokRZNLrF63Ki_U",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "333 Central Park West # 12, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7927409,
+          "lng": -73.96798869999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79403423029151,
+            "lng": -73.9665066697085
+          },
+          "southwest": {
+            "lat": 40.79133626970851,
+            "lng": -73.9692046302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Columbus Avenue Wine & Spirits",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114410876017805071017\">Aim\u00e9e Lasseigne New</a>"
+          ],
+          "photo_reference": "AeJbb3fffSYgK599EfUVEvdf36ZRWC6LMXAiWWcjQeMwKHsovxX0QwQ5zglHBZpJ0VkCTimqd4jt7Yw_PZtdh2SdJCYpVkcU2ogQMfA2P66vNUym2zyEJJlrJrSnag0yyZGIoMbFhboFbI00omVY0PSLdN4zE_VJgouU_dhhcfVDDmzVmJRT",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJ10yifCf2wokR_FYyUnI2uGM",
+      "plus_code": {
+        "compound_code": "Q2VJ+3R New York, NY, USA",
+        "global_code": "87G8Q2VJ+3R"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ10yifCf2wokR_FYyUnI2uGM",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 154,
+      "vicinity": "730 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7911833,
+          "lng": -73.9595918
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79215603029149,
+            "lng": -73.9585656197085
+          },
+          "southwest": {
+            "lat": 40.7894580697085,
+            "lng": -73.9612635802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "North Meadow Recreation Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106395353225232669072\">Carrie Jeske</a>"
+          ],
+          "photo_reference": "AeJbb3c_Mg1xqVgl69qYf3QP6z3BIyZkRiHIhjkR9C9HOsZbu46yD6xhXNInesyPievNdm4xQB76MP2G2gFOOp9xgExlUS6LUI0rY58BW4FXKWpybLb5Sc1BsWLJEDve_OnD2Iu_IxcGkxWUoBlAMVZ39aYGilodkmoe1faMfVdkWpe8x1jp",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJhSkZ_J9YwokRuPP6zzavTbk",
+      "plus_code": {
+        "compound_code": "Q2RR+F5 New York, NY, USA",
+        "global_code": "87G8Q2RR+F5"
+      },
+      "rating": 4.4,
+      "reference": "ChIJhSkZ_J9YwokRuPP6zzavTbk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 86,
+      "vicinity": "97th Street Transverse, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7923735,
+          "lng": -73.9690248
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79382578029149,
+            "lng": -73.9676379697085
+          },
+          "southwest": {
+            "lat": 40.79112781970849,
+            "lng": -73.97033593029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_jewish-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_jewish_pinlet",
+      "name": "Congregation Ohab Zedek",
+      "photos": [
+        {
+          "height": 357,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106153217036395413168\">\u05d0\u05d5\u05e8\u05d9\u05d0\u05dc \u05d4\u05e8\u05e9\u05d8\u05d9\u05e7</a>"
+          ],
+          "photo_reference": "AeJbb3f5orjZV5uu3fuDtD5IK2zSyHVfi12ZQGsUDNpT5LTWFdUBErEpUeReKjmNXuoNLuBIbYZnBjDX6858vYnNQsZDjtejd7oGi5eYRE6x6QewMTQ5Ic-oxbhhH4mny6C_emkTyDIQu1kINJ1ThC7WAPPas_95k9iRyrdaiGu3lhhscO7b",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJm9Q7fZ1YwokRw9_Uy6Lryao",
+      "plus_code": {
+        "compound_code": "Q2RJ+W9 New York, NY, USA",
+        "global_code": "87G8Q2RJ+W9"
+      },
+      "rating": 4.7,
+      "reference": "ChIJm9Q7fZ1YwokRw9_Uy6Lryao",
+      "scope": "GOOGLE",
+      "types": [
+        "synagogue",
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 40,
+      "vicinity": "118 West 95th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7933959,
+          "lng": -73.96771319999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7946594802915,
+            "lng": -73.96614861970849
+          },
+          "southwest": {
+            "lat": 40.7919615197085,
+            "lng": -73.9688465802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Anita Bohensky, PHD",
+      "place_id": "ChIJq8owcif2wokRNVsWh5S8rZI",
+      "plus_code": {
+        "compound_code": "Q2VJ+9W New York, NY, USA",
+        "global_code": "87G8Q2VJ+9W"
+      },
+      "reference": "ChIJq8owcif2wokRNVsWh5S8rZI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "750 Columbus Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7929093,
+          "lng": -73.9646624
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7941428302915,
+            "lng": -73.96339741970849
+          },
+          "southwest": {
+            "lat": 40.7914448697085,
+            "lng": -73.9660953802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Myra Weiss / MBSR-NYC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ4w-SvCD2wokRJ43qDofgxT4",
+      "plus_code": {
+        "compound_code": "Q2VP+54 New York, NY, USA",
+        "global_code": "87G8Q2VP+54"
+      },
+      "rating": 5,
+      "reference": "ChIJ4w-SvCD2wokRJ43qDofgxT4",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "372 Central Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7900728,
+          "lng": -73.9662932
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7913524802915,
+            "lng": -73.96477861970848
+          },
+          "southwest": {
+            "lat": 40.7886545197085,
+            "lng": -73.9674765802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Time Equities Inc",
+      "place_id": "ChIJmxRzzp1YwokRjtNpqv7MwKg",
+      "plus_code": {
+        "compound_code": "Q2RM+2F New York, NY, USA",
+        "global_code": "87G8Q2RM+2F"
+      },
+      "rating": 3,
+      "reference": "ChIJmxRzzp1YwokRjtNpqv7MwKg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "The Turin, 333 Central Park West, New York"
+    }
+  ],
+  "status": "OK"
+}

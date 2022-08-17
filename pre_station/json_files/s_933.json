@@ -1,0 +1,2814 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3eF9-BBIBmdxslHDoQpS7ZQXBjIBJR5_hZD9x88c12DMXdCSs9nINi9FXr6zw8o9rnq8hdl4CTNDI-o0mzxJiEpi_FzZvjInM9lLXmR5vt20wI6rxsRSdK7CiOEdWxRgw891RxnnMuXSTXYAE78i8Mjp2b0k4A5FcjsqrlYM0YKrcCp",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8501832,
+          "lng": -73.9297252
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85145608029151,
+            "lng": -73.92846156970849
+          },
+          "southwest": {
+            "lat": 40.84875811970851,
+            "lng": -73.9311595302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Chop Chop",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+          ],
+          "photo_reference": "AeJbb3c0LFZMA-0WKjvamZaKPlgM5hKpRK9muoiLprZPJCQHYFQFvnagedMcCUGxRHMo8o-2jahfvmuIBF7WRh7XebNOxFmVL8ZvcllOnCssu044HI2MOaQSlpmpPc7uVMhGCaBc9n2PLc3qgU0vwK2WWGHXu6WvMEpc9IXjjuW14X24Gy1A",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJRaJSShn0wokRY0TgYHYfpEY",
+      "plus_code": {
+        "compound_code": "V32C+34 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8V32C+34"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJRaJSShn0wokRY0TgYHYfpEY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 317,
+      "vicinity": "501 West 184th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8495235,
+          "lng": -73.9320023
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85083333029149,
+            "lng": -73.93056806970849
+          },
+          "southwest": {
+            "lat": 40.8481353697085,
+            "lng": -73.93326603029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Servicios Latinos",
+      "place_id": "ChIJEchK5B70wokREWifzg-YBmA",
+      "plus_code": {
+        "compound_code": "R3X9+R5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X9+R5"
+      },
+      "reference": "ChIJEchK5B70wokREWifzg-YBmA",
+      "scope": "GOOGLE",
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "340 Audubon Avenue # E, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8490714,
+          "lng": -73.9292704
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8503995302915,
+            "lng": -73.92784996970849
+          },
+          "southwest": {
+            "lat": 40.8477015697085,
+            "lng": -73.9305479302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "OREB LLC",
+      "place_id": "ChIJwYCsJBn0wokRt4jADLQjg3s",
+      "plus_code": {
+        "compound_code": "R3XC+J7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3XC+J7"
+      },
+      "reference": "ChIJwYCsJBn0wokRt4jADLQjg3s",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "36 Laurel Hill Terrace, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8507154,
+          "lng": -73.9323374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8521248302915,
+            "lng": -73.93113156970848
+          },
+          "southwest": {
+            "lat": 40.8494268697085,
+            "lng": -73.9338295302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Shared room Manhattan w/ breakfast, 1 block metro",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113540351173919503272\">nestor cholula</a>"
+          ],
+          "photo_reference": "AeJbb3eV-IAUIoBjqD2AgHDvTSzlx3v3THNAVEz5BMWfJlLXokfXvFwfNSuUDySVqiOYXIyI-5RbEtjGn3j735P24XaEuaej3qOEYyVw-cgPM9NpnQboaXZQJa4bvSqyXAz_rMhglf2U-xzq622iZE87isGCigcmJJuclC8zamFMayOtSaw5",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJU0gkjh70wokRDW38s2oVIMo",
+      "plus_code": {
+        "compound_code": "V329+73 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8V329+73"
+      },
+      "rating": 5,
+      "reference": "ChIJU0gkjh70wokRDW38s2oVIMo",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1464 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8464014,
+          "lng": -73.9386195
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8477159302915,
+            "lng": -73.9371694197085
+          },
+          "southwest": {
+            "lat": 40.8450179697085,
+            "lng": -73.9398673802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Malecon",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104524136178690390843\">Bruce Culbreath</a>"
+          ],
+          "photo_reference": "AeJbb3fSP-2N1miF_CDn9mrebxTdV2fYbFGXwkKlnNJUsPkc-TjQ3Brqk6k5emkWfysAkdgxRJHiudyeR-2xc_6XNEjdjcHhr2J33i9ZY9q2ptwnpG5hqnXxDZTszwqFE6JCcJGmSV8WA3qp5nM9446NJANGXq4K0-Zll1BoROlBGLMdD2ap",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHyYvn5_2wokRKyOPOJ53zWQ",
+      "plus_code": {
+        "compound_code": "R3W6+HH \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3W6+HH"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJHyYvn5_2wokRKyOPOJ53zWQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 3000,
+      "vicinity": "4141 Broadway, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.84925010000001,
+          "lng": -73.9371161
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85052758029151,
+            "lng": -73.9356458697085
+          },
+          "southwest": {
+            "lat": 40.84782961970851,
+            "lng": -73.9383438302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1807,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104001550627429752126\">Habichuela Con Dulce</a>"
+          ],
+          "photo_reference": "AeJbb3f5pjXGdIW8NNAvodYTELWLWLnBiRLA4VAFW2-HYWWtQ9d06Yueb1hwikk_n-AG7dwNeUEQ_MhJdMAgaknsdCHXOt6kDDljmnrR7AtpAPa4o_q9L6UxN605ramYKhe4wIMCJ23q_B49aay9idmxAH_f3KaTn-tTSYki1pqVfs44cuMD",
+          "width": 2373
+        }
+      ],
+      "place_id": "ChIJK8AVZaD2wokRdmT6YG_fE4I",
+      "plus_code": {
+        "compound_code": "R3X7+P5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X7+P5"
+      },
+      "price_level": 1,
+      "rating": 3.2,
+      "reference": "ChIJK8AVZaD2wokRdmT6YG_fE4I",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 65,
+      "vicinity": "4227 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.85034479999999,
+          "lng": -73.9332381
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8516505802915,
+            "lng": -73.93179591970848
+          },
+          "southwest": {
+            "lat": 40.84895261970851,
+            "lng": -73.9344938802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "La Casa Del Mofongo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118095068066906826218\">Jennifer Perez</a>"
+          ],
+          "photo_reference": "AeJbb3ed_hn4RTEnIlz0qt0SdNoH3zi0km83sIBLU9cGoWa1o2-bQyAIf2Gsn4bk6YB3YboK1kdCeYM4w27g0Ep7o1G3S-pt7VpY_Y-zwMPth_hwZOgtKgPRVzQCuzdOZaPJvIaaarL9K_RPf21zTKtePnf5R-fip38BCBAivwkAvi1ylZAs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJH_3_XR70wokRk49y2KuyfBQ",
+      "plus_code": {
+        "compound_code": "V328+4P \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8V328+4P"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJH_3_XR70wokRk49y2KuyfBQ",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 4056,
+      "vicinity": "1447 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.847807,
+          "lng": -73.93400790000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8491165302915,
+            "lng": -73.9326884697085
+          },
+          "southwest": {
+            "lat": 40.8464185697085,
+            "lng": -73.93538643029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Fort Washington Synagogue",
+      "place_id": "ChIJhVTFlh_0wokRrN3sxVgj8As",
+      "plus_code": {
+        "compound_code": "R3X8+49 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X8+49"
+      },
+      "reference": "ChIJhVTFlh_0wokRrN3sxVgj8As",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8491088,
+          "lng": -73.93109919999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8504016802915,
+            "lng": -73.92979251970849
+          },
+          "southwest": {
+            "lat": 40.8477037197085,
+            "lng": -73.93249048029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Washington Heights Expeditionary Learning School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111999489067686746318\">Daniel Molloy</a>"
+          ],
+          "photo_reference": "AeJbb3cB-jIjYpQkyi0x7ANG8MRlH-TElXLvlwOyJ4LOuAeEWv9jIildShNsr0oCqw6tgF9Amsdm-Ny0-lhsfVxWpHhvYmkeYkHepx3to-p0jpGTFbv3SC1ttimIHxoY9Hk6wF6kagHPnDURHgpSoNI9Om6dB_mcwa5xI6X4UGuy_r-2SwcE",
+          "width": 540
+        }
+      ],
+      "place_id": "ChIJRetv2B70wokRokMgd7tVyb8",
+      "plus_code": {
+        "compound_code": "R3X9+JH \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X9+JH"
+      },
+      "rating": 4,
+      "reference": "ChIJRetv2B70wokRokMgd7tVyb8",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "511 West 182nd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8495563,
+          "lng": -73.93496110000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8510072802915,
+            "lng": -73.9335450197085
+          },
+          "southwest": {
+            "lat": 40.8483093197085,
+            "lng": -73.93624298029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Capital One Bank",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114540663003540284124\">Irma Lodezo</a>"
+          ],
+          "photo_reference": "AeJbb3ekquCMC621govhoMTzUXOf17J09_JRo8bUAJ_VWhDUvBpI3n31MZv13-WsDsLAxAdqN_TGHrE8lfv_w17DNZ3rZLCfle-JZ9fonUJksU54F0HujwfezQNw42VZUjqVg7A74-vYe0I_elg89Y3qCDVnf8QbfyEVg2ymmU2ZjktUwrR-",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJNyI-NB70wokRnpbPawmpgK8",
+      "plus_code": {
+        "compound_code": "R3X8+R2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X8+R2"
+      },
+      "rating": 3.2,
+      "reference": "ChIJNyI-NB70wokRnpbPawmpgK8",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 52,
+      "vicinity": "620 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84852799999999,
+          "lng": -73.936962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8500268802915,
+            "lng": -73.9357708197085
+          },
+          "southwest": {
+            "lat": 40.8473289197085,
+            "lng": -73.9384687802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Citi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2065,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105159791583914277566\">Ira</a>"
+          ],
+          "photo_reference": "AeJbb3ebRLgvHojlPIV5Bqh_TKw0AvAzNl6jvVpNM17YT5KWGFMwNViGHDAPvYthRDoDXvUlNscOooiu4xrJi_mGThMDOp_a-Z3rx4dpTsL1yfTVzP8Wf4g7pF4wH-9VjAPtQ2AkdLW8IIBrWmeI3H2NctiBcGuZL4gNNtuRdZ0Qaalr82kl",
+          "width": 3671
+        }
+      ],
+      "place_id": "ChIJw_ashqD2wokRs25TVpDtbRA",
+      "plus_code": {
+        "compound_code": "R3X7+C6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X7+C6"
+      },
+      "rating": 3.1,
+      "reference": "ChIJw_ashqD2wokRs25TVpDtbRA",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 32,
+      "vicinity": "4200 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8491689,
+          "lng": -73.9371089
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8504614302915,
+            "lng": -73.9356703697085
+          },
+          "southwest": {
+            "lat": 40.8477634697085,
+            "lng": -73.93836833029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Americana Driving School",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100719455733587321871\">Urealia Ortiz</a>"
+          ],
+          "photo_reference": "AeJbb3cUTP6gJg8ITWF9ZiTcfiIc7kf03SvUuNXK0ElQe652XSSph9Qe0o5509XOLw12EokVOfQ4G3Uup_8glSCfKd6zrfcGMIHSgrzDBzs1Pi3pNjfi6R2cPdHwK4Sj4N82ihlnwfJ6jf0p4peQzAv0H-64BTO_daULHHCSWXzn0kF9PIUd",
+          "width": 400
+        }
+      ],
+      "place_id": "ChIJ3456b6D2wokR3xtmd6Sc-20",
+      "plus_code": {
+        "compound_code": "R3X7+M5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X7+M5"
+      },
+      "rating": 4,
+      "reference": "ChIJ3456b6D2wokR3xtmd6Sc-20",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "4223 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8492953,
+          "lng": -73.9330019
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85053733029149,
+            "lng": -73.9316993697085
+          },
+          "southwest": {
+            "lat": 40.8478393697085,
+            "lng": -73.9343973302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Washington Heights Clinic: Hametz Patricia MD",
+      "place_id": "ChIJ7fKhVR70wokRXgEy6opcTzc",
+      "plus_code": {
+        "compound_code": "R3X8+PQ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X8+PQ"
+      },
+      "reference": "ChIJ7fKhVR70wokRXgEy6opcTzc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "575 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8494125,
+          "lng": -73.9330624
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8505959302915,
+            "lng": -73.93171861970849
+          },
+          "southwest": {
+            "lat": 40.8478979697085,
+            "lng": -73.9344165802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ferrante Lauren E MD",
+      "place_id": "ChIJ7fKhVR70wokR-9EQucWYt2g",
+      "plus_code": {
+        "compound_code": "R3X8+QQ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X8+QQ"
+      },
+      "reference": "ChIJ7fKhVR70wokR-9EQucWYt2g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "575 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8462486,
+          "lng": -73.93507389999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84769053029149,
+            "lng": -73.93365556970849
+          },
+          "southwest": {
+            "lat": 40.8449925697085,
+            "lng": -73.9363535302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "KIPP Washington Heights Elementary School",
+      "photos": [
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102534051675846248915\">KIPP Washington Heights Elementary School</a>"
+          ],
+          "photo_reference": "AeJbb3cvtJ8wlVbC-1etDWUX9qBHfT7MCEZFFY_dYKERBM-8IobLhgFnZbEcOC0j6W7SfDR2yNcpt3T_z49n2kMumyVePHGFVXCSBcOnJk-76AidaQ1WBX51FHJ05gIwjkgWMZOo3BSYwCASmjB-htr-CKSqA_xi5Xt5WcoOE7JBcT3OMbgs",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJP2mNESD0wokREVOrKiRFwZE",
+      "plus_code": {
+        "compound_code": "R3W7+FX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3W7+FX"
+      },
+      "rating": 4.6,
+      "reference": "ChIJP2mNESD0wokREVOrKiRFwZE",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "586 West 177th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8463489,
+          "lng": -73.9356711
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84775783029149,
+            "lng": -73.9343679197085
+          },
+          "southwest": {
+            "lat": 40.84505986970849,
+            "lng": -73.93706588029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Little Caesars Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 918,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104001550627429752126\">Habichuela Con Dulce</a>"
+          ],
+          "photo_reference": "AeJbb3c6JFB1yZV566aejmNi0vjpVO4oFybG02fDvrA29QPLykzsKSxFQT4_YjM3t2WffvqAACMLJ9DeExm0-kdtkGwTpdWzmixKU2qKD82shzluQN10U3My7UXstvKk2e9DZPIw0tfKW_9jHIJz1ZMxXomx_onSPIDW6RsWFsA4e29XD5Fx",
+          "width": 1632
+        }
+      ],
+      "place_id": "ChIJE6t5DyD0wokRCyrcugFA_8g",
+      "plus_code": {
+        "compound_code": "R3W7+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3W7+GP"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJE6t5DyD0wokRCyrcugFA_8g",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 183,
+      "vicinity": "1332 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8494151,
+          "lng": -73.93313479999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8506437302915,
+            "lng": -73.93187521970849
+          },
+          "southwest": {
+            "lat": 40.8479457697085,
+            "lng": -73.9345731802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Caroline Volel, MD",
+      "place_id": "ChIJ7fKhVR70wokRgS0sBXm4gUI",
+      "plus_code": {
+        "compound_code": "R3X8+QP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X8+QP"
+      },
+      "reference": "ChIJ7fKhVR70wokRgS0sBXm4gUI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "575 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8493199,
+          "lng": -73.9329882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8505496302915,
+            "lng": -73.93169251970849
+          },
+          "southwest": {
+            "lat": 40.84785166970851,
+            "lng": -73.9343904802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Minna M. Saslaw, MD",
+      "place_id": "ChIJ7fKhVR70wokR7JAAfBYxcdg",
+      "plus_code": {
+        "compound_code": "R3X8+PR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3X8+PR"
+      },
+      "reference": "ChIJ7fKhVR70wokR7JAAfBYxcdg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "575 West 181th Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8240478,
+          "lng": -73.9447643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87822003591612,
+            "lng": -73.91064591328563
+          },
+          "southwest": {
+            "lat": 40.78278392408598,
+            "lng": -73.97119006413347
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e0a\u57ce",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108665206705263687409\">Chris Lidstone</a>"
+          ],
+          "photo_reference": "AeJbb3f9uZt9BXeg_EQQ-4Tc_gsFMGEBw_meg0zUuUikV8y0yhbKZn7zC5xfjE29WY5eupmTuumzzJ7uOcZkae1k2Oz-cLVUHcfnLb160gsxDz-KS5GP3lFIWFntSNTvUBZeIzU3CM9LH-2O7RiRtzFHUaUliUhWUvN4xxoGKChDFRzoeArd",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "reference": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84980099999999,
+          "lng": -73.9342092
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85105693029149,
+            "lng": -73.9329288197085
+          },
+          "southwest": {
+            "lat": 40.8483589697085,
+            "lng": -73.9356267802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Mattress Firm Washington Heights",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101810213419408964783\">Mattress Firm Washington Heights</a>"
+          ],
+          "photo_reference": "AeJbb3dZpBwHXCnqVVtr8_2SuE8_N2i3djN-0-kVqdPX-MNd4TeMbtrY43lwzM1cVF3mv4yqnNaE0adbbzmY_VPHzFFAtI0WoeMbMitXyViDH6lQxewD0lPcorIv-y397QtN5c9Yi36x4_LGxUvhPcCTQC_gEaqvNA4DorhljXvRGFXU6yS_",
+          "width": 1333
+        }
+      ],
+      "place_id": "ChIJYbF1SR70wokRwbUamJWX84I",
+      "plus_code": {
+        "compound_code": "R3X8+W8 New York, NY, USA",
+        "global_code": "87G8R3X8+W8"
+      },
+      "price_level": 1,
+      "rating": 4.9,
+      "reference": "ChIJYbF1SR70wokRwbUamJWX84I",
+      "scope": "GOOGLE",
+      "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 151,
+      "vicinity": "611-615 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8494125,
+          "lng": -73.9330624
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8505959302915,
+            "lng": -73.93171861970849
+          },
+          "southwest": {
+            "lat": 40.8478979697085,
+            "lng": -73.9344165802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Denize Da Silva-Siegel, MD",
+      "place_id": "ChIJ7fKhVR70wokRCuZcO1ec1QE",
+      "plus_code": {
+        "compound_code": "R3X8+QQ New York, NY, USA",
+        "global_code": "87G8R3X8+QQ"
+      },
+      "reference": "ChIJ7fKhVR70wokRCuZcO1ec1QE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "575 West 181st Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.845838,
+          "lng": -73.9329733
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8470587802915,
+            "lng": -73.93156591970849
+          },
+          "southwest": {
+            "lat": 40.8443608197085,
+            "lng": -73.9342638802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Excelsior & Fratelli, Ltd",
+      "permanently_closed": true,
+      "place_id": "ChIJSXWIyyH0wokRhJY6Geq3y_Y",
+      "plus_code": {
+        "compound_code": "R3W8+8R New York, NY, USA",
+        "global_code": "87G8R3W8+8R"
+      },
+      "reference": "ChIJSXWIyyH0wokRhJY6Geq3y_Y",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "electronics_store",
+        "beauty_salon",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2360 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8492965,
+          "lng": -73.9339898
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8506172302915,
+            "lng": -73.9325441697085
+          },
+          "southwest": {
+            "lat": 40.8479192697085,
+            "lng": -73.93524213029153
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "The Children's Place",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111459739026042223904\">J D</a>"
+          ],
+          "photo_reference": "AeJbb3fzL67DYAGjnGmmza0WpIlHu8QCIcTKt7okfhiTzxbeBi-29tsOq2RmFiCJ44QGxpOh1P7YmeKESc1DMEkrrNOAb0RMDooxSy01BUC5A9SzJ7TfFU4aL681pAqJvcg3SpPtFmBiHhQgZTLJ5m-9GyESYSH5eU2jIHye-aJPB9XAZwh_",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJDy0dSx70wokRL3L0e-yToc8",
+      "plus_code": {
+        "compound_code": "R3X8+PC New York, NY, USA",
+        "global_code": "87G8R3X8+PC"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJDy0dSx70wokRL3L0e-yToc8",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 57,
+      "vicinity": "600 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8501834,
+          "lng": -73.9354343
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8514895802915,
+            "lng": -73.9341184197085
+          },
+          "southwest": {
+            "lat": 40.84879161970851,
+            "lng": -73.9368163802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "The Vitamin Shoppe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107774669502496645915\">Lisa Ceden</a>"
+          ],
+          "photo_reference": "AeJbb3cgvHp4310USFK3wHPLtWy360MDuE0IcCbORa2p4-85ap_6onarhtH5vANJEaKHd76gMcO29zD1B-w43JjDA81sw8hDRH9IyJ0ucvIElfdNF6Eh5g9zK8qHoI9R-FTLZunCwXJA0F-BIEJD_AKr3CmKbr5-o8SjsRJjvp_BSu9smmdU",
+          "width": 2322
+        }
+      ],
+      "place_id": "ChIJgwGMMB70wokRuyaaSAmdSnA",
+      "plus_code": {
+        "compound_code": "V327+3R New York, NY, USA",
+        "global_code": "87G8V327+3R"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJgwGMMB70wokRuyaaSAmdSnA",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "661 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84721800000001,
+          "lng": -73.938372
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8485443802915,
+            "lng": -73.9369219697085
+          },
+          "southwest": {
+            "lat": 40.84584641970851,
+            "lng": -73.93961993029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Manolo Tapas",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 751,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103472041818323643429\">Jose M. Mercedes</a>"
+          ],
+          "photo_reference": "AeJbb3dX50YmTf2vBLsdGTwVDLLEV8R2KkUc8SQ_pCX5lQmQAKRwmKFwZNdPZF26AwKTA2cTKsCeN9ChIQQBd3U5rP3Hc04VKjKWN8dIcxVC1oKxm1D2lyI4EkIRrZ6eq40_qa9s0lw_HEzoRRz9CeueDDaNlczCi73ektwynmvpb-TlgkXS",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJxw-fiJ_2wokRM3GLb_T9TWU",
+      "plus_code": {
+        "compound_code": "R3W6+VM New York, NY, USA",
+        "global_code": "87G8R3W6+VM"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJxw-fiJ_2wokRM3GLb_T9TWU",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 867,
+      "vicinity": "4165 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8494125,
+          "lng": -73.9330624
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8505959302915,
+            "lng": -73.93171861970849
+          },
+          "southwest": {
+            "lat": 40.8478979697085,
+            "lng": -73.9344165802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Robin C. Flam, MD",
+      "place_id": "ChIJ7fKhVR70wokRbvPMnjEgz6k",
+      "plus_code": {
+        "compound_code": "R3X8+QQ New York, NY, USA",
+        "global_code": "87G8R3X8+QQ"
+      },
+      "reference": "ChIJ7fKhVR70wokRbvPMnjEgz6k",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "575 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8494151,
+          "lng": -73.93313479999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8506437302915,
+            "lng": -73.93187521970849
+          },
+          "southwest": {
+            "lat": 40.8479457697085,
+            "lng": -73.9345731802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Marina Catallozzi, MD",
+      "place_id": "ChIJ7fKhVR70wokRVffhfsBK-yE",
+      "plus_code": {
+        "compound_code": "R3X8+QP New York, NY, USA",
+        "global_code": "87G8R3X8+QP"
+      },
+      "rating": 5,
+      "reference": "ChIJ7fKhVR70wokRVffhfsBK-yE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "575 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.85027079999999,
+          "lng": -73.9327942
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85166038029151,
+            "lng": -73.9315378197085
+          },
+          "southwest": {
+            "lat": 40.84896241970851,
+            "lng": -73.9342357802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Apicella & Schlesinger Attorneys At Law",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 799,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116044517788349398567\">Apicella &amp; Schlesinger Attorneys At Law</a>"
+          ],
+          "photo_reference": "AeJbb3fTV-q2dKBtS4E3Hs5E5nTJ0RF79_Kvv2iffXq9KO_s-VRTmQKgc9jvtY5nSraeqNN2ablo5VamaLbJFGvyGnp558JbVv6cjtLYNsIntNQ2ub31G5jcXHNItf0sGFkso8BJUaWxH1gm4pnGuCkV0txUxwpjWm85YqzeMvhUJMSf6vxv",
+          "width": 1065
+        }
+      ],
+      "place_id": "ChIJOU7Fih70wokRVRc-RQHijSI",
+      "plus_code": {
+        "compound_code": "V328+4V New York, NY, USA",
+        "global_code": "87G8V328+4V"
+      },
+      "rating": 5,
+      "reference": "ChIJOU7Fih70wokRVRc-RQHijSI",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "1454 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8498569,
+          "lng": -73.9363765
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85113828029149,
+            "lng": -73.93493591970848
+          },
+          "southwest": {
+            "lat": 40.84844031970849,
+            "lng": -73.9376338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Golden Star",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104001550627429752126\">Habichuela Con Dulce</a>"
+          ],
+          "photo_reference": "AeJbb3ewXlZ1hKRDWj3wpysvA0Kma6HHzZaQp2kWWT1ZCrYg778A7COShjNPVuOeZ3xURhFlthEUK9EIEvCTjA_9nyBxgIyVOw8uBkRWlwhqfDTxQOmD9rtjRjlho3QE_sCdjjiAuUvIWnE9MIPKEmEsNjRRWYVJnp7Y4z9AlQ8FPl3InCNR",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJRZz6gKD2wokRBVWTZSPSKdM",
+      "plus_code": {
+        "compound_code": "R3X7+WC New York, NY, USA",
+        "global_code": "87G8R3X7+WC"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJRZz6gKD2wokRBVWTZSPSKdM",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 273,
+      "vicinity": "4247 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8470992,
+          "lng": -73.9339155
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84842733029151,
+            "lng": -73.93242126970848
+          },
+          "southwest": {
+            "lat": 40.84572936970851,
+            "lng": -73.93511923029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Olivos Property Perfection, Inc.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3653,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102266673310946112496\">Arthur Kirk</a>"
+          ],
+          "photo_reference": "AeJbb3eQYGh3rH931scn0NO2rs0kguetDphKEn1XSwCV0Jl796mIrZK6jptJQKjj617zeKVGKIGNDDopHguD5q18DVB14vRkAQxUrsQW-pmP3rGhDL1LKmFE5fkmfe563SjrhBoWN1kriNyyaSvhSSpKFU7idl-K5SQKh3FZv6pfQbrPUQI9",
+          "width": 2872
+        }
+      ],
+      "place_id": "ChIJYXqkfx_0wokR0bWUD0d6Bpw",
+      "plus_code": {
+        "compound_code": "R3W8+RC New York, NY, USA",
+        "global_code": "87G8R3W8+RC"
+      },
+      "rating": 5,
+      "reference": "ChIJYXqkfx_0wokR0bWUD0d6Bpw",
+      "scope": "GOOGLE",
+      "types": [
+        "electrician",
+        "plumber",
+        "real_estate_agency",
+        "general_contractor",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "1242 Derry Street Suite B, Harrisburg"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84659630000001,
+          "lng": -73.9385811
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8479057302915,
+            "lng": -73.93711706970849
+          },
+          "southwest": {
+            "lat": 40.8452077697085,
+            "lng": -73.9398150302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "La Cubana",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104001550627429752126\">Habichuela Con Dulce</a>"
+          ],
+          "photo_reference": "AeJbb3c1uNdwI3EWm7Ix8uEDe-auuoOxuBszfSIbUPhfQ55NS3_EjwOA4DojjjeEGJFniCqkfJlsSdlJGW8RqxWbYCKR80FOMbne8AWwLAkI2mICqw9V32A9PaJFkWDF6wYKStXSH-snksrxIfA87AiGMSCZmytw-gfRpvhKVAwB0Dd4kELx",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJp_I0mp_2wokRFwcjs70LryI",
+      "plus_code": {
+        "compound_code": "R3W6+JH New York, NY, USA",
+        "global_code": "87G8R3W6+JH"
+      },
+      "rating": 4,
+      "reference": "ChIJp_I0mp_2wokRFwcjs70LryI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 109,
+      "vicinity": "4149 Broadway #2, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8507505,
+          "lng": -73.9323059
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8521667802915,
+            "lng": -73.9310978197085
+          },
+          "southwest": {
+            "lat": 40.84946881970851,
+            "lng": -73.9337957802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Mi Ranchito",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100336461772203195687\">Petey Pete</a>"
+          ],
+          "photo_reference": "AeJbb3cr1WuirnP-FPwnpPRiThnblH6rHbSvsabwd9REKHuJGBxDfF-5VHjlwHj0Ir-ZTWQ-j_9ag077Q2qXTOoA_ZAHHgOr8jUHO9JelZd_owMa5wCVF7TNcwsR-IVq1K-lGUl503Uet2nOIeYQrh8MioGOthO0cdaWhf-BEKgGwtCXSS_H",
+          "width": 2976
+        }
+      ],
+      "place_id": "ChIJr94Jjh70wokRopGmmzLWKKo",
+      "plus_code": {
+        "compound_code": "V329+83 New York, NY, USA",
+        "global_code": "87G8V329+83"
+      },
+      "rating": 4.1,
+      "reference": "ChIJr94Jjh70wokRopGmmzLWKKo",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 385,
+      "vicinity": "1468 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8485167,
+          "lng": -73.9333185
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8497582802915,
+            "lng": -73.9320485197085
+          },
+          "southwest": {
+            "lat": 40.8470603197085,
+            "lng": -73.93474648029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jewish Board Of Family/child Svs",
+      "place_id": "ChIJLShzph_0wokRYp2XFhWqqCI",
+      "plus_code": {
+        "compound_code": "R3X8+CM New York, NY, USA",
+        "global_code": "87G8R3X8+CM"
+      },
+      "reference": "ChIJLShzph_0wokRYp2XFhWqqCI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "549 West 180th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.848142,
+          "lng": -73.9375092
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8495241802915,
+            "lng": -73.9363004697085
+          },
+          "southwest": {
+            "lat": 40.8468262197085,
+            "lng": -73.9389984302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rite Aid",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 918,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104001550627429752126\">Habichuela Con Dulce</a>"
+          ],
+          "photo_reference": "AeJbb3dFkNMTCdcx63YZDl05JRI-CTh6Tz0EWa-R0YsEKNFO19KUVIWHtOd05KYquOlYMPwZq-UXS4wPJ0JwJwK5G01-q63Igmm4DrfIcBrHA9XMn3EJ3Zf_AnRq18GRrujeGUnwHLZSdDC4_SUfh_J_CxRGcDvzTW8RkETEAHZR3AMkpWfP",
+          "width": 1632
+        }
+      ],
+      "place_id": "ChIJ4eLZF6D2wokRggY_OU7JXo4",
+      "plus_code": {
+        "compound_code": "R3X6+7X New York, NY, USA",
+        "global_code": "87G8R3X6+7X"
+      },
+      "price_level": 2,
+      "rating": 3.2,
+      "reference": "ChIJ4eLZF6D2wokRggY_OU7JXo4",
+      "scope": "GOOGLE",
+      "types": [
+        "drugstore",
+        "convenience_store",
+        "pharmacy",
+        "food",
+        "store",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 124,
+      "vicinity": "4188 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8494931,
+          "lng": -73.9345604
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8509194802915,
+            "lng": -73.93323821970849
+          },
+          "southwest": {
+            "lat": 40.8482215197085,
+            "lng": -73.9359361802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "AT&T Store",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104001550627429752126\">Habichuela Con Dulce</a>"
+          ],
+          "photo_reference": "AeJbb3dXC96Z4T7BUwv8tI1BPazgaXXN17M_J-T0DwKSmWCEIB_FyKYSRwJ8JI8QoEmP37zhlD370_AS_wswy78CQKr707YFKoH_RI6lVDyERmgADC6xokcsrIB630e94oSfbJLU6bKEIDUqfNmsGbXTZtdnVT35pqqohJJtMABziXQ-I1H0",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJLTq9NR70wokR7ZQh0W5WY18",
+      "plus_code": {
+        "compound_code": "R3X8+Q5 New York, NY, USA",
+        "global_code": "87G8R3X8+Q5"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJLTq9NR70wokR7ZQh0W5WY18",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 196,
+      "vicinity": "614 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84732839999999,
+          "lng": -73.9379045
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8487051302915,
+            "lng": -73.9366578697085
+          },
+          "southwest": {
+            "lat": 40.8460071697085,
+            "lng": -73.9393558302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "MPG Parking",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110704620397563729266\">Phil Probert</a>"
+          ],
+          "photo_reference": "AeJbb3fF4mw9FUl7NwVru3ELwglZzqo87BGhHv7fxheGlOs49Vo00atPGDDQp2VPtUcuup2DHG1qEwxQ4FyIrTTTdkwOomCcXBBF2Gi3YWq11Bs5uA0nJn4l_TxY3m-v8odlqDngfvjWnV3i91wZONjjKJgKcMrJQf6Uj5FGSHv-a_7qXB-4",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJRV19ip_2wokResaPFR7bNV0",
+      "plus_code": {
+        "compound_code": "R3W6+WR New York, NY, USA",
+        "global_code": "87G8R3W6+WR"
+      },
+      "rating": 2,
+      "reference": "ChIJRV19ip_2wokResaPFR7bNV0",
+      "scope": "GOOGLE",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 41,
+      "vicinity": "4168 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.850094,
+          "lng": -73.93603499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8514284302915,
+            "lng": -73.93458026970849
+          },
+          "southwest": {
+            "lat": 40.8487304697085,
+            "lng": -73.9372782302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "McDonald's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103367500616473629639\">Fran Rosario</a>"
+          ],
+          "photo_reference": "AeJbb3etvhrkX1M0IhyULV-OtjnKKTZkAMCc6hUHbviWd-5Zl8YB1j9ERB7WGoJML87ql-HmV6W7FEsNlAPdJuHZsQnnZWhGyHZpNLUNLjyKsi1rLyRwu5fKDAHn40otj2g1YkAo00I2Yy1Uj-yQFaH2c3Ur5f7I9YV7fTKGbSDsnjy2VM9J",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJJ2Gmg6D2wokR_4K1TM2mI2o",
+      "plus_code": {
+        "compound_code": "V327+2H New York, NY, USA",
+        "global_code": "87G8V327+2H"
+      },
+      "price_level": 1,
+      "rating": 3.6,
+      "reference": "ChIJJ2Gmg6D2wokR_4K1TM2mI2o",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2110,
+      "vicinity": "4259 Broadway, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.849922,
+          "lng": -73.93441860000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8511654802915,
+            "lng": -73.93314741970849
+          },
+          "southwest": {
+            "lat": 40.8484675197085,
+            "lng": -73.93584538029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Higher Level Tattoos",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1327,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111775251210471006648\">Javier Perez</a>"
+          ],
+          "photo_reference": "AeJbb3ettz9k18Ev81imGqMFELpYRNZEKmnxN9YMdu5y6AFEo54JKkyAQR7QCQ8gnY-hDQEBvTI0B1060rzdUyYQdN_b_3GRZW6XOSuYAW9BNWFy12dV0_Ilvm1WtWXKphxa7O6s5LJZKPl-xe5qZCTwepXJJeKLrj44iRND0UmPjnP11J03",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJrUK9SR70wokRGp79vhX9fDY",
+      "plus_code": {
+        "compound_code": "R3X8+X6 New York, NY, USA",
+        "global_code": "87G8R3X8+X6"
+      },
+      "rating": 3.8,
+      "reference": "ChIJrUK9SR70wokRGp79vhX9fDY",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "625 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8501905,
+          "lng": -73.9345594
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8516274802915,
+            "lng": -73.9331315197085
+          },
+          "southwest": {
+            "lat": 40.84892951970851,
+            "lng": -73.9358294802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Portela Law Firm, P.C.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117186753236602400470\">The Portela Law Firm, P.C.</a>"
+          ],
+          "photo_reference": "AeJbb3eivaJLiSssrupFB1qstdlNdIgWI7q_PVuYo82FnAm7XV6E92araLJBVG5cTJ400LZefW4WBYLP5GwRWCVg6t7PE8kx9Y16BwFH4JhqPfSI57Cz8DVx62xgs_qUdKn1uF3c35ZJzUOozHvYHXbRAtEvDRhBlODxwDRIXFLccxQ9QA6M",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJDQhFPx70wokRCA-t1SetoVc",
+      "plus_code": {
+        "compound_code": "V328+35 New York, NY, USA",
+        "global_code": "87G8V328+35"
+      },
+      "rating": 4.7,
+      "reference": "ChIJDQhFPx70wokRCA-t1SetoVc",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 161,
+      "vicinity": "177 Wadsworth Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8507154,
+          "lng": -73.9323374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8521248302915,
+            "lng": -73.93113156970848
+          },
+          "southwest": {
+            "lat": 40.8494268697085,
+            "lng": -73.9338295302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Punto De Sabor",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104535095654931512988\">isaiasrod Rodriguez</a>"
+          ],
+          "photo_reference": "AeJbb3eIP1DIJyr8jBtCN_nBL1u-wPF-YxmbchjxHvsZjygGJeBsoulerfDLO59fWScOUPys99vpzon22dx3molGH1fPphI5K8PgvvhO_nJXZTEDVOCmjzhPEEEYgiionfvjHLV96n0CNguQEZn9HplnopDEJ7N_xQj47rvdusbnYqXCRc_R",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJmdPQjh70wokRkGB_TWBXHWY",
+      "plus_code": {
+        "compound_code": "V329+73 New York, NY, USA",
+        "global_code": "87G8V329+73"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJmdPQjh70wokRkGB_TWBXHWY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 381,
+      "vicinity": "1464 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8503954,
+          "lng": -73.93204399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8516582302915,
+            "lng": -73.9307592197085
+          },
+          "southwest": {
+            "lat": 40.8489602697085,
+            "lng": -73.93345718029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Faces NY Inc.",
+      "place_id": "ChIJywmckx70wokRnFFqjPB4pxQ",
+      "plus_code": {
+        "compound_code": "V329+55 New York, NY, USA",
+        "global_code": "87G8V329+55"
+      },
+      "reference": "ChIJywmckx70wokRnFFqjPB4pxQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "567 West 183rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8491244,
+          "lng": -73.9366404
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8505132302915,
+            "lng": -73.93535461970849
+          },
+          "southwest": {
+            "lat": 40.84781526970851,
+            "lng": -73.9380525802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Erra Surgical Supplies",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2824,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109095922331300444270\">Erra Surgical Supplies</a>"
+          ],
+          "photo_reference": "AeJbb3e0swjQ84Q5QB7uAmqaEaWMqjzQi_ZNbwQId6okvv3yZMEP4PfChGS7iRMzskPmkG2cdaWzClindWXsPYp1ETRQBNvHB48I-toSnLUzs6ZYH0DaDYhdHiTe7mFLhUTyKoJc64qJJMDaAu_zLSPkNX6dZlmgn3NesUUvdOi-rJaEOB7A",
+          "width": 2719
+        }
+      ],
+      "place_id": "ChIJqYApe6D2wokR1OVxIqXvSnE",
+      "plus_code": {
+        "compound_code": "R3X7+J8 New York, NY, USA",
+        "global_code": "87G8R3X7+J8"
+      },
+      "rating": 4.6,
+      "reference": "ChIJqYApe6D2wokR1OVxIqXvSnE",
+      "scope": "GOOGLE",
+      "types": [
+        "shoe_store",
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "4228 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84843970000001,
+          "lng": -73.9341271
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8498343302915,
+            "lng": -73.93270406970848
+          },
+          "southwest": {
+            "lat": 40.8471363697085,
+            "lng": -73.9354020302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mirimar Management Corporation",
+      "place_id": "ChIJiyASux_0wokRPySnO24-YhI",
+      "plus_code": {
+        "compound_code": "R3X8+98 New York, NY, USA",
+        "global_code": "87G8R3X8+98"
+      },
+      "reference": "ChIJiyASux_0wokRPySnO24-YhI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "560 West 180th Street #3, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84933789999999,
+          "lng": -73.9330234
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85055863029149,
+            "lng": -73.9317101197085
+          },
+          "southwest": {
+            "lat": 40.8478606697085,
+            "lng": -73.9344080802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Matiz Luz A MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ7fKhVR70wokR-29k4rA1J6k",
+      "plus_code": {
+        "compound_code": "R3X8+PQ New York, NY, USA",
+        "global_code": "87G8R3X8+PQ"
+      },
+      "rating": 5,
+      "reference": "ChIJ7fKhVR70wokR-29k4rA1J6k",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "575 West 181st Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8488802,
+          "lng": -73.9305886
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8502748802915,
+            "lng": -73.92947676970849
+          },
+          "southwest": {
+            "lat": 40.8475769197085,
+            "lng": -73.9321747302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "KORZINA LLC",
+      "permanently_closed": true,
+      "place_id": "ChIJL3ySKR_0wokRc3hW1Ykzj4U",
+      "plus_code": {
+        "compound_code": "R3X9+HQ New York, NY, USA",
+        "global_code": "87G8R3X9+HQ"
+      },
+      "reference": "ChIJL3ySKR_0wokRc3hW1Ykzj4U",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "497 West 182nd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8493199,
+          "lng": -73.9329882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8505496302915,
+            "lng": -73.93169251970849
+          },
+          "southwest": {
+            "lat": 40.84785166970851,
+            "lng": -73.9343904802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Steve Caddle, MD, MPH",
+      "place_id": "ChIJ7fKhVR70wokRkC040D90nAU",
+      "plus_code": {
+        "compound_code": "R3X8+PR New York, NY, USA",
+        "global_code": "87G8R3X8+PR"
+      },
+      "rating": 5,
+      "reference": "ChIJ7fKhVR70wokRkC040D90nAU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "575 West 181th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8468361,
+          "lng": -73.9351784
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8482183802915,
+            "lng": -73.93396756970849
+          },
+          "southwest": {
+            "lat": 40.8455204197085,
+            "lng": -73.9366655302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "La Nacional - A00003",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111459739026042223904\">J D</a>"
+          ],
+          "photo_reference": "AeJbb3fS5CAREqaRSBEft--_CErP-87kq6BL3HH4e9AJaCAQej3Z2G7tA-TN2ooVyaoidsQ1dU-M23D7D0o3A7e-tAMQveApUi5VJoTtVlUOudzh9Mgi8GN9egIH1M3rPnqwL29E_FvfevniqA6PVRCUbNa1jU7DJSN7f4BWd8xnSJmXzJzS",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ48w0ahz0wokRFeiKTt2M1G4",
+      "plus_code": {
+        "compound_code": "R3W7+PW New York, NY, USA",
+        "global_code": "87G8R3W7+PW"
+      },
+      "rating": 1.6,
+      "reference": "ChIJ48w0ahz0wokRFeiKTt2M1G4",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "1344 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8467053,
+          "lng": -73.9342599
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8480353302915,
+            "lng": -73.93271571970848
+          },
+          "southwest": {
+            "lat": 40.8453373697085,
+            "lng": -73.9354136802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Moquete Ramon A MD",
+      "photos": [
+        {
+          "height": 2576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112290857062078856904\">Pablo Batista</a>"
+          ],
+          "photo_reference": "AeJbb3d5GFD2xdSm6Wgm5eKpudqpFaqIvTg3p30h_6bSDsrJjwOyv41-JOqJ-Q61t3V__zfbNUEO2JyJJpW4nrb_CQ0SwLUJY8ldpirrB06ObFSMXpPPAJdNaXp5zK4hopNVdo0FdfUSqOMzJgNv11eNkrzUKlXzNJYNGyERiebC4SbPc9k6",
+          "width": 1932
+        }
+      ],
+      "place_id": "ChIJBT07ISD0wokRJIyjdQ78PMc",
+      "plus_code": {
+        "compound_code": "R3W8+M7 New York, NY, USA",
+        "global_code": "87G8R3W8+M7"
+      },
+      "rating": 4.4,
+      "reference": "ChIJBT07ISD0wokRJIyjdQ78PMc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "248 Audubon Avenue # 1, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8443137,
+          "lng": -73.93427919999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8457320302915,
+            "lng": -73.93291591970849
+          },
+          "southwest": {
+            "lat": 40.8430340697085,
+            "lng": -73.9356138802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Aeromundo Express Corporation",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107051687403024689465\">Eric Harmer</a>"
+          ],
+          "photo_reference": "AeJbb3fx4NyNoXl37RUJV9I2i7WsbrDiAzTP2V-IZuh9eoaboQoN8Un4BCZN7VfeBOqDUcAQTGuIuyVEsTQgM2hMPCynpWMa7bfrbmyoqLrixB1WEiPrn_2-a39SrjyT551UMtfrW0AT02PsyqQ0W96Z5BWOW0NtUbO0c-Vve1Y9hGYY-vtx",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJNXDn9SD0wokRHLglk5aqjb4",
+      "plus_code": {
+        "compound_code": "R3V8+P7 New York, NY, USA",
+        "global_code": "87G8R3V8+P7"
+      },
+      "rating": 4.3,
+      "reference": "ChIJNXDn9SD0wokRHLglk5aqjb4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "500 West 175th Street # D, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8450973,
+          "lng": -73.9381176
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8464900302915,
+            "lng": -73.9368889197085
+          },
+          "southwest": {
+            "lat": 40.8437920697085,
+            "lng": -73.9395868802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cluny Lefevre, DO",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 700,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107613959765892968518\">Cluny Lefevre, DO</a>"
+          ],
+          "photo_reference": "AeJbb3dFrvYD3-ge-tE4-VRa-IvJw8vD0rOkiQfMIwIqbArIt5OkfdD-HMakL6r54oR35rnv1Rrr9sjQKRH0creYxHgC1PFsyB_bUQuzByKmOQX5g4-J769upU17LhxMf8dpSOq_nWfj289u1ZN_zirIMKLfzUPJEwKXUaXiH-MjQfUx1Qq5",
+          "width": 1420
+        }
+      ],
+      "place_id": "ChIJh4Lrsp_2wokRYtKrbGJXGzo",
+      "plus_code": {
+        "compound_code": "R3W6+2Q New York, NY, USA",
+        "global_code": "87G8R3W6+2Q"
+      },
+      "rating": 2.6,
+      "reference": "ChIJh4Lrsp_2wokRYtKrbGJXGzo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "15 Wadsworth Avenue on, West 174th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8455575,
+          "lng": -73.9383711
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8469462302915,
+            "lng": -73.9371481697085
+          },
+          "southwest": {
+            "lat": 40.8442482697085,
+            "lng": -73.93984613029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Radiology",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3145,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112190273737024084547\">Jeff Christian</a>"
+          ],
+          "photo_reference": "AeJbb3csOCcnhMoEwl9zLGKmtU18Ds9xvj04ilI20awdGPUV9MqMasP6uETIr1wbkh2VrFb9Kj65X46ogQrfZzPXwgmdiVrz47PhemUrk7pg5q41IyQN3Kwzhd_CEVn89rk9LDbDxK3MNhVtcaAubqN7ImxmynYrJ5JjvUgANrLgJhukR-J-",
+          "width": 4193
+        }
+      ],
+      "place_id": "ChIJcS8nlCL2wokR5gIi72CLEmY",
+      "plus_code": {
+        "compound_code": "R3W6+6M New York, NY, USA",
+        "global_code": "87G8R3W6+6M"
+      },
+      "rating": 2,
+      "reference": "ChIJcS8nlCL2wokR5gIi72CLEmY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "4120 Broadway, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8479016,
+          "lng": -73.9338487
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8491495302915,
+            "lng": -73.9325754697085
+          },
+          "southwest": {
+            "lat": 40.8464515697085,
+            "lng": -73.93527343029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Fort Washington Library",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118173511419331872620\">Alix Abelard</a>"
+          ],
+          "photo_reference": "AeJbb3deCUKY3TzIKz0kNSEO6uD7-GJf7bgx-7gfwnXQOq5-G12yEv6sVznjP45PS6QrlMgXaZ83HObo5yeL7Yx95nHDDk9NUg3bSfKR0YMjzFH0-WqKC127B7LRAXvMpLtZc8Pg-OXfFmEKMQzeahB8W0yUuTpsf5TYtx_FWRn8UC6XCsVz",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJNdR3lx_0wokRNVLQbJTZ-rE",
+      "plus_code": {
+        "compound_code": "R3X8+5F New York, NY, USA",
+        "global_code": "87G8R3X8+5F"
+      },
+      "rating": 3.8,
+      "reference": "ChIJNdR3lx_0wokRNVLQbJTZ-rE",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 60,
+      "vicinity": "535 West 179th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8497658,
+          "lng": -73.9364669
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8510550802915,
+            "lng": -73.9350253197085
+          },
+          "southwest": {
+            "lat": 40.8483571197085,
+            "lng": -73.93772328029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Sky Box Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJ0cwDfqD2wokRrQl2ecrVvYY",
+      "plus_code": {
+        "compound_code": "R3X7+WC New York, NY, USA",
+        "global_code": "87G8R3X7+WC"
+      },
+      "rating": 4,
+      "reference": "ChIJ0cwDfqD2wokRrQl2ecrVvYY",
+      "scope": "GOOGLE",
+      "types": [
+        "jewelry_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "4243 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8491111,
+          "lng": -73.93288369999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.85041228029151,
+            "lng": -73.93156261970849
+          },
+          "southwest": {
+            "lat": 40.84771431970851,
+            "lng": -73.9342605802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "VIM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102943405801973870944\">ita40200</a>"
+          ],
+          "photo_reference": "AeJbb3d-ngqhLwVvt6yjWv0G1Tl63sY1nuyTaJUV9gEb75FcekDlpReLK48azF5qZ4wHCVGelxvBbH-mcAaO_gN1fzxFSOveEM2SuUZuOp-ofk9HGNguWWxkG538YaSui0-xLJMqUecdULWudYcDB2gHpqMb17drJUZy2ZcDGYeVMWOfq32d",
+          "width": 3016
+        }
+      ],
+      "place_id": "ChIJoQs__h70wokRmg8a8FBlDNY",
+      "plus_code": {
+        "compound_code": "R3X8+JR New York, NY, USA",
+        "global_code": "87G8R3X8+JR"
+      },
+      "rating": 4.2,
+      "reference": "ChIJoQs__h70wokRmg8a8FBlDNY",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "shoe_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 315,
+      "vicinity": "571 West 181st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8499282,
+          "lng": -73.935536
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8513264302915,
+            "lng": -73.9341409697085
+          },
+          "southwest": {
+            "lat": 40.8486284697085,
+            "lng": -73.9368389302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Verizon",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1068,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109540316740932985963\">Verizon</a>"
+          ],
+          "photo_reference": "AeJbb3f2p_PRWISJEmbbwIp69VuKwOnwXAMhoWsYrgJDsjklU6W3WzGoRERV_WxFWvgKbWF3nD9jWJpG3r-lSXqL0luODKFACX07xexYHKEajBz3waT_NJJnKQDUqWizslCdk2DL-DXi5BG6PnijnGGL1WCQr_qrdF_TaxfbyEVMKdwvygP_",
+          "width": 1900
+        }
+      ],
+      "place_id": "ChIJV167gaD2wokRsQB94sjiuVk",
+      "plus_code": {
+        "compound_code": "R3X7+XQ New York, NY, USA",
+        "global_code": "87G8R3X7+XQ"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJV167gaD2wokRsQB94sjiuVk",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 157,
+      "vicinity": "4250 Broadway Aka, 662 West 181st Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8473393,
+          "lng": -73.93183909999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84862963029151,
+            "lng": -73.93034336970848
+          },
+          "southwest": {
+            "lat": 40.84593166970851,
+            "lng": -73.93304133029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dyckman Community Center",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108920738081708053961\">\u0406\u0433\u043e\u0440 \u0421\u0435\u0440\u0433\u0456\u0454\u043d\u043a\u043e</a>"
+          ],
+          "photo_reference": "AeJbb3fnD2fhZZ42-JJyz8VKHNJi21VZnlZJ5aiLaiG8_w3ooki31RultWnEe8cS792luUy5ornb4CMIwbF0MeYnK_s8Z8-4mzxKH0eLmSdML7xm3lBo14jGWdh8089E0XsjZAWST-xSLPzzbR1DqjLAP3VUH4kNjaA_33jokKwMJq7j0ccI",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJV3r8aB_0wokRPjVd37VnGks",
+      "plus_code": {
+        "compound_code": "R3W9+W7 New York, NY, USA",
+        "global_code": "87G8R3W9+W7"
+      },
+      "reference": "ChIJV3r8aB_0wokRPjVd37VnGks",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2410 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.84755490000001,
+          "lng": -73.93455019999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8489754802915,
+            "lng": -73.93338861970848
+          },
+          "southwest": {
+            "lat": 40.8462775197085,
+            "lng": -73.93608658029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Real Deals",
+      "permanently_closed": true,
+      "place_id": "ChIJHf5kjR_0wokRPzKjyXzdJ10",
+      "plus_code": {
+        "compound_code": "R3X8+25 New York, NY, USA",
+        "global_code": "87G8R3X8+25"
+      },
+      "reference": "ChIJHf5kjR_0wokRPzKjyXzdJ10",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1370 Saint Nicholas Avenue # 3, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84564539999999,
+          "lng": -73.9377732
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84703653029149,
+            "lng": -73.9365267197085
+          },
+          "southwest": {
+            "lat": 40.84433856970849,
+            "lng": -73.9392246802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Castillo De Ninos Day Care",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJy3-3uZ_2wokR6ObQJgdXa3w",
+      "plus_code": {
+        "compound_code": "R3W6+7V New York, NY, USA",
+        "global_code": "87G8R3W6+7V"
+      },
+      "reference": "ChIJy3-3uZ_2wokR6ObQJgdXa3w",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "29 Wadsworth Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8462857,
+          "lng": -73.93566
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8476727802915,
+            "lng": -73.9344016197085
+          },
+          "southwest": {
+            "lat": 40.8449748197085,
+            "lng": -73.9370995802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Andiamo Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 563,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106250933146496993391\">Andiamo Cafe</a>"
+          ],
+          "photo_reference": "AeJbb3dZwL2zBXIyuagcLqBIIoCgL2lpl8wJZx0WhdSSd2qa2Atzbu0PGkiZTGoM-81lyrdBfEL34HX8rUBVwFsQrF7Mi5cJpH6_Bb0Vt9hkH7jnEk4ZJO3RR9z2HRfn09RXkg1KFhrCPLi0_O-S7bz3_MO03qj8yr634n_oGpfcYG-iflMD",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJ8aAiCSD0wokRgD3K6Grc_38",
+      "plus_code": {
+        "compound_code": "R3W7+GP New York, NY, USA",
+        "global_code": "87G8R3W7+GP"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJ8aAiCSD0wokRgD3K6Grc_38",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 87,
+      "vicinity": "1326 Saint Nicholas Avenue, New York"
+    }
+  ],
+  "status": "OK"
+}

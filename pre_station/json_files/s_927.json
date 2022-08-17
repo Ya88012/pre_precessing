@@ -1,0 +1,2410 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fQcKZCeF35lTBXxGCVU6Al1dsWC6dN8SNwhu9Oyv63-IFBxz-ddI3BvgoITYX39OlkM9ZHU2PL_PyexXG_hQVu2Tw_EP417k4-qpfHzdXLSDSGGPVbIY3-j--05H1YZUkCK5Vu_-L4cAwIJPLVY7k1D9CcIjlRaQOYaeK45wZJ0mUn",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8393896,
+          "lng": -73.9387421
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8408085302915,
+            "lng": -73.9375606697085
+          },
+          "southwest": {
+            "lat": 40.8381105697085,
+            "lng": -73.94025863029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "New York Presbyterian Hospital",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108434605385638852727\">Leonardo Guevara raicestv</a>"
+          ],
+          "photo_reference": "AeJbb3f1IIy4S5x_Vd1a6rlPZnBxOj6rmLwMUiZC0pjIa9VXVjbSayw1yKsFVzXC2nx4buAxNjogTVsLVN32TI0CHJV254OFcpipGlu-7cZhxLnVjgbXqOyaxM0ngCop-iGda6piOtTgdBhHfZaYBX8lsz-gOwL1tqpCpMV7FlcQKWTHQJKB",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ1bi4eZz2wokRQN0l_v9vN14",
+      "plus_code": {
+        "compound_code": "R3Q6+QG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q6+QG"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ1bi4eZz2wokRQN0l_v9vN14",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 45,
+      "vicinity": "21 Audubon Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Center for Liver Disease and Transplantation at Columbia",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJydaXaZz2wokRHZuwOKpos8w",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 3.3,
+      "reference": "ChIJydaXaZz2wokRHZuwOKpos8w",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8404062,
+          "lng": -73.9388292
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8418939302915,
+            "lng": -73.9374601697085
+          },
+          "southwest": {
+            "lat": 40.8391959697085,
+            "lng": -73.94015813029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Columbia University School of Nursing",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110489975101442708105\">Columbia University School of Nursing</a>"
+          ],
+          "photo_reference": "AeJbb3euB5x_421SJXjzWN4ASzNDDIukUS83rRqgw0pAihw6Qtq05_8BgoyxNepfin3lASHSqALrcr3ItOiVzM9d-URB97oWJJvDVgnPkmZq_jVbg8mvSjJeqJ7Vu6tAXb4-fFQA2tjpsRATCKlDjrcPDAlZNhmJno5tCZCMCFVA15xYpJA3",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJCQiAFZz2wokRCCcy8N3pkus",
+      "plus_code": {
+        "compound_code": "R3R6+5F \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R6+5F"
+      },
+      "rating": 4,
+      "reference": "ChIJCQiAFZz2wokRCCcy8N3pkus",
+      "scope": "GOOGLE",
+      "types": [
+        "university",
+        "school",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "560 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tennyson Joanne S",
+      "place_id": "ChIJ8eKXaZz2wokRyKCtaigu_sI",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJ8eKXaZz2wokRyKCtaigu_sI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Douglas Nataki C MD",
+      "place_id": "ChIJ8eKXaZz2wokRBAXhTYpuluo",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJ8eKXaZz2wokRBAXhTYpuluo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sampson Jacinda B MD",
+      "place_id": "ChIJ8eKXaZz2wokR9Ema9q-WV1Q",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJ8eKXaZz2wokR9Ema9q-WV1Q",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tresgallo Mary Ellen",
+      "place_id": "ChIJ8eKXaZz2wokRjdPyeJAw8Ac",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJ8eKXaZz2wokRjdPyeJAw8Ac",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street #505, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Raza Kashif MD",
+      "place_id": "ChIJ8eKXaZz2wokR2Qo8ipfWtq4",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJ8eKXaZz2wokR2Qo8ipfWtq4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sahyoun Cyril MD",
+      "place_id": "ChIJ8eKXaZz2wokRX2fxff0j4cQ",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJ8eKXaZz2wokRX2fxff0j4cQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street #137, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Regan Dallas D",
+      "place_id": "ChIJ8eKXaZz2wokRxMZAWNhKu5g",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJ8eKXaZz2wokRxMZAWNhKu5g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Barr Robert G MD",
+      "place_id": "ChIJ8eKXaZz2wokRisDKvqL2aRw",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJ8eKXaZz2wokRisDKvqL2aRw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8406369,
+          "lng": -73.9393959
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84210093029149,
+            "lng": -73.93796111970849
+          },
+          "southwest": {
+            "lat": 40.83940296970849,
+            "lng": -73.94065908029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Associates In Internal Medicine",
+      "place_id": "ChIJydaXaZz2wokRzrw2RAVWrNg",
+      "plus_code": {
+        "compound_code": "R3R6+76 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R6+76"
+      },
+      "rating": 2.1,
+      "reference": "ChIJydaXaZz2wokRzrw2RAVWrNg",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "622 West 168th Street #205, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.84017710000001,
+          "lng": -73.93887529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8415597302915,
+            "lng": -73.93750151970849
+          },
+          "southwest": {
+            "lat": 40.83886176970851,
+            "lng": -73.9401994802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Systems Integrators Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJUXxQ2Jz2wokR_52ULIir9Nw",
+      "plus_code": {
+        "compound_code": "R3R6+3C \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R6+3C"
+      },
+      "reference": "ChIJUXxQ2Jz2wokR_52ULIir9Nw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Audubon Station, P.O. Box 542, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83935510000001,
+          "lng": -73.9387407
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84077828029151,
+            "lng": -73.9375694197085
+          },
+          "southwest": {
+            "lat": 40.83808031970851,
+            "lng": -73.94026738029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Esperanza Center",
+      "place_id": "ChIJJ7Yq0Zz2wokR3mnTPVd4SD8",
+      "plus_code": {
+        "compound_code": "R3Q6+PG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q6+PG"
+      },
+      "rating": 5,
+      "reference": "ChIJJ7Yq0Zz2wokR3mnTPVd4SD8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "21 Audubon Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8426902302915,
+            "lng": -73.93952826970849
+          },
+          "southwest": {
+            "lat": 40.8399922697085,
+            "lng": -73.9422262302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Genevieve Catherine Reilly, NP",
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107062147300793927587\">QUI CAM</a>"
+          ],
+          "photo_reference": "AeJbb3e4FOAPXuiWGCwmXPbuhIStWuSOuq_XyiUvmb7J28HkORna5R84_XEb4NmRb6LWk5xuWMKmY5v4cdlnodjak-JhKfVYkah6pqo6f9F7SqymZDt4Q9SmYoSXiPbn0u0h6YpD363LNpAV7mDDxT5Xn_ZzoridJ2gL8e5b_6TmJIFDDxga",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJydaXaZz2wokRyTkGW24Cqs8",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 4.7,
+      "reference": "ChIJydaXaZz2wokRyTkGW24Cqs8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "622 West 168th Street Floor 14, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Caleb Ing, MD",
+      "place_id": "ChIJydaXaZz2wokRod1uFGNwlnc",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRod1uFGNwlnc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Paolo C. Colombo, MD",
+      "place_id": "ChIJydaXaZz2wokR4x_VuML-fCM",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokR4x_VuML-fCM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. David J. Lederer, MD",
+      "place_id": "ChIJydaXaZz2wokRQZUqTmvk4K4",
+      "plus_code": {
+        "compound_code": "R3R5+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRQZUqTmvk4K4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "Herbert Irving Pavilion, 161 Fort Washington Avenue, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8240478,
+          "lng": -73.9447643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87822003591612,
+            "lng": -73.91064591328563
+          },
+          "southwest": {
+            "lat": 40.78278392408598,
+            "lng": -73.97119006413347
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e0a\u57ce",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108665206705263687409\">Chris Lidstone</a>"
+          ],
+          "photo_reference": "AeJbb3f9Ux_8n_CnNt6nABs49D-buWE9PpiZYWD4rEd7U77KxNcDftTIIVSYNjXO1u2H1bf1jCYQTL5u0raWNZM5gZjpEeDg9wPraoHPWmnSdLwJ5U64iZ535XBEMZhmZjXu3w1R85_7nXD64Coe0KFwZuj00UNbT6eBqXb6tkT7_RBBgPYo",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "reference": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sumit Mohan, MD",
+      "photos": [
+        {
+          "height": 654,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104615648214213366676\">Sumit Mohan, MD</a>"
+          ],
+          "photo_reference": "AeJbb3fmsKFhQB2AtPDBlq8v__k6o_yF9RKszd9i49FjDiRjAP0kNH27ZbQreVY8rR47LHw3U-LhZHpZwAQ11MJP0javy5GD0ZJ9w_8czdjtLsx7VpXvNjlqEIWOSfTL2XhWjF4PAEa6FxtRfNRZ3yr0VnK8tgwWq0hcUTGWuhW7YaQ-geaI",
+          "width": 435
+        }
+      ],
+      "place_id": "ChIJD0K_RZz2wokR0vNVXdgDH_g",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJD0K_RZz2wokR0vNVXdgDH_g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "622 West 168th Street Floor 14, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lisa D. Lisanti, RPA",
+      "place_id": "ChIJydaXaZz2wokRYcIk7u0Qp10",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRYcIk7u0Qp10",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mc Lean David a MD",
+      "place_id": "ChIJydaXaZz2wokRKf6HZDlmamo",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRKf6HZDlmamo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Hong S. Kim, MD",
+      "place_id": "ChIJydaXaZz2wokRlJfyWE3wpK4",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRlJfyWE3wpK4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street Ph1-137, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Presbyterian Hospital Heart Institute: Li Lau Annie S MD",
+      "place_id": "ChIJydaXaZz2wokRpFxfMntAPh0",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokRpFxfMntAPh0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Endocrinology-Columbia Med Center: Fahmy Farris MD",
+      "place_id": "ChIJydaXaZz2wokRmNdTiwAG0tg",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRmNdTiwAG0tg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. William C. Turner, MD",
+      "place_id": "ChIJydaXaZz2wokRqvagl0PSP8U",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRqvagl0PSP8U",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Antoniuk Robert MD",
+      "place_id": "ChIJydaXaZz2wokRKUWQs8IxS3s",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRKUWQs8IxS3s",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rolls Jason a MD",
+      "place_id": "ChIJydaXaZz2wokR0JvviCwCrs8",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokR0JvviCwCrs8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hua May MD",
+      "place_id": "ChIJydaXaZz2wokRT9yDyweQj98",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRT9yDyweQj98",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York Presbyterian Hospital: Lin Henry MD",
+      "place_id": "ChIJydaXaZz2wokRE2MRgFWmrnw",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRE2MRgFWmrnw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kulman Ilana B MD",
+      "place_id": "ChIJydaXaZz2wokRPtVxm_MVPeM",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRPtVxm_MVPeM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jessica Miglin, APN",
+      "place_id": "ChIJydaXaZz2wokRty4-HzgRExQ",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRty4-HzgRExQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Presbyterian Hospital Heart Institute: Weiss Michael J MD",
+      "place_id": "ChIJydaXaZz2wokR2wkfduIlhPg",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokR2wkfduIlhPg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 W 168th St # Ph1291, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Haesook Paik, NP",
+      "place_id": "ChIJydaXaZz2wokR5QLO_uQ_dqs",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokR5QLO_uQ_dqs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8411547,
+          "lng": -73.9407372
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84261198029149,
+            "lng": -73.93956186970851
+          },
+          "southwest": {
+            "lat": 40.8399140197085,
+            "lng": -73.94225983029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ronnie Myers, DDS",
+      "place_id": "ChIJydaXaZz2wokRQboDvAQ7gWA",
+      "plus_code": {
+        "compound_code": "R3R5+FP New York, NY, USA",
+        "global_code": "87G8R3R5+FP"
+      },
+      "reference": "ChIJydaXaZz2wokRQboDvAQ7gWA",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8411178,
+          "lng": -73.9386961
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8425847802915,
+            "lng": -73.9372359697085
+          },
+          "southwest": {
+            "lat": 40.8398868197085,
+            "lng": -73.9399339302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "P.S. 128 Audubon",
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105932946412478243805\">Michael Williams</a>"
+          ],
+          "photo_reference": "AeJbb3fzx7YCEYdHC3qkxhw1TyDN6UURChqc8F8KkhBcu9_kfgDtLvrR4pE9uJUhp0gZKmSFimY1O8aQzmi95AFge0su1hUPWfbMG2ss6WghulQ4H6k530Fg8hShr4R9SGPgUVxCsTFC9q8d0JkUlTtGUqvAA51cx60NdkumoBTIOHE4Cjdn",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJD-qhNpz2wokRR_s06-Ehtt0",
+      "plus_code": {
+        "compound_code": "R3R6+CG New York, NY, USA",
+        "global_code": "87G8R3R6+CG"
+      },
+      "rating": 4,
+      "reference": "ChIJD-qhNpz2wokRR_s06-Ehtt0",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "point_of_interest",
+        "school",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "560 West 169th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8411547,
+          "lng": -73.9407372
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84261198029149,
+            "lng": -73.93956186970851
+          },
+          "southwest": {
+            "lat": 40.8399140197085,
+            "lng": -73.94225983029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rafael A. Lantigua, MD",
+      "place_id": "ChIJydaXaZz2wokRMIHTG3ToeJQ",
+      "plus_code": {
+        "compound_code": "R3R5+FP New York, NY, USA",
+        "global_code": "87G8R3R5+FP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokRMIHTG3ToeJQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84210520000001,
+          "lng": -73.9368199
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84355233029151,
+            "lng": -73.9355493197085
+          },
+          "southwest": {
+            "lat": 40.84085436970851,
+            "lng": -73.93824728029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Labcorp",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110374818125358589850\">N Porter</a>"
+          ],
+          "photo_reference": "AeJbb3eFHk8Zuk4-_v4d5mAsiIWOyeissstAiBrfYjT-mEZaTC5lNdCQZC7bFVB5x3fQHqsesW_ygTXuEVtnj9OvXn47TOTmXzCVEhWxv7EMKn349J8qX7vjdauSGY72cHTyHHNvzQp1TRpLX-8CTuADF07dTywAfwyeaT_Bx2qOjxaf12h9",
+          "width": 1908
+        }
+      ],
+      "place_id": "ChIJM3oW4532wokRLVvHlOUtc4E",
+      "plus_code": {
+        "compound_code": "R3R7+R7 New York, NY, USA",
+        "global_code": "87G8R3R7+R7"
+      },
+      "rating": 3.2,
+      "reference": "ChIJM3oW4532wokRLVvHlOUtc4E",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "109 Audubon Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8411547,
+          "lng": -73.9407372
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84261198029149,
+            "lng": -73.93956186970851
+          },
+          "southwest": {
+            "lat": 40.8399140197085,
+            "lng": -73.94225983029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lee Young MI MD",
+      "place_id": "ChIJydaXaZz2wokReT9SeWOY_qY",
+      "plus_code": {
+        "compound_code": "R3R5+FP New York, NY, USA",
+        "global_code": "87G8R3R5+FP"
+      },
+      "reference": "ChIJydaXaZz2wokReT9SeWOY_qY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street #137, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84075000000001,
+          "lng": -73.9358766
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8421465802915,
+            "lng": -73.93435886970849
+          },
+          "southwest": {
+            "lat": 40.8394486197085,
+            "lng": -73.9370568302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "New York City Police Department - 33rd Precinct",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102164091324577844558\">Nubia Marquez</a>"
+          ],
+          "photo_reference": "AeJbb3fKTK4MMzb6AOxmTbiKEE5sSbEs-onguylIOFU56yJDmeCq5ZIa1E_KqbVa4rYbHQKwPSdA37guu8QTM65lv3T0A2K1A9q3JYyuJQGs4hNR0CG-BAkj6LGctp3bX14lbNfzrRSvbWjksfSW7RQ7yhGsYr6mdwq96Zrzdd5_Y46PqF-H",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJSW-9i532wokRFXlWswqfH-Q",
+      "plus_code": {
+        "compound_code": "R3R7+8J New York, NY, USA",
+        "global_code": "87G8R3R7+8J"
+      },
+      "rating": 2.7,
+      "reference": "ChIJSW-9i532wokRFXlWswqfH-Q",
+      "scope": "GOOGLE",
+      "types": [
+        "police",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 47,
+      "vicinity": "Parking, Parking lot, 2207 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hafliger Silvia MD",
+      "place_id": "ChIJydaXaZz2wokR0vvkP0pKSD0",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokR0vvkP0pKSD0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street #427, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jones Dean MD",
+      "place_id": "ChIJydaXaZz2wokRf6DZk0EWYm0",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRf6DZk0EWYm0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Brian E. Scully, MD",
+      "place_id": "ChIJydaXaZz2wokRlC7BYJ3ePpc",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRlC7BYJ3ePpc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84137609999999,
+          "lng": -73.93993069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84265553029149,
+            "lng": -73.9384871197085
+          },
+          "southwest": {
+            "lat": 40.83995756970849,
+            "lng": -73.9411850802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Starbucks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114417859579881743500\">Chengxiang Yuan</a>"
+          ],
+          "photo_reference": "AeJbb3fDknwKRtjcMgle87mmPvQbuIQFItM0Gmxglk6BR0qB--omXMRhRKyvn5k6lYe9cph6KAzcp6VYa_uQtkXibkqqV-vWO1_MHpEp_ivzMUa8BALx5I-CVaELD5f4cF2XQmtGTI2Diva0oOmDZfUW2IhpZJ_jLTSz7ShUqCwAuYNxLJ4Z",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ17tURpz2wokRAqVgA9Eo62k",
+      "plus_code": {
+        "compound_code": "R3R6+H2 New York, NY, USA",
+        "global_code": "87G8R3R6+H2"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJ17tURpz2wokRAqVgA9Eo62k",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 773,
+      "vicinity": "4001 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Aubey Janice MD",
+      "place_id": "ChIJydaXaZz2wokRz1KOvDixJXY",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 1,
+      "reference": "ChIJydaXaZz2wokRz1KOvDixJXY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "622 West 168th Street #16, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Leonard Stern, MD",
+      "place_id": "ChIJydaXaZz2wokRcxZiNnWvIls",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRcxZiNnWvIls",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Jai Radhakrishnan, MD",
+      "place_id": "ChIJydaXaZz2wokRVRQhZfzZgZg",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokRVRQhZfzZgZg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Dental & Oral Surgery School",
+      "place_id": "ChIJydaXaZz2wokRUO1AiTw5iNI",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRUO1AiTw5iNI",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rodrigo Sandoval, MD",
+      "place_id": "ChIJydaXaZz2wokRkcir9DTqt0g",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokRkcir9DTqt0g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "622 West 168th Street 14th floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cadet Edwin R MD",
+      "place_id": "ChIJydaXaZz2wokR77aO7phUOXY",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokR77aO7phUOXY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street #11, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tomoaki Kato, MD",
+      "photos": [
+        {
+          "height": 630,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117202640449841804247\">Tomoaki Kato, MD</a>"
+          ],
+          "photo_reference": "AeJbb3eR9Kjg0vs3ml2OpkYmAd4mArxuHexNW7FFzN-vUJQH3IckFMYpRraEA30w1FApJzp5pJ4XSos0cMa6EwUS8mq1xk7m-ssYK8mic7tzX-GpB_WyeoLq1THG3gktbMU3lvjVSv65Usjxk2Sqg6lusF0D-BBG2_ROwZ2x_9WElrwpnkuz",
+          "width": 422
+        }
+      ],
+      "place_id": "ChIJydaXaZz2wokR47JRiHUSyTM",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokR47JRiHUSyTM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "622 West 168th Street Floor 14, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8407334,
+          "lng": -73.9406344
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8423993302915,
+            "lng": -73.9395104697085
+          },
+          "southwest": {
+            "lat": 40.8397013697085,
+            "lng": -73.9422084302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Columbia Presbyterian Med Center",
+      "place_id": "ChIJi9npmpv2wokRk5Q54dGJz6E",
+      "plus_code": {
+        "compound_code": "R3R5+7P New York, NY, USA",
+        "global_code": "87G8R3R5+7P"
+      },
+      "rating": 1,
+      "reference": "ChIJi9npmpv2wokRk5Q54dGJz6E",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "21 Audubon Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Leena Mathew, MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 630,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113732614406716059897\">Dr. Leena Mathew, MD</a>"
+          ],
+          "photo_reference": "AeJbb3cCYOdqaFT0vZE3GLIeDEwVgtC2u-3sl4_XvZOmT81AijoOxG3rHyYNanUT5T6L-2BUoSoM4tGbxKEQGtT6ZqMm6fMXg8fgSLFt6X2i4WiRkI6tgRsQDE8n4YKEF5KYDhlWH6rlBzTeWm-PRRoHWZ-9UaVEkENoblNf7TjqkRAfJndT",
+          "width": 422
+        }
+      ],
+      "place_id": "ChIJydaXaZz2wokRAkjtsBcEfgE",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 3.8,
+      "reference": "ChIJydaXaZz2wokRAkjtsBcEfgE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "622 West 168th Street #500, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lloyd E. Ratner, MD",
+      "photos": [
+        {
+          "height": 633,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109270178334224032191\">Lloyd E. Ratner, MD</a>"
+          ],
+          "photo_reference": "AeJbb3dFGVV3bADtRSxCYWY_vwq9ux-PvauSJ1QdS3HR9aTYwz8HdKn7jRT48-yAxkHJSNU3ggTJnwC_hd-PEbmQVzCdQa2EpW0U4Lw91hW51lIDnCso7PKQLYOqxGil002S704tgNIAvnKt-tYAlkcAPHvl6lYoybRqYLSdrYLqfTIP0Plj",
+          "width": 420
+        }
+      ],
+      "place_id": "ChIJydaXaZz2wokRhhGrU7Djc8g",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokRhhGrU7Djc8g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "622 West 168th Street Floor 14, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Porto Anthony F MD",
+      "place_id": "ChIJydaXaZz2wokR6cPbNPtnWco",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokR6cPbNPtnWco",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Joseph R. Richter, MD",
+      "place_id": "ChIJydaXaZz2wokRwqGefmJnYVE",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJydaXaZz2wokRwqGefmJnYVE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Yejun Zhao, MD",
+      "place_id": "ChIJydaXaZz2wokRaRW5cFjX01s",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRaRW5cFjX01s",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 W 168th St # Ph1291, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ny Presbyterian-Columbia Med: Rosen Todd J MD",
+      "place_id": "ChIJydaXaZz2wokRERTBTQLSpJ4",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRERTBTQLSpJ4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841311,
+          "lng": -73.94067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84271448029151,
+            "lng": -73.93948821970848
+          },
+          "southwest": {
+            "lat": 40.84001651970851,
+            "lng": -73.9421861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Emily DiMango, MD",
+      "photos": [
+        {
+          "height": 633,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115346926514863445973\">Emily DiMango, MD</a>"
+          ],
+          "photo_reference": "AeJbb3emA0MA0RgSah2XSJaFDbi8ih8CvpRPFs5YxIvl-_N7oBvgPvILIU7L2z19nHHkSgu26ODorWICTvmVvTUqf7h2pv0f9bWz2VyVS5qibWvfJeA2MSmRJBn6jV7i3fw2udQCypd74cEivXbi9stqs_jgTx7yei-1KQRWAqIhPPQwkLn4",
+          "width": 420
+        }
+      ],
+      "place_id": "ChIJydaXaZz2wokRgX000IHctok",
+      "plus_code": {
+        "compound_code": "R3R5+GP New York, NY, USA",
+        "global_code": "87G8R3R5+GP"
+      },
+      "reference": "ChIJydaXaZz2wokRgX000IHctok",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "622 West 168th Street, New York"
+    }
+  ],
+  "status": "OK"
+}

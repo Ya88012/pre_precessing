@@ -1,0 +1,2630 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3dolb5RLf_Dk0qilUJ7UMafzK2WKYQsHB7fAjD5OnTbM2NdvreRzwmfQISP4nqCwABFqhjpiJllMn9gfjvEa7IMEqHRv-cIMpQycIJ-vAQ5BmgV3Y6I14hwgJIUZF0vixaB52b9zCo_FpR0VXGm4-VyOWrRTcGK-HHLKnTuh41EK4yn",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6941113,
+          "lng": -73.98287069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6953781302915,
+            "lng": -73.98176056970848
+          },
+          "southwest": {
+            "lat": 40.6926801697085,
+            "lng": -73.9844585302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "AVA Fort Greene",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1334,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104447511526519747709\">AVA Fort Greene</a>"
+          ],
+          "photo_reference": "AeJbb3fwQfkLIc4INTOUdcyr8ioPDEWohFsHb7cTYhtyg8xerfO-9fnen8_KgOSq8h5LzsYMUvdDrl8ey382U72Ek_tBd2a9u75cvts6cPO5U1AevQVVMEChqPeonlvuTEyQf66UJV1aqTyBzyxp2qcL3nts06Pb52AIglYfeY-CT-WwpKn7",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJvTohM7VbwokRLPiYFXYvGSY",
+      "plus_code": {
+        "compound_code": "M2V8+JV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2V8+JV"
+      },
+      "rating": 4.8,
+      "reference": "ChIJvTohM7VbwokRLPiYFXYvGSY",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 562,
+      "vicinity": "343 Gold Street, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6984715,
+          "lng": -73.9777647
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6998365302915,
+            "lng": -73.9762469197085
+          },
+          "southwest": {
+            "lat": 40.6971385697085,
+            "lng": -73.97894488029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Engage Green Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJy4PYQMlbwokRdoVU2jfquVI",
+      "plus_code": {
+        "compound_code": "M2XC+9V \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2XC+9V"
+      },
+      "rating": 5,
+      "reference": "ChIJy4PYQMlbwokRdoVU2jfquVI",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "63 Flushing Avenue #403, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69865610000001,
+          "lng": -73.9753866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7000839302915,
+            "lng": -73.97390671970848
+          },
+          "southwest": {
+            "lat": 40.6973859697085,
+            "lng": -73.9766046802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Evan Eisman Company",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 816,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100285376008119560170\">Evan Eisman Company</a>"
+          ],
+          "photo_reference": "AeJbb3cgZuSyHpzKqsnr3NdOSpLFGCj0oPSsLHYOJ5sOMzAjndhtu0UGLBSQD-Ah2SxwpfCoHL4yNMdLtkdTyzAh4P_Y55FKi1hkCAZoEIZOUVOThPAxImWXKJ7ZdzGd0jD5pHR9huWH09XeVRBF816a2DAUcLZZdRX0rC_zDuR49M2bKXIW",
+          "width": 1056
+        }
+      ],
+      "place_id": "ChIJy4PYQMlbwokRPqUb1rroyN8",
+      "plus_code": {
+        "compound_code": "M2XF+FR \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M2XF+FR"
+      },
+      "rating": 4.7,
+      "reference": "ChIJy4PYQMlbwokRPqUb1rroyN8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Building 280, Brooklyn Navy Yard, 63 Flushing Avenue Suite 817, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6984715,
+          "lng": -73.9777647
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6998365302915,
+            "lng": -73.9762469197085
+          },
+          "southwest": {
+            "lat": 40.6971385697085,
+            "lng": -73.97894488029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "AIS Furniture Refinishing",
+      "place_id": "ChIJy4PYQMlbwokRZzdiLkowkCE",
+      "plus_code": {
+        "compound_code": "M2XC+9V \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2XC+9V"
+      },
+      "reference": "ChIJy4PYQMlbwokRZzdiLkowkCE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6983689,
+          "lng": -73.9750269
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6995603302915,
+            "lng": -73.9736894697085
+          },
+          "southwest": {
+            "lat": 40.6968623697085,
+            "lng": -73.97638743029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York Decks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108680460749788558546\">New York Decks</a>"
+          ],
+          "photo_reference": "AeJbb3cN3dkP-9xRM3LfiQaAkFvvIUvp1Oy8YM1kWVVC1ZPm5JISsDBFFwpJ7kK1WX0VBKWtYeZ0c7kY6G5Bf-LP2ksftBqKQUFwi71yq9-vGk6UwMZgIsNAUnKUsIYuGGroiQhNkGaFq2aNVuuvqRTw6pbUc1qFY27oASRmlMLvLouBXk_X",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJpVzI6MhbwokRzQeWUJu9JZE",
+      "plus_code": {
+        "compound_code": "M2XF+8X \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M2XF+8X"
+      },
+      "rating": 5,
+      "reference": "ChIJpVzI6MhbwokRzQeWUJu9JZE",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "63 Flushing Avenue unit 120 suite 213, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.695099,
+          "lng": -73.9764879
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6966472802915,
+            "lng": -73.9750294697085
+          },
+          "southwest": {
+            "lat": 40.6939493197085,
+            "lng": -73.97772743029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103871888243431749848\">Benjamin Hernandez-Santiago</a>"
+          ],
+          "photo_reference": "AeJbb3fROsNFt-nKCrtw9irp-DhJTh8c60N_wuDBOphuOeW4aSSmWzKZrbbSfGlwjsBLKa6Gi3v9KBjJFjK3L4dQbu8M6sZOP9c6xRkGUM69QTEyqMG_ZrEvUviVaXSAXSGJRlo4B2_vncWhZJqmhpt8XnBCot9ianm-exB-rEhKsuDE8_u8",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJZSAb8MlbwokRtGxnnbMXNiY",
+      "plus_code": {
+        "compound_code": "M2WF+2C \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2WF+2C"
+      },
+      "rating": 2.9,
+      "reference": "ChIJZSAb8MlbwokRtGxnnbMXNiY",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 64,
+      "vicinity": "100 North Portland Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69710029999999,
+          "lng": -73.9824153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69845343029149,
+            "lng": -73.9810103697085
+          },
+          "southwest": {
+            "lat": 40.69575546970849,
+            "lng": -73.9837083302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Empire Rehearsal Studios",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117520409522684234450\">Terrance Smith</a>"
+          ],
+          "photo_reference": "AeJbb3dM_th9nMZC_XST8jL8zjGo1uylq0aRkyiuotlwPbV9VWY-_jx17n41I_VK6_E1rUkbb1JE0UIzt97grGCITWotKbB4z50CeSBxujgBynenLBOilxixw1fRfdpWxK5P4OxLnsdP05OfOj28vw_vYKLh8-Twwnnf-ZGJQfX1zVzkLWQh",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJS2mwz8pbwokR_QseOMlh8PQ",
+      "plus_code": {
+        "compound_code": "M2W9+R2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2W9+R2"
+      },
+      "rating": 4.6,
+      "reference": "ChIJS2mwz8pbwokR_QseOMlh8PQ",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "point_of_interest",
+        "home_goods_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "2 Prince Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6941609,
+          "lng": -73.9827705
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6953760302915,
+            "lng": -73.98128271970849
+          },
+          "southwest": {
+            "lat": 40.6926780697085,
+            "lng": -73.98398068029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Proctors, Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJvTohM7VbwokRW08Du480wSg",
+      "plus_code": {
+        "compound_code": "M2V8+MV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2V8+MV"
+      },
+      "rating": 4,
+      "reference": "ChIJvTohM7VbwokRW08Du480wSg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "343 Gold Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6990661,
+          "lng": -73.9769105
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7003410302915,
+            "lng": -73.97567041970849
+          },
+          "southwest": {
+            "lat": 40.6976430697085,
+            "lng": -73.97836838029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "IA Construction Management",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJIVm7PjFawokRK2Vl7tI8qUg",
+      "plus_code": {
+        "compound_code": "M2XF+J6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2XF+J6"
+      },
+      "rating": 5,
+      "reference": "ChIJIVm7PjFawokRK2Vl7tI8qUg",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Building 132, 63 Flushing Avenue Building 280, Suite 804, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69647049999999,
+          "lng": -73.9830484
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69782113029149,
+            "lng": -73.9813462697085
+          },
+          "southwest": {
+            "lat": 40.69512316970849,
+            "lng": -73.98404423029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Public Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108817023137849906494\">Public Storage</a>"
+          ],
+          "photo_reference": "AeJbb3fnZhNsq-BhkQot3aWKSQ-PPVgLaOQi6UZl1OO1rMeG0Eaytv6lOlcdfm-PHLTnOvxipDDi3Zh5-Gug1irllTfCnzFlJ7lW5jzkF-9PsexHJ7nixJHDjgBP8gzdEEEgIiartP4d5KiJ9mSFATVRl4l1_b8dxckBU6pRkvQ-e7B0vHhf",
+          "width": 1186
+        }
+      ],
+      "place_id": "ChIJyewJTTVawokRZ_aRqawh8co",
+      "plus_code": {
+        "compound_code": "M2W8+HQ \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M2W8+HQ"
+      },
+      "rating": 4.7,
+      "reference": "ChIJyewJTTVawokRZ_aRqawh8co",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 529,
+      "vicinity": "269 Gold Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6996359,
+          "lng": -73.98020249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7010173802915,
+            "lng": -73.97890791970849
+          },
+          "southwest": {
+            "lat": 40.6983194197085,
+            "lng": -73.9816058802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kings County Distillery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101347837370907948885\">Kings County Distillery</a>"
+          ],
+          "photo_reference": "AeJbb3fmJJNwEkSZXaBBmILTPuxoQMmoy0a6e9RkNh9wKB_QqIXdiXk2sHEu5Jg1byHcdfyC7JN_Estwe-mlIOlnt_hREMN_vs1PJbNukN7jWtaozW_ZapCuUu1WOV_9b5sQdBAvFjGLfOXbb8qnH-HJbqDfHimiMqu6uQfov12BN-vyGK6H",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJbe26PclbwokRfrb6lAnTB30",
+      "plus_code": {
+        "compound_code": "M2X9+VW \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2X9+VW"
+      },
+      "rating": 4.6,
+      "reference": "ChIJbe26PclbwokRfrb6lAnTB30",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "bar",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 165,
+      "vicinity": "299 Sands Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Puerto Rico USA Import Inc",
+      "place_id": "ChIJn71GEclbwokRmki6E62Jhdg",
+      "plus_code": {
+        "compound_code": "M2XF+CV \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M2XF+CV"
+      },
+      "rating": 4,
+      "reference": "ChIJn71GEclbwokRmki6E62Jhdg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.698646,
+          "lng": -73.975381
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70007478029149,
+            "lng": -73.9738995697085
+          },
+          "southwest": {
+            "lat": 40.6973768197085,
+            "lng": -73.9765975302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "DCM Fabrication INC.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101334414168319538181\">Caitlin Nugent</a>"
+          ],
+          "photo_reference": "AeJbb3cjxsiFGhzAJTcIkhXpHAumhmcRAiliq9QaaeLKjZPz097YfrXhWC5MPSA0bWLxxhdbvvwkbMBGZlU5Ff-6i2waH7F6w-yNvGqz2URH6m13HE61OAv5r1gbtpKuZLvdBzNro8riv83kFhOG7T2fAgl56d4b-3fGWtULJi6JBy9cWV7a",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJy4PYQMlbwokRikTBFVjc-us",
+      "plus_code": {
+        "compound_code": "M2XF+FR \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M2XF+FR"
+      },
+      "rating": 5,
+      "reference": "ChIJy4PYQMlbwokRikTBFVjc-us",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "63 Flushing Avenue Bldg. 280 #509, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6986462,
+          "lng": -73.9753812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7000749802915,
+            "lng": -73.9738997697085
+          },
+          "southwest": {
+            "lat": 40.6973770197085,
+            "lng": -73.9765977302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Devore Fidelity Ltd",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112407068927502000726\">AG SP</a>"
+          ],
+          "photo_reference": "AeJbb3do7UTO0KvEDJ4fY7kxbrObjDJdMAxoBTZLHjR5YWZr1kYFKrz1pe_kkzGEs3PKQ8MG7vkghDerwG0EEAsc8dp6HmSOaEQA5vZuCj8tQBGXC165kxmKwKJQ3jVmmzu2EZqo5m9TAMWxqCNL_deP1Lq8xlejx_-zzKlYDTQoL1ShVF_E",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJy4PYQMlbwokR1UX3IXIUJy0",
+      "plus_code": {
+        "compound_code": "M2XF+FR \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M2XF+FR"
+      },
+      "rating": 5,
+      "reference": "ChIJy4PYQMlbwokR1UX3IXIUJy0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6981933,
+          "lng": -73.97420799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69945568029149,
+            "lng": -73.97286501970848
+          },
+          "southwest": {
+            "lat": 40.69675771970849,
+            "lng": -73.9755629802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "First Class Trading",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJO1Tq6MhbwokRAIfVSG9LQHA",
+      "plus_code": {
+        "compound_code": "M2XG+78 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M2XG+78"
+      },
+      "rating": 1,
+      "reference": "ChIJO1Tq6MhbwokRAIfVSG9LQHA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "jewelry_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "63 Flushing Avenue #299, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6983369,
+          "lng": -73.9752132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69954818029151,
+            "lng": -73.9738743197085
+          },
+          "southwest": {
+            "lat": 40.69685021970851,
+            "lng": -73.9765722802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Matter Architecture Practice",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJZaiaZzFawokR0RiuD2Pbv2Y",
+      "plus_code": {
+        "compound_code": "M2XF+8W \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2XF+8W"
+      },
+      "rating": 4,
+      "reference": "ChIJZaiaZzFawokR0RiuD2Pbv2Y",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "63 Flushing Avenue Bldg 280 Ste 508, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6955207,
+          "lng": -73.9828861
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6968046802915,
+            "lng": -73.9817170697085
+          },
+          "southwest": {
+            "lat": 40.69410671970851,
+            "lng": -73.9844150302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Nyc Police Property Clerk Office",
+      "place_id": "ChIJMYlSrEpawokR8d4mqfQV1QU",
+      "plus_code": {
+        "compound_code": "M2W8+6R \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2W8+6R"
+      },
+      "rating": 2.6,
+      "reference": "ChIJMYlSrEpawokR8d4mqfQV1QU",
+      "scope": "GOOGLE",
+      "types": [
+        "police",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "301 Gold Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.697444,
+          "lng": -73.9753291
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69878918029149,
+            "lng": -73.97415216970849
+          },
+          "southwest": {
+            "lat": 40.69609121970849,
+            "lng": -73.9768501302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dumbo Moving and Storage NYC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1078,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117275907778722622045\">Dumbo Moving and Storage NYC</a>"
+          ],
+          "photo_reference": "AeJbb3e1D0x_wgqHwqq3euwdKf3o2ulYUD0rL-S0vF3j4kqYfnXhDxFnEkLFjlRITVmAcbW-Hd_brrRXyRMQAYmaGPyMKA5CsLAB_FGj3bWOkGSp4v2AnZ0txOT5D-oBzawVIK-sLROY9HoonMvzxpvaE0AWcszfkbIXaGsjY2JQmiXQeooo",
+          "width": 2917
+        }
+      ],
+      "place_id": "ChIJtw2-vDNawokRd10kH3ot4xs",
+      "plus_code": {
+        "compound_code": "M2WF+XV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2WF+XV"
+      },
+      "rating": 4.3,
+      "reference": "ChIJtw2-vDNawokRd10kH3ot4xs",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2196,
+      "vicinity": "15 North Oxford Street, Brooklyn"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.6781784,
+          "lng": -73.9441579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73944597129348,
+            "lng": -73.83336505117123
+          },
+          "southwest": {
+            "lat": 40.55104197967331,
+            "lng": -74.05662998413648
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u5e03\u9c81\u514b\u6797",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114417859579881743500\">Chengxiang Yuan</a>"
+          ],
+          "photo_reference": "AeJbb3e0SS-mfrJVvYhplmHe_DHBlZME62g46mGTObmnBmleJgHGM_PYf9yu3Qi2wh_DQv5EIDaqhMR8KyvjlXfRhOcII53OzHllLN8nYajzaBLzqibuA7ISoY4fuwBZgFr2odD49kYg6hLGjRCRzX-MO3npeQX1tHnsJ9jV_29jHk5WqhaO",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "reference": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "\u5e03\u9c81\u514b\u6797"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7003955,
+          "lng": -73.9765682
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7016997802915,
+            "lng": -73.9752923697085
+          },
+          "southwest": {
+            "lat": 40.6990018197085,
+            "lng": -73.97799033029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Turntable Lab Online",
+      "photos": [
+        {
+          "height": 3122,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112146464666981823808\">Geoffray Croize</a>"
+          ],
+          "photo_reference": "AeJbb3ey5Twinj-0CFGRJc58dbrqaGMn6mp9syZ4t6EHzYgFu1phWs9EquaXyby_Y6DUJu9GIIJfV4WhUNQpcal9DAn3WWuSS6fe3gg6f-YqSufKsJcxh3OBidnTG6T4S5AmBoUWWXehTvPIfaqzA5ODEro-wBJQ9BkOYyXdlwn7ZQ-b0GkK",
+          "width": 2341
+        }
+      ],
+      "place_id": "ChIJy-rSR51ZwokRHWa2lIpptKA",
+      "plus_code": {
+        "compound_code": "P22F+59 New York, NY, USA",
+        "global_code": "87G8P22F+59"
+      },
+      "rating": 4.5,
+      "reference": "ChIJy-rSR51ZwokRHWa2lIpptKA",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 325,
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6966956,
+          "lng": -73.9830108
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6980354302915,
+            "lng": -73.9817342697085
+          },
+          "southwest": {
+            "lat": 40.6953374697085,
+            "lng": -73.9844322302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brooklyn Gold",
+      "photos": [
+        {
+          "height": 1167,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105859008455596595222\">Diana Makdulina</a>"
+          ],
+          "photo_reference": "AeJbb3fVK3xW3mKz_vsrqk5Du79QQOKXEOtPrL-QEqXO7lJawyhtPorWi0yI4EDlRpTLg7AIIHPQWZiTZOddsQO3Y8kTmRg23XwW4eOQdGajf_IerzhgVIQWjGIQFezLsTKTivOvYd5dyiaoQ_7nlfzuD3Glpq2Ia_V8-euzJkFcPiGE2bCg",
+          "width": 1750
+        }
+      ],
+      "place_id": "ChIJnbBZVDVawokRA5d5T2jIceA",
+      "plus_code": {
+        "compound_code": "M2W8+MQ New York, NY, USA",
+        "global_code": "87G8M2W8+MQ"
+      },
+      "rating": 3.4,
+      "reference": "ChIJnbBZVDVawokRA5d5T2jIceA",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "257 Gold Street, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "IV Design Corporation",
+      "permanently_closed": true,
+      "place_id": "ChIJAQAAQMVbwokRbnDdGWy9kgc",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "reference": "ChIJAQAAQMVbwokRbnDdGWy9kgc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Active International Marketing",
+      "permanently_closed": true,
+      "place_id": "ChIJy4PYQMlbwokRk9wvIsfTWEE",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "reference": "ChIJy4PYQMlbwokRk9wvIsfTWEE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bailey Humbert Heck",
+      "place_id": "ChIJn71GEclbwokRuChQV4aJQGY",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "reference": "ChIJn71GEclbwokRuChQV4aJQGY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69544119999999,
+          "lng": -73.9829003
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6967146802915,
+            "lng": -73.9817260697085
+          },
+          "southwest": {
+            "lat": 40.6940167197085,
+            "lng": -73.9844240302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "New York City Police Department - 84th Precinct",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106154591745152669022\">Luke Crisalli</a>"
+          ],
+          "photo_reference": "AeJbb3fBbItmvrZuo7CY-KZ6i7wKsctmdVC7eeC7sTIExvPlR5cRRPyAaAEWC3G06ihsRrEDwdwgbVRTk1pcdl1mhVCHpuGPX6j5i6aNf5EkVuKoIm0vBccS7FroF4r0NasWBdb5BNhFeLpIzu8s3uWIy0pxhY0V3NJsaO3ovXbS31MGLPj1",
+          "width": 500
+        }
+      ],
+      "place_id": "ChIJMYlSrEpawokRDptWXLufCY0",
+      "plus_code": {
+        "compound_code": "M2W8+5R Brooklyn, NY, USA",
+        "global_code": "87G8M2W8+5R"
+      },
+      "rating": 2.7,
+      "reference": "ChIJMYlSrEpawokRDptWXLufCY0",
+      "scope": "GOOGLE",
+      "types": [
+        "police",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 47,
+      "vicinity": "301 Gold Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69504,
+          "lng": -73.9776992
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69637083029149,
+            "lng": -73.9765485697085
+          },
+          "southwest": {
+            "lat": 40.69367286970849,
+            "lng": -73.97924653029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Community Roots Charter School - Elementary School Campus",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104164383584758029287\">Cham Rocka</a>"
+          ],
+          "photo_reference": "AeJbb3cm754g6GG_vaw24nXa-67AYmkl_y5Ve_lzmHUzDFR75CGkRzQMiRm_FaQnMYCCg2qny3GvborCtoo6BICNPvUxTgpH0-vmm2Q9yEZd3DwW50nbR0cliMNIXPNaTGqHkOQkjUtFZ3gNptK-kofWsJYwM3umvqsgUI52OKIR7K5owA3B",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJe_Qp8LVbwokRvbhQ3maWG3w",
+      "plus_code": {
+        "compound_code": "M2WC+2W New York, NY, USA",
+        "global_code": "87G8M2WC+2W"
+      },
+      "rating": 4.5,
+      "reference": "ChIJe_Qp8LVbwokRvbhQ3maWG3w",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "51 Saint Edwards Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69544010000001,
+          "lng": -73.9764715
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6968285302915,
+            "lng": -73.97502356970851
+          },
+          "southwest": {
+            "lat": 40.6941305697085,
+            "lng": -73.97772153029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cumberland Diagnostic & Treatment: Opoku Evelyn MD",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106709796805518094581\">Angel Arizmendi</a>"
+          ],
+          "photo_reference": "AeJbb3cWc99H04VftzLTXqWIsRn5rGpnO_xgws7UwDsk5SJssrQMScC6d8LxDyuUUr0d49ZK6Kw_oOW-WONRTu9AUWteT07nKvu9AnanIlW-klGvVAkoYjpYiLMIAnqnmQa-tS6xl5rQz8Dc9n_KqawquKYojAimpTbnW-qPr-Fvf7N3T38x",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJZSAb8MlbwokRy1Uw_oXtDKk",
+      "plus_code": {
+        "compound_code": "M2WF+5C New York, NY, USA",
+        "global_code": "87G8M2WF+5C"
+      },
+      "rating": 4.3,
+      "reference": "ChIJZSAb8MlbwokRy1Uw_oXtDKk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "100 North Portland Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6986462,
+          "lng": -73.9753812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7000749802915,
+            "lng": -73.9738997697085
+          },
+          "southwest": {
+            "lat": 40.6973770197085,
+            "lng": -73.9765977302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spectraserv Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJbYKZPMlbwokRRAYGHcteglA",
+      "plus_code": {
+        "compound_code": "M2XF+FR Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+FR"
+      },
+      "reference": "ChIJbYKZPMlbwokRRAYGHcteglA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6986462,
+          "lng": -73.9753812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7000749802915,
+            "lng": -73.9738997697085
+          },
+          "southwest": {
+            "lat": 40.6973770197085,
+            "lng": -73.9765977302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "European Art Design",
+      "permanently_closed": true,
+      "place_id": "ChIJbYKZPMlbwokRfYGp84S3XGs",
+      "plus_code": {
+        "compound_code": "M2XF+FR Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+FR"
+      },
+      "reference": "ChIJbYKZPMlbwokRfYGp84S3XGs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6933338,
+          "lng": -73.9795657
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6947742802915,
+            "lng": -73.9782383197085
+          },
+          "southwest": {
+            "lat": 40.69207631970851,
+            "lng": -73.98093628029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "CVS",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108084493199249265314\">Massimo Deriu</a>"
+          ],
+          "photo_reference": "AeJbb3fQDI0ajxR1hRWhs6TU_fQ8s7FGvsghos5o-wwTYLtLwGtUUPMwOfuisAPyttQlU0zmM9OMx-dxUVw6Zs9-ajJ_1KVRUXAmdaBQwQFSvmLybRgtVDwxWQv7qHe2mMqdVSvcgmpn4y0ckiYu38sIPL9PquIS6kGn3D02E9PV7ox4yxY0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ4SfZp7VbwokRbOdPQoZHUkQ",
+      "plus_code": {
+        "compound_code": "M2VC+85 New York, NY, USA",
+        "global_code": "87G8M2VC+85"
+      },
+      "rating": 2.7,
+      "reference": "ChIJ4SfZp7VbwokRbOdPQoZHUkQ",
+      "scope": "GOOGLE",
+      "types": [
+        "drugstore",
+        "convenience_store",
+        "health",
+        "clothing_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 96,
+      "vicinity": "218 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6947705,
+          "lng": -73.9764222
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6964823302915,
+            "lng": -73.97497951970848
+          },
+          "southwest": {
+            "lat": 40.6937843697085,
+            "lng": -73.97767748029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Auburn Assessment Center",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113525491460781236829\">Dominick Sinclair</a>"
+          ],
+          "photo_reference": "AeJbb3dqOYjc1x5iBCKWfZaqDYuLnRCpYvkxhkXmwttvwNAEnVnU1p8MrMY1bIDnbY67siPCKlHO8hL5icfRtwOBcxhDmxcUt0VLWnO8Wn0XQ-uIZutTo8vO5BN3CRUsfrW4ipXPaqR25T2qs_V4H4dyIp5Nafs1T6NnhFX7mu1Falf2klwi",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJa5MiG7ZbwokRzzwFEyBl0to",
+      "plus_code": {
+        "compound_code": "M2VF+WC Brooklyn, NY, USA",
+        "global_code": "87G8M2VF+WC"
+      },
+      "rating": 2.5,
+      "reference": "ChIJa5MiG7ZbwokRzzwFEyBl0to",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 85,
+      "vicinity": "39 Auburn Place, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6988792,
+          "lng": -73.9793466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7002082302915,
+            "lng": -73.97799866970848
+          },
+          "southwest": {
+            "lat": 40.6975102697085,
+            "lng": -73.98069663029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Trendy Accessories World",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1699,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105441679465798965298\">Trendy Accessories World</a>"
+          ],
+          "photo_reference": "AeJbb3dlNBpPU_Z3eK-1ve8hlZzZyX_IyDeBQaJF5N-9uIdPfQh4zzUfGznSUne5y9H0oocEoyqlfea1wtfYYUrRT2Uf1dT9ydry08WuuF7FUIkcmaMz0Pj8gM0DmFK6nkT6rrIYQ-QZTTF8QL-Ct8ttuGC6DPZFgSVcBnK8AMIPfSxxQ6yu",
+          "width": 3021
+        }
+      ],
+      "place_id": "ChIJqytmwqxZwokRwMkLWJ03NyU",
+      "plus_code": {
+        "compound_code": "M2XC+H7 New York, NY, USA",
+        "global_code": "87G8M2XC+H7"
+      },
+      "rating": 4.8,
+      "reference": "ChIJqytmwqxZwokRwMkLWJ03NyU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "21 Flushing Avenue Suite 205, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6985905,
+          "lng": -73.9775777
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6998986802915,
+            "lng": -73.97615496970849
+          },
+          "southwest": {
+            "lat": 40.6972007197085,
+            "lng": -73.9788529302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Urban Homecraft",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116904513088815067789\">Urban Homecraft</a>"
+          ],
+          "photo_reference": "AeJbb3ePXhpXVDf0nKgrZ7AKtJFm0_sTLGyU0QBza9NSU4q2IXxxATxUQmO9nXwqhyf0WQQszkza6tvu5l9qs4ujb2--rkPIFS57GtSa6dbVd_gjkWahLivXg6XoOugC_KmRd85q_ti7NNw1F9FaZNbdmHr5MjGvC6Ih5Q-CnNA6hhYRPJ32",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJy4PYQMlbwokRWxwO0sGxRzE",
+      "plus_code": {
+        "compound_code": "M2XC+CX Brooklyn, NY, USA",
+        "global_code": "87G8M2XC+CX"
+      },
+      "rating": 4.9,
+      "reference": "ChIJy4PYQMlbwokRWxwO0sGxRzE",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 30,
+      "vicinity": "63 Flushing Avenue bldg 275 ste 301, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.698642,
+          "lng": -73.97503999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7000065802915,
+            "lng": -73.97366516970848
+          },
+          "southwest": {
+            "lat": 40.6973086197085,
+            "lng": -73.9763631302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Shop Bedding",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJbYKZPMlbwokRuR2Rb1Flv_E",
+      "plus_code": {
+        "compound_code": "M2XF+FX Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+FX"
+      },
+      "rating": 5,
+      "reference": "ChIJbYKZPMlbwokRuR2Rb1Flv_E",
+      "scope": "GOOGLE",
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "63 Flushing Avenue # 331, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6984223,
+          "lng": -73.97548499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6997434802915,
+            "lng": -73.97418001970848
+          },
+          "southwest": {
+            "lat": 40.69704551970851,
+            "lng": -73.9768779802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "New York City Auto Auction",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJy4PYQMlbwokRLUZKkKIj7i4",
+      "plus_code": {
+        "compound_code": "M2XF+9R New York, NY, USA",
+        "global_code": "87G8M2XF+9R"
+      },
+      "rating": 4.8,
+      "reference": "ChIJy4PYQMlbwokRLUZKkKIj7i4",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69446319999999,
+          "lng": -73.97772669999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6958219802915,
+            "lng": -73.97652346970848
+          },
+          "southwest": {
+            "lat": 40.6931240197085,
+            "lng": -73.97922143029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Brooklyn Public Library - Walt Whitman Branch",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100977787671095852487\">Bee one</a>"
+          ],
+          "photo_reference": "AeJbb3dyEkWprGTbqVmY2ZmrxtWwilcqtvANIis7bg8rWdcxV3Zb2y4NabRwJBIddGAwN7LWSHd2cep1-_kJ5ScRPRD0w_4V48YMoEdEzAKWAo_rmJqTVYqpFq16BFbOGojb0fvGj40UKPHWMSXdKn6rix1x7OYcyrwKikxApxJu1E2jFyOL",
+          "width": 4331
+        }
+      ],
+      "place_id": "ChIJi6UO77VbwokRVBuwfTU2vjI",
+      "plus_code": {
+        "compound_code": "M2VC+QW Brooklyn, NY, USA",
+        "global_code": "87G8M2VC+QW"
+      },
+      "rating": 4.2,
+      "reference": "ChIJi6UO77VbwokRVBuwfTU2vjI",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "93 Saint Edwards Street, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6938275,
+          "lng": -73.9821728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6950810802915,
+            "lng": -73.9808814197085
+          },
+          "southwest": {
+            "lat": 40.6923831197085,
+            "lng": -73.9835793802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "University Settlement",
+      "permanently_closed": true,
+      "place_id": "ChIJsbUZL7VbwokRF99KNsmcEy4",
+      "plus_code": {
+        "compound_code": "M2V9+G4 Brooklyn, NY, USA",
+        "global_code": "87G8M2V9+G4"
+      },
+      "rating": 5,
+      "reference": "ChIJsbUZL7VbwokRF99KNsmcEy4",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "177 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6988026,
+          "lng": -73.9755862
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7000647802915,
+            "lng": -73.97437466970851
+          },
+          "southwest": {
+            "lat": 40.6973668197085,
+            "lng": -73.97707263029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ten Ton Studio",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101859551502954344665\">Ten Ton Studio</a>"
+          ],
+          "photo_reference": "AeJbb3dvixcG0VFwHTidP_3H0iVJnxySAYbAoSebIdgKveyadmo8AqXkoLpWsZMeDZNtUvpAp8R0sj93E-7rlEtsvPa2CoSBmvdIFiS_tGXLmtcpoDSdYoYiNbA5nvuid75Ars-UpcK3XdjMPrArxcNwSsdG95cqPqThp5gPlaIReB1hKAqq",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJy4PYQMlbwokRccC14NchloI",
+      "plus_code": {
+        "compound_code": "M2XF+GQ Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+GQ"
+      },
+      "rating": 5,
+      "reference": "ChIJy4PYQMlbwokRccC14NchloI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "63 Flushing Avenue #819, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69833819999999,
+          "lng": -73.975393
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6996594802915,
+            "lng": -73.97408791970848
+          },
+          "southwest": {
+            "lat": 40.6969615197085,
+            "lng": -73.9767858802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ecologic Solutions",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJxehNXCRbwokRuLGxlKiCIm0",
+      "plus_code": {
+        "compound_code": "M2XF+8R Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+8R"
+      },
+      "rating": 5,
+      "reference": "ChIJxehNXCRbwokRuLGxlKiCIm0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.695562,
+          "lng": -73.9764947
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6968780802915,
+            "lng": -73.97503516970849
+          },
+          "southwest": {
+            "lat": 40.69418011970851,
+            "lng": -73.97773313029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ollivierre-Noe Debbie R DDS",
+      "place_id": "ChIJZSAb8MlbwokR8oEsBPFmqss",
+      "plus_code": {
+        "compound_code": "M2WF+6C New York, NY, USA",
+        "global_code": "87G8M2WF+6C"
+      },
+      "reference": "ChIJZSAb8MlbwokR8oEsBPFmqss",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "100 North Portland Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6969046,
+          "lng": -73.9759851
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6984302802915,
+            "lng": -73.97473861970849
+          },
+          "southwest": {
+            "lat": 40.6957323197085,
+            "lng": -73.97743658029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Dr. Susan S. McKinney Secondary School of the Arts",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110353425547026333692\">Fady Musa</a>"
+          ],
+          "photo_reference": "AeJbb3eZVnZWpOEVtjJE_paWnVS_xiBPssVjag0irWMXWTkWeSDv4c5d1rl1uII6lUVQp1Nx87l-ONcMLE-uF-PaohI4ZmDNaU11qlGPZRxU58TbvSb6BsFGrjeSUNy4j6uXk2KdI_4N864FvjYLqzNUK7BVwGUmOz2YXzkBcR_7Q0THP21V",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJsxuilslbwokRn06UEeqDb6g",
+      "plus_code": {
+        "compound_code": "M2WF+QJ New York, NY, USA",
+        "global_code": "87G8M2WF+QJ"
+      },
+      "rating": 3.6,
+      "reference": "ChIJsxuilslbwokRn06UEeqDb6g",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "101 Park Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Justin Paul Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112249438466083953326\">Cindy Lai</a>"
+          ],
+          "photo_reference": "AeJbb3dNFS8AP-VB1b5AAPPgKyoeN7qJtdoZjF4P5LNC4ual0NInn-qF889H-JhsZ__r20QTUmOGKhjgnCW-vt6mV0to2CKEe7CSghaJj7VcoW6mbPp9JkbvmK29T2ZzXnS46Q9-WE-58aJM_k8sLrFp7gqYu8J5_nA3ZnjCg5k7XTajilpp",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJy4PYQMlbwokR7UG41193i6Y",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "rating": 5,
+      "reference": "ChIJy4PYQMlbwokR7UG41193i6Y",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6986462,
+          "lng": -73.9753812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7000749802915,
+            "lng": -73.9738997697085
+          },
+          "southwest": {
+            "lat": 40.6973770197085,
+            "lng": -73.9765977302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "ShopSatin.com",
+      "permanently_closed": true,
+      "place_id": "ChIJy4PYQMlbwokRFADds9--TGw",
+      "plus_code": {
+        "compound_code": "M2XF+FR Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+FR"
+      },
+      "reference": "ChIJy4PYQMlbwokRFADds9--TGw",
+      "scope": "GOOGLE",
+      "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6925532,
+          "lng": -73.9779065
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6939140802915,
+            "lng": -73.9764369697085
+          },
+          "southwest": {
+            "lat": 40.6912161197085,
+            "lng": -73.97913493029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wyner Dana",
+      "place_id": "ChIJsSRdLbRbwokRXAvIwKkO25Q",
+      "plus_code": {
+        "compound_code": "M2VC+2R New York, NY, USA",
+        "global_code": "87G8M2VC+2R"
+      },
+      "reference": "ChIJsSRdLbRbwokRXAvIwKkO25Q",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "140 Saint Edwards Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6988483,
+          "lng": -73.9758813
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7001561302915,
+            "lng": -73.97459746970848
+          },
+          "southwest": {
+            "lat": 40.6974581697085,
+            "lng": -73.9772954302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Daddy-O Productions, Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106498081864449224229\">Daddy-O Productions, Inc</a>"
+          ],
+          "photo_reference": "AeJbb3c-g0WGRBqfRsNBHwDb54Cpr06xWxohf7n9cPt7wL9JcQHTZ1FcxT7YDXMeFOZXT3OGR9Bp32sv_LZorpsRPF_bhYBn4dNaYD6Y8Hnpfg3q6Xu4fJnYb18w-iEGAXcgSodiNvUwElGuzfqZLzmv8YRONL4wNCSrqnnrjtoW-eF_OggV",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJy4PYQMlbwokRgIiZ9Iq87L8",
+      "plus_code": {
+        "compound_code": "M2XF+GJ Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+GJ"
+      },
+      "rating": 5,
+      "reference": "ChIJy4PYQMlbwokRgIiZ9Iq87L8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Brooklyn Navy Yard, Building 280, 63 Flushing Avenue Ste 821, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6989329,
+          "lng": -73.98173589999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6999943302915,
+            "lng": -73.9804859697085
+          },
+          "southwest": {
+            "lat": 40.6972963697085,
+            "lng": -73.9831839302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sisters Unisex",
+      "permanently_closed": true,
+      "place_id": "ChIJE9KBPstbwokRk6M82YtE7cA",
+      "plus_code": {
+        "compound_code": "M2X9+H8 Brooklyn, NY, USA",
+        "global_code": "87G8M2X9+H8"
+      },
+      "reference": "ChIJE9KBPstbwokRk6M82YtE7cA",
+      "scope": "GOOGLE",
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "237 Nassau Street # 4D, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6986462,
+          "lng": -73.9753812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7000749802915,
+            "lng": -73.9738997697085
+          },
+          "southwest": {
+            "lat": 40.6973770197085,
+            "lng": -73.9765977302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Zalmar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 490,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103657468004371960135\">Zalmar</a>"
+          ],
+          "photo_reference": "AeJbb3c85zpyiP6a-EffCjcOO0zP3JB7T1ckRxN0Jdy-kENK2iiTewpVDDxcfdqTi_rffCj_SvCNUIBIt_V6GbWKFNb3CcHeoPaKwlVqdNx38cIhre0IFlhfxE9exC84dPHbmTnBv7sJovv7Gva7R2x-Q38OWw3oY3YUnht3YcIBLPdp7A7_",
+          "width": 490
+        }
+      ],
+      "place_id": "ChIJn71GEclbwokRrhNaYjm8deE",
+      "plus_code": {
+        "compound_code": "M2XF+FR Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+FR"
+      },
+      "reference": "ChIJn71GEclbwokRrhNaYjm8deE",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6984715,
+          "lng": -73.9777647
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6998365302915,
+            "lng": -73.9762469197085
+          },
+          "southwest": {
+            "lat": 40.6971385697085,
+            "lng": -73.97894488029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Y & H Wholesale Inc",
+      "place_id": "ChIJy4PYQMlbwokR9LVzYG0oURc",
+      "plus_code": {
+        "compound_code": "M2XC+9V New York, NY, USA",
+        "global_code": "87G8M2XC+9V"
+      },
+      "reference": "ChIJy4PYQMlbwokR9LVzYG0oURc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69829119999999,
+          "lng": -73.97433850000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6995073802915,
+            "lng": -73.97299871970851
+          },
+          "southwest": {
+            "lat": 40.6968094197085,
+            "lng": -73.97569668029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brand's Paycheck & HR Services Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117851081194157908922\">Brand&#39;s Paycheck &amp; HR Services Inc</a>"
+          ],
+          "photo_reference": "AeJbb3d-v-uHM_2E6lYeAGmHRRpoa8sgQgYa6ffBhwW-wiA9YuNREy9MXp6vxgzsBNh0V9NPmnlPXrRzeRm2Xk9MfyEQYpefa3DbvluLd5ddn8BPpMCNzLw5ZVvbriBVIBVDx3ENxR5S9l1Tni9mEe4PIaVBxcDo2GcwUkpjWt-S35bTEoxf",
+          "width": 1702
+        }
+      ],
+      "place_id": "ChIJbYKZPMlbwokR67XnFMMRgEw",
+      "plus_code": {
+        "compound_code": "M2XG+87 New York, NY, USA",
+        "global_code": "87G8M2XG+87"
+      },
+      "rating": 4.6,
+      "reference": "ChIJbYKZPMlbwokR67XnFMMRgEw",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "63 Flushing Avenue #101, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6984715,
+          "lng": -73.9777647
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6998365302915,
+            "lng": -73.9762469197085
+          },
+          "southwest": {
+            "lat": 40.6971385697085,
+            "lng": -73.97894488029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Pinsel Unlimited Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJy4PYQMlbwokReFqQ0_-eNCY",
+      "plus_code": {
+        "compound_code": "M2XC+9V New York, NY, USA",
+        "global_code": "87G8M2XC+9V"
+      },
+      "reference": "ChIJy4PYQMlbwokReFqQ0_-eNCY",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Abalene Decorating Services Co",
+      "place_id": "ChIJy4PYQMlbwokRcymfdK7n0nE",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "reference": "ChIJy4PYQMlbwokRcymfdK7n0nE",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hydro Tech Mechanical Corporation",
+      "permanently_closed": true,
+      "place_id": "ChIJn71GEclbwokRCGHtxNPfFHU",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "reference": "ChIJn71GEclbwokRCGHtxNPfFHU",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6983789,
+          "lng": -73.9758336
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6995834302915,
+            "lng": -73.9745005697085
+          },
+          "southwest": {
+            "lat": 40.6968854697085,
+            "lng": -73.9771985302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Thermo Mechanics Corporation",
+      "place_id": "ChIJy4PYQMlbwokRzka5aFppTBE",
+      "plus_code": {
+        "compound_code": "M2XF+9M New York, NY, USA",
+        "global_code": "87G8M2XF+9M"
+      },
+      "reference": "ChIJy4PYQMlbwokRzka5aFppTBE",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Interior Alternations",
+      "place_id": "ChIJy4PYQMlbwokRXacLMmOJlZw",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "rating": 5,
+      "reference": "ChIJy4PYQMlbwokRXacLMmOJlZw",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "North Eastern Bell",
+      "permanently_closed": true,
+      "place_id": "ChIJy4PYQMlbwokR9H96folry28",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "reference": "ChIJy4PYQMlbwokR9H96folry28",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69854689999999,
+          "lng": -73.9753052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69965543029149,
+            "lng": -73.97397381970849
+          },
+          "southwest": {
+            "lat": 40.69695746970849,
+            "lng": -73.97667178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Manpower Trucking Co",
+      "place_id": "ChIJy4PYQMlbwokR98yC6NUXPT0",
+      "plus_code": {
+        "compound_code": "M2XF+CV Brooklyn, NY, USA",
+        "global_code": "87G8M2XF+CV"
+      },
+      "reference": "ChIJy4PYQMlbwokR98yC6NUXPT0",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.698459,
+          "lng": -73.97505459999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69986368029151,
+            "lng": -73.97361316970849
+          },
+          "southwest": {
+            "lat": 40.69716571970851,
+            "lng": -73.97631113029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Perfect Supply Co",
+      "place_id": "ChIJy4PYQMlbwokRZzVecjUHKEg",
+      "plus_code": {
+        "compound_code": "M2XF+9X New York, NY, USA",
+        "global_code": "87G8M2XF+9X"
+      },
+      "reference": "ChIJy4PYQMlbwokRZzVecjUHKEg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "63 Flushing Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6987515,
+          "lng": -73.98176889999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69990403029151,
+            "lng": -73.9805024697085
+          },
+          "southwest": {
+            "lat": 40.69720606970851,
+            "lng": -73.9832004302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Farragut",
+      "photos": [
+        {
+          "height": 3267,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110854164034814697389\">Aaron Johnson</a>"
+          ],
+          "photo_reference": "AeJbb3fjXtJOh_qmRd_vBky2eUxAdKNs8dEwokLkjTomK7JKfhQL0qxK47oUH1FUXCgD_v5hsYnDEOCybC0_V09zZEk-I0EmATobpPmDyBWEAA4t26VwrxUpJrqT0N-cMs6beQPAZYVJG9dzsBNcRXM-On8tPxnMBytdLMVplnPujN_ylicF",
+          "width": 4896
+        }
+      ],
+      "place_id": "ChIJ4whRH8tbwokRXRPKWPp8BBo",
+      "plus_code": {
+        "compound_code": "M2X9+G7 New York, NY, USA",
+        "global_code": "87G8M2X9+G7"
+      },
+      "rating": 3.4,
+      "reference": "ChIJ4whRH8tbwokRXRPKWPp8BBo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "237 Nassau Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69686240000001,
+          "lng": -73.9723486
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6982163302915,
+            "lng": -73.9711264697085
+          },
+          "southwest": {
+            "lat": 40.6955183697085,
+            "lng": -73.9738244302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Greene Hill School",
+      "photos": [
+        {
+          "height": 522,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113329825629377700389\">Greene Hill School</a>"
+          ],
+          "photo_reference": "AeJbb3dIGoQGb74HMYJxwXKpWlx_nfTFc6TL6lTf3NZp982SKP5uUF_BNvlI35uPal_POw8YJdmAIkWZ75gk0zJWpaDR1YxDOA-m6gsRn694WQr6BpQ1lr0wNmQQ2Sn7LiktC9-UWju-Sz-nYB2lVkBY4tuhwN7X5gnPh-UZvKvsDqxpsb57",
+          "width": 827
+        }
+      ],
+      "place_id": "ChIJeW9NYMhbwokRCpADzpttDE4",
+      "plus_code": {
+        "compound_code": "M2WH+P3 Brooklyn, NY, USA",
+        "global_code": "87G8M2WH+P3"
+      },
+      "rating": 4.8,
+      "reference": "ChIJeW9NYMhbwokRCpADzpttDE4",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "39 Adelphi Street, Brooklyn"
+    }
+  ],
+  "status": "OK"
+}

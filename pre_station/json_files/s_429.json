@@ -1,0 +1,2722 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3d_Oxd-O_t29auFjalLfcsfgGNfkGWkuu-SRE9nvI-0gL9SudpvrG66SoWx5G6ToBzeo25SBBnd3w4siY2Ta8opuJSokrMmEgPVqWPkyE24h4_osNs5hiYX0UQXZfHyeognOxpPaFQQcITrdv1fnmHGLP79R2si3JMbXy_6ELcpNq45",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80106729999999,
+          "lng": -73.9465026
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8024898302915,
+            "lng": -73.9449613197085
+          },
+          "southwest": {
+            "lat": 40.7997918697085,
+            "lng": -73.9476592802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West 116th Street Associates",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114694358039077327497\">Hilda Pena</a>"
+          ],
+          "photo_reference": "AeJbb3coLmf0y0o_TiJ0tO-YmEmgDwL3nOrUb5G6JaULpA0JGFiqaXqX8tN1NNnF1p3CCelnM73bm3sIYLSlbvmqxzaqzJWenImOZaap5OlJ4BVClRdrzqNrZTjHJlrM4_XOouWUyLqbDlDM8q9VTHBIHajPSsAfcQRJcC6IGW4IUWqWeHCB",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJr2Qb0g_2wokR7oq0i97qqC0",
+      "plus_code": {
+        "compound_code": "R323+C9 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R323+C9"
+      },
+      "rating": 5,
+      "reference": "ChIJr2Qb0g_2wokR7oq0i97qqC0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "1428 5th Avenue #1, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7999496,
+          "lng": -73.93931789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8012493302915,
+            "lng": -73.93769496970849
+          },
+          "southwest": {
+            "lat": 40.7985513697085,
+            "lng": -73.9403929302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Center For Puerto Rican Studies Library",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJj26D6OtYwokRCwE09XNLA4k",
+      "plus_code": {
+        "compound_code": "Q3X6+X7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3X6+X7"
+      },
+      "rating": 5,
+      "reference": "ChIJj26D6OtYwokRCwE09XNLA4k",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "2180 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8008218,
+          "lng": -73.9410566
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8022064802915,
+            "lng": -73.9396817697085
+          },
+          "southwest": {
+            "lat": 40.7995085197085,
+            "lng": -73.9423797302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "New York City Police Department - 25th Precinct",
+      "photos": [
+        {
+          "height": 336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109235819106383651889\">RYU RYU</a>"
+          ],
+          "photo_reference": "AeJbb3frqkirie48Npp9Ls21TKVMOLa4IUaQjFZkpxkGvQbkD_jMAQQ2CwWnvylWuvp6m0J6yhc4K_d_7qu85nV5gcshZVUizHe_CXHhSHzlA2xguL5ouPMuLQ4DOPZoBdRZOuFW3LllevKSpmheIok2t3um362lTiUeVtL9koojEZaMfXHI",
+          "width": 448
+        }
+      ],
+      "place_id": "ChIJZ3pS2Aj2wokRosvTxcpCdx4",
+      "plus_code": {
+        "compound_code": "R325+8H \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R325+8H"
+      },
+      "rating": 3,
+      "reference": "ChIJZ3pS2Aj2wokRosvTxcpCdx4",
+      "scope": "GOOGLE",
+      "types": [
+        "police",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "120 East 119th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8044257,
+          "lng": -73.9437629
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80789235,
+            "lng": -73.93952185
+          },
+          "southwest": {
+            "lat": 40.80103335000001,
+            "lng": -73.94783125
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "\u99ac\u5eab\u65af\u00b7\u52a0\u7dad\u516c\u5712",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107730330789332981724\">Marcus Garvey Park</a>"
+          ],
+          "photo_reference": "AeJbb3c-CBRR2M_imVEpGsoCbPyICtm3GnDfxYxsj5pfpnOr6Z6LVCkxRoKIqDaRtw-vBxUhm-v0KGOuGL-QpDegz8dLA-zga8alVVfMY41e1g9Z1mF8K_hX5T-14bIDFsO03cE8973mkNnBCPwf9uHXE2wYRN3KLARas9H0AqR679FpBLnA",
+          "width": 2700
+        }
+      ],
+      "place_id": "ChIJHa6lPAz2wokRlRyxNExaJbQ",
+      "plus_code": {
+        "compound_code": "R334+QF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R334+QF"
+      },
+      "rating": 4.3,
+      "reference": "ChIJHa6lPAz2wokRlRyxNExaJbQ",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3911,
+      "vicinity": "6316, Mount Morris Park West, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7975526,
+          "lng": -73.9394756
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7989689802915,
+            "lng": -73.93807691970848
+          },
+          "southwest": {
+            "lat": 40.7962710197085,
+            "lng": -73.9407748802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Rostel",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104866415878679650609\">Evgeny Sikachov</a>"
+          ],
+          "photo_reference": "AeJbb3esqhtF4J21BaDJzjLYQceJfDywCNVozRke_LJEFNAo5UecZ0JuiWxanreA8LtN26yXrOh_2EeXe2wmiEItQr9Y2YIHPe5BezrbSgGOxztMJce90dhQGFuUQofN2_T575z7EgEXxeQ3IZXB5Ganz64-MMmBOEMYoqiH2u0z2GZwtQZe",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_0_MAgb2wokRGTwYBzyy7DM",
+      "plus_code": {
+        "compound_code": "Q3X6+26 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3X6+26"
+      },
+      "rating": 2.8,
+      "reference": "ChIJ_0_MAgb2wokRGTwYBzyy7DM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 53,
+      "vicinity": "160 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7983091,
+          "lng": -73.941632
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7997829802915,
+            "lng": -73.94019016970849
+          },
+          "southwest": {
+            "lat": 40.7970850197085,
+            "lng": -73.9428881302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sams Famous Pizzeria",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108455294718709145087\">Jose J Estrada</a>"
+          ],
+          "photo_reference": "AeJbb3cuqWvd3sQFofvuf5WduXAMFg53fCUqegk50_oKCb8SlXjEG86dGPHS1D-a8gGPWkst2_NoDBAZsiIg4Y9ojWZh2oox67rpuWAmKXkE554jVoI9uiHYmYsqqSx8Q8hWJzCSOke32at2mNwb7odcBB7_vMYEG6jdZQkiGc8kOB0Ev2pM",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJNx8uAQb2wokRp1Q3xuUYwGw",
+      "plus_code": {
+        "compound_code": "Q3X5+88 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3X5+88"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJNx8uAQb2wokRp1Q3xuUYwGw",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 335,
+      "vicinity": "150 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.801499,
+          "lng": -73.94399680000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8028106302915,
+            "lng": -73.94255821970852
+          },
+          "southwest": {
+            "lat": 40.8001126697085,
+            "lng": -73.94525618029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 766,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115201930007444487857\">Subway</a>"
+          ],
+          "photo_reference": "AeJbb3evqtR46Dcsc5wFb0HX-ZX9YjNn44SZtGPYhW5kXwNwrxIbxYdcM8zHrv3zX9Tw7hj5pUayz2QAhdnbJdSYnUZ9cDWfYbdca_CtvTO-1OJaaBlPicfQnrn1BkSWOy4LSVleyt3k3R2ky4rdStAzGW8QRMpWrFh2Dmv2IO0c3GD6IKRN",
+          "width": 766
+        }
+      ],
+      "place_id": "ChIJG0S94g72wokRbCoKKuCGTrM",
+      "plus_code": {
+        "compound_code": "R324+HC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R324+HC"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJG0S94g72wokRbCoKKuCGTrM",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 90,
+      "vicinity": "1814 Madison Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8025896,
+          "lng": -73.9433766
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8039402302915,
+            "lng": -73.94193266970849
+          },
+          "southwest": {
+            "lat": 40.8012422697085,
+            "lng": -73.94463063029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Helene Fuld College of Nursing",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107284468466080435125\">Helene Fuld College of Nursing</a>"
+          ],
+          "photo_reference": "AeJbb3ebJBhEmssqbynR26lpwM1fQ49ilPgn_5tDSEiRAKGblFbgdd8cf8g5ymE8a1PfV-bVVkpu4ySAEBJ-AAJmEyz2-K4F-vKRfwMiqJTcLZap6jjnkp4vCQlKGmsxPb1IxiSQR4umV3u-qbQcKP85pp4WzaJFshdhTRIWuculy9jOaY0E",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJT7L7vw72wokRUdmYsb4rLR8",
+      "plus_code": {
+        "compound_code": "R334+2J \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R334+2J"
+      },
+      "rating": 2.9,
+      "reference": "ChIJT7L7vw72wokRUdmYsb4rLR8",
+      "scope": "GOOGLE",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 49,
+      "vicinity": "24 East 120th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7979822,
+          "lng": -73.9386916
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7994658302915,
+            "lng": -73.93731366970849
+          },
+          "southwest": {
+            "lat": 40.7967678697085,
+            "lng": -73.9400116302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "U-Haul Neighborhood Dealer",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111152481343744219595\">Calvin Smith</a>"
+          ],
+          "photo_reference": "AeJbb3fHyexNQf4lKoOvv69bgBk8WiAfkoozATvpaXBadlX6wNMRjOoI794Nf_y7TjxgvsHhzD_4Q_4Mjt6z5UMoKf7V3TIIF_u0C0MrGBOxxna35QzslSdQA7mHA8HZiaPMQkRXelL6bxwWsTQWQRJvF7jccG1AzOP5lLC92VCxrFK1KMqF",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJr5n6cGv2wokRKR124APxjEE",
+      "plus_code": {
+        "compound_code": "Q3X6+5G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3X6+5G"
+      },
+      "price_level": 1,
+      "rating": 3.6,
+      "reference": "ChIJr5n6cGv2wokRKR124APxjEE",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 142,
+      "vicinity": "220 East 117th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7992366,
+          "lng": -73.94366529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8005711802915,
+            "lng": -73.9422418697085
+          },
+          "southwest": {
+            "lat": 40.7978732197085,
+            "lng": -73.9449398302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "The Kiosk",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1342,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108378076149846267103\">The Kiosk</a>"
+          ],
+          "photo_reference": "AeJbb3cwShccsTLtZ469oxqrOk9pdcwG2aBXmjYSnl6DWnUADEPUkbpcauITVoGaW-9PRPL825roH1W5-vA8QfxcL6PoKc0rwBUbahsQgoeGhGwnVw1x2zwFMHmQmyWu9JY0ozoMHu5b15uE2fVGehw-0bysH-KWRlAgBI6yyph-LwNakTu1",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJ4-XSZQ_2wokR2VZKlzfz3tI",
+      "plus_code": {
+        "compound_code": "Q3X4+MG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3X4+MG"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJ4-XSZQ_2wokR2VZKlzfz3tI",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "80 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8016429,
+          "lng": -73.9439688
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80293743029149,
+            "lng": -73.94250431970849
+          },
+          "southwest": {
+            "lat": 40.8002394697085,
+            "lng": -73.9452022802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Madison Avenue Radiology Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113705606578704167870\">Tomfrank Tomfrank</a>"
+          ],
+          "photo_reference": "AeJbb3ddmBlS-B03CAr0X0X8h6zpIsnLo0GJUcazAX1eAEEmoaFDOWgDyALldMaQ_KS6Jo5niawFqM2qazMtABhp0z-FA7PTuEo6mouGu7OE1TiYLF0eEjc6yiesJ-KJEH3Rceiqrebh_ovsgVH3TDxgF-IcRYiHSIwi_VefWAjfH12Q74sP",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJdeYU4g72wokRw1s3QeNGx_o",
+      "plus_code": {
+        "compound_code": "R324+MC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R324+MC"
+      },
+      "rating": 2,
+      "reference": "ChIJdeYU4g72wokRw1s3QeNGx_o",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "1820 Madison Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8010976,
+          "lng": -73.9380946
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80252933029149,
+            "lng": -73.9366842697085
+          },
+          "southwest": {
+            "lat": 40.7998313697085,
+            "lng": -73.9393822302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Project For Psychotherapy Outreach To",
+      "place_id": "ChIJD_nduQn2wokR8rx9PNgXgQk",
+      "plus_code": {
+        "compound_code": "R326+CQ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R326+CQ"
+      },
+      "reference": "ChIJD_nduQn2wokR8rx9PNgXgQk",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "198 East 121st Street #5, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8029506,
+          "lng": -73.9444346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8044117802915,
+            "lng": -73.94313056970849
+          },
+          "southwest": {
+            "lat": 40.8017138197085,
+            "lng": -73.94582853029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brett Design",
+      "place_id": "ChIJP-kLjA72wokRNQpkystW0oo",
+      "plus_code": {
+        "compound_code": "R334+56 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R334+56"
+      },
+      "reference": "ChIJP-kLjA72wokRNQpkystW0oo",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1485 5th Avenue # 15K, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.80214429999999,
+          "lng": -73.9430084
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8035369802915,
+            "lng": -73.9417600697085
+          },
+          "southwest": {
+            "lat": 40.8008390197085,
+            "lng": -73.9444580302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hazel Marketing",
+      "permanently_closed": true,
+      "place_id": "ChIJvbbYww72wokRY0gCi1QhdmI",
+      "plus_code": {
+        "compound_code": "R324+VQ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R324+VQ"
+      },
+      "reference": "ChIJvbbYww72wokRY0gCi1QhdmI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1831 Madison Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8003881,
+          "lng": -73.9470053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8016829802915,
+            "lng": -73.94552806970849
+          },
+          "southwest": {
+            "lat": 40.7989850197085,
+            "lng": -73.94822603029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Holt Thomas DDS",
+      "place_id": "ChIJCdub6A_2wokR2xhT13ud_O4",
+      "plus_code": {
+        "compound_code": "R323+55 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R323+55"
+      },
+      "reference": "ChIJCdub6A_2wokR2xhT13ud_O4",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1400 5th Avenue # 4M, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80216060000001,
+          "lng": -73.9371802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8034735802915,
+            "lng": -73.9357353697085
+          },
+          "southwest": {
+            "lat": 40.8007756197085,
+            "lng": -73.9384333302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "J Department Store",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJi8Qu7gn2wokRpcTLFxJYoaI",
+      "plus_code": {
+        "compound_code": "R327+V4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R327+V4"
+      },
+      "rating": 4.1,
+      "reference": "ChIJi8Qu7gn2wokRpcTLFxJYoaI",
+      "scope": "GOOGLE",
+      "types": [
+        "department_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "2254 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80250880000001,
+          "lng": -73.9432978
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8040041802915,
+            "lng": -73.9421803697085
+          },
+          "southwest": {
+            "lat": 40.80130621970851,
+            "lng": -73.9448783302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Bethel Gospel Assembly",
+      "photos": [
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106476288240550188473\">Victor Olaore Omoshehin</a>"
+          ],
+          "photo_reference": "AeJbb3dEtSu32bkFZ1kHfGFYKfYBc9t77k_aoutHrc1UrOsblwnUlVsNLLD2AE3Q4MgHdFQyQvjDUtB6mFB329J9RIB0KsT7O1ri8UMs5jnF8fWH_fIYrQ3ZU8HpG1Pzn7zPbSMhp4Wr2iePCxDGbCy-fQ_RJZ2Lkkf5qiIZaWVYLIoaf9Pv",
+          "width": 3468
+        }
+      ],
+      "place_id": "ChIJ9VO3vw72wokRh1NpIfnaog4",
+      "plus_code": {
+        "compound_code": "R334+2M \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R334+2M"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ9VO3vw72wokRh1NpIfnaog4",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 822,
+      "vicinity": "2-26 East 120th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8003881,
+          "lng": -73.9470053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8016829802915,
+            "lng": -73.94552806970849
+          },
+          "southwest": {
+            "lat": 40.7989850197085,
+            "lng": -73.94822603029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Althera Medical",
+      "place_id": "ChIJCdub6A_2wokR6nHZFrz1WRQ",
+      "plus_code": {
+        "compound_code": "R323+55 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R323+55"
+      },
+      "reference": "ChIJCdub6A_2wokR6nHZFrz1WRQ",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1400 5th Avenue # 1, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8240478,
+          "lng": -73.9447643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87822003591612,
+            "lng": -73.91064591328563
+          },
+          "southwest": {
+            "lat": 40.78278392408598,
+            "lng": -73.97119006413347
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e0a\u57ce",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108665206705263687409\">Chris Lidstone</a>"
+          ],
+          "photo_reference": "AeJbb3cQHE3-9JzaqogbVsEr76h8woT6XVBKP1KnS-mGrgncDWyupPZdlO_KwssHZnzfeOaLIkiX2nSlAHvdVag6hu2bVu3s_s9PgMwfU1FrJ0EraqhPI7h0z9ZKNJEHLcKQImBQWp_ZL14VM3-zh4q-P9e-AcgzO-Nnfb4I1zvbWD6v0nk7",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "reference": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8021363,
+          "lng": -73.9429713
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80353298029149,
+            "lng": -73.94174151970849
+          },
+          "southwest": {
+            "lat": 40.8008350197085,
+            "lng": -73.94443948029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Madison Park Apartments",
+      "place_id": "ChIJvbbYww72wokR8XYyLbvzk2E",
+      "plus_code": {
+        "compound_code": "R324+VR New York, NY, USA",
+        "global_code": "87G8R324+VR"
+      },
+      "rating": 3.5,
+      "reference": "ChIJvbbYww72wokR8XYyLbvzk2E",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1831 Madison Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8032081,
+          "lng": -73.9418144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8044302802915,
+            "lng": -73.94055866970848
+          },
+          "southwest": {
+            "lat": 40.8017323197085,
+            "lng": -73.9432566302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Joshua P. Issack, MD",
+      "place_id": "ChIJe19pQRD2wokRcsrGW_XzwOA",
+      "plus_code": {
+        "compound_code": "R335+77 New York, NY, USA",
+        "global_code": "87G8R335+77"
+      },
+      "reference": "ChIJe19pQRD2wokRcsrGW_XzwOA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1752 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7996519,
+          "lng": -73.9434559
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80095388029149,
+            "lng": -73.9419952197085
+          },
+          "southwest": {
+            "lat": 40.7982559197085,
+            "lng": -73.94469318029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Urban Garden Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104044528977357225239\">Jeremy</a>"
+          ],
+          "photo_reference": "AeJbb3cDIdClYeiCvEYtq8z8jod5fbi04QdRfAsxIyC7wkRnCY-ugh_cRHynrEbqJhZXdN4c8yK5B4bYBLz520rYrweO7KupOF9BAaQ8_EP8D9_1lLGfcnKoKlHcbZP4qiX8hpDZoClHPG78PnKzsmiyDGE2xOcP0Hg2mHEblOYPsUb8kWJc",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJDTVRaA_2wokRu88a-Nt1YjM",
+      "plus_code": {
+        "compound_code": "Q3X4+VJ New York, NY, USA",
+        "global_code": "87G8Q3X4+VJ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJDTVRaA_2wokRu88a-Nt1YjM",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 247,
+      "vicinity": "1640 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80125899999999,
+          "lng": -73.9384161
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80268128029149,
+            "lng": -73.93701281970849
+          },
+          "southwest": {
+            "lat": 40.7999833197085,
+            "lng": -73.9397107802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Harlem Youth Court",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114005098958647842300\">Harlem Youth Court</a>"
+          ],
+          "photo_reference": "AeJbb3dzmVuax7iw_3hO5ZJGBaVhsljmxuA7RCOg0MeATvifvgNJkj9eRAC_8ocJxwhfPevFys105h6v10Vok1WexsFVwXhnRzPROVPgRko-1k6z3TT-68rkhCzJOjjaDXphRlWDCpxKtJAEpMEaqbQvJGD_bunr9iUKJYmV8p9AX0eYNls7",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJJbYZpAn2wokRmW1b5SRz8ws",
+      "plus_code": {
+        "compound_code": "R326+GJ New York, NY, USA",
+        "global_code": "87G8R326+GJ"
+      },
+      "rating": 3.7,
+      "reference": "ChIJJbYZpAn2wokRmW1b5SRz8ws",
+      "scope": "GOOGLE",
+      "types": [
+        "courthouse",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "170 East 121st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7998327,
+          "lng": -73.93889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8012434802915,
+            "lng": -73.9374810197085
+          },
+          "southwest": {
+            "lat": 40.7985455197085,
+            "lng": -73.9401789802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Silberman School of Social Work",
+      "photos": [
+        {
+          "height": 342,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109940272495430378504\">Arthur</a>"
+          ],
+          "photo_reference": "AeJbb3c_xaa7p_wLKgKN6NQoMlo2oVUZd27oxn40lDa-u0T57I8qHGgLf7_oRJVc-GW15H02N9LBVYCOVYuhHQhjxFdW8m4XDLfFAXM27JURn11ds--YnwQmDYGN_1wpitNUyEDOGomuCxyGDW_unXTeF6hKxynZP0rQuNmjNzxrfGT0hqlw",
+          "width": 528
+        }
+      ],
+      "place_id": "ChIJkapnXwj2wokRYzFzXwdWZ-k",
+      "plus_code": {
+        "compound_code": "Q3X6+WC New York, NY, USA",
+        "global_code": "87G8Q3X6+WC"
+      },
+      "rating": 4.5,
+      "reference": "ChIJkapnXwj2wokRYzFzXwdWZ-k",
+      "scope": "GOOGLE",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "2180 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8029506,
+          "lng": -73.9444346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8044117802915,
+            "lng": -73.94313056970849
+          },
+          "southwest": {
+            "lat": 40.8017138197085,
+            "lng": -73.94582853029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Property Roster LLC",
+      "place_id": "ChIJA5TWYQ72wokRMzsev8IOF5w",
+      "plus_code": {
+        "compound_code": "R334+56 New York, NY, USA",
+        "global_code": "87G8R334+56"
+      },
+      "rating": 5,
+      "reference": "ChIJA5TWYQ72wokRMzsev8IOF5w",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1485 5th Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.797483,
+          "lng": -73.9388927
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7988044802915,
+            "lng": -73.93756401970849
+          },
+          "southwest": {
+            "lat": 40.7961065197085,
+            "lng": -73.9402619802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Just2Fierce",
+      "permanently_closed": true,
+      "place_id": "ChIJJQMyzQf2wokRa5Dg0ohQkKo",
+      "plus_code": {
+        "compound_code": "Q3W6+XC New York, NY, USA",
+        "global_code": "87G8Q3W6+XC"
+      },
+      "reference": "ChIJJQMyzQf2wokRa5Dg0ohQkKo",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "116th Street Avenue, Lexington Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8037682,
+          "lng": -73.9383586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80516398029151,
+            "lng": -73.9369752697085
+          },
+          "southwest": {
+            "lat": 40.80246601970851,
+            "lng": -73.9396732302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spring Moves Inc",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115358872297619135395\">Amir Figueroa</a>"
+          ],
+          "photo_reference": "AeJbb3cBhX90gdYBIcGVUFiMW0hSE0x5vFnmN59ePSdMrKYuXJyVOruDtU9Hl0yP4lO5P-Etyzylt-gBmL5ZXNknyXXLx37iEFsU9-c3kOuszj65Ym22Kk6h2ouUOKFbTs6znArHpyd6S54h7X9g9YIiaUmz23maVx7Ic9jzBAIpAHyxZvDg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-9ahMKdZwokRyFlaUnvoMvg",
+      "plus_code": {
+        "compound_code": "R336+GM New York, NY, USA",
+        "global_code": "87G8R336+GM"
+      },
+      "rating": 5,
+      "reference": "ChIJ-9ahMKdZwokRyFlaUnvoMvg",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "124 East 124th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.801204,
+          "lng": -73.938181
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80261788029149,
+            "lng": -73.9368156697085
+          },
+          "southwest": {
+            "lat": 40.79991991970849,
+            "lng": -73.9395136302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Center for Urban Community Services",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJOf_duQn2wokRkKJo4w3WvFc",
+      "plus_code": {
+        "compound_code": "R326+FP New York, NY, USA",
+        "global_code": "87G8R326+FP"
+      },
+      "rating": 4,
+      "reference": "ChIJOf_duQn2wokRkKJo4w3WvFc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "198 East 121st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79811410000001,
+          "lng": -73.9413782
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79961413029151,
+            "lng": -73.9398933697085
+          },
+          "southwest": {
+            "lat": 40.79691616970851,
+            "lng": -73.94259133029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harlem Dental Plaza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105216112253091154331\">Anthanett McClendon</a>"
+          ],
+          "photo_reference": "AeJbb3fKxXlJmewbCRrOYdVl0yMvhUiEhRPoqyDdFU0nZ0L3fgJhIlAbSLKWpWIB4vEOG-PtLg6qLczqUiB2O0NJ3szqrAdARuxngAFfh0kV1Jj2YkCe7PPIg_LJuM0Ocqcb-0mQPTIjiEb7wFT6gGGwZPP8a2gJ-MOmLdAVCqX_M5wUARo5",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJJVCOQAr2wokRfH3Wypl_G1c",
+      "plus_code": {
+        "compound_code": "Q3X5+6C New York, NY, USA",
+        "global_code": "87G8Q3X5+6C"
+      },
+      "rating": 1.4,
+      "reference": "ChIJJVCOQAr2wokRfH3Wypl_G1c",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "160 East 116th Street 2nd Floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80016940000001,
+          "lng": -73.9395266
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8013558802915,
+            "lng": -73.93779931970849
+          },
+          "southwest": {
+            "lat": 40.7986579197085,
+            "lng": -73.9404972802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hunter East Harlem Gallery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100208594536758895901\">John Marshall</a>"
+          ],
+          "photo_reference": "AeJbb3fgdT2MelbZeetM_n_Dpua2BT1Sxu1Ui17ZmaDNRSWC8Vr4tyq_zcAIXKBZI-sU7RPuSPTSQG7-FPgX5-SiQ06FWEYqWPWoiWNS1BmAO4BmJkz2jPNe0C2IiHiRt8nQnm1WZo3RsELoXm5jcKJVpulgnEBagbRtfzvDOuOUhKccLKMU",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJK6IKWQj2wokR77TT82-dn9E",
+      "plus_code": {
+        "compound_code": "R326+35 New York, NY, USA",
+        "global_code": "87G8R326+35"
+      },
+      "rating": 4.8,
+      "reference": "ChIJK6IKWQj2wokR77TT82-dn9E",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "2180 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8026887,
+          "lng": -73.9403849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8040892302915,
+            "lng": -73.9390985197085
+          },
+          "southwest": {
+            "lat": 40.8013912697085,
+            "lng": -73.9417964802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bailey House Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJqUXnQwn2wokRVR7Zo84AzV0",
+      "plus_code": {
+        "compound_code": "R335+3R New York, NY, USA",
+        "global_code": "87G8R335+3R"
+      },
+      "rating": 4,
+      "reference": "ChIJqUXnQwn2wokRVR7Zo84AzV0",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "1751 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8032081,
+          "lng": -73.9418144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8044302802915,
+            "lng": -73.94055866970848
+          },
+          "southwest": {
+            "lat": 40.8017323197085,
+            "lng": -73.9432566302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Ofelia Martinez, MD",
+      "place_id": "ChIJXzEnAQz2wokRX2IcLJ28rYE",
+      "plus_code": {
+        "compound_code": "R335+77 New York, NY, USA",
+        "global_code": "87G8R335+77"
+      },
+      "reference": "ChIJXzEnAQz2wokRX2IcLJ28rYE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1752 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79743879999999,
+          "lng": -73.9413223
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7988181802915,
+            "lng": -73.9399268697085
+          },
+          "southwest": {
+            "lat": 40.7961202197085,
+            "lng": -73.9426248302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "James Weldon Johnson School-Based Health Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110688763782984861249\">kat hallowell</a>"
+          ],
+          "photo_reference": "AeJbb3f9EJ_xgrhh-4hGp4mHsTdeEaaPdjsVE1U7Pjsa9LsgdH15ecSjCvDplBGhzbXhC2asRm8MMCZ7EgMzy18Wq5eoSRA9sdgSXMlUFsu0g2ze98Hq7qnHPwgVeYvDIpRF2YEZHIMlUy4WaUyb19f7ZK6MXDAMPEJ-dUPc-AbkHB-I9aU2",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJL931dAb2wokRIescR7EzdgU",
+      "plus_code": {
+        "compound_code": "Q3W5+XF New York, NY, USA",
+        "global_code": "87G8Q3W5+XF"
+      },
+      "rating": 3.3,
+      "reference": "ChIJL931dAb2wokRIescR7EzdgU",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "176 East 115th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80156299999999,
+          "lng": -73.9390469
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8028890802915,
+            "lng": -73.9376333697085
+          },
+          "southwest": {
+            "lat": 40.8001911197085,
+            "lng": -73.9403313302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "East Harlem Council-Human Services",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106546522831507917907\">raymond perez</a>"
+          ],
+          "photo_reference": "AeJbb3dJRWKiD4WptO8M69mxZ7AgOaa1YUEjQK0WQTi5N9nIymGAnXeDwlAN4RvuPOMI9ZUbH68mmMK91I-qBQavoLOESUV4O4oNlw8Ijetody4q1BRhnRP4UMdqtdGIST1EGdoSgJW8C66PCzeCQV6S_awpex5y0dNdJ-dJsAUTKbr0ybmb",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJjfIdCgn2wokRhFLHVrTmeHE",
+      "plus_code": {
+        "compound_code": "R326+J9 New York, NY, USA",
+        "global_code": "87G8R326+J9"
+      },
+      "rating": 4.2,
+      "reference": "ChIJjfIdCgn2wokRhFLHVrTmeHE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "150 E 121st St # Mgr, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7996428,
+          "lng": -73.9449166
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8010239302915,
+            "lng": -73.9436398197085
+          },
+          "southwest": {
+            "lat": 40.7983259697085,
+            "lng": -73.94633778029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kingdom Hall of Jehovah's Witnesses",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113705606578704167870\">Tomfrank Tomfrank</a>"
+          ],
+          "photo_reference": "AeJbb3fl20mtsJ7Reoca9Sy210gS7E1sU79vcdXZADoy2Oxg8aEo4vOpwsnir2jU8X6L0bkX19kSRpMmNuyxlr7xY0lHxO7XYNF2qmR4UsyKYxOviZZyshQ-6mFTV2HEviULJi_iciSDgjo2WWBUrD7X1-A5HpZzGzqvGJRPPUwltiXz0PhT",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJ4U_Mgg_2wokRw9uNrZdre2M",
+      "plus_code": {
+        "compound_code": "Q3X4+V2 New York, NY, USA",
+        "global_code": "87G8Q3X4+V2"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ4U_Mgg_2wokRw9uNrZdre2M",
+      "scope": "GOOGLE",
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "1763 Madison Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79870349999999,
+          "lng": -73.9391164
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80011153029149,
+            "lng": -73.9379035197085
+          },
+          "southwest": {
+            "lat": 40.79741356970849,
+            "lng": -73.9406014802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Health Jam Inc.",
+      "place_id": "ChIJ0R733gn2wokRYj57nK3BhOY",
+      "plus_code": {
+        "compound_code": "Q3X6+F9 New York, NY, USA",
+        "global_code": "87G8Q3X6+F9"
+      },
+      "rating": 3,
+      "reference": "ChIJ0R733gn2wokRYj57nK3BhOY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "2149 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7998061,
+          "lng": -73.9420816
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8011097302915,
+            "lng": -73.94073591970849
+          },
+          "southwest": {
+            "lat": 40.7984117697085,
+            "lng": -73.94343388029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "St. Paul & Holy Rosary Roman Catholic Church",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102745105564955755267\">Jacob</a>"
+          ],
+          "photo_reference": "AeJbb3cK_CfodV-QDSR99AQAg6Q7fekKChgyA-Z4ZYHWbMuwwXh_Ob5NFaXcyYZ1MWnrHqiBY1_IiORg95KtE2nnVWtmmkMT3BJpH6HljVcMEsuTIjQIstD1RvqzujU-rKVBJPPBfM9ch002ei-4LAx-57PAP-UcfM3Qo912FMv_NY7v2EAr",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJS-5bSg_2wokRMxmt7TSEEuE",
+      "plus_code": {
+        "compound_code": "Q3X5+W5 New York, NY, USA",
+        "global_code": "87G8Q3X5+W5"
+      },
+      "rating": 4.7,
+      "reference": "ChIJS-5bSg_2wokRMxmt7TSEEuE",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 199,
+      "vicinity": "113 East 117th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8023203,
+          "lng": -73.9469254
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8038424802915,
+            "lng": -73.94565536970849
+          },
+          "southwest": {
+            "lat": 40.8011445197085,
+            "lng": -73.9483533302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Children's Aid - Dunlevy Milbank Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117209297040406894629\">Coach V</a>"
+          ],
+          "photo_reference": "AeJbb3cmZas5v5L1K7Q1smJeV5CSeJk0B87r-QkqWzrvenzXELzdKxRkn0iNL7BgIjDq7NqbSEc7zsYHfKQFypmGxSPskgSBB7UvxtlOXVxScxV2ReE4hxKIZZaKCtHqeaXuw3xSW_wKJPxIFEADIIFE3wSLMbQlCcYksNS5lxGFXqswdOJ5",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOf0cOg72wokRt_r6M5eBa80",
+      "plus_code": {
+        "compound_code": "R323+W6 New York, NY, USA",
+        "global_code": "87G8R323+W6"
+      },
+      "rating": 4.4,
+      "reference": "ChIJOf0cOg72wokRt_r6M5eBa80",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 128,
+      "vicinity": "14-32 West 118th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7984351,
+          "lng": -73.9405747
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7996902302915,
+            "lng": -73.93929081970849
+          },
+          "southwest": {
+            "lat": 40.7969922697085,
+            "lng": -73.9419887802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Taco Bell",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117226607619447793906\">Taco Bell</a>"
+          ],
+          "photo_reference": "AeJbb3cXAIdTIt1Z7_-ZlYuswAziGo40Ny-cH5nw05o30Bx7tGQ21uXw5DpTwpTXoctUk9mZABUj1QHJ8ne9_lvVn0lPc6gyfrwVbPnKGlw5NBrIgqDpKbs_Fes9WD2FhC-zGZD7ywBHTKKLFYU38nAex5TkEAGsGxaC4CLudV1LzDyHomqT",
+          "width": 300
+        }
+      ],
+      "place_id": "ChIJXSKJHgb2wokRAiaJVO-emik",
+      "plus_code": {
+        "compound_code": "Q3X5+9Q New York, NY, USA",
+        "global_code": "87G8Q3X5+9Q"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJXSKJHgb2wokRAiaJVO-emik",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 274,
+      "vicinity": "173 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7982409,
+          "lng": -73.94019109999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79950983029151,
+            "lng": -73.9389008197085
+          },
+          "southwest": {
+            "lat": 40.79681186970851,
+            "lng": -73.9415987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "LENS LAB OPTICAL",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101792735236904318910\">Wizard of Eyes Optical</a>"
+          ],
+          "photo_reference": "AeJbb3ccyvw8Txz-bs3V_cJtyVxg2f6DuDw2TcGE3fbydVvKBy9HsjkNo6p_7pucWolpFcqtpuos8IExb7BYl4att0t0t_PW1GyeUlBnv-j65HXSqNSqec24AkV20pyMurypEVOdOKC00J_TsIMlAu_yXLX4xC8HtKOlkUcRSpADjB1VACNe",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJr6C8IQb2wokRQx2PgLOg250",
+      "plus_code": {
+        "compound_code": "Q3X5+7W New York, NY, USA",
+        "global_code": "87G8Q3X5+7W"
+      },
+      "rating": 1.9,
+      "reference": "ChIJr6C8IQb2wokRQx2PgLOg250",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 143,
+      "vicinity": "187 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7989085,
+          "lng": -73.93903390000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8003046802915,
+            "lng": -73.9377936697085
+          },
+          "southwest": {
+            "lat": 40.7976067197085,
+            "lng": -73.94049163029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "American Outlet Inc",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1654,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106941016851690891002\">William V</a>"
+          ],
+          "photo_reference": "AeJbb3ekOo8ixYNxGYb9gw59neMIb4Avbz40h6TwG8TrL4_Ir3jK3yHmnT1Kq0buLn406iHhxXuYBkNYGC5K857uavAaAFRWm2yzPBkGjUH7IZ9E08Nna31WoAOb-zHXVKc1_eh_Edt6Y5EayERk4q7cNzg8Dh1xyJ0GI3ZaUDpnPGZYWE5M",
+          "width": 2474
+        }
+      ],
+      "place_id": "ChIJfTAgiAj2wokRZAmtiwDBIRk",
+      "plus_code": {
+        "compound_code": "Q3X6+H9 New York, NY, USA",
+        "global_code": "87G8Q3X6+H9"
+      },
+      "rating": 4.2,
+      "reference": "ChIJfTAgiAj2wokRZAmtiwDBIRk",
+      "scope": "GOOGLE",
+      "types": [
+        "department_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 195,
+      "vicinity": "2151 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.803517,
+          "lng": -73.938827
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8047703302915,
+            "lng": -73.9375490197085
+          },
+          "southwest": {
+            "lat": 40.8020723697085,
+            "lng": -73.9402469802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Odyssey House",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJIX1sFqNYwokRGt3xdx569P4",
+      "plus_code": {
+        "compound_code": "R336+CF New York, NY, USA",
+        "global_code": "87G8R336+CF"
+      },
+      "rating": 3.5,
+      "reference": "ChIJIX1sFqNYwokRGt3xdx569P4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "123 East 123rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7982886,
+          "lng": -73.9413792
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79973013029149,
+            "lng": -73.9399623697085
+          },
+          "southwest": {
+            "lat": 40.79703216970849,
+            "lng": -73.94266033029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "LoansRus",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103390521205253792049\">LoansRus</a>"
+          ],
+          "photo_reference": "AeJbb3ddpDn_0x3mnGv6WGzaUV02Zj1s2fxOlZmdu1U4V4blynzPrh3ogFVi6DHxz7yEJP8n3Vg2FvcZ7z6jixhhMzxjUKTtp0qx9Vx0bRdGv_qkXONBRR-yE_dMYGKuZApc2kWXsU2YEOgumUAl5FM1Pq6F1BOXCPpSb1LNFu1qhNzdjOVv",
+          "width": 1728
+        }
+      ],
+      "place_id": "ChIJsaa4Awb2wokRPvO3rRbH8KE",
+      "plus_code": {
+        "compound_code": "Q3X5+8C New York, NY, USA",
+        "global_code": "87G8Q3X5+8C"
+      },
+      "rating": 4.6,
+      "reference": "ChIJsaa4Awb2wokRPvO3rRbH8KE",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 318,
+      "vicinity": "156 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8028917,
+          "lng": -73.9401379
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80425073029151,
+            "lng": -73.93869151970848
+          },
+          "southwest": {
+            "lat": 40.80155276970851,
+            "lng": -73.94138948029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Safe Horizon",
+      "place_id": "ChIJKYCZuRL2wokRyone5F_AOXA",
+      "plus_code": {
+        "compound_code": "R335+5W New York, NY, USA",
+        "global_code": "87G8R335+5W"
+      },
+      "rating": 4.6,
+      "reference": "ChIJKYCZuRL2wokRyone5F_AOXA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "1753 Park Avenue #1, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8033902,
+          "lng": -73.9383306
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80471053029149,
+            "lng": -73.93691386970849
+          },
+          "southwest": {
+            "lat": 40.80201256970849,
+            "lng": -73.9396118302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bowery Resident Committee",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102045066006390778529\">Adekoya Gbamuse</a>"
+          ],
+          "photo_reference": "AeJbb3dUlB7GCkO_eh1uSxbo6m2DsYy4LDBz4NlSYEZ_1PAl8LAU8YlK57ZDiGOTb61GokAb8jLDCIW5PR1q9IWBguX8IGQBp2NCQPtzcETqe-qmYfVrmklV17UUZKCqylz0xqORWkDK70KjcJBD0XSWgs1ZXTD79jBthWUJQLGqrlIXSkMX",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ84zuJQr2wokR5IlzVgEwufI",
+      "plus_code": {
+        "compound_code": "R336+9M New York, NY, USA",
+        "global_code": "87G8R336+9M"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ84zuJQr2wokR5IlzVgEwufI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "2027 Lexington Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7986495,
+          "lng": -73.9411238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7999117802915,
+            "lng": -73.9398375197085
+          },
+          "southwest": {
+            "lat": 40.7972138197085,
+            "lng": -73.94253548029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Domino's Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1253,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114077192885813295260\">Domino&#39;s Pizza</a>"
+          ],
+          "photo_reference": "AeJbb3eGuHNEsnwsE2UXMK4qUh1R-aPNK0wGsF0IcYTU6DX5qR9_mmXFJyzXDepcfxuTODCNvwvUgLCotXC_HjZArHC0A6GOCQ-WfSUFBIOK3S8TVLbH2DdU-XVDuJywfhtMuwHC8oyYfpUfsB5zZNxoMeGa3KetNMwh-F3R2MGucEnt78p8",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJtVYWqAj2wokRwgDGuzoGoQc",
+      "plus_code": {
+        "compound_code": "Q3X5+FH New York, NY, USA",
+        "global_code": "87G8Q3X5+FH"
+      },
+      "price_level": 1,
+      "rating": 3.2,
+      "reference": "ChIJtVYWqAj2wokRwgDGuzoGoQc",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 432,
+      "vicinity": "153 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7980314,
+          "lng": -73.9396943
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7994225302915,
+            "lng": -73.93844621970848
+          },
+          "southwest": {
+            "lat": 40.7967245697085,
+            "lng": -73.9411441802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116477588504359324456\">Katherine Horn</a>"
+          ],
+          "photo_reference": "AeJbb3exAjA7t9nu4059uYuLgKeQ5-83zwgnjdwFRwS4EDnv7ft5N04Fzo7PR6ELopEUYTmG2Os4T7oPoD3bJn42k8GAFkNK1oqKPeKmoBkgLOdy3cl18N7nYo328pPB3j-kLuJcrey-qW0S5MWen5_gxck9uqiorB66ura5vJjk9pFe-i3D",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ12_gJQb2wokRLVw2EvNCsus",
+      "plus_code": {
+        "compound_code": "Q3X6+64 New York, NY, USA",
+        "global_code": "87G8Q3X6+64"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJ12_gJQb2wokRLVw2EvNCsus",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 61,
+      "vicinity": "201 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80093589999999,
+          "lng": -73.9380789
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8022244802915,
+            "lng": -73.9366664697085
+          },
+          "southwest": {
+            "lat": 40.7995265197085,
+            "lng": -73.9393644302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "City Fresh Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113131457100396461443\">O. Ogie</a>"
+          ],
+          "photo_reference": "AeJbb3fy7ySohmvNfEXYBVHWbJi-isQOABBxuI8jz2nkbS4mv35a1X6XpXVtGBL89Sud8TJiSi5m2Er6yHmlvcn9ymVkJygpDdNFvZBafinTW5yxbmLrYlL1PG6ahB_6_4RiBxAUrtVzNKoQjye0iop33HqV-pP3mb3hVmurMddZveGkRz_w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ88OvsQn2wokRGQDD9kx6Wek",
+      "plus_code": {
+        "compound_code": "R326+9Q New York, NY, USA",
+        "global_code": "87G8R326+9Q"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ88OvsQn2wokRGQDD9kx6Wek",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 875,
+      "vicinity": "2212 3rd Avenue #3536, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7980271,
+          "lng": -73.93968339999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7994204802915,
+            "lng": -73.93844071970848
+          },
+          "southwest": {
+            "lat": 40.7967225197085,
+            "lng": -73.94113868029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Bank of America ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117133156013227178383\">Lidy Santana</a>"
+          ],
+          "photo_reference": "AeJbb3fr-nyv_VauYAFZdGXcUjk7LhM9J_OEhjApnsMDPxfwiNQTuw3Gom-YofZBgM6OIPOR-U3FPDTC0qpukZSHH8n5AaP-WEzOL4PTQTcILk0gHlbgBbChAl7WKLcue0zH5v07o394Rm6MI8iHR5oK0AgpBvCJ8mjUq_rYq5m8sof0Qr6D",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ12_gJQb2wokRVzIYpzyrrNI",
+      "plus_code": {
+        "compound_code": "Q3X6+64 New York, NY, USA",
+        "global_code": "87G8Q3X6+64"
+      },
+      "rating": 2.1,
+      "reference": "ChIJ12_gJQb2wokRVzIYpzyrrNI",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "201 East 116th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8001763,
+          "lng": -73.9389751
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80145213029149,
+            "lng": -73.93740541970848
+          },
+          "southwest": {
+            "lat": 40.79875416970849,
+            "lng": -73.9401033802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Muss Development",
+      "permanently_closed": true,
+      "place_id": "ChIJXVc4-Aj2wokRV53PujCA1RA",
+      "plus_code": {
+        "compound_code": "R326+3C New York, NY, USA",
+        "global_code": "87G8R326+3C"
+      },
+      "rating": 4,
+      "reference": "ChIJXVc4-Aj2wokRV53PujCA1RA",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "181 East 119th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7971435,
+          "lng": -73.9389126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79862468029149,
+            "lng": -73.93746476970848
+          },
+          "southwest": {
+            "lat": 40.7959267197085,
+            "lng": -73.94016273029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "116 Flowers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+          ],
+          "photo_reference": "AeJbb3c2RECA4wY_DpoA6VBgT_6s9I3XKIaG6vTp5-ySCk7fZQeGY-ATUgFYb1fDhiNzg9-buh1NoPb1WWNxhKcdV0g7WJI8auahhkMByyQ2D_73wkx-Z_7kaqXiGeYFYlOi8srQ-zKmjGjCSSMOpRfo83fCzIZD4D6h0UEYM4yXzAI8u-Zz",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJcR5gywf2wokRoAU3MEm3j8Y",
+      "plus_code": {
+        "compound_code": "Q3W6+VC New York, NY, USA",
+        "global_code": "87G8Q3W6+VC"
+      },
+      "rating": 4.6,
+      "reference": "ChIJcR5gywf2wokRoAU3MEm3j8Y",
+      "scope": "GOOGLE",
+      "types": [
+        "florist",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 47,
+      "vicinity": "232 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7977423,
+          "lng": -73.9390964
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7990252802915,
+            "lng": -73.9377960697085
+          },
+          "southwest": {
+            "lat": 40.7963273197085,
+            "lng": -73.9404940302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mauro Brothers Real Estate",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 352,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106288495556014884250\">Mauro Brothers Real Estate</a>"
+          ],
+          "photo_reference": "AeJbb3dxadK22nQiuFDttweYET5n8pJdQo0TecAJVZK4168Qc27A5sqzxbh8uyFjt0MaMYC7dlzsp86Hy0M6V4Egd5nhwt0EVGfVdBYP2Z45UY7lGKz6bux5lWhxQEiZfk1v77_2sqEr55vlFPNeYZ54yQxFQxLLd0cgwXBHSgjiixDg5CDO",
+          "width": 352
+        }
+      ],
+      "place_id": "ChIJYxwj0Af2wokRKveVNKJpHCM",
+      "plus_code": {
+        "compound_code": "Q3X6+39 New York, NY, USA",
+        "global_code": "87G8Q3X6+39"
+      },
+      "rating": 3.1,
+      "reference": "ChIJYxwj0Af2wokRKveVNKJpHCM",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "239 East 116th Street # 2, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8003881,
+          "lng": -73.9470053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8016829802915,
+            "lng": -73.94552806970849
+          },
+          "southwest": {
+            "lat": 40.7989850197085,
+            "lng": -73.94822603029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wildfeuer Olga MD",
+      "place_id": "ChIJCdub6A_2wokRhgShxur58lE",
+      "plus_code": {
+        "compound_code": "R323+55 New York, NY, USA",
+        "global_code": "87G8R323+55"
+      },
+      "reference": "ChIJCdub6A_2wokRhgShxur58lE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1400 5th Avenue # 7R, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8032599,
+          "lng": -73.9416983
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8047613802915,
+            "lng": -73.94023561970849
+          },
+          "southwest": {
+            "lat": 40.8020634197085,
+            "lng": -73.94293358029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Temps Jenny MD",
+      "place_id": "ChIJGTQnAQz2wokR1h5KuXW_IgU",
+      "plus_code": {
+        "compound_code": "R335+88 New York, NY, USA",
+        "global_code": "87G8R335+88"
+      },
+      "reference": "ChIJGTQnAQz2wokR1h5KuXW_IgU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1752 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7986128,
+          "lng": -73.94094559999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7998607802915,
+            "lng": -73.93967066970848
+          },
+          "southwest": {
+            "lat": 40.7971628197085,
+            "lng": -73.9423686302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NYC Hispanic Chamber",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJhU_1pwj2wokRAaqb7J4J48s",
+      "plus_code": {
+        "compound_code": "Q3X5+CJ New York, NY, USA",
+        "global_code": "87G8Q3X5+CJ"
+      },
+      "rating": 5,
+      "reference": "ChIJhU_1pwj2wokRAaqb7J4J48s",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "159 East 116th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8032599,
+          "lng": -73.9416983
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8047613802915,
+            "lng": -73.94023561970849
+          },
+          "southwest": {
+            "lat": 40.8020634197085,
+            "lng": -73.94293358029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Symonette Deborrah MD",
+      "place_id": "ChIJGTQnAQz2wokRojM13WDfo88",
+      "plus_code": {
+        "compound_code": "R335+88 New York, NY, USA",
+        "global_code": "87G8R335+88"
+      },
+      "reference": "ChIJGTQnAQz2wokRojM13WDfo88",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1752 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8032599,
+          "lng": -73.9416983
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8047613802915,
+            "lng": -73.94023561970849
+          },
+          "southwest": {
+            "lat": 40.8020634197085,
+            "lng": -73.94293358029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "North General Hospital: Birnbaum Ira MD",
+      "place_id": "ChIJGTQnAQz2wokRHP4PNqqsJVQ",
+      "plus_code": {
+        "compound_code": "R335+88 New York, NY, USA",
+        "global_code": "87G8R335+88"
+      },
+      "reference": "ChIJGTQnAQz2wokRHP4PNqqsJVQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1752 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8032599,
+          "lng": -73.9416983
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8047613802915,
+            "lng": -73.94023561970849
+          },
+          "southwest": {
+            "lat": 40.8020634197085,
+            "lng": -73.94293358029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mosende Crisanta MD",
+      "place_id": "ChIJGTQnAQz2wokRKHxPdE6UQvE",
+      "plus_code": {
+        "compound_code": "R335+88 New York, NY, USA",
+        "global_code": "87G8R335+88"
+      },
+      "reference": "ChIJGTQnAQz2wokRKHxPdE6UQvE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1752 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8032223,
+          "lng": -73.9416009
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8047160302915,
+            "lng": -73.9406006697085
+          },
+          "southwest": {
+            "lat": 40.8020180697085,
+            "lng": -73.94329863029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Adam Aponte, MD",
+      "place_id": "ChIJGTQnAQz2wokRKJ9iWNmwK9w",
+      "plus_code": {
+        "compound_code": "R335+79 New York, NY, USA",
+        "global_code": "87G8R335+79"
+      },
+      "reference": "ChIJGTQnAQz2wokRKJ9iWNmwK9w",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1879 Madison Avenue, New York"
+    }
+  ],
+  "status": "OK"
+}

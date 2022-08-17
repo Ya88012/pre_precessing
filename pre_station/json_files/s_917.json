@@ -1,0 +1,2656 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3cpt4_ZoJziOErszq70hvstepZa1O28YMDGceThYCzax7D2OGvVMLrcgGFVwr1PCyj7YjoPyLf2RP2cjLaOA5nSvY5XpaS8T18iPAkf7CxSorlPCwqlRB5pVT5ewEOnJBPQLzNIQZeQpnYl3XGv3gt4zR4BmLuYzoMSGn_C3ujNm6yc",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8344548,
+          "lng": -73.9385727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8357959302915,
+            "lng": -73.9374075697085
+          },
+          "southwest": {
+            "lat": 40.8330979697085,
+            "lng": -73.9401055302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morris-Jumel Mansion",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1509,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113328106824155509327\">Morris-Jumel Mansion</a>"
+          ],
+          "photo_reference": "AeJbb3dsh1HXBlk6SvAHomYqKlMlG1H4F6mgGmhFhPuuZvZBEVfC7Q-yfmS7aC9VpWef8sJsud0hAY2bDCsyQVErXohyMf0eYg_4iASFMHESzNx56InSyUzFmuljNiNYfquzfNnZnBzNEegC4Iw12hBKUr0VbdbbCYbpE4YMvt7gAH1BPzDr",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJqTIQToL2wokRKbmUA423_YY",
+      "plus_code": {
+        "compound_code": "R3M6+QH \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M6+QH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJqTIQToL2wokRKbmUA423_YY",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 410,
+      "vicinity": "65 Jumel Terrace, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8362963,
+          "lng": -73.9381405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8375442302915,
+            "lng": -73.93686526970849
+          },
+          "southwest": {
+            "lat": 40.8348462697085,
+            "lng": -73.93956323029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Edgecombe Residential Treatment Facility",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJMbaI6YL2wokR5ceZJkZTuUY",
+      "plus_code": {
+        "compound_code": "R3P6+GP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3P6+GP"
+      },
+      "reference": "ChIJMbaI6YL2wokR5ceZJkZTuUY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "611 Edgecombe Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8370763,
+          "lng": -73.94430679999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8384252802915,
+            "lng": -73.94295781970848
+          },
+          "southwest": {
+            "lat": 40.8357273197085,
+            "lng": -73.9456557802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Timothy Cragin Wang, MD",
+      "photos": [
+        {
+          "height": 651,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117450971121256517324\">Timothy Cragin Wang, MD</a>"
+          ],
+          "photo_reference": "AeJbb3cQqO9kqKLylH1eESSowgRX7yDf6Apfm-0nhacbA5rcl22atfabu8_NTtrB6N4t3D6IGTGnJXhinht3UJpyyZD7RLs2XCtnlcMPbZwdKX-qYj9ltyOuY4fasZ6R46MPGhzLBDGWwrIwye1ii2ubH7WH3CaUDp4NK7Y47PYvOItdbg5W",
+          "width": 433
+        }
+      ],
+      "place_id": "ChIJDY9T8Jz2wokRRPXUvra4fmo",
+      "plus_code": {
+        "compound_code": "R3P4+R7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3P4+R7"
+      },
+      "reference": "ChIJDY9T8Jz2wokRRPXUvra4fmo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "161 Fort Washington Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8346594,
+          "lng": -73.94489109999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8360640802915,
+            "lng": -73.94343786970849
+          },
+          "southwest": {
+            "lat": 40.8333661197085,
+            "lng": -73.9461358302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Planet Fitness",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104678870493103258474\">Planet Fitness</a>"
+          ],
+          "photo_reference": "AeJbb3d0nnZenvfnrWQaUu-sXubzlAOxWUEUqySq75sPWHWbZIXkTPmClPKQHmSwT-ZOSGuWIsCs6mBefeOVZZNu3Iul49JWgvapD5IDSsrzhlfaKNuC0evj2y32ooeq5gTLLBRKdt92JySwGOlmUhcwlpR43pwAcoKJS3mjczA9E8wyIK5s",
+          "width": 5760
+        }
+      ],
+      "place_id": "ChIJBbShzIX2wokRlWY1NelGWGU",
+      "plus_code": {
+        "compound_code": "R3M4+V2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M4+V2"
+      },
+      "rating": 4,
+      "reference": "ChIJBbShzIX2wokRlWY1NelGWGU",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 602,
+      "vicinity": "3799 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8315644,
+          "lng": -73.94247589999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8327556802915,
+            "lng": -73.94054771970849
+          },
+          "southwest": {
+            "lat": 40.8300577197085,
+            "lng": -73.9432456802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Public School 28",
+      "place_id": "ChIJ9aslM4H2wokRKqFNbgBnGwg",
+      "plus_code": {
+        "compound_code": "R3J5+J2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3J5+J2"
+      },
+      "rating": 5,
+      "reference": "ChIJ9aslM4H2wokRKqFNbgBnGwg",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8332436,
+          "lng": -73.936106
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8346034302915,
+            "lng": -73.93450506970848
+          },
+          "southwest": {
+            "lat": 40.8319054697085,
+            "lng": -73.93720303029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rangel Community Center",
+      "place_id": "ChIJJwwjFij0wokR_--5TzgoeME",
+      "plus_code": {
+        "compound_code": "R3M7+7H \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M7+7H"
+      },
+      "rating": 3.5,
+      "reference": "ChIJJwwjFij0wokR_--5TzgoeME",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "159-36 Harlem River Drive, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83555430000001,
+          "lng": -73.9396543
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8368535802915,
+            "lng": -73.93836391970851
+          },
+          "southwest": {
+            "lat": 40.8341556197085,
+            "lng": -73.94106188029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "AWS - Advantage Wholesale Supply",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101514596329955227581\">Ed Vantage</a>"
+          ],
+          "photo_reference": "AeJbb3dsFzVPRPbDmhQDuYXmZBpcmtJc3KZZ3pVBacJ9ua4YQjbntG_TRkZnPCVIv2Uts4SWUQzX3lJ2CdXdd5ETpP0VrZPJadeLuVAeLrhHTQdWCYHnsBQyvKNLJ3ed5L9cqSt6jJo-3bMXvmZNV9HzJmqVKBe6Mn2-Ri2KROp1T9M2-3rL",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJz6NKpoP2wokRDc7uDxMFGhY",
+      "plus_code": {
+        "compound_code": "R3P6+64 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3P6+64"
+      },
+      "rating": 4.4,
+      "reference": "ChIJz6NKpoP2wokRDc7uDxMFGhY",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "1028 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8350471,
+          "lng": -73.9393805
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8364284802915,
+            "lng": -73.93823516970849
+          },
+          "southwest": {
+            "lat": 40.8337305197085,
+            "lng": -73.9409331302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "CTown Supermarkets",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 453,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107065411015330169841\">CTown Supermarkets</a>"
+          ],
+          "photo_reference": "AeJbb3cHK6xyV8P9SIGRLjhVJKWqmk1w_Ge4UrJNuRuzI-DkP6kFUvm6jFTZmeLEGS2I6qCY1iX1kWWzVqzcWFWKVrO106OhYoyupr7_VDkN84Mn6tfqcJ5A7KKjKA703f3_uexu5KASORgwxsCLQ3Jcd8SWGq0kU1jAtRYMQNwzYesJusw",
+          "width": 806
+        }
+      ],
+      "place_id": "ChIJk4Y0poP2wokRztPMZV1YW3U",
+      "plus_code": {
+        "compound_code": "R3P6+26 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3P6+26"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJk4Y0poP2wokRztPMZV1YW3U",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 755,
+      "vicinity": "1016 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83239809999999,
+          "lng": -73.94202109999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83380538029149,
+            "lng": -73.94081031970849
+          },
+          "southwest": {
+            "lat": 40.83110741970849,
+            "lng": -73.94350828029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Visiting Nurse Services of NY",
+      "place_id": "ChIJwQJ3sob2wokRP0Ij8TWr2Ek",
+      "plus_code": {
+        "compound_code": "R3J5+X5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3J5+X5"
+      },
+      "reference": "ChIJwQJ3sob2wokRP0Ij8TWr2Ek",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1945 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.836726,
+          "lng": -73.94257189999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83794098029149,
+            "lng": -73.9413976197085
+          },
+          "southwest": {
+            "lat": 40.83524301970849,
+            "lng": -73.9440955802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Jose Driving School",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 783,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105245704907961747183\">G C</a>"
+          ],
+          "photo_reference": "AeJbb3chkQ5NuDyBfUseyBWOd7AhUWpPO5ETjZ5Nq61J2AedT-5Tf4aH8jOlj7unVArD_BaToh0RhZhes2NuBsoV9v5asguXgih7hI958dHVGxSGnbm5Fy90tHScBJ1AEZApdFOn4ox4ajo7OQjPBEckgksQWPk3R2Q6Vm-zJtpY0dU2Rsh-",
+          "width": 905
+        }
+      ],
+      "place_id": "ChIJL6q3jWn2wokR_n-jsa-2RNQ",
+      "plus_code": {
+        "compound_code": "R3P4+MX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3P4+MX"
+      },
+      "rating": 3.6,
+      "reference": "ChIJL6q3jWn2wokR_n-jsa-2RNQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 63,
+      "vicinity": "3866 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8341378,
+          "lng": -73.94144849999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8355274802915,
+            "lng": -73.9400770197085
+          },
+          "southwest": {
+            "lat": 40.8328295197085,
+            "lng": -73.94277498029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Community League Health Center: Scotland-Carab Terry MD",
+      "place_id": "ChIJ1a4T8oP2wokRGzc2JGV8Hhw",
+      "plus_code": {
+        "compound_code": "R3M5+MC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M5+MC"
+      },
+      "reference": "ChIJ1a4T8oP2wokRGzc2JGV8Hhw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1996 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8368164,
+          "lng": -73.9393657
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83817018029151,
+            "lng": -73.9379554197085
+          },
+          "southwest": {
+            "lat": 40.83547221970851,
+            "lng": -73.94065338029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Club Deportivo Inc",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3384,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118203565858735469154\">Samara Riviera</a>"
+          ],
+          "photo_reference": "AeJbb3cDCuBRIpirr-Nt82Mc41Vu2d_pdPpPDcqUYg17LbAw3BYrULg1B9QnWNdxHTXmMNtfVhzE8HCq313HDRrVshGqTc6fRpE3SMUc8wET5arK834bwJipGVA4RR9eULANTdCvgsMjv0GkT-D66SsZWbeOhhquqOgI5z2WjTgyMRzDcnP7",
+          "width": 2538
+        }
+      ],
+      "place_id": "ChIJxzEaJIP2wokRXErHXmVNywE",
+      "plus_code": {
+        "compound_code": "R3P6+P7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3P6+P7"
+      },
+      "rating": 4.4,
+      "reference": "ChIJxzEaJIP2wokRXErHXmVNywE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 121,
+      "vicinity": "2088 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8324691,
+          "lng": -73.9396143
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8338444802915,
+            "lng": -73.93834046970849
+          },
+          "southwest": {
+            "lat": 40.8311465197085,
+            "lng": -73.94103843029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "John T. Brush Stairway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110860228873770406633\">John Cerilli</a>"
+          ],
+          "photo_reference": "AeJbb3cQW-4pVSIQj_xrfIdNnEn1GyaUlHcWhNRFMLEsaBS9U0onYhBbiqSAfHj6VaeenJ6K8Tn-HUdb4OxwOfr32Thk0m_ERY3wmq7wkNr7GA0t4EBoqRBWA9LKPj1v4I8xxHpGof9pWwAO8CUIPX2b0HDM0m1S5A3s9eREZ48rj1Bw6maY",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJnU1RbIH2wokRsD1wL2om930",
+      "plus_code": {
+        "compound_code": "R3J6+X5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3J6+X5"
+      },
+      "rating": 4.2,
+      "reference": "ChIJnU1RbIH2wokRsD1wL2om930",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 51,
+      "vicinity": "Highbridge Park, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83492239999999,
+          "lng": -73.9445894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8362348302915,
+            "lng": -73.9431681197085
+          },
+          "southwest": {
+            "lat": 40.8335368697085,
+            "lng": -73.94586608029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "24-7 Discount Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJzwP1SoT2wokR5b5x_VuVXG8",
+      "plus_code": {
+        "compound_code": "R3M4+X5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M4+X5"
+      },
+      "rating": 3,
+      "reference": "ChIJzwP1SoT2wokR5b5x_VuVXG8",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3801 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83439829999999,
+          "lng": -73.9442056
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83581958029148,
+            "lng": -73.9429708197085
+          },
+          "southwest": {
+            "lat": 40.83312161970849,
+            "lng": -73.94566878029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "TD \u9280\u884c",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1801,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112776849891208886356\">Jay Santiago</a>"
+          ],
+          "photo_reference": "AeJbb3dj5-BO4lD_0zjorSCz9hlhdA6mu4Dm5bd7PFXDAzqvcFFhK6KNUwr5U7PQt1GkEpnXRCPj5902Eu6ECP9PZ0obo5ZEjmdnMgt6tR0-IOLMnXgoDjhR4ccC8sMzbWi_rSkAlInrMD_Yuio1jacDlo8Q-p6p0d2xHEJPKlJlsziPjIO3",
+          "width": 912
+        }
+      ],
+      "place_id": "ChIJSakGrIT2wokRWERctRiGrKI",
+      "plus_code": {
+        "compound_code": "R3M4+Q8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M4+Q8"
+      },
+      "rating": 3.2,
+      "reference": "ChIJSakGrIT2wokRWERctRiGrKI",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 73,
+      "vicinity": "3798 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8349904,
+          "lng": -73.9438974
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8363989302915,
+            "lng": -73.94258046970849
+          },
+          "southwest": {
+            "lat": 40.8337009697085,
+            "lng": -73.94527843029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Montilla Real Estate",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJXcBRQYT2wokRrBYv57CAfnk",
+      "plus_code": {
+        "compound_code": "R3M4+XC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M4+XC"
+      },
+      "rating": 3.7,
+      "reference": "ChIJXcBRQYT2wokRrBYv57CAfnk",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "3810 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83448000000001,
+          "lng": -73.941211
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83577268029151,
+            "lng": -73.93972546970849
+          },
+          "southwest": {
+            "lat": 40.83307471970851,
+            "lng": -73.9424234302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Law Office Of Bradley D. Shaw",
+      "place_id": "ChIJPSiKNeVYwokR72kBPefZxM4",
+      "plus_code": {
+        "compound_code": "R3M5+QG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M5+QG"
+      },
+      "rating": 1,
+      "reference": "ChIJPSiKNeVYwokR72kBPefZxM4",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "2006 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8338195,
+          "lng": -73.9428018
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83523788029149,
+            "lng": -73.9414016697085
+          },
+          "southwest": {
+            "lat": 40.83253991970849,
+            "lng": -73.9440996302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Time Zone International",
+      "place_id": "ChIJIzutyVL3wokRclfr0YZ_Ykg",
+      "plus_code": {
+        "compound_code": "R3M4+GV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M4+GV"
+      },
+      "rating": 4.7,
+      "reference": "ChIJIzutyVL3wokRclfr0YZ_Ykg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "544 West 157th Street #71, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8240478,
+          "lng": -73.9447643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87822003591612,
+            "lng": -73.91064591328563
+          },
+          "southwest": {
+            "lat": 40.78278392408598,
+            "lng": -73.97119006413347
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e0a\u57ce",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108665206705263687409\">Chris Lidstone</a>"
+          ],
+          "photo_reference": "AeJbb3djhZ1zEvPImG9IMgeNAhHEaVVLn8-ylHEw8QYvY7RRzu-BU3ZBZzVZwRdSa4fRU49gFe4m31bAcLOtsn303ukbfNd1QtBI_SpJIv9eHXq05RVFo6R_24Py-wXZ0PEmJLMYQ_m3A3Iz9skOt4TywwRVOIt-AtHO9pHFCydFPrbnWSG7",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "reference": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83410019999999,
+          "lng": -73.9443939
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8353862302915,
+            "lng": -73.9431735197085
+          },
+          "southwest": {
+            "lat": 40.83268826970851,
+            "lng": -73.9458714802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "T-Mobile",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 566,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115749244048903741973\">T-Mobile</a>"
+          ],
+          "photo_reference": "AeJbb3dKeg2_r4dCUESR6VEDCl3U6HjEoJ70mohX8cFnpN9QPGGi_UL-OfaS0rO1iIlqlTmo7XsTSAZ6RSCTWNP00_Mix33ywHwWoxI7qrOlIaFDO_1IV8aCeZTgauCB0_HUNNC6XZSx2brjzeKu_jK0TU-d-hr1PXTgymGkMa7-DIlkg3uP",
+          "width": 835
+        }
+      ],
+      "place_id": "ChIJl4JRMoT2wokRkHnPgl3GIsI",
+      "plus_code": {
+        "compound_code": "R3M4+J6 New York, NY, USA",
+        "global_code": "87G8R3M4+J6"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJl4JRMoT2wokRkHnPgl3GIsI",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 69,
+      "vicinity": "3780 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8386238,
+          "lng": -73.93898229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8398899802915,
+            "lng": -73.9377082697085
+          },
+          "southwest": {
+            "lat": 40.8371920197085,
+            "lng": -73.9404062302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "United States Postal Service",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104256859392118232216\">james ryan caldwell</a>"
+          ],
+          "photo_reference": "AeJbb3dFhgM_qDghVeHaKzMcF9yEEdn3AuDZ4CAIpBKUNTcLOx7xPFuL-DKXlVFgyvWouoh8mcfPAmQ0YYlWIAJ6r7eR-rQ9BTynxFZnB3twec-mpROganY3LqFx4dY5c8r05EcOS6sUxQps9Dqiu1l4FVVugDHoo21zMHlVqwDo6Rz_7fMT",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJj65Q2Jz2wokR_LoJ8_MV6lI",
+      "plus_code": {
+        "compound_code": "R3Q6+CC New York, NY, USA",
+        "global_code": "87G8R3Q6+CC"
+      },
+      "rating": 1.3,
+      "reference": "ChIJj65Q2Jz2wokR_LoJ8_MV6lI",
+      "scope": "GOOGLE",
+      "types": [
+        "post_office",
+        "finance",
+        "point_of_interest",
+        "local_government_office",
+        "establishment"
+      ],
+      "user_ratings_total": 483,
+      "vicinity": "511 West 165th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8383948,
+          "lng": -73.93855719999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8396159302915,
+            "lng": -73.93721451970849
+          },
+          "southwest": {
+            "lat": 40.8369179697085,
+            "lng": -73.93991248029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Public School 552",
+      "permanently_closed": true,
+      "place_id": "ChIJ6VRgLp32wokRbUbsCUof9RE",
+      "plus_code": {
+        "compound_code": "R3Q6+9H New York, NY, USA",
+        "global_code": "87G8R3Q6+9H"
+      },
+      "reference": "ChIJ6VRgLp32wokRbUbsCUof9RE",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "501 West 165th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8382264,
+          "lng": -73.93853560000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8395317302915,
+            "lng": -73.93721451970849
+          },
+          "southwest": {
+            "lat": 40.8368337697085,
+            "lng": -73.93991248029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Gregorio Luperon High School for Science and Mathematics",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108226858511222389710\">Jhon Estrella Vizcaino</a>"
+          ],
+          "photo_reference": "AeJbb3fBtVk_SJoNENYhOqS1RL7TW_HKefYrD0h95T3VJCoAgc_2f9XwVPmAJ97ylEqQUpDpGBU23w_qAzHoOA4pd0EZE5EnPFonrgQNjl0jJ7S5NblSnoFqRy9axl7mFM7qp8iQtt1x_gfY7cpoULpfDwLJ5cTUzL9G6PjGkOvKzONj1rqb",
+          "width": 4048
+        }
+      ],
+      "place_id": "ChIJ6VRgLp32wokR2nzCXXf98x4",
+      "plus_code": {
+        "compound_code": "R3Q6+7H New York, NY, USA",
+        "global_code": "87G8R3Q6+7H"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ6VRgLp32wokR2nzCXXf98x4",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "501 West 165th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8383094,
+          "lng": -73.9396403
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8396712302915,
+            "lng": -73.9384078197085
+          },
+          "southwest": {
+            "lat": 40.8369732697085,
+            "lng": -73.94110578029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Metropolitan Center For Mental",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJsVUO05z2wokRFdbj2aoNu3k",
+      "plus_code": {
+        "compound_code": "R3Q6+84 New York, NY, USA",
+        "global_code": "87G8R3Q6+84"
+      },
+      "rating": 1.8,
+      "reference": "ChIJsVUO05z2wokRFdbj2aoNu3k",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "1090 Saint Nicholas Avenue # A, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83580250000001,
+          "lng": -73.9410015
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83711518029151,
+            "lng": -73.9396691197085
+          },
+          "southwest": {
+            "lat": 40.83441721970851,
+            "lng": -73.9423670802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "FDNY Engine 84/Ladder 34",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114152831381566847780\">Ariano Gomes</a>"
+          ],
+          "photo_reference": "AeJbb3eJ7av16tzSqkLoUOJncjH9t44xFGcnvKlCK7gYjwdT-fgWD9dIHntFarRipaaiAK2uW-8YAxvihqKOqbBYWXYezLaAGGiYNEShHAWPgLuSRteHolbdLla9DQ_y4DD_f9APsnUACNXPkIrDWG8Mai45lufYOfYAcrsIiZ3E2J9Q7QLc",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlTded4P2wokRfykh45EqlgA",
+      "plus_code": {
+        "compound_code": "R3P5+8H New York, NY, USA",
+        "global_code": "87G8R3P5+8H"
+      },
+      "rating": 4.1,
+      "reference": "ChIJlTded4P2wokRfykh45EqlgA",
+      "scope": "GOOGLE",
+      "types": [
+        "fire_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "513 West 161st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83414250000001,
+          "lng": -73.9455172
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8354913302915,
+            "lng": -73.9440875697085
+          },
+          "southwest": {
+            "lat": 40.8327933697085,
+            "lng": -73.9467855302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Buena Vista Vision Center",
+      "place_id": "ChIJ99Sw04X2wokRn9ULoNc-YHg",
+      "plus_code": {
+        "compound_code": "R3M3+MQ New York, NY, USA",
+        "global_code": "87G8R3M3+MQ"
+      },
+      "rating": 2.2,
+      "reference": "ChIJ99Sw04X2wokRn9ULoNc-YHg",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 30,
+      "vicinity": "3777 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8320566,
+          "lng": -73.9430007
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83334608029151,
+            "lng": -73.9415101197085
+          },
+          "southwest": {
+            "lat": 40.83064811970851,
+            "lng": -73.9442080802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "CenterLight Healthcare Dunwell Alternative Care Setting",
+      "place_id": "ChIJo_hIx4b2wokRLVB-49tyUC0",
+      "plus_code": {
+        "compound_code": "R3J4+RQ New York, NY, USA",
+        "global_code": "87G8R3J4+RQ"
+      },
+      "rating": 5,
+      "reference": "ChIJo_hIx4b2wokRLVB-49tyUC0",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1920 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8349524,
+          "lng": -73.9447565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8362442302915,
+            "lng": -73.94345051970849
+          },
+          "southwest": {
+            "lat": 40.8335462697085,
+            "lng": -73.94614848029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Express Cleaners",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111211674258296408825\">Express Cleaners</a>"
+          ],
+          "photo_reference": "AeJbb3eyKKoMu7H7acJlcP8iIzbg7zZYJ7aP5KTB94iiuYXg33Wrmh3hZKXg7t86RTvyIWTVyeIHD-YEnKQW_zaOxcq3417qqkHr6TV0hpkNDfzRjYaACIk1bi-fWuUO5qMSelpKkq8OlJ0s0XsA2LRhJi5dS-ptQifV6TT6IYq88mkgSmoK",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ7QovtYX2wokRm3mxLxFcHpI",
+      "plus_code": {
+        "compound_code": "R3M4+X3 New York, NY, USA",
+        "global_code": "87G8R3M4+X3"
+      },
+      "rating": 2.8,
+      "reference": "ChIJ7QovtYX2wokRm3mxLxFcHpI",
+      "scope": "GOOGLE",
+      "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "605 West 158th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8347488,
+          "lng": -73.94202109999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8359977802915,
+            "lng": -73.94074551970849
+          },
+          "southwest": {
+            "lat": 40.8332998197085,
+            "lng": -73.94344348029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "physique photos & video",
+      "place_id": "ChIJGyF4doT2wokRN72GMTxnx-I",
+      "plus_code": {
+        "compound_code": "R3M5+V5 New York, NY, USA",
+        "global_code": "87G8R3M5+V5"
+      },
+      "reference": "ChIJGyF4doT2wokRN72GMTxnx-I",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "521 West 159th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8338176,
+          "lng": -73.9411391
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83518523029149,
+            "lng": -73.93987366970849
+          },
+          "southwest": {
+            "lat": 40.83248726970849,
+            "lng": -73.94257163029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "3D Nails",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101634251288718231143\">Ayden The King</a>"
+          ],
+          "photo_reference": "AeJbb3fhxbmSW1DqL9IbW_XAiIN0VgeC5BYo9eVo-X50Jle8mcze9pW2QV1jAn_IvlGqU7XqweGScBkOvqcJSF799DlR6-iALjvJQqHkxEnWQYl64CtWLK6_lOP77k0FmbujiztUgOHtOtopjHD5Ddo6fpEr9y75WTWsDMysgpfP9kyM9uKI",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJobko7oP2wokRdyD3jRBmtBA",
+      "plus_code": {
+        "compound_code": "R3M5+GG New York, NY, USA",
+        "global_code": "87G8R3M5+GG"
+      },
+      "rating": 3.9,
+      "reference": "ChIJobko7oP2wokRdyD3jRBmtBA",
+      "scope": "GOOGLE",
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 110,
+      "vicinity": "1993 Amsterdam Avenue # 3, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83555399999999,
+          "lng": -73.937782
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8368698302915,
+            "lng": -73.9362819697085
+          },
+          "southwest": {
+            "lat": 40.8341718697085,
+            "lng": -73.93897993029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Basil Smikle Associates",
+      "place_id": "ChIJCXAl8oL2wokRFyvXIpN0vzg",
+      "plus_code": {
+        "compound_code": "R3P6+6V New York, NY, USA",
+        "global_code": "87G8R3P6+6V"
+      },
+      "rating": 4.7,
+      "reference": "ChIJCXAl8oL2wokRFyvXIpN0vzg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "596 Edgecombe Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.832899,
+          "lng": -73.942681
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83434058029149,
+            "lng": -73.9412613697085
+          },
+          "southwest": {
+            "lat": 40.8316426197085,
+            "lng": -73.9439593302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Iglesia Adventista del S\u00e9ptimo D\u00eda Hispana de Fort Washington",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1123,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111303408703749387392\">Iglesia Adventista del S\u00e9ptimo D\u00eda Hispana de Fort Washington / Fort Washington Spanish Seventh-Day Adventist Church</a>"
+          ],
+          "photo_reference": "AeJbb3ch8_S4yHZgtYleFVDDcXK49EwnJZovBL4nVAuZq9MDRsLie9GHdPwm5gHI3MYSNJTGBDASbtho9eYcdkgrIf9bz4PA88JgWx3QZksHgRaPHfW1UQKNSNo0WiLcCXvFUbQce9a_DsDFcd5j_5jEG6MUE8dTzobgECyLz4VGrRER5EY9",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJzZmVpYb2wokRs2gaxiAFKEc",
+      "plus_code": {
+        "compound_code": "R3M4+5W New York, NY, USA",
+        "global_code": "87G8R3M4+5W"
+      },
+      "rating": 4.5,
+      "reference": "ChIJzZmVpYb2wokRs2gaxiAFKEc",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "502 West 157th Street #7602, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8335503,
+          "lng": -73.94429420000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8349995802915,
+            "lng": -73.9428595197085
+          },
+          "southwest": {
+            "lat": 40.8323016197085,
+            "lng": -73.94555748029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Amatrula Pet Portraits",
+      "photos": [
+        {
+          "height": 347,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102087766768901905754\">Amatrula Pet Portraits</a>"
+          ],
+          "photo_reference": "AeJbb3dLgmSt-6Qi-wWgHgX68oLp0dAov6e4BnJAgnFIJOFLqoTUp9VB9R63i_eTFO1jY8HFIOoLMfrbM5WPvbQm6WhcMvNc5khUD_fAlKZYO2ZwbJjF_vPk_ectfz9ZBb826e7w6WHWIQFN3nIYb0iUz4LlDN-04gDFP8m70I4FMrP9xYTY",
+          "width": 440
+        }
+      ],
+      "place_id": "ChIJYTtIKYT2wokR5kgyili0-pg",
+      "plus_code": {
+        "compound_code": "R3M4+C7 New York, NY, USA",
+        "global_code": "87G8R3M4+C7"
+      },
+      "reference": "ChIJYTtIKYT2wokR5kgyili0-pg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "544 West 157th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8335318,
+          "lng": -73.9407812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8348374302915,
+            "lng": -73.93929991970849
+          },
+          "southwest": {
+            "lat": 40.8321394697085,
+            "lng": -73.9419978802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "True Love Photography",
+      "place_id": "ChIJ0YMy5IP2wokRvDqBmZQ0OAk",
+      "plus_code": {
+        "compound_code": "R3M5+CM New York, NY, USA",
+        "global_code": "87G8R3M5+CM"
+      },
+      "reference": "ChIJ0YMy5IP2wokRvDqBmZQ0OAk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "961 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8325547,
+          "lng": -73.9425468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8338633802915,
+            "lng": -73.94108811970851
+          },
+          "southwest": {
+            "lat": 40.8311654197085,
+            "lng": -73.94378608029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "El Gran Valle",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109205147026542920001\">Dom Jr</a>"
+          ],
+          "photo_reference": "AeJbb3cmxRsl0euCdRX_IvguR2mHcjTk2nQZpq9figxnSAiad3A-GTzlhKZGR4Ap3wV9genWMgaif1m1B0yKYpASH8Ie6D6b6cx2MD_ak1xt72-oBRD6hQdUY-05gDR8mJ3cVCuaOrvNJUvfC-77l7PgOuYcjHMqFl_4qwXg9XYHX12aOqaY",
+          "width": 1910
+        }
+      ],
+      "place_id": "ChIJ1RYIsYb2wokRNlBwH2uSmnI",
+      "plus_code": {
+        "compound_code": "R3M4+2X New York, NY, USA",
+        "global_code": "87G8R3M4+2X"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJ1RYIsYb2wokRNlBwH2uSmnI",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 174,
+      "vicinity": "1944 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83389450000001,
+          "lng": -73.9419752
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8351479302915,
+            "lng": -73.9406866697085
+          },
+          "southwest": {
+            "lat": 40.83244996970851,
+            "lng": -73.9433846302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Major League Pets",
+      "place_id": "ChIJE9Y4CIT2wokRkHfe0VJlTkA",
+      "plus_code": {
+        "compound_code": "R3M5+H6 New York, NY, USA",
+        "global_code": "87G8R3M5+H6"
+      },
+      "rating": 2,
+      "reference": "ChIJE9Y4CIT2wokRkHfe0VJlTkA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "503 West 158th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8341952,
+          "lng": -73.9415724
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8355831302915,
+            "lng": -73.9401947697085
+          },
+          "southwest": {
+            "lat": 40.8328851697085,
+            "lng": -73.9428927302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "DISTRIBUTOR EXPRESS",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJSa5-8oP2wokRgjCHvr2bGRU",
+      "plus_code": {
+        "compound_code": "R3M5+M9 New York, NY, USA",
+        "global_code": "87G8R3M5+M9"
+      },
+      "reference": "ChIJSa5-8oP2wokRgjCHvr2bGRU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "500 West 159th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83285329999999,
+          "lng": -73.9423233
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83425483029149,
+            "lng": -73.9409346197085
+          },
+          "southwest": {
+            "lat": 40.83155686970849,
+            "lng": -73.9436325802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "New Luck Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103010157658329901386\">Mehdi Kara</a>"
+          ],
+          "photo_reference": "AeJbb3dgF-HWhnZKwlk2h6Z0PHLhPspRWdXa7utMT92yNwH6LaVPe41rE9baGTDEGphjXmVTZJT6tCXJJHxjw73CSIsnxEpCqOeAckVwkHNUC_xAytTZRXGE1srzHqQjFq_oDzho4Ws2TVl9RIkG_C8Y9-GAH2YCtaQYEiCSZd8pST_kObzy",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJg8pkrIb2wokRrpM5Vu-i84g",
+      "plus_code": {
+        "compound_code": "R3M5+43 New York, NY, USA",
+        "global_code": "87G8R3M5+43"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJg8pkrIb2wokRrpM5Vu-i84g",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "1954 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83383739999999,
+          "lng": -73.94164219999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8351355302915,
+            "lng": -73.9401727197085
+          },
+          "southwest": {
+            "lat": 40.8324375697085,
+            "lng": -73.9428706802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Calpio Music",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJtaii94P2wokRLt1OPJHvpEY",
+      "plus_code": {
+        "compound_code": "R3M5+G8 New York, NY, USA",
+        "global_code": "87G8R3M5+G8"
+      },
+      "rating": 3.5,
+      "reference": "ChIJtaii94P2wokRLt1OPJHvpEY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1984 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8341374,
+          "lng": -73.9415159
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8355381802915,
+            "lng": -73.94012876970848
+          },
+          "southwest": {
+            "lat": 40.8328402197085,
+            "lng": -73.9428267302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Hafiz A. Maje, MD",
+      "place_id": "ChIJ1a4T8oP2wokRaQsxpkR9QlY",
+      "plus_code": {
+        "compound_code": "R3M5+M9 New York, NY, USA",
+        "global_code": "87G8R3M5+M9"
+      },
+      "reference": "ChIJ1a4T8oP2wokRaQsxpkR9QlY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1996 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8337377,
+          "lng": -73.9416553
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8350455302915,
+            "lng": -73.9402088197085
+          },
+          "southwest": {
+            "lat": 40.8323475697085,
+            "lng": -73.94290678029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pain Free Guru",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJtaii94P2wokRJUYItB8-2dI",
+      "plus_code": {
+        "compound_code": "R3M5+F8 New York, NY, USA",
+        "global_code": "87G8R3M5+F8"
+      },
+      "reference": "ChIJtaii94P2wokRJUYItB8-2dI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1984 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.835367,
+          "lng": -73.93817
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8366021302915,
+            "lng": -73.93690256970848
+          },
+          "southwest": {
+            "lat": 40.8339041697085,
+            "lng": -73.93960053029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "African Folk Heritage Circle",
+      "permanently_closed": true,
+      "place_id": "ChIJd6FZ94L2wokRTEQaFoEXw7w",
+      "plus_code": {
+        "compound_code": "R3P6+4P New York, NY, USA",
+        "global_code": "87G8R3P6+4P"
+      },
+      "rating": 5,
+      "reference": "ChIJd6FZ94L2wokRTEQaFoEXw7w",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "425 West 162nd Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.83335189999999,
+          "lng": -73.94255900000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8346012802915,
+            "lng": -73.94128136970849
+          },
+          "southwest": {
+            "lat": 40.8319033197085,
+            "lng": -73.94397933029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Five Star Electric",
+      "permanently_closed": true,
+      "place_id": "ChIJWRulp4b2wokRg5WWnDvbQ2Q",
+      "plus_code": {
+        "compound_code": "R3M4+8X New York, NY, USA",
+        "global_code": "87G8R3M4+8X"
+      },
+      "reference": "ChIJWRulp4b2wokRg5WWnDvbQ2Q",
+      "scope": "GOOGLE",
+      "types": [
+        "electrician",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "511 West 157th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8350225,
+          "lng": -73.942928
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8363125302915,
+            "lng": -73.9416223197085
+          },
+          "southwest": {
+            "lat": 40.83361456970851,
+            "lng": -73.9443202802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Life Adjustment Center Corporation",
+      "place_id": "ChIJ_zdqb4T2wokRPmMb1mP7d4g",
+      "plus_code": {
+        "compound_code": "R3P4+2R New York, NY, USA",
+        "global_code": "87G8R3P4+2R"
+      },
+      "reference": "ChIJ_zdqb4T2wokRPmMb1mP7d4g",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "563 West 159th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8356011,
+          "lng": -73.9430434
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8369983802915,
+            "lng": -73.94165126970849
+          },
+          "southwest": {
+            "lat": 40.8343004197085,
+            "lng": -73.9443492302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Abraham Y Henoch Md",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103392486940001512519\">\u9ed1\u7ffc\u6076\u9b54</a>"
+          ],
+          "photo_reference": "AeJbb3e1fgBkth4l3htPG2pneFqdUHX2dvfSbXFEixEvlVitJwANuBWKwzxMEle7JOY3-eze8y4etCGAtShV8FnLs2muAQRI3bfzW6CEWORsu2F8Rpri9ZX0emgNI5JKwucKlEmp_A_P056S9qzdMt_HGphb5-qFgEozI7wqXbmjO5ZDdgJk",
+          "width": 3412
+        }
+      ],
+      "place_id": "ChIJFSA2YoT2wokRnlVwRsoo2qY",
+      "plus_code": {
+        "compound_code": "R3P4+6Q New York, NY, USA",
+        "global_code": "87G8R3P4+6Q"
+      },
+      "rating": 2.5,
+      "reference": "ChIJFSA2YoT2wokRnlVwRsoo2qY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "564 West 160th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8359885,
+          "lng": -73.9401913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8372875302915,
+            "lng": -73.9387433197085
+          },
+          "southwest": {
+            "lat": 40.8345895697085,
+            "lng": -73.9414412802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Cardtronics ATM",
+      "place_id": "ChIJYwDiEYP2wokRjyRH_pPNAPQ",
+      "plus_code": {
+        "compound_code": "R3P5+9W New York, NY, USA",
+        "global_code": "87G8R3P5+9W"
+      },
+      "rating": 5,
+      "reference": "ChIJYwDiEYP2wokRjyRH_pPNAPQ",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "point_of_interest",
+        "finance",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1033 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8341378,
+          "lng": -73.94144849999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8355274802915,
+            "lng": -73.9400770197085
+          },
+          "southwest": {
+            "lat": 40.8328295197085,
+            "lng": -73.94277498029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Mikhail Tetrok, DO",
+      "place_id": "ChIJ1a4T8oP2wokRmeRbBSfW7nE",
+      "plus_code": {
+        "compound_code": "R3M5+MC New York, NY, USA",
+        "global_code": "87G8R3M5+MC"
+      },
+      "rating": 3,
+      "reference": "ChIJ1a4T8oP2wokRmeRbBSfW7nE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1996 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8346461,
+          "lng": -73.9383369
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8360871802915,
+            "lng": -73.93720811970849
+          },
+          "southwest": {
+            "lat": 40.8333892197085,
+            "lng": -73.93990608029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Roger Morris Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107669147909154511915\">Fernanda</a>"
+          ],
+          "photo_reference": "AeJbb3e_kNVr9feSPMQTLAHn9SA82140rO-LAr5L30jNxssnhYZFKdaT4NXvNQMqRqOVKvgxfIAwbdcL_wtJnI4lLVsv0ykB_W9dkBdCB-tMyhbCp0twIP19pMSQjsabuLb9vqviv2odPhN95NBXvqZPKZvbhIX8OP8BKCyfm7SGzYSFdQ2d",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ8xMfToL2wokRzNFCZB5D0jc",
+      "plus_code": {
+        "compound_code": "R3M6+VM New York, NY, USA",
+        "global_code": "87G8R3M6+VM"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ8xMfToL2wokRzNFCZB5D0jc",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "65 Jumel Terrace, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8338326,
+          "lng": -73.9416523
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8351296802915,
+            "lng": -73.9401803197085
+          },
+          "southwest": {
+            "lat": 40.8324317197085,
+            "lng": -73.94287828029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "SoundProof Studios",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115312742615774115744\">SoundProof Studios</a>"
+          ],
+          "photo_reference": "AeJbb3dk9FBiu8a2Ak83SPvGXDVk7dhWFEyIK9aNVIwS-cHeydElO7LKF1Ur3YVGyZFtafLS6oPtp6tdn1RW2e-RC_Xs6bID6pQXH1Df3VqqL37Ay3BJQm7bhjqcz1Qa5MbJdXJWiLvumK-qsc_Bo3UQn62OzjIPGUZNDXqGj1t4v8M3XWIX",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJiYVnpiVcwokRTVYXCZyWDNM",
+      "plus_code": {
+        "compound_code": "R3M5+G8 New York, NY, USA",
+        "global_code": "87G8R3M5+G8"
+      },
+      "rating": 4.9,
+      "reference": "ChIJiYVnpiVcwokRTVYXCZyWDNM",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "1984 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8376723,
+          "lng": -73.9394854
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83895383029149,
+            "lng": -73.9381859197085
+          },
+          "southwest": {
+            "lat": 40.83625586970849,
+            "lng": -73.94088388029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Centro Altagracia",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJnauRLYP2wokRhqORLTg102g",
+      "plus_code": {
+        "compound_code": "R3Q6+36 New York, NY, USA",
+        "global_code": "87G8R3Q6+36"
+      },
+      "rating": 4.7,
+      "reference": "ChIJnauRLYP2wokRhqORLTg102g",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "511 West 164th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.83611399999999,
+          "lng": -73.9414029
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83737698029149,
+            "lng": -73.9401278197085
+          },
+          "southwest": {
+            "lat": 40.8346790197085,
+            "lng": -73.9428257802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bajraktarirealty",
+      "permanently_closed": true,
+      "place_id": "ChIJ63tAe4P2wokR23B15CK6TMI",
+      "plus_code": {
+        "compound_code": "R3P5+CC New York, NY, USA",
+        "global_code": "87G8R3P5+CC"
+      },
+      "reference": "ChIJ63tAe4P2wokR23B15CK6TMI",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "521 West 161st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83738089999999,
+          "lng": -73.9403449
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83860868029149,
+            "lng": -73.9391065697085
+          },
+          "southwest": {
+            "lat": 40.8359107197085,
+            "lng": -73.9418045302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Stellar Management",
+      "place_id": "ChIJR5kWSIP2wokRPk7JPA0NfOQ",
+      "plus_code": {
+        "compound_code": "R3P5+XV New York, NY, USA",
+        "global_code": "87G8R3P5+XV"
+      },
+      "rating": 2,
+      "reference": "ChIJR5kWSIP2wokRPk7JPA0NfOQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1061 Saint Nicholas Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8341737,
+          "lng": -73.9404121
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8354988302915,
+            "lng": -73.93896821970849
+          },
+          "southwest": {
+            "lat": 40.8328008697085,
+            "lng": -73.9416661802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Zion Baptist Church",
+      "place_id": "ChIJbVU2z4P2wokRPp_yUZymzus",
+      "plus_code": {
+        "compound_code": "R3M5+MR New York, NY, USA",
+        "global_code": "87G8R3M5+MR"
+      },
+      "reference": "ChIJbVU2z4P2wokRPp_yUZymzus",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "465 West 159th Street #22, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8348323,
+          "lng": -73.9403895
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83620178029149,
+            "lng": -73.9391276197085
+          },
+          "southwest": {
+            "lat": 40.8335038197085,
+            "lng": -73.9418255802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Crown Fried Chicken",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117082189680317322766\">Crown Fried Chicken</a>"
+          ],
+          "photo_reference": "AeJbb3ftMdeEnpiHg9OInNmzznMO7jegK5mOtnyLZzo8cLpFKwFw8-l5srt5kEdY6MGr2mxYWt60LnxFdsYrjvsISjdepmyZec0KonYeTloubFxtuNblKp4BAjVxwBqx4hXnjgzB-TqbBlfLDZJb9NAuUGITIl-n5pUBhG8Uk7dnj2YAPcRp",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJdZmnooP2wokRHjaBDHGAoLU",
+      "plus_code": {
+        "compound_code": "R3M5+WR New York, NY, USA",
+        "global_code": "87G8R3M5+WR"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJdZmnooP2wokRHjaBDHGAoLU",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 110,
+      "vicinity": "2021 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8349343,
+          "lng": -73.94027419999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8363238302915,
+            "lng": -73.93902276970849
+          },
+          "southwest": {
+            "lat": 40.8336258697085,
+            "lng": -73.9417207302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Big Media Entertainment",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112736061531438276143\">Big Media Entertainment</a>"
+          ],
+          "photo_reference": "AeJbb3claHN2d37MYx7ldXRUckSRZvuSJbTqXu3Bm0RXz57LgrYYBCXwMW6nMNGzNUdM9DegNQ0a_6QSlRzd5uYDCowfwGh8SHtzQ9D0E-1OQBRkwmcWCIlvGRdNA0HpD0oi0wfzyl62ugLZMKqRuD7grLYumESe_HwOyS2ejxpfVPjlEMFG",
+          "width": 5329
+        }
+      ],
+      "place_id": "ChIJCaeTooP2wokRTnIApchQ0pg",
+      "plus_code": {
+        "compound_code": "R3M5+XV New York, NY, USA",
+        "global_code": "87G8R3M5+XV"
+      },
+      "rating": 5,
+      "reference": "ChIJCaeTooP2wokRTnIApchQ0pg",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "2027 Amsterdam Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.834865,
+          "lng": -73.939049
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8361664302915,
+            "lng": -73.93758626970849
+          },
+          "southwest": {
+            "lat": 40.83346846970851,
+            "lng": -73.94028423029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Kathleen Scarborough",
+      "permanently_closed": true,
+      "place_id": "ChIJ_ymSrIP2wokRseV2-kJdZ0k",
+      "plus_code": {
+        "compound_code": "R3M6+W9 New York, NY, USA",
+        "global_code": "87G8R3M6+W9"
+      },
+      "reference": "ChIJ_ymSrIP2wokRseV2-kJdZ0k",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "14 Jumel Terrace #2, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8338678,
+          "lng": -73.939082
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83510468029149,
+            "lng": -73.93756451970849
+          },
+          "southwest": {
+            "lat": 40.83240671970849,
+            "lng": -73.94026248029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "While We Are Still Here",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106765989703599550688\">While We Are Still Here</a>"
+          ],
+          "photo_reference": "AeJbb3dMA4WZI-nmYpOksO9qUBLmggIcPDEzCkNnULMYazJYhMOS8hbEsbr3SsmOBtuQ0laWu9h9yJAWF-glv55Li4omaCH0a770QI1l_X-FLWvApEbkfj0nNXQnBdUQ10I62dc7j0do8T4llzbJXmMGhDMa8MBn6uWsAnKABvPqC6ZBrfPI",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJY-TbyoP2wokRfg8C1pd63Gc",
+      "plus_code": {
+        "compound_code": "R3M6+G9 New York, NY, USA",
+        "global_code": "87G8R3M6+G9"
+      },
+      "rating": 5,
+      "reference": "ChIJY-TbyoP2wokRfg8C1pd63Gc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "555 Edgecombe Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8353842,
+          "lng": -73.9394354
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8367147302915,
+            "lng": -73.9382389197085
+          },
+          "southwest": {
+            "lat": 40.8340167697085,
+            "lng": -73.9409368802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Radiant Skin Dermatology and Laser",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110383854917615293790\">Radiant Skin Dermatology and Laser</a>"
+          ],
+          "photo_reference": "AeJbb3dKXIKRdyq-dGrB_moolplcpwoBaKDNMUZ7VDPonwbPj7M9PvEq_cR1bcnjOkDNt9_L__9ubHTt_XYCy6rQVQJc8KQCCDjyYF-Ds7dj73-VLI-iNVG_4r6cqo6AU_nHo8K_jOX7L4KXyT0vV_-rfEOP2YjRIHvH4SObNhi5Xvb5XzWL",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJE4EqB4P2wokR20sXRfMOT9I",
+      "plus_code": {
+        "compound_code": "R3P6+56 New York, NY, USA",
+        "global_code": "87G8R3P6+56"
+      },
+      "rating": 4.3,
+      "reference": "ChIJE4EqB4P2wokR20sXRfMOT9I",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "spa",
+        "beauty_salon",
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "446 West 162nd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8339234,
+          "lng": -73.9410073
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8353140302915,
+            "lng": -73.93975711970849
+          },
+          "southwest": {
+            "lat": 40.8326160697085,
+            "lng": -73.94245508029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108621028419917653192\">Dunkin&#39;</a>"
+          ],
+          "photo_reference": "AeJbb3dV8BAupj9lT9bJQdexneL5VSTBG3UaSD47qR5OGxQTY9liFyFfzOwmZXt1XQD71Dozl_6cXhyARXhr4AngK-_45WG1HBooyqYfx6GVRRTlDF4yzXoQmXB1KEFoXgRfvrWbZRrMsbCCEQPcqaq8yogeDqAUhGRh-in5yXqYNMfRbMVw",
+          "width": 1143
+        }
+      ],
+      "place_id": "ChIJySpt7oP2wokRwrcKeVZofPI",
+      "plus_code": {
+        "compound_code": "R3M5+HH New York, NY, USA",
+        "global_code": "87G8R3M5+HH"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJySpt7oP2wokRwrcKeVZofPI",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 83,
+      "vicinity": "1995 Amsterdam Avenue, New York"
+    }
+  ],
+  "status": "OK"
+}

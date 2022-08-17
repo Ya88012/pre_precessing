@@ -1,0 +1,2715 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fOWkdZrDnHXv7k5P5vScpE8Q5fhzWFdJcgxcAcLdZqxoV5uNQY4C_jiqtekjT4FA8opUK0KqbRKWC9Ly1HovV2Y2PPh3jDSUKej6dspsTxLVQpkVY0jfEfGikaNUW2muM84iA14yxQ57o5no-XvocfQ-isRuttJxnJ9u2MAwdpfOQx",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81508669999999,
+          "lng": -73.9159466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81654338029149,
+            "lng": -73.91453916970849
+          },
+          "southwest": {
+            "lat": 40.81384541970849,
+            "lng": -73.9172371302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Opera House Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1641,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105720796121692198439\">Opera House Hotel</a>"
+          ],
+          "photo_reference": "AeJbb3fLvfKraEbmEJWuKUJy2TQLjUKaHrX7Olu1z7_kpjnZvb3BkgX9wMl72CI7fTe3MFlb2ppvb3UzfhH-4G6LqapAmIkWbT5TLeo8d9eL7Q9EvTFZLlJ_ur7mJSdoUX2dUy-OD8jGOkC1noCIp8jIiv8qOocBQkcfFzoe3v0ofwzoqF5j",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJCWzLnMj1wokR5ciYSnXHmmw",
+      "plus_code": {
+        "compound_code": "R38M+2J \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38M+2J"
+      },
+      "rating": 4.5,
+      "reference": "ChIJCWzLnMj1wokR5ciYSnXHmmw",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1012,
+      "vicinity": "436 East 149th Street"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8138277,
+          "lng": -73.9189434
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8152840802915,
+            "lng": -73.9176251697085
+          },
+          "southwest": {
+            "lat": 40.8125861197085,
+            "lng": -73.92032313029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dennelisse Corporation",
+      "place_id": "ChIJjWSlPc_1wokRFZF6hEqf3JE",
+      "plus_code": {
+        "compound_code": "R37J+GC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37J+GC"
+      },
+      "rating": 3.8,
+      "reference": "ChIJjWSlPc_1wokRFZF6hEqf3JE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "460 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8114492,
+          "lng": -73.91410669999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8128668802915,
+            "lng": -73.91296841970849
+          },
+          "southwest": {
+            "lat": 40.8101689197085,
+            "lng": -73.9156663802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "St. Mary's Recreation Center",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116914058660769016247\">St. Mary&#39;s Recreation Center</a>"
+          ],
+          "photo_reference": "AeJbb3c1M0rWGa0gei6VA9e0j57OPXdth_UPQPKVVdiHi_KKPL-e456lwtvt2cJCCRKv5X2XF4p9Jp9BCd-H0Dz5SyW1gHnVqtKpdyuNhcu1axJmVu5FmNAAQ1evPTFt2QdxiBbjfWRz655slBj5n6B-zUBC06zgVDDu32ZYTj7OCZ_KCpNX",
+          "width": 1798
+        }
+      ],
+      "place_id": "ChIJMfNyfsb1wokRXkZnMeb6ylo",
+      "plus_code": {
+        "compound_code": "R36P+H9 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R36P+H9"
+      },
+      "rating": 4.1,
+      "reference": "ChIJMfNyfsb1wokRXkZnMeb6ylo",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 158,
+      "vicinity": "450 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80898490000001,
+          "lng": -73.9196085
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81050053029151,
+            "lng": -73.9181366697085
+          },
+          "southwest": {
+            "lat": 40.80780256970851,
+            "lng": -73.92083463029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "P.S. 179",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3dyoHF24Cj4guMBfWdrhgV9zEe39xh5i1XYmf5XybSNikwHQujhX6EUKrWk6GrMEyqspvQJyRre0713_JzR6BxIHKtdlmq_N-40FAUMZIouGaqJUs4Ir3nbsQbwgoasUMij4prGhRtMhOeUoW9yV9CGNPC4w_xscz-N_4pVhOIafDFc",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ6VWm6sP1wokRIcxW579shCY",
+      "plus_code": {
+        "compound_code": "R35J+H5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R35J+H5"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ6VWm6sP1wokRIcxW579shCY",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "468 East 140th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.80889939999999,
+          "lng": -73.91932229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8104015302915,
+            "lng": -73.91786041970849
+          },
+          "southwest": {
+            "lat": 40.8077035697085,
+            "lng": -73.9205583802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Public School Number 40",
+      "permanently_closed": true,
+      "place_id": "ChIJ7bvX6cP1wokR7-r72qhh0Ac",
+      "plus_code": {
+        "compound_code": "R35J+H7 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R35J+H7"
+      },
+      "reference": "ChIJ7bvX6cP1wokR7-r72qhh0Ac",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "\u5e03\u6717\u514b\u65af"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8117387,
+          "lng": -73.9120243
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81668465,
+            "lng": -73.90630249999998
+          },
+          "southwest": {
+            "lat": 40.80621845,
+            "lng": -73.91808210000003
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "St. Mary's Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116872720821644099338\">St. Mary&#39;s Park</a>"
+          ],
+          "photo_reference": "AeJbb3eeXEd5AtqE-A986BDvK47UJfW52wyyovxqS7cDkCFCSJtVhRoM9haA_nD7vrIK6x1SjvdSItKO3nBfgz5PTg3fdGwcQBR_hnmOh0Vcvf-slAPGjP7WpvNSj8WKBsroCfwBT6sHGhWuAsx88ldQfjo7A-Kf3pqJgOFB8e0CC1exRkWj",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJ2WRPfsf1wokRIMcB__ZIV1A",
+      "plus_code": {
+        "compound_code": "R36Q+M5 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R36Q+M5"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ2WRPfsf1wokRIMcB__ZIV1A",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3142,
+      "vicinity": "450 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8124962,
+          "lng": -73.9143387
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81380003029151,
+            "lng": -73.9129989697085
+          },
+          "southwest": {
+            "lat": 40.81110206970851,
+            "lng": -73.9156969302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Betances VI",
+      "place_id": "ChIJQd9Gvcf1wokRwa9s5Yo_sDU",
+      "plus_code": {
+        "compound_code": "R36P+X7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R36P+X7"
+      },
+      "rating": 4.6,
+      "reference": "ChIJQd9Gvcf1wokRwa9s5Yo_sDU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "465 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8099177,
+          "lng": -73.91834399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8112974802915,
+            "lng": -73.91675621970849
+          },
+          "southwest": {
+            "lat": 40.8085995197085,
+            "lng": -73.9194541802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "International Community High School",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101746703458403760868\">James Threatt</a>"
+          ],
+          "photo_reference": "AeJbb3c-HFJiK3-i39-_DUr5zi8KMhua_dhPE3uDLZ0fZvTaedQMNqsUOtVsCtP8hmLULNQL2TXWD_bxOMjztqUSFi4Klf9NC7GvEtxz06JKgLji6Uag2em43qa4ppIRLPPF21mEwomhZG_l085rgoEtpUs6wsbYX5VmpNpbJHJ8P9iQ9Pfo",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJC-kgrcb1wokR0I4BkZ3X1kw",
+      "plus_code": {
+        "compound_code": "R35J+XM \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R35J+XM"
+      },
+      "rating": 4.6,
+      "reference": "ChIJC-kgrcb1wokR0I4BkZ3X1kw",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "345 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8128,
+          "lng": -73.91929999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81403958029149,
+            "lng": -73.91798246970848
+          },
+          "southwest": {
+            "lat": 40.81134161970849,
+            "lng": -73.9206804302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Brilla Public Charter Schools - Brilla College Prep Elementary",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105214056743342860322\">P. E</a>"
+          ],
+          "photo_reference": "AeJbb3d_2nHUZYmSsLVkTQV_msBg4MA_b9KgvLT-xMTunOXryoI3bKkPHyk-WrZhf9iflGhvmHzvKG3SXPxyfHYUmI8v4FwDKlTBEkD462qB4a5YCb9Z5JmqL2leKqHD8dD4EZNLKExaRNKTxsVn2Rur4nF_J1KVMbyviEdvLXsl_iycnacL",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJsdX6zMX1wokRlsUKDCyiB-I",
+      "plus_code": {
+        "compound_code": "R37J+47 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37J+47"
+      },
+      "rating": 4.3,
+      "reference": "ChIJsdX6zMX1wokRlsUKDCyiB-I",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "413 East 144th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8144236,
+          "lng": -73.9148787
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8158327802915,
+            "lng": -73.9136878197085
+          },
+          "southwest": {
+            "lat": 40.8131348197085,
+            "lng": -73.9163857802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Mi Romance Ecuatoriano Lucho Barrios",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102600675964335633407\">Mi Romance Ecuatoriano Lucho Barrios</a>"
+          ],
+          "photo_reference": "AeJbb3cMajaXcgfgMtuXArFgmp2PoePuKiDAjD2G4xK5li29s9_CnO8QQl23kXjYGyvIpxns2zAffvuRKWIx7K8JS_0GT70pARjj6AIlYcLCk0j-9-9QtIOnb4eY7tKJneLb7NusnvjwjItnYPkQdS_azpkis7l9HNNR_fVIifNO0ZejpNVc",
+          "width": 1374
+        }
+      ],
+      "place_id": "ChIJb-6KZ8_1wokRtKfgZBSgq_E",
+      "plus_code": {
+        "compound_code": "R37P+Q2 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R37P+Q2"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJb-6KZ8_1wokRtKfgZBSgq_E",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 258,
+      "vicinity": "524 A Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.811641,
+          "lng": -73.91746499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8129141302915,
+            "lng": -73.9158624697085
+          },
+          "southwest": {
+            "lat": 40.8102161697085,
+            "lng": -73.9185604302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "CubeSmart Self Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113641288204319849756\">CubeSmart Self Storage</a>"
+          ],
+          "photo_reference": "AeJbb3dr7IVGoYfzVafkj6Y-PrYXcvZKPlWxMSoB0dc4uMl-YVv8LWynvblSoariDBO6YfJ4bAn7jg2LIX8PjJRXAlg2CB-HcNepZKoHCmj0AZnILkC_ZVZnSqCcMfdMpEBAxPN3BMCKxFBbiJudV8oBSb6SbOHtTY_6xEHhixxtIyIparJ3",
+          "width": 1996
+        }
+      ],
+      "place_id": "ChIJ-dPEk8b1wokRF2wk8fplA4s",
+      "plus_code": {
+        "compound_code": "R36M+M2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R36M+M2"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ-dPEk8b1wokRF2wk8fplA4s",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "storage",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 264,
+      "vicinity": "395 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8138277,
+          "lng": -73.9189434
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8152569302915,
+            "lng": -73.9175659197085
+          },
+          "southwest": {
+            "lat": 40.8125589697085,
+            "lng": -73.9202638802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lower West Side Household Services",
+      "place_id": "ChIJXQHw7gBZwokR1NZ-qwgOtA0",
+      "plus_code": {
+        "compound_code": "R37J+GC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37J+GC"
+      },
+      "rating": 3,
+      "reference": "ChIJXQHw7gBZwokR1NZ-qwgOtA0",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "460 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.815127,
+          "lng": -73.916027
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8165635302915,
+            "lng": -73.91457936970849
+          },
+          "southwest": {
+            "lat": 40.8138655697085,
+            "lng": -73.9172773302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "My Wellness Solutions",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101138834413745180863\">My Wellness Solutions</a>"
+          ],
+          "photo_reference": "AeJbb3cVawU5zNCSZnMZBaZyhm--XLIDDbTZkFxJdj5WeKcXLvr3wY8LzkSl3GCLpC4APm1tlVctabdSieXwWxlDw4fzSAAxMUjArnR7Ou9x4ZJ474gdYC2-ynqp8JBTVjNOgbw2jCRhYK4fWmxoewfMVSXOcKWYgilDBVhuZf7U-mAfYo9P",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ2UxUCsr1wokRZlEwWJweJnU",
+      "plus_code": {
+        "compound_code": "R38M+3H \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38M+3H"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ2UxUCsr1wokRZlEwWJweJnU",
+      "scope": "GOOGLE",
+      "types": [
+        "spa",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 61,
+      "vicinity": "436 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80939499999999,
+          "lng": -73.9179802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81080178029149,
+            "lng": -73.9165892197085
+          },
+          "southwest": {
+            "lat": 40.80810381970849,
+            "lng": -73.9192871802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "P.S. 030 Wilton",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3cImdFaLEz2xeboMf2QztK9Gfw-0LcAHdIQVV3csEvDHemhZBRcxRENRHdlWyUMu_O2yY98RzOdRYNRQjxvsi-HcqxkZcIFd8RsJgwsTrO_qntVBeH__gYKswNdY0eS_L3mqZcmHdGmUgrkWILGpVBMUkQS7N5Gk_INvog0EPfKJu2n",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJyV9aV8H1wokRZQG5EOCmzqw",
+      "plus_code": {
+        "compound_code": "R35J+QR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R35J+QR"
+      },
+      "rating": 3.9,
+      "reference": "ChIJyV9aV8H1wokRZQG5EOCmzqw",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "510 East 141st Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8071047,
+          "lng": -73.91284999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8085576302915,
+            "lng": -73.9114187197085
+          },
+          "southwest": {
+            "lat": 40.8058596697085,
+            "lng": -73.91411668029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Diego Beekman Mutual Housing",
+      "place_id": "ChIJ0cHpksD1wokRXDhMzmwZa0o",
+      "plus_code": {
+        "compound_code": "R34P+RV \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R34P+RV"
+      },
+      "rating": 1.9,
+      "reference": "ChIJ0cHpksD1wokRXDhMzmwZa0o",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "694 East 141st Street #1, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8126634,
+          "lng": -73.9146281
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8139398302915,
+            "lng": -73.91332056970849
+          },
+          "southwest": {
+            "lat": 40.8112418697085,
+            "lng": -73.91601853029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "BronxWorks Betances Community Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100474027622543689301\">Leticia Lebron</a>"
+          ],
+          "photo_reference": "AeJbb3fIn0o4LhEMZ4SLY-2mEqhyJ3UfUdWtnf5OF_n8orqSSUbVlyJ_APDGH6I7tDrCbse-FIAKuJ99OOroY4mg1sbtwYvPYdgCBhPyvTLozI7fX4K4VpSK_rMmQ_eZQ_qaYNdgXeDKc-hesMvH99PARXtgp9MbZ7VWZjbIgsnSqgIRgAep",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJgxlBpcf1wokRJCInxac22io",
+      "plus_code": {
+        "compound_code": "R37P+34 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37P+34"
+      },
+      "rating": 4.2,
+      "reference": "ChIJgxlBpcf1wokRJCInxac22io",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 53,
+      "vicinity": "547 East 146th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8102147,
+          "lng": -73.9146799
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81160748029151,
+            "lng": -73.91331751970849
+          },
+          "southwest": {
+            "lat": 40.80890951970851,
+            "lng": -73.91601548029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Diego Beekman",
+      "place_id": "ChIJJV8SKsf1wokRj0MhjBthBWk",
+      "plus_code": {
+        "compound_code": "R36P+34 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R36P+34"
+      },
+      "reference": "ChIJJV8SKsf1wokRj0MhjBthBWk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "592 Oak Terrace, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8092078,
+          "lng": -73.91468189999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81047288029149,
+            "lng": -73.9133737697085
+          },
+          "southwest": {
+            "lat": 40.80777491970849,
+            "lng": -73.9160717302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beekman Houses",
+      "place_id": "ChIJccUCzsD1wokRPswQJMEgxD0",
+      "plus_code": {
+        "compound_code": "R35P+M4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R35P+M4"
+      },
+      "rating": 2.8,
+      "reference": "ChIJccUCzsD1wokRPswQJMEgxD0",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "593 Oak Terrace, The Bronx"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8519547,
+          "lng": -73.90070899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91527805889627,
+            "lng": -73.86840408623851
+          },
+          "southwest": {
+            "lat": 40.79678004393696,
+            "lng": -73.93340593816593
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West Bronx",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113738462812435835913\">Alex Lin</a>"
+          ],
+          "photo_reference": "AeJbb3ffNgKgMSafs_GuqY_m7H-NgwG49tdVwUSkX88uHIl2qsyqordtSudvHVFzqljbE1YcC7RnkNCxK_ACOo2_1VbEePeL0zATYhPRlSmGNSgUcuLm-IxpJ5dJu3Hnj4Mc8Q76QdQZ490GKYLpdZbOgFJqp_nAx5ubPTd28KcRhEgDhwPn",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "reference": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8122979,
+          "lng": -73.91571689999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81355068029151,
+            "lng": -73.9144230197085
+          },
+          "southwest": {
+            "lat": 40.81085271970851,
+            "lng": -73.9171209802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Happy Tots,LLC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106916249415281479003\">Happy Tots,LLC</a>"
+          ],
+          "photo_reference": "AeJbb3crvCWN5qR6k6sPbNlAwkRYU9j7-F5-s5SIgACTG43l5cK0qB4xoUAMOcibwFiFjXZIIdgoB7MnVdEhw1TfEmSCvK5KNH1jn3CoZP1OFeWNQMTn-zo0HjFNpT74yZGHJAcuUfTb1sncYtPz4-b9oYAO8rG3IyF-FT5YXF7t812MUT-Y",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJ24wU2cb1wokR2LVmbAw5MS4",
+      "plus_code": {
+        "compound_code": "R36M+WP New York, NY, USA",
+        "global_code": "87G8R36M+WP"
+      },
+      "rating": 5,
+      "reference": "ChIJ24wU2cb1wokR2LVmbAw5MS4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "515 East 145th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8129194,
+          "lng": -73.913386
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8143204802915,
+            "lng": -73.91219236970849
+          },
+          "southwest": {
+            "lat": 40.8116225197085,
+            "lng": -73.9148903302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "St. Mary's Playground West",
+      "photos": [
+        {
+          "height": 3384,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105321572347988288348\">St. Mary&#39;s Playground West</a>"
+          ],
+          "photo_reference": "AeJbb3cZuyvd1-myZaEHP73WdisNqrOSmsHjfhgxV7wfeSYiUBMgisg6lauJUYTTmMDnOWEJ_af7ZvAk8xdgnntVlV5snzoOBj0nzyurEp0uByXCHi50d9KTa_g7MqYEvXx_zF2QhmyT29z12MRW7QpnB7bkr7HbU0o7UHYU6aTMEiV0ApOl",
+          "width": 5076
+        }
+      ],
+      "place_id": "ChIJT7rKk8f1wokRKdM05ziWBI0",
+      "plus_code": {
+        "compound_code": "R37P+5J The Bronx, NY, USA",
+        "global_code": "87G8R37P+5J"
+      },
+      "rating": 4,
+      "reference": "ChIJT7rKk8f1wokRKdM05ziWBI0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 150,
+      "vicinity": "519 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8091316,
+          "lng": -73.9161604
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8104727802915,
+            "lng": -73.91473641970849
+          },
+          "southwest": {
+            "lat": 40.8077748197085,
+            "lng": -73.91743438029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Thessalonica Christian Church",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116322127043975741227\">Thessalonica Christian Church</a>"
+          ],
+          "photo_reference": "AeJbb3fbT7giViA3jYhU0FbuYQJgoRDqv4Dcr6oq_etoVfaVPYzp9pYf_qVKk7eaC94RLFCmkzyZsk7LtvzKJ3Hdc236IaUNQfq8q_DrA4yd7e3xlfWC1p2jWjJm12yUVBTeyf6bGuagDQeDMavDNvR2PidlTBIo-Pe4XRB3GGedzbGF-bNq",
+          "width": 4898
+        }
+      ],
+      "place_id": "ChIJ5SgAMMH1wokRLB9JGzutOJQ",
+      "plus_code": {
+        "compound_code": "R35M+MG New York, NY, USA",
+        "global_code": "87G8R35M+MG"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ5SgAMMH1wokRLB9JGzutOJQ",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "313 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80981999999999,
+          "lng": -73.917536
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81123298029149,
+            "lng": -73.91634231970849
+          },
+          "southwest": {
+            "lat": 40.80853501970849,
+            "lng": -73.9190402802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Evangelical Garifuna Church",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110917228218776921777\">Yani Quez</a>"
+          ],
+          "photo_reference": "AeJbb3cleJQ8SiWleskapgLqBGS4TA9XIijHwEvZ_WCH5lEvgKv48ULFi5cY63KlDWidQZuxM-c6w44hskPoA0ZAmI9Y7DmJa49ZR9MCjZ39kpUqOTHkTL6b6ZQQ94QR-b80JloOMJBjjLCy_wooIY4yUTRhphqUki5YKIOD3tj8GVVv9i8E",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJq0LrUsH1wokRqxyjnxHA_r0",
+      "plus_code": {
+        "compound_code": "R35J+WX The Bronx, NY, USA",
+        "global_code": "87G8R35J+WX"
+      },
+      "rating": 4,
+      "reference": "ChIJq0LrUsH1wokRqxyjnxHA_r0",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "344 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81157810000001,
+          "lng": -73.9142516
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8129657802915,
+            "lng": -73.91302126970848
+          },
+          "southwest": {
+            "lat": 40.8102678197085,
+            "lng": -73.9157192302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Nyc Parks & Recreation",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJacenoMf1wokREEqfpQYbR-k",
+      "plus_code": {
+        "compound_code": "R36P+J7 The Bronx, NY, USA",
+        "global_code": "87G8R36P+J7"
+      },
+      "rating": 4.1,
+      "reference": "ChIJacenoMf1wokREEqfpQYbR-k",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "450 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8076351,
+          "lng": -73.9140298
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80907773029149,
+            "lng": -73.9126114197085
+          },
+          "southwest": {
+            "lat": 40.80637976970849,
+            "lng": -73.9153093802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Diego Beekman",
+      "place_id": "ChIJKyhqjcD1wokR4jgN-qQB_Yc",
+      "plus_code": {
+        "compound_code": "R35P+39 The Bronx, NY, USA",
+        "global_code": "87G8R35P+39"
+      },
+      "rating": 1.6,
+      "reference": "ChIJKyhqjcD1wokR4jgN-qQB_Yc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "626 East 141st Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.811291,
+          "lng": -73.9160483
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81268643029149,
+            "lng": -73.9146725697085
+          },
+          "southwest": {
+            "lat": 40.8099884697085,
+            "lng": -73.9173705302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Betances",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102765343082307134398\">J Santiago</a>"
+          ],
+          "photo_reference": "AeJbb3c7DnkmJ0T3WyZWAkqZ8aJJT7AGuM7VFeoFSegOo7_hEkxIPGFUFa9BU7ve6Gaf8ZA48hNE6-APtVUDqk08I2Tb-NNIYuJaa4jzoSnWjD25HiiOerL9L9u9_11ErkVTLHa5qLNfwC3v2teQf4jbZWnXZkl6jzVk4LkqH59Z5zy23p_H",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJFSP27cb1wokR4Ehx7aDfvRg",
+      "plus_code": {
+        "compound_code": "R36M+GH New York, NY, USA",
+        "global_code": "87G8R36M+GH"
+      },
+      "rating": 4,
+      "reference": "ChIJFSP27cb1wokR4Ehx7aDfvRg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "530 East 144th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8132144,
+          "lng": -73.91515799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8146601802915,
+            "lng": -73.91375311970849
+          },
+          "southwest": {
+            "lat": 40.8119622197085,
+            "lng": -73.9164510802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Haus NYC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102065908968960133068\">The Haus NYC</a>"
+          ],
+          "photo_reference": "AeJbb3ekaXuWMhmEutjuYVnVnNOvstQsotlBjOfUugW58hiykXh_C0bx5TcgXE4itW3IwGupvOoYl9gba_iLt5YXFhQ98D_ODAE0kA1S-lT5pJMOnHozbq0ueOp6hOyMXg9gTe4gJakeLWSNVWXHoj3Sf28dbNkXz0LeKIbFrI7F-rMpFqM",
+          "width": 1438
+        }
+      ],
+      "place_id": "ChIJr89Hetz1wokRRAds5kU9Vuk",
+      "plus_code": {
+        "compound_code": "R37M+7W New York, NY, USA",
+        "global_code": "87G8R37M+7W"
+      },
+      "rating": 4.9,
+      "reference": "ChIJr89Hetz1wokRRAds5kU9Vuk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "518 East 147th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.811915,
+          "lng": -73.9183819
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81337293029149,
+            "lng": -73.91696971970849
+          },
+          "southwest": {
+            "lat": 40.81067496970849,
+            "lng": -73.9196676802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gorgona Construction",
+      "permanently_closed": true,
+      "place_id": "ChIJbXn7J8T1wokRyM4soi9v59w",
+      "plus_code": {
+        "compound_code": "R36J+QJ The Bronx, NY, USA",
+        "global_code": "87G8R36J+QJ"
+      },
+      "reference": "ChIJbXn7J8T1wokRyM4soi9v59w",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "458 East 144th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8096253,
+          "lng": -73.9121229
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8108034302915,
+            "lng": -73.9108537197085
+          },
+          "southwest": {
+            "lat": 40.8081054697085,
+            "lng": -73.9135516802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "St. Mary's Dog Run",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117252879012356509717\">St. Mary&#39;s Dog Run</a>"
+          ],
+          "photo_reference": "AeJbb3eKCgST3YvuDyBCwtOnp8fIEwcte76G3ZNlCNGw5_T4QqYRk-zMnDJo8rZ9LVIXsyaPn2DcDys1nufZmS1dhnR_Q0bb3IN2hOQ7-LViQYseCjH3ZZ7zc5vvOEzEWs-tePborZMB_lhPlcqZdIXN_WYWRlwVybMflYNKaD0LtjW7gLGP",
+          "width": 5568
+        }
+      ],
+      "place_id": "ChIJtYplX8f1wokRqscrFI0LQRE",
+      "plus_code": {
+        "compound_code": "R35Q+V5 The Bronx, NY, USA",
+        "global_code": "87G8R35Q+V5"
+      },
+      "rating": 4.1,
+      "reference": "ChIJtYplX8f1wokRqscrFI0LQRE",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 243,
+      "vicinity": "387 Jackson Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80916,
+          "lng": -73.9176208
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81049833029149,
+            "lng": -73.91602561970849
+          },
+          "southwest": {
+            "lat": 40.8078003697085,
+            "lng": -73.9187235802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "American Dream Charter School",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3dfVN2SPeN-26Cv4ux-sZ9Bpr6s4-21MuA5fGVwtXmqZwrbk_qV2ncqE3rldf6cOrjoKy0UQ2SvlGptQHLZEjJRPVJTodop2g8fb12hvJYrSoGFpfcnfhWMAgYjT61pY1QHkVEMbu-3CjeThBPvx2Qtvz0ONGu71zyCGs-yx8MSFgy9",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJMUwqW8H1wokRPwJnhvx8X38",
+      "plus_code": {
+        "compound_code": "R35J+MX New York, NY, USA",
+        "global_code": "87G8R35J+MX"
+      },
+      "rating": 4.9,
+      "reference": "ChIJMUwqW8H1wokRPwJnhvx8X38",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "510 East 141st Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8083093,
+          "lng": -73.91433839999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8096327802915,
+            "lng": -73.91291616970848
+          },
+          "southwest": {
+            "lat": 40.8069348197085,
+            "lng": -73.91561413029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "A House on Beekman - Office Space",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJkb_-wcD1wokR4yo8YSqAqxs",
+      "plus_code": {
+        "compound_code": "R35P+87 The Bronx, NY, USA",
+        "global_code": "87G8R35P+87"
+      },
+      "reference": "ChIJkb_-wcD1wokR4yo8YSqAqxs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "321 Beekman Avenue # 2, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8140555,
+          "lng": -73.9141898
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8153366302915,
+            "lng": -73.91288016970849
+          },
+          "southwest": {
+            "lat": 40.8126386697085,
+            "lng": -73.91557813029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "David C Breton",
+      "place_id": "ChIJMUsv3Mf1wokRIkwGpgmBsOY",
+      "plus_code": {
+        "compound_code": "R37P+J8 New York, NY, USA",
+        "global_code": "87G8R37P+J8"
+      },
+      "reference": "ChIJMUsv3Mf1wokRIkwGpgmBsOY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "535 East 148th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.811038,
+          "lng": -73.918983
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8123156302915,
+            "lng": -73.91774506970849
+          },
+          "southwest": {
+            "lat": 40.8096176697085,
+            "lng": -73.92044303029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kingdom Hall of Jehovah's Witnesses",
+      "place_id": "ChIJ_XQ-GsT1wokR9FB9xbSiPRM",
+      "plus_code": {
+        "compound_code": "R36J+CC The Bronx, NY, USA",
+        "global_code": "87G8R36J+CC"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ_XQ-GsT1wokR9FB9xbSiPRM",
+      "scope": "GOOGLE",
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "471 East 142nd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81146149999999,
+          "lng": -73.9107813
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81303378029149,
+            "lng": -73.90913791970848
+          },
+          "southwest": {
+            "lat": 40.81033581970849,
+            "lng": -73.91183588029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Saint Mary's Park Outdoor Fitness Equipment",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1772,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117339418549806755262\">Saint Mary&#39;s Park Outdoor Fitness Equipment</a>"
+          ],
+          "photo_reference": "AeJbb3cFBSbeFqw7NpRE40_L1uotxAekeoZ-J9SgpI5l7EMdSldv0cAlOWR9sOgI41FigU1mAyO81E00xKl8PmYqnyhYVKYRMK1LI5bFRiWrRtJdHHEGFwQouBT01a-vug0VUjmTNtE1y2heykrjv8jo3XlQDudlSg9cafH6Eh5nfW3z4XRT",
+          "width": 2858
+        }
+      ],
+      "place_id": "ChIJaw-H9bj1wokRp4R9OZkmxhY",
+      "plus_code": {
+        "compound_code": "R36Q+HM The Bronx, NY, USA",
+        "global_code": "87G8R36Q+HM"
+      },
+      "rating": 4.5,
+      "reference": "ChIJaw-H9bj1wokRp4R9OZkmxhY",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "East 147th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.811246,
+          "lng": -73.91687259999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8126262802915,
+            "lng": -73.91561836970848
+          },
+          "southwest": {
+            "lat": 40.8099283197085,
+            "lng": -73.9183163302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Betances I",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117834951679045054034\">Edgar Del</a>"
+          ],
+          "photo_reference": "AeJbb3fKHPhOD8yeKws6LGG4Mslo2GFOg9oD-SkncFew6wUSiFC4iziMfDnrdbyof_jP6BqwFywSPxSRa5arHDiiQ_sqhktcS_fwin224mPMgmyczSaD1jEVhar9m9OUZ3ZkM3iGtnK8yIcw7TRXuFBi9VvO-nhyLfoa6LvZmChOY5MYu88",
+          "width": 1836
+        }
+      ],
+      "place_id": "ChIJs1bvoMb1wokRgKF9SjOVTq4",
+      "plus_code": {
+        "compound_code": "R36M+F7 New York, NY, USA",
+        "global_code": "87G8R36M+F7"
+      },
+      "rating": 2.3,
+      "reference": "ChIJs1bvoMb1wokRgKF9SjOVTq4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "400 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8143276,
+          "lng": -73.9150165
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8156097302915,
+            "lng": -73.9136968697085
+          },
+          "southwest": {
+            "lat": 40.8129117697085,
+            "lng": -73.91639483029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Payment Alliance International, Inc.",
+      "place_id": "ChIJR3lL1Mf1wokRUz5xtQCpVsY",
+      "plus_code": {
+        "compound_code": "R37M+PX The Bronx, NY, USA",
+        "global_code": "87G8R37M+PX"
+      },
+      "reference": "ChIJR3lL1Mf1wokRUz5xtQCpVsY",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "520 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.814117,
+          "lng": -73.913271
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81557448029149,
+            "lng": -73.91186161970849
+          },
+          "southwest": {
+            "lat": 40.81287651970849,
+            "lng": -73.9145595802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Blogbellion",
+      "permanently_closed": true,
+      "place_id": "ChIJr2QmRbf1wokR-FtHQB8FAGg",
+      "plus_code": {
+        "compound_code": "R37P+JM The Bronx, NY, USA",
+        "global_code": "87G8R37P+JM"
+      },
+      "reference": "ChIJr2QmRbf1wokR-FtHQB8FAGg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "560 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80783,
+          "lng": -73.914473
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8092700802915,
+            "lng": -73.91305651970849
+          },
+          "southwest": {
+            "lat": 40.8065721197085,
+            "lng": -73.9157544802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Iglesia Espiritu De Hermandad Bx",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1532,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100509403231005495359\">Iglesia Espiritu De Hermandad Bx</a>"
+          ],
+          "photo_reference": "AeJbb3cXCfXaqnthLCzqH7kI5BzQ22cSe-6QqXKRsCSixns-o7Epf3jDTA8boZBVDJrc82qzCdp3T7YR9nT-aFSgWmo2KOky_LXhbmgdSJfxnWzqI-isZX3tGVcQsAewQ41otW9SvyAv7zQmUsTfwZLvpsy0muJcoi1xGeMR-HI2VwoDRfO0",
+          "width": 2052
+        }
+      ],
+      "place_id": "ChIJeWLzl7n1wokRkoh1nWK4oXg",
+      "plus_code": {
+        "compound_code": "R35P+46 The Bronx, NY, USA",
+        "global_code": "87G8R35P+46"
+      },
+      "rating": 4.5,
+      "reference": "ChIJeWLzl7n1wokRkoh1nWK4oXg",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "606-612 East 141st Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8103414,
+          "lng": -73.91044649999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81166063029149,
+            "lng": -73.9089547697085
+          },
+          "southwest": {
+            "lat": 40.80896266970849,
+            "lng": -73.91165273029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "St. Mary's Playground East",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2905,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104980801801745155291\">St. Mary&#39;s Playground East</a>"
+          ],
+          "photo_reference": "AeJbb3cR5bq4oICFmUQ9k-JCAUevqBj-OTPo85BmZeKy6H_seZrh7pZImBE88EUyfJGsu-V-MYceikqnLl-4bd2KVUwaS-Fst7NNoYMFq08RdtOvrJtzYatmNMdLROYdWKJLULcQn8U9nl8wl6bgzVFSh7m1hKEZIsBqgsSsvFPlkdAeRngQ",
+          "width": 3873
+        }
+      ],
+      "place_id": "ChIJp5-Wwrj1wokRX7-TFFcR0EE",
+      "plus_code": {
+        "compound_code": "R36Q+4R The Bronx, NY, USA",
+        "global_code": "87G8R36Q+4R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJp5-Wwrj1wokRX7-TFFcR0EE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 81,
+      "vicinity": "376 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.809691,
+          "lng": -73.9096174
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8109502302915,
+            "lng": -73.90830101970849
+          },
+          "southwest": {
+            "lat": 40.8082522697085,
+            "lng": -73.91099898029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Accurate Metal Weatherstrip Co",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101802222256691259010\">Accurate Metal Weatherstrip Co</a>"
+          ],
+          "photo_reference": "AeJbb3cJ1R2myOJjSmGBCsw6FI4gaEidyqGRPcCCSnVPQiJsL47lW7VnzB_6Ru96t6CIOp0RUY3RWXk3oWKvXuuxzF_-GL4LzdsmURxizx5I5j2AzO9vEMcJDCInaz069qZvmazwxFo8lpLK8IyacbKwyUwQ7A9hyH4WRH3xboYlSeIgvw6S",
+          "width": 265
+        }
+      ],
+      "place_id": "ChIJLZCaBSSNwokRSYQ0h8YKdjg",
+      "plus_code": {
+        "compound_code": "R35R+V5 The Bronx, NY, USA",
+        "global_code": "87G8R35R+V5"
+      },
+      "rating": 3.3,
+      "reference": "ChIJLZCaBSSNwokRSYQ0h8YKdjg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "415 Concord Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8140984,
+          "lng": -73.9173836
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8154871802915,
+            "lng": -73.91600706970848
+          },
+          "southwest": {
+            "lat": 40.8127892197085,
+            "lng": -73.9187050302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Edwin Gould Services For Children & Families",
+      "place_id": "ChIJvTgdEcb1wokR1k-79RwoqaY",
+      "plus_code": {
+        "compound_code": "R37M+J2 New York, NY, USA",
+        "global_code": "87G8R37M+J2"
+      },
+      "reference": "ChIJvTgdEcb1wokR1k-79RwoqaY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "426 East 147th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8147648,
+          "lng": -73.9148764
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81611648029151,
+            "lng": -73.91361626970848
+          },
+          "southwest": {
+            "lat": 40.81341851970851,
+            "lng": -73.91631423029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Los Nisperos",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102893780734791017978\">Sweet Dreams Q.FCake&#39;s</a>"
+          ],
+          "photo_reference": "AeJbb3e1BQkXH-rxe_NPQ5XYhELpZtpVtEfaIJy0XfDDX2_SowadwttfqkHaqoZ6Pvs9L4roKOtfGpNLN1ek4FjxaiL_Uws9E2U8T_AAPaVIggC7NKW9Pzn7MLM70Lnhv1xcbyIU_jXg-Ay9ZPB_pbsqX3nCvNwzRQql6C-HkGz-oWqX_l98",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ-XJ0ecj1wokRqtI-RRXfMsA",
+      "plus_code": {
+        "compound_code": "R37P+W2 New York, NY, USA",
+        "global_code": "87G8R37P+W2"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ-XJ0ecj1wokRqtI-RRXfMsA",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 290,
+      "vicinity": "500 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8117531,
+          "lng": -73.91973569999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81316483029149,
+            "lng": -73.91834091970848
+          },
+          "southwest": {
+            "lat": 40.8104668697085,
+            "lng": -73.9210388802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "D'BODY MED SPA, INC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 637,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112287087912566323019\">D&#39;BODY MED SPA, INC</a>"
+          ],
+          "photo_reference": "AeJbb3cXa0WetTKiOg5bkixSa_gAy5c5ebEF_3TpqQwh76qfyT2TrwxGRvM6jeiHzeh1ZioHtvL0Px_4-RXZ8AI7l2iuMQf6mwZiFSShZDn6x70R40RUMOVi_6zFFg9MHojgNuW9MaYX-ZjYN6KcN-VrGhsTiTpYKXTaqMGUDZVYkaG5pl6-",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJV6d2po70wokR0BtugDLkTdQ",
+      "plus_code": {
+        "compound_code": "R36J+P4 New York, NY, USA",
+        "global_code": "87G8R36J+P4"
+      },
+      "rating": 4.4,
+      "reference": "ChIJV6d2po70wokR0BtugDLkTdQ",
+      "scope": "GOOGLE",
+      "types": [
+        "spa",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "424 East 143rd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8147673,
+          "lng": -73.9135056
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8161485802915,
+            "lng": -73.9122646197085
+          },
+          "southwest": {
+            "lat": 40.8134506197085,
+            "lng": -73.9149625802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "AutoZone Auto Parts",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 288,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117175261722145425214\">AutoZone Auto Parts</a>"
+          ],
+          "photo_reference": "AeJbb3d4-8LbqM2UTseC_rwMD79uCCQR2p7iKh0rYoHueU9IQOxvZMgS4XMB07f_B0xGTfyGeP0ZahM75I3DDm7-pJzbAWJPFWk8PX5GqJEc8X8IzgQ-C4k5EsrC1M7KohPYL0WKvPM5CAeYw28Mvgaje8PpBoA7Zvlnwcss9dWcXeVFLkoD",
+          "width": 512
+        }
+      ],
+      "place_id": "ChIJ0ek1DMj1wokRZzJmikNolrg",
+      "plus_code": {
+        "compound_code": "R37P+WH New York, NY, USA",
+        "global_code": "87G8R37P+WH"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ0ek1DMj1wokRZzJmikNolrg",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1553,
+      "vicinity": "541 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8148651,
+          "lng": -73.9153883
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81631533029149,
+            "lng": -73.9139853697085
+          },
+          "southwest": {
+            "lat": 40.8136173697085,
+            "lng": -73.91668333029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Boost Mobile",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108150497697350690743\">Syed S</a>"
+          ],
+          "photo_reference": "AeJbb3culEroYR1be1d1YSXpKF0grJS0MYDqxvkvgTppspk1wuOVoj-cOzLIia6mlVVPANyf4o3ezvRKphHrXWKNQ0y6XKPenvHhPlS41P45B3u_zjVJ5_KnHQ0u0Hq9gNTHvtmeBziksH5cZOv-kXe4x5crzSQ94Jmten_S26LVt1CFnrI8",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJi-OtoM_1wokRdAgzCEw0b-w",
+      "plus_code": {
+        "compound_code": "R37M+WR New York, NY, USA",
+        "global_code": "87G8R37M+WR"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJi-OtoM_1wokRdAgzCEw0b-w",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 32,
+      "vicinity": "454b East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.814896,
+          "lng": -73.91565899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8163713802915,
+            "lng": -73.91421581970849
+          },
+          "southwest": {
+            "lat": 40.8136734197085,
+            "lng": -73.9169137802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Destination Tomorrow",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112462786195863772741\">Destination Tomorrow</a>"
+          ],
+          "photo_reference": "AeJbb3cXxgoG94w3HQv3MYsvoahWsYOyNrZBwAHlirFYJXeJVVqla8A7d3cOMNbGz0LFCvRD1tLZ44br7jZhSDo5lGRpKubjBdbGG_jRrQkQKEVvbt15hdgtcegtKaebSd1KE46lHZzau7yzN7DluOyqPowgHLVnK0PlNfmrdgMYqI_gIQlO",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJBdOvusf1wokRTRt3UMZehBE",
+      "plus_code": {
+        "compound_code": "R37M+XP The Bronx, NY, USA",
+        "global_code": "87G8R37M+XP"
+      },
+      "rating": 4.5,
+      "reference": "ChIJBdOvusf1wokRTRt3UMZehBE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "452 East 149th Street 3rd floor, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81213399999999,
+          "lng": -73.91983499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8134157302915,
+            "lng": -73.91853256970849
+          },
+          "southwest": {
+            "lat": 40.8107177697085,
+            "lng": -73.9212305302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Every Day Is A Miracle Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103380161071180470571\">Every Day is a Miracle food pantry</a>"
+          ],
+          "photo_reference": "AeJbb3cv3z48-86utVwg-iJlICKLHUzOuotmkLY35dbwhSXOS2drxYarGRwXs5xlKo3XgrifsScWehEJ85mkm1ZtLHLgqYDLh3jy7ZfogmWQqQzfTO0RZT2ECRvMlS7oyodwJQcPa4DSVUxkbJvI5jTtUgB4HQIvK6vZ6aiy1OEJ2Wcb6o6t",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJq6qqarf1wokRIqHRGKJna2U",
+      "plus_code": {
+        "compound_code": "R36J+V3 The Bronx, NY, USA",
+        "global_code": "87G8R36J+V3"
+      },
+      "rating": 3.8,
+      "reference": "ChIJq6qqarf1wokRIqHRGKJna2U",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "c/o House of the Almond Tree Church, 411 East 143rd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81498970000001,
+          "lng": -73.9154891
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81640203029151,
+            "lng": -73.91410581970848
+          },
+          "southwest": {
+            "lat": 40.81370406970851,
+            "lng": -73.9168037802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "A House on Beekman",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJcXTBhcH1wokRl_8AvoHdLNs",
+      "plus_code": {
+        "compound_code": "R37M+XR The Bronx, NY, USA",
+        "global_code": "87G8R37M+XR"
+      },
+      "rating": 3,
+      "reference": "ChIJcXTBhcH1wokRl_8AvoHdLNs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "452, 452-4 East 149th Street 4th Floor, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80722439999999,
+          "lng": -73.9158522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80849488029149,
+            "lng": -73.9145610697085
+          },
+          "southwest": {
+            "lat": 40.8057969197085,
+            "lng": -73.9172590302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Regine Kids",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112521663062669060662\">JUSTICE 4 ALL</a>"
+          ],
+          "photo_reference": "AeJbb3dlSIf-gn4B3Tj_gfgzaQHWgypMez0W2aq3H-mHNpZbLGJ4Bnz06sQACZ3DEqbj5Eo_R6nlklCpgxxQwRIKcu2LV3mV4IkQvbG25oPSn_6MdB9Ni_ZuWBYLLT2WC2d6hgrGMzd4_BFxBaKHNabiOfGIcASGzA_4CvVja9i1lbvm1zVq",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJL8ae4FT0wokRdgZ1vhAZN-w",
+      "plus_code": {
+        "compound_code": "R34M+VM The Bronx, NY, USA",
+        "global_code": "87G8R34M+VM"
+      },
+      "rating": 4.4,
+      "reference": "ChIJL8ae4FT0wokRdgZ1vhAZN-w",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "589 East 139th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8072883,
+          "lng": -73.9161446
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8085434802915,
+            "lng": -73.91470646970849
+          },
+          "southwest": {
+            "lat": 40.8058455197085,
+            "lng": -73.9174044302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "South Bronx Charter",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3dYCiG95kMAH4EwA2meekfhtbI9Owq9SC4mmaI6UantSDLpsg8BObzaI8q_L7KSGaF4FB02R6DPV4WgBa-Q9kUXX1gKYoAsLVIoDVy9eOBnAESlPfRhjXt8rpItMzHhFoUFR-Zd-FXDfvRVGBJp16DdbnwqD5xuCHkv_ltzYeolnDxX",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJcWzUp8H1wokRpwIw13l4JIA",
+      "plus_code": {
+        "compound_code": "R34M+WG New York, NY, USA",
+        "global_code": "87G8R34M+WG"
+      },
+      "rating": 4.1,
+      "reference": "ChIJcWzUp8H1wokRpwIw13l4JIA",
+      "scope": "GOOGLE",
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "577 East 139th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81452650000001,
+          "lng": -73.9123068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8159491802915,
+            "lng": -73.9110917197085
+          },
+          "southwest": {
+            "lat": 40.8132512197085,
+            "lng": -73.9137896802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "I.S. 584",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3cTS3A7GlmYDuk8HfRThbWrqxl2K-ug7HCEgeSa923ZqF-y_M3ulprhkxjYKoBRh0eoy26VCnD5wgimVv9BLZBMBVZxDebkvjzhm-gBEXCYWD0pAVzG65RTIJpoqbAh10Z69nB-ku9-IfZeinPmSiqpPPFTaKgEy1fFWW_Nc8P6i9Iv",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJrWLJ_bf1wokRx9cHGn2_VQw",
+      "plus_code": {
+        "compound_code": "R37Q+R3 New York, NY, USA",
+        "global_code": "87G8R37Q+R3"
+      },
+      "rating": 4.5,
+      "reference": "ChIJrWLJ_bf1wokRx9cHGn2_VQw",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "600 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8120679,
+          "lng": -73.909864
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81338273029149,
+            "lng": -73.9083510697085
+          },
+          "southwest": {
+            "lat": 40.81068476970849,
+            "lng": -73.91104903029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foxy Management",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJbXDaTbj1wokRy8D-v9sb3AQ",
+      "plus_code": {
+        "compound_code": "R36R+R3 The Bronx, NY, USA",
+        "global_code": "87G8R36R+R3"
+      },
+      "rating": 3.4,
+      "reference": "ChIJbXDaTbj1wokRy8D-v9sb3AQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "500 Trinity Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8148619,
+          "lng": -73.9165885
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8161676302915,
+            "lng": -73.9153507197085
+          },
+          "southwest": {
+            "lat": 40.8134696697085,
+            "lng": -73.9180486802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "New York Child Resource Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJc3lpnsj1wokRYRF0kKb2oH8",
+      "plus_code": {
+        "compound_code": "R37M+W9 The Bronx, NY, USA",
+        "global_code": "87G8R37M+W9"
+      },
+      "rating": 4.4,
+      "reference": "ChIJc3lpnsj1wokRYRF0kKb2oH8",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "429 East 148th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8090639,
+          "lng": -73.91044070000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8104290802915,
+            "lng": -73.90916756970852
+          },
+          "southwest": {
+            "lat": 40.8077311197085,
+            "lng": -73.91186553029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "A House on Beekman",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116204626124034692126\">A House on Beekman</a>"
+          ],
+          "photo_reference": "AeJbb3f30L41yCa6z6dzxkiUbEJmGEgwgls8pJf1MW4zqX8YGutcIKssnU1GpJSCn31fj9f3uWpeb5qzM1slUkgOm6kzAo5L4JePkkYMwIurP9a1TNc-dexP_WeKO2v_bhp1z_uqwuVYgesX7V5R7wckK4d7Z8SKITFqvvY4cRqMR2-vYqG1",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJTT9MLb_1wokRzkoM92rY1GI",
+      "plus_code": {
+        "compound_code": "R35Q+JR New York, NY, USA",
+        "global_code": "87G8R35Q+JR"
+      },
+      "rating": 5,
+      "reference": "ChIJTT9MLb_1wokRzkoM92rY1GI",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "390 Jackson Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8143402,
+          "lng": -73.917985
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81574103029151,
+            "lng": -73.9166428197085
+          },
+          "southwest": {
+            "lat": 40.81304306970851,
+            "lng": -73.9193407802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sheltering Arms",
+      "place_id": "ChIJp_L1Dsb1wokRQAlZ25AlaiU",
+      "plus_code": {
+        "compound_code": "R37J+PR The Bronx, NY, USA",
+        "global_code": "87G8R37J+PR"
+      },
+      "rating": 4.1,
+      "reference": "ChIJp_L1Dsb1wokRQAlZ25AlaiU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "412 East 147th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8132736,
+          "lng": -73.9103856
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8147290802915,
+            "lng": -73.90899841970851
+          },
+          "southwest": {
+            "lat": 40.8120311197085,
+            "lng": -73.91169638029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Moore Houses",
+      "place_id": "ChIJ8WDNJLj1wokRZQmCr8_cHPI",
+      "plus_code": {
+        "compound_code": "R37Q+8R New York, NY, USA",
+        "global_code": "87G8R37Q+8R"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ8WDNJLj1wokRZQmCr8_cHPI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "664 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8070808,
+          "lng": -73.9156603
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8084398802915,
+            "lng": -73.91446431970849
+          },
+          "southwest": {
+            "lat": 40.8057419197085,
+            "lng": -73.9171622802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Norwax Associates Inc",
+      "place_id": "ChIJycSzq8H1wokRnXX3PJea20g",
+      "plus_code": {
+        "compound_code": "R34M+RP The Bronx, NY, USA",
+        "global_code": "87G8R34M+RP"
+      },
+      "rating": 5,
+      "reference": "ChIJycSzq8H1wokRnXX3PJea20g",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "597 East 139th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8094246,
+          "lng": -73.919896
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8108210802915,
+            "lng": -73.9185221197085
+          },
+          "southwest": {
+            "lat": 40.8081231197085,
+            "lng": -73.9212200802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Young Leaders Elementary School",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3eN_NsKY-lWZqwbjibR6n8IfCXIkN6yL_gG0ncm75RE_xQ_yD5sqhLV4eM4srat5__2-mlsaJutuzfdE-bBoKUaGxp0j4AtPOK7aDBPCKXzbg5UuYRWxAzY_ePz7_S6KKEwb0ImPFEe6FWmTtyQFKhYEEL57djCRMjfZhTgNf1Vo_TJ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ6VWm6sP1wokRT3VjfKSpROo",
+      "plus_code": {
+        "compound_code": "R35J+Q2 New York, NY, USA",
+        "global_code": "87G8R35J+Q2"
+      },
+      "rating": 4,
+      "reference": "ChIJ6VWm6sP1wokRT3VjfKSpROo",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "468 East 140th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80884769999999,
+          "lng": -73.9105068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8101548802915,
+            "lng": -73.90917301970849
+          },
+          "southwest": {
+            "lat": 40.8074569197085,
+            "lng": -73.91187098029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "ATM USA",
+      "place_id": "ChIJq7-2Mr_1wokRcSnZstaTzks",
+      "plus_code": {
+        "compound_code": "R35Q+GQ New York, NY, USA",
+        "global_code": "87G8R35Q+GQ"
+      },
+      "reference": "ChIJq7-2Mr_1wokRcSnZstaTzks",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "390 Jackson Avenue, The Bronx"
+    }
+  ],
+  "status": "OK"
+}

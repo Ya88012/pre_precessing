@@ -1,0 +1,2689 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7177545,
+          "lng": -74.0431435
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76886696556042,
+            "lng": -74.02040497604364
+          },
+          "southwest": {
+            "lat": 40.66162203954202,
+            "lng": -74.11705692034361
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u6fa4\u897f\u5e02",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110214719387408653852\">Husam Attalla</a>"
+          ],
+          "photo_reference": "AeJbb3ceNtD04DJOqKUiVo8gVfhOsYd1pXvQZiL2ruGQzGkUs9D7qjU3S1GJmDm8vtP38loDiAKjQuezQi8-IxHg8-dfHrJsPuZ4A3AYbYxP2VH6VbYa0rQI008J91vgy2ykhmG_dlxLTNL0yYSSCfGkVc0QuAPTf1R7ZWaK1py500O3iPo-",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3a-_JdJQwokR2SXNohPwSQI",
+      "reference": "ChIJ3a-_JdJQwokR2SXNohPwSQI",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u6fa4\u897f\u5e02"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7171182,
+          "lng": -74.0325349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71842178029151,
+            "lng": -74.03129466970849
+          },
+          "southwest": {
+            "lat": 40.71572381970851,
+            "lng": -74.0339926302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "\u7d10\u6fa4\u897f\u54c8\u5fb7\u905c\u6cb3\u7554\u51f1\u6085\u9152\u5e97",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116363497443687382060\">Hyatt Regency Jersey City On The Hudson</a>"
+          ],
+          "photo_reference": "AeJbb3f1-2omPdlwa3lGV3sC6eVIn5CLT34S8dGrb7i2XaKYJI2SdtBNm4E1nZxQdFKqIrp6ivaHu7eB9V9SmC3B4dSKn0IvJnVv27p_yg_jwnoH5_F6G03R1Tr_WGuM9Q8RUjJf8Dmh9RBUWkQAS1_RuD8apS2yCIyi7n_f_6qpCbN3_MrH",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJMUNSg6lQwokRBO-vrsLMopg",
+      "plus_code": {
+        "compound_code": "PX88+RX \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX88+RX"
+      },
+      "rating": 4.4,
+      "reference": "ChIJMUNSg6lQwokRBO-vrsLMopg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2699,
+      "vicinity": "2 Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7132603,
+          "lng": -74.0355818
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7147649302915,
+            "lng": -74.0340623197085
+          },
+          "southwest": {
+            "lat": 40.7120669697085,
+            "lng": -74.0367602802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Liberty Towers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 7576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113967992220998917472\">Liberty Towers</a>"
+          ],
+          "photo_reference": "AeJbb3cEOsnqXQSb6K2UJd-tBXmJVZY9m67d4Rwl3sOgrS5FgJmbRLzK5hhv1gOeC4tv-aRUTtChPKtloWouBOvRCb1-LC_DpBYU5WFOiSEfY_ySkIX59YhLbOb6X4BGk1R3DbalICOAUnhNWN8aLuAyHPUAne0vGfcoe7VoVgdgcVX8eeFs",
+          "width": 8184
+        }
+      ],
+      "place_id": "ChIJtcYhqahQwokR17KtGYd2nOw",
+      "plus_code": {
+        "compound_code": "PX77+8Q \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX77+8Q"
+      },
+      "rating": 3.5,
+      "reference": "ChIJtcYhqahQwokR17KtGYd2nOw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 81,
+      "vicinity": "33 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7120161,
+          "lng": -74.0338505
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7136199302915,
+            "lng": -74.03250746970849
+          },
+          "southwest": {
+            "lat": 40.71092196970851,
+            "lng": -74.0352054302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u6fa4\u897f\u5e02\u9ad8\u9732\u6f54\u5927\u9418",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107416824207604941441\">Milo Tam</a>"
+          ],
+          "photo_reference": "AeJbb3dgZge_G8BJSKeBQ9Lwdo68b5M94bafhjDP_6WIKAbiljIBQtEiESejPACFo_H0krAO-q0FwYNdJBBKZJwYvxiyA_wk5CLHFoPULjOtzqyrdPFq2k2fuQ2h9DGj3HhW2u-X1GiwfJs7ge6sgBfMjdrqdb-G0V4YUkDf3vs_7Uq1PKvo",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJdRzMO6ZQwokR5Qywuw_-sSI",
+      "plus_code": {
+        "compound_code": "PX68+RF \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX68+RF"
+      },
+      "rating": 4.6,
+      "reference": "ChIJdRzMO6ZQwokR5Qywuw_-sSI",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 971,
+      "vicinity": "\u6fa4\u897f\u5e02"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7162568,
+          "lng": -74.0329837
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71761283029149,
+            "lng": -74.03191741970849
+          },
+          "southwest": {
+            "lat": 40.71491486970849,
+            "lng": -74.0346153802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+      "name": "Katy\u0144 Memorial",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116450410501346474373\">Daniel Rodriguez</a>"
+          ],
+          "photo_reference": "AeJbb3eROTlBnAYWT__GDZXjYr6_RsNvKXFHCnPsIo_hYbYaUH9_KefpVaMCiCVix-XmsDKsiIqJh66fmxDkSpT_Hldo1R6FXhw6GoAzVlmlQrxgbxu2TCSiSurAwnaJAtmTuqhhQV0nGt1xmUkjJ57RRHI1mfAeJDP73Ljozk4wAJf4I4Wd",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ3cc_CqlQwokRQ6bS60P4qe0",
+      "plus_code": {
+        "compound_code": "PX88+GR \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX88+GR"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ3cc_CqlQwokRQ6bS60P4qe0",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 206,
+      "vicinity": "2, Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71671,
+          "lng": -74.0353097
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71801068029149,
+            "lng": -74.0339710697085
+          },
+          "southwest": {
+            "lat": 40.71531271970849,
+            "lng": -74.0366690302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "FedEx Office Print & Ship Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103508354845999029763\">Abhinav Srivastava</a>"
+          ],
+          "photo_reference": "AeJbb3fAH0cnU0gXXPJ8ZeCXb6UoZQ7nlyEEQNW9W2knNEajvv_rDQPlTICHv3OMKeigRBB5KaR00lM8Kdc3PDAB0Gst4cs2I5itLb2ZtUWi5P5KxL7oxANueSfjZkRv7oVRNhQpAZN8wXtF3jXDU4zR5PuKkxOpT11IoHVJ_Gmk1rBF6f3x",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJzck2nqlQwokRZzhMCdtqNqk",
+      "plus_code": {
+        "compound_code": "PX87+MV \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX87+MV"
+      },
+      "price_level": 2,
+      "rating": 2.5,
+      "reference": "ChIJzck2nqlQwokRZzhMCdtqNqk",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 150,
+      "vicinity": "30 Montgomery Street Suite 110, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71666949999999,
+          "lng": -74.0333299
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7181788302915,
+            "lng": -74.03199826970851
+          },
+          "southwest": {
+            "lat": 40.7154808697085,
+            "lng": -74.03469623029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "IT By Design",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102884309012579109756\">IT By Design</a>"
+          ],
+          "photo_reference": "AeJbb3fH9xxVD4lfmSQ4yU-z7XYau7PFInieTz1XAEgeH-I-5KLQ6HP6hADNe4cW4C6iAq0jDsVspMxjLrMO6pvrbqW45w4YKQoHLHayfalPYa1HBA7LkLloUTHRiv6vDg5ng1yo_ZyiDZqxvaOaV14VQ_-Clgg9Q1bU92yYj7-U6zWP_ju2",
+          "width": 6016
+        }
+      ],
+      "place_id": "ChIJ1XjgcmO2w4kRsA1F0Y5LOr4",
+      "plus_code": {
+        "compound_code": "PX88+MM \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX88+MM"
+      },
+      "rating": 5,
+      "reference": "ChIJ1XjgcmO2w4kRsA1F0Y5LOr4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "10 Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7147349,
+          "lng": -74.0358284
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7160052302915,
+            "lng": -74.0345798697085
+          },
+          "southwest": {
+            "lat": 40.7133072697085,
+            "lng": -74.0372778302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "70 Greene Apartments",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104867443248869695716\">70 Greene Apartments</a>"
+          ],
+          "photo_reference": "AeJbb3dH4ONsZKyVLslQre9WKfAG46ce1g9OTZ8sNqzzHVyz8apuCIQk9O8v_ikQ2cUKVvDO0az2g59QRMlp5ZUis4mf_eGdV_VM1MYluxgnT6bNORRW0SSKMCaBLSK7hn6EzzIQXdb6iPxdLEnb5lAZgSjgff5RIMbXF-160XlWE1qzgj9L",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ1dZ-M69QwokRaebraIBMCRw",
+      "plus_code": {
+        "compound_code": "PX77+VM \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX77+VM"
+      },
+      "rating": 3.4,
+      "reference": "ChIJ1dZ-M69QwokRaebraIBMCRw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 112,
+      "vicinity": "70 Greene Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7140131,
+          "lng": -74.0382095
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71532173029149,
+            "lng": -74.03673091970849
+          },
+          "southwest": {
+            "lat": 40.7126237697085,
+            "lng": -74.0394288802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Light Horse Tavern",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117211865693656285212\">Luca Dezzani</a>"
+          ],
+          "photo_reference": "AeJbb3feB9_nCmN16LucQKfaWzhkDc0EzgOUAphtlLwym5fpAyDLaIrelcTF6YvZFxrkwvJKtM-aprXkMrc3YTLHWlYUruQk1J4MSOJSlHHNJWZ1YtPyGJk6aNuDYa8Y0mXnWCgV0_uF8E3nCYKJ--Tmh89WLIRbsQg1gE8V1q5qcD9T9ol5",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJR6nWeq9QwokRpkeN8zc9CJY",
+      "plus_code": {
+        "compound_code": "PX76+JP \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX76+JP"
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "ChIJR6nWeq9QwokRpkeN8zc9CJY",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1158,
+      "vicinity": "199 Washington Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7169228,
+          "lng": -74.03532229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7181233302915,
+            "lng": -74.03399966970849
+          },
+          "southwest": {
+            "lat": 40.71542536970851,
+            "lng": -74.03669763029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Express Employment Professionals",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1166,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118351104817504855564\">Express Employment Professionals</a>"
+          ],
+          "photo_reference": "AeJbb3eVn8KzgOjnwJmgTlP8sVvKznAVVyA3H1Tktk-mtsvk51LRJ0JUNE7H1UlLEXc4Xbb1OxU-Nwsohes18g_9fl0p1fN-blf5RFIjrtvBKBU46OGhwSoviJUKOYRMJApTGWbxrkNRI6VNiJF779X2ed7H-Bz0rjn1Hnsvlh7Pwa99m0B0",
+          "width": 2070
+        }
+      ],
+      "place_id": "ChIJ6-aDJbJQwokR8PEOUR7VXy0",
+      "plus_code": {
+        "compound_code": "PX87+QV \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX87+QV"
+      },
+      "rating": 2.4,
+      "reference": "ChIJ6-aDJbJQwokR8PEOUR7VXy0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 32,
+      "vicinity": "30 Montgomery Street #1255, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7163825,
+          "lng": -74.03521529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71780983029149,
+            "lng": -74.03395751970848
+          },
+          "southwest": {
+            "lat": 40.7151118697085,
+            "lng": -74.0366554802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Amiya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108748184153178526147\">Amiya</a>"
+          ],
+          "photo_reference": "AeJbb3dECh4ytFv9jaBAWyxavbUyGDmwdbo-KRnsFR4LwigxDFmljpR8zzYQSN-yppdR9FJevswLMV6VKi6KCNfHXfKZqvDvVcwnaryUEoT-wiNnnljUqs9XkIp76h52uR-JYdjKHuMiZi4EZxeIOH05fc8xbx2u6fXWK17hFEKy19Uv4pPD",
+          "width": 6016
+        }
+      ],
+      "place_id": "ChIJia9F8KtQwokR3bwbALwPf6o",
+      "plus_code": {
+        "compound_code": "PX87+HW \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX87+HW"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJia9F8KtQwokR3bwbALwPf6o",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1124,
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.716911,
+          "lng": -74.035254
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7181139302915,
+            "lng": -74.03393096970849
+          },
+          "southwest": {
+            "lat": 40.7154159697085,
+            "lng": -74.03662893029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Clear Analytics",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113636410672535964766\">Clear Analytics</a>"
+          ],
+          "photo_reference": "AeJbb3e9qyKZIuoCKAv7auMWgSUA5Xgwt1rRmYi-kCdnkZDePJBKCQQwlY9jRoxSOU80IEWzoiYdthb7Swwpv1t3hdyevqilq0ve2nr64XH2eYdyShaQOdN-CuNUEnL0CU8sD72dlofPWunz4UI6nNMJjK9KZ44hRqGwJ9c2HWnzObfv_7vt",
+          "width": 469
+        }
+      ],
+      "place_id": "ChIJwRpdSKlQwokRi5n7bTdJMcA",
+      "plus_code": {
+        "compound_code": "PX87+QV \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX87+QV"
+      },
+      "reference": "ChIJwRpdSKlQwokRi5n7bTdJMcA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "30 Montgomery Street Suite #1245, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.716993,
+          "lng": -74.03529329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7181576302915,
+            "lng": -74.0339770697085
+          },
+          "southwest": {
+            "lat": 40.7154596697085,
+            "lng": -74.0366750302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Genova Burns LLC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112554388373728611763\">Genova Burns LLC</a>"
+          ],
+          "photo_reference": "AeJbb3f6Co_jqo9iElJryORiRwwe0HaNZMpeyj6-hgc-D_vkjkCQ9oZO5qKpK2ncmFqWYlgwPpQHC_OJEP_nfq_bOIxNTJrhS2FJZCva89hJhLtTCDPTOMjgqjrHWg-dIblioz6TwV9cvJZjPf3WxYQCtESO9oRoRdtMD273MbHsVBv3WO0z",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJwRpdSKlQwokRbWiNthpA2vY",
+      "plus_code": {
+        "compound_code": "PX87+QV \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX87+QV"
+      },
+      "rating": 5,
+      "reference": "ChIJwRpdSKlQwokRbWiNthpA2vY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "30 Montgomery Street 11th Floor, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7168205,
+          "lng": -74.0338512
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7178859302915,
+            "lng": -74.03228416970849
+          },
+          "southwest": {
+            "lat": 40.7151879697085,
+            "lng": -74.03498213029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "One Parking",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104505934699619152609\">One Parking</a>"
+          ],
+          "photo_reference": "AeJbb3cc7UaKv49OZu2lZYUz6TlKA6qnSGzKr-5xKdZGv-1SEYC45coL1fcVSeJHF-96lDMDCq5NuI4HqUscz75xxxmlnopnslr5RTd6OPFDGBeyWPf4Zo5_9Ealw9qnUVqoYFzxKzDUJlklatV8gcPM--O8lu9H6Uebrmi1ZgNdrZL_Y8ny",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJzck2nqlQwokR9ctG4kNT9wU",
+      "plus_code": {
+        "compound_code": "PX88+PF \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX88+PF"
+      },
+      "rating": 4,
+      "reference": "ChIJzck2nqlQwokR9ctG4kNT9wU",
+      "scope": "GOOGLE",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 72,
+      "vicinity": "10 Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7175635,
+          "lng": -74.0359631
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7188273302915,
+            "lng": -74.0346434697085
+          },
+          "southwest": {
+            "lat": 40.7161293697085,
+            "lng": -74.03734143029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ana-Data Consulting Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJN-r3NKlQwokRT6a-1dCpbbY",
+      "plus_code": {
+        "compound_code": "PX97+2J \u7f8e\u570b\u65b0\u6fa4\u897f\u970d\u535a\u80af",
+        "global_code": "87G7PX97+2J"
+      },
+      "rating": 4.5,
+      "reference": "ChIJN-r3NKlQwokRT6a-1dCpbbY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "515 517 Jefferson St, Hoboken"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7165515,
+          "lng": -74.03767770000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7180208302915,
+            "lng": -74.0363595197085
+          },
+          "southwest": {
+            "lat": 40.71532286970851,
+            "lng": -74.0390574802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Balance by Acupuncture",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJS-7sgqNZwokR0U8QHkxpQmA",
+      "plus_code": {
+        "compound_code": "PX86+JW \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX86+JW"
+      },
+      "reference": "ChIJS-7sgqNZwokR0U8QHkxpQmA",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "75 Montgomery Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7131183,
+          "lng": -74.0344112
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7142593802915,
+            "lng": -74.03267516970848
+          },
+          "southwest": {
+            "lat": 40.7115614197085,
+            "lng": -74.0353731302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Goldman Sachs",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3681,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116351892371472177979\">Omar Martinez</a>"
+          ],
+          "photo_reference": "AeJbb3ekqi_lIzF-JKu5go1nv6MRpusqWN3kNziPb19REd-HLd2xv6h574ol64T9DwI1h8dBf5CkizVCdabsJjfjY4bI1ukNFvrQ8fVsnQwwFIVJkRFYz8LPp-yLsQZER4-JpPJKNDECeJoTholw3ifEFIb_Kv6QpVWWIxO9nlvBv1KHlQu0",
+          "width": 2959
+        }
+      ],
+      "place_id": "ChIJd95InqhQwokR4GyuOunrIxE",
+      "plus_code": {
+        "compound_code": "PX78+66 \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX78+66"
+      },
+      "rating": 4.2,
+      "reference": "ChIJd95InqhQwokR4GyuOunrIxE",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "30 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.716921,
+          "lng": -74.0352882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71812073029151,
+            "lng": -74.03396571970849
+          },
+          "southwest": {
+            "lat": 40.71542276970851,
+            "lng": -74.0366636802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Fundtech Limited",
+      "permanently_closed": true,
+      "place_id": "ChIJPV5SNKlQwokR9-W_ac_PSes",
+      "plus_code": {
+        "compound_code": "PX87+QV \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX87+QV"
+      },
+      "reference": "ChIJPV5SNKlQwokR9-W_ac_PSes",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "30 Montgomery Street # 501, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.71685050000001,
+          "lng": -74.0346024
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7180504802915,
+            "lng": -74.0332798697085
+          },
+          "southwest": {
+            "lat": 40.7153525197085,
+            "lng": -74.0359778302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Discount Life Insurance Quotes and Policies",
+      "permanently_closed": true,
+      "place_id": "ChIJmVtOQKlQwokRA6gypElZ-_U",
+      "plus_code": {
+        "compound_code": "PX88+P5 \u7f8e\u570b\u65b0\u6fa4\u897f\u6fa4\u897f\u5e02",
+        "global_code": "87G7PX88+P5"
+      },
+      "reference": "ChIJmVtOQKlQwokRA6gypElZ-_U",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2 Montgomery Street, Jersey City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7190163,
+          "lng": -74.04136559999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73656454717712,
+            "lng": -74.02661431449599
+          },
+          "southwest": {
+            "lat": 40.7109149370721,
+            "lng": -74.06200559238953
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Downtown Jersey City",
+      "photos": [
+        {
+          "height": 1908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116992533205705838643\">Punnu Singh</a>"
+          ],
+          "photo_reference": "AeJbb3f0PSvNGihUFmefAEuqR2nuKbqwrVZ-p-smDWQoX7If47sR7NQ3oWbevbYYCtT7HIfX3t5MBhA0CMZ45BPvMkZuX255Mkio4uxb4ninZLmYklb1QvXpD2c4p20ph2YReYtzWsvxI3tMYEcTph8dw5JPXR-PPoZflO339yMbraG7eIDA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_5Q_bLJQwokRy7o0TOvDEWk",
+      "reference": "ChIJ_5Q_bLJQwokRy7o0TOvDEWk",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7144933,
+          "lng": -74.03377619999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7160226802915,
+            "lng": -74.03236726970849
+          },
+          "southwest": {
+            "lat": 40.7133247197085,
+            "lng": -74.0350652302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "TD Ameritrade Corporate Office",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107925919819233790336\">Ramesh Kadirisani</a>"
+          ],
+          "photo_reference": "AeJbb3dGBwQke-aEkpdVUByoLTgc7r_-XlvCBfbNez_FRDVenx9-c1JSzymNnqIkQJddv82jbUGgjvz8tjDKpnGGqo_fLZLVeXrdNGxZDylxpOo-uvS7zvC-3XixZJucRMOGiKaQAaBCSEKQzS8EDWzGs5B2sEh0SH8HqSK46mPIP5pcMkKL",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ7VFQj6xQwokReetOCwGRaOc",
+      "plus_code": {
+        "compound_code": "PX78+QF Jersey City, NJ, USA",
+        "global_code": "87G7PX78+QF"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ7VFQj6xQwokReetOCwGRaOc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 42,
+      "vicinity": "1 Plaza Four A, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71609309999999,
+          "lng": -74.0349852
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71763698029149,
+            "lng": -74.0335957197085
+          },
+          "southwest": {
+            "lat": 40.7149390197085,
+            "lng": -74.03629368029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PricewaterhouseCoopers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJe5LOIqlQwokRzWNMChSdo0w",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJe5LOIqlQwokRzWNMChSdo0w",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street #26, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7160849,
+          "lng": -74.0349825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176326302915,
+            "lng": -74.0335922197085
+          },
+          "southwest": {
+            "lat": 40.71493466970851,
+            "lng": -74.03629018029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Franklin Credit Management Corporation",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJe5LOIqlQwokRJEmZMDlB3gY",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJe5LOIqlQwokRJEmZMDlB3gY",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7160849,
+          "lng": -74.0349825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176326302915,
+            "lng": -74.0335922197085
+          },
+          "southwest": {
+            "lat": 40.71493466970851,
+            "lng": -74.03629018029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "AIG",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110854164034814697389\">Aaron Johnson</a>"
+          ],
+          "photo_reference": "AeJbb3f-aV4yd4PfIJY2KFJg3NQQsSJISNXMCFn_A_pR_1ffd-2EZqufoi2jFPk6afdMVsnTODn_wZh-oBhTVG4RvIbG7nc9HKEUSYly8COcSVGVEVxuIc-sMSirJBQ738qbM3v91l5CcVXUivFtye69sLA5U4NDyERuTY5d3dFwqJCJ25rV",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJe5LOIqlQwokRJC2HpPTcJI4",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "rating": 4.4,
+      "reference": "ChIJe5LOIqlQwokRJC2HpPTcJI4",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7168309,
+          "lng": -74.03527629999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7180745302915,
+            "lng": -74.0339488197085
+          },
+          "southwest": {
+            "lat": 40.7153765697085,
+            "lng": -74.0366467802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Options Clearing Corporation",
+      "place_id": "ChIJlUrWHVRXwokRIlHG9Hcyu_Q",
+      "plus_code": {
+        "compound_code": "PX87+PV Jersey City, NJ, USA",
+        "global_code": "87G7PX87+PV"
+      },
+      "reference": "ChIJlUrWHVRXwokRIlHG9Hcyu_Q",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "30 Montgomery Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7132928,
+          "lng": -74.03829879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71493228029149,
+            "lng": -74.03722096970849
+          },
+          "southwest": {
+            "lat": 40.71223431970849,
+            "lng": -74.0399189302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Windsor at Liberty House Apartments",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1260,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104813987594264133451\">Windsor at Liberty House Apartments</a>"
+          ],
+          "photo_reference": "AeJbb3c5XC2MtIYW9MKvB6sipZxRo5B0hlA4LLTiE_lMOQV7FMkXrApuoDrtelTIR0Ve8ypYnIQAtm5t0rUJZrkJQhQpBS7mDrj1FI4Dgd_wMnfEyGZbUCuWKk_U40dspEM-k3oXLX25wLTh6Q9yzIx2THSEJLTrDCnDzmgcDCtvvUuRDHSz",
+          "width": 1890
+        }
+      ],
+      "place_id": "ChIJJYTFeK9QwokRTwiMC-lRTHQ",
+      "plus_code": {
+        "compound_code": "PX76+8M Jersey City, NJ, USA",
+        "global_code": "87G7PX76+8M"
+      },
+      "rating": 4.7,
+      "reference": "ChIJJYTFeK9QwokRTwiMC-lRTHQ",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 70,
+      "vicinity": "115 Morris Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7160849,
+          "lng": -74.0349825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176326302915,
+            "lng": -74.0335922197085
+          },
+          "southwest": {
+            "lat": 40.71493466970851,
+            "lng": -74.03629018029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Aspen Insurance",
+      "place_id": "ChIJe5LOIqlQwokRtY5I1NZn00s",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "rating": 2,
+      "reference": "ChIJe5LOIqlQwokRtY5I1NZn00s",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.713834,
+          "lng": -74.0365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7151102302915,
+            "lng": -74.0351720697085
+          },
+          "southwest": {
+            "lat": 40.7124122697085,
+            "lng": -74.0378700302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sky Thai",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111083681279537031247\">Jessica Lee</a>"
+          ],
+          "photo_reference": "AeJbb3ddhhPgTFWsCAEDpEAggnbIKZBs2qr1BscRcXY7Rv49-nZyjJTo4DbjoYBmBBpBO80kvI8INMmtjDfJUzHhaOLtsWa307sndY5XJ901BRi0g8BksBwa5dx6PDiHOyq-aagbCPfViz9QgLO8OSvQ3Us7ZiH3cDPJ7cUzZkHjBHNqqdlH",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJrbiNUK9QwokRGTktnojJ1Tg",
+      "plus_code": {
+        "compound_code": "PX77+G9 Jersey City, NJ, USA",
+        "global_code": "87G7PX77+G9"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJrbiNUK9QwokRGTktnojJ1Tg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 708,
+      "vicinity": "62 Morris Street, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7174704,
+          "lng": -74.0335612
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7190401302915,
+            "lng": -74.03219056970849
+          },
+          "southwest": {
+            "lat": 40.7163421697085,
+            "lng": -74.03488853029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "G L Associates",
+      "permanently_closed": true,
+      "place_id": "ChIJTw408xZawokRw_hofd5pXKw",
+      "plus_code": {
+        "compound_code": "PX88+XH Jersey City, NJ, USA",
+        "global_code": "87G7PX88+XH"
+      },
+      "reference": "ChIJTw408xZawokRw_hofd5pXKw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "34 Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7147655,
+          "lng": -74.0347802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71609853029149,
+            "lng": -74.0332934697085
+          },
+          "southwest": {
+            "lat": 40.7134005697085,
+            "lng": -74.0359914302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Hudson Greene Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113505025511333529376\">Robert St.</a>"
+          ],
+          "photo_reference": "AeJbb3eT9SABG-mDuXbCQu5efm2Hy259-A5qpTfZu7zogD0udVSOUtO__XhpzWVY6t6zC8JwQhPC-z07YdN8h5qjmtM2prPg0GVEcmMiL3jP6OZPm9UHc6bdn7KvuF7SfaCSrtujYq1_E8fkpmi98WVBVYsjxYs-LisVuyQQpziJofBl5JBy",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJXyL8yKhQwokRXoLtfy0ppY0",
+      "plus_code": {
+        "compound_code": "PX78+W3 Jersey City, NJ, USA",
+        "global_code": "87G7PX78+W3"
+      },
+      "rating": 4.3,
+      "reference": "ChIJXyL8yKhQwokRXoLtfy0ppY0",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "cafe",
+        "meal_takeaway",
+        "grocery_or_supermarket",
+        "health",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 529,
+      "vicinity": "77 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.716921,
+          "lng": -74.0352882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71812073029151,
+            "lng": -74.03396571970849
+          },
+          "southwest": {
+            "lat": 40.71542276970851,
+            "lng": -74.0366636802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Division Community Development",
+      "place_id": "ChIJPV5SNKlQwokRS7yHx7gOW1o",
+      "plus_code": {
+        "compound_code": "PX87+QV Jersey City, NJ, USA",
+        "global_code": "87G7PX87+QV"
+      },
+      "reference": "ChIJPV5SNKlQwokRS7yHx7gOW1o",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "30 Montgomery Street #404, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.716921,
+          "lng": -74.0352882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71812073029151,
+            "lng": -74.03396571970849
+          },
+          "southwest": {
+            "lat": 40.71542276970851,
+            "lng": -74.0366636802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Jersey City Zoning Officer",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJPV5SNKlQwokRqO1iqDw4pb4",
+      "plus_code": {
+        "compound_code": "PX87+QV Jersey City, NJ, USA",
+        "global_code": "87G7PX87+QV"
+      },
+      "reference": "ChIJPV5SNKlQwokRqO1iqDw4pb4",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "30 Montgomery Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7164479,
+          "lng": -74.0376871
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7177821802915,
+            "lng": -74.0362303197085
+          },
+          "southwest": {
+            "lat": 40.7150842197085,
+            "lng": -74.0389282802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Mantra",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1282,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103688606300586217308\">Mantra</a>"
+          ],
+          "photo_reference": "AeJbb3dzfHqXYMipxR4k2WPvO07dTYp8Hts8F3yONz3yA_hQvQEQHx6M2BB78Tm3SOSTP67FLWwsnWCoTxGHa3Cn83mP8h1RiaoZuYjNVs4EHaaLNE_1pNYl4NN5Pg-4J2e5S3yMh45DDj4FqdwHNOOe6CbMfGtde3J_7lQYAISMsW4Avyvu",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJe2sa6K5QwokRuJHE4N8xlGg",
+      "plus_code": {
+        "compound_code": "PX86+HW Jersey City, NJ, USA",
+        "global_code": "87G7PX86+HW"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJe2sa6K5QwokRuJHE4N8xlGg",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 755,
+      "vicinity": "253 Washington Street, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7161534,
+          "lng": -74.0346725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176481802915,
+            "lng": -74.0332535697085
+          },
+          "southwest": {
+            "lat": 40.7149502197085,
+            "lng": -74.03595153029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Melito & Adolfsen",
+      "permanently_closed": true,
+      "place_id": "ChIJkXMBI6lQwokR8WMglMMfLyA",
+      "plus_code": {
+        "compound_code": "PX88+F4 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+F4"
+      },
+      "reference": "ChIJkXMBI6lQwokR8WMglMMfLyA",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7160849,
+          "lng": -74.0349825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176326302915,
+            "lng": -74.0335922197085
+          },
+          "southwest": {
+            "lat": 40.71493466970851,
+            "lng": -74.03629018029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "National Stock Exchange",
+      "place_id": "ChIJe5LOIqlQwokRq42dia1iFSk",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "rating": 5,
+      "reference": "ChIJe5LOIqlQwokRq42dia1iFSk",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.716921,
+          "lng": -74.0352882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71812073029151,
+            "lng": -74.03396571970849
+          },
+          "southwest": {
+            "lat": 40.71542276970851,
+            "lng": -74.0366636802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Destination Jersey City",
+      "place_id": "ChIJPV5SNKlQwokRBH458iuIhso",
+      "plus_code": {
+        "compound_code": "PX87+QV Jersey City, NJ, USA",
+        "global_code": "87G7PX87+QV"
+      },
+      "reference": "ChIJPV5SNKlQwokRBH458iuIhso",
+      "scope": "GOOGLE",
+      "types": [
+        "courthouse",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "30 Montgomery Street # 820, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7169742,
+          "lng": -74.03667639999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7182247802915,
+            "lng": -74.0353434197085
+          },
+          "southwest": {
+            "lat": 40.7155268197085,
+            "lng": -74.0380413802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Battery View Senior Citizens",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103268311105214676923\">Marina S.</a>"
+          ],
+          "photo_reference": "AeJbb3d0XX3W-itTh-EpxzNkX8iUp2nNjVKJgmxPmzj4Hd8YA45qBaXktMSpPKcoK4-lf8sLv5tnjWbGpMtK0RrMTQxDEzxGl1TNSYcUqx-yh9UbGQz_-tEGYI2qBPDqeRPCP6x_iv8FryeRa3zFIhauCui7eVRk_EdxyHI00bCUa-XNg9S3",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ8-gJuK5QwokR2e0lQZZUjFE",
+      "plus_code": {
+        "compound_code": "PX87+Q8 Jersey City, NJ, USA",
+        "global_code": "87G7PX87+Q8"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ8-gJuK5QwokR2e0lQZZUjFE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "72 Montgomery Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7164127,
+          "lng": -74.0359631
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7177459302915,
+            "lng": -74.0345097697085
+          },
+          "southwest": {
+            "lat": 40.7150479697085,
+            "lng": -74.03720773029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "LAZ Parking - 105 Greene St",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJaREhza5QwokR23jcsjFpasU",
+      "plus_code": {
+        "compound_code": "PX87+HJ Jersey City, NJ, USA",
+        "global_code": "87G7PX87+HJ"
+      },
+      "rating": 2,
+      "reference": "ChIJaREhza5QwokR23jcsjFpasU",
+      "scope": "GOOGLE",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "105 Greene Street, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7160849,
+          "lng": -74.0349825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176326302915,
+            "lng": -74.0335922197085
+          },
+          "southwest": {
+            "lat": 40.71493466970851,
+            "lng": -74.03629018029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Frenkel & Co Inc: Lauria Stephen",
+      "permanently_closed": true,
+      "place_id": "ChIJe5LOIqlQwokR3LZYo5TBO6k",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJe5LOIqlQwokR3LZYo5TBO6k",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street # 38, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7160261,
+          "lng": -74.0360273
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7173482802915,
+            "lng": -74.03457761970849
+          },
+          "southwest": {
+            "lat": 40.7146503197085,
+            "lng": -74.0372755802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Iron Monkey",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1503,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116283050976035801017\">Iron Monkey</a>"
+          ],
+          "photo_reference": "AeJbb3fR0RExad1w7oiEED43C3AbjHZiP2PUS1i7NBxOCrw6JalRJOUIXi5ACpLAbQLlV54xI-gKhCindv1sRLBka0ojQTTrPilF0vNpG9R30I9iB4LE6YoqfYgyIUZZ6ryG_t9u1g9XPmR4BzDRl6pWNeYPqt554v5XlC96SXGQb0eKwSSz",
+          "width": 2200
+        }
+      ],
+      "place_id": "ChIJh2Fj065QwokRUBps8YL3B6E",
+      "plus_code": {
+        "compound_code": "PX87+CH Jersey City, NJ, USA",
+        "global_code": "87G7PX87+CH"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJh2Fj065QwokRUBps8YL3B6E",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 962,
+      "vicinity": "99 Greene Street, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7166653,
+          "lng": -74.0333272
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7181764802915,
+            "lng": -74.03199646970849
+          },
+          "southwest": {
+            "lat": 40.7154785197085,
+            "lng": -74.03469443029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Sun Gard",
+      "permanently_closed": true,
+      "place_id": "ChIJzck2nqlQwokRLXSyBlec6Yw",
+      "plus_code": {
+        "compound_code": "PX88+MM Jersey City, NJ, USA",
+        "global_code": "87G7PX88+MM"
+      },
+      "reference": "ChIJzck2nqlQwokRLXSyBlec6Yw",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "10 Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7160935,
+          "lng": -74.0349837
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176370802915,
+            "lng": -74.03359426970849
+          },
+          "southwest": {
+            "lat": 40.7149391197085,
+            "lng": -74.03629223029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Frenkel & Co Inc Tager Liya",
+      "permanently_closed": true,
+      "place_id": "ChIJe5LOIqlQwokRqo-cPQfA7z8",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJe5LOIqlQwokRqo-cPQfA7z8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7161158,
+          "lng": -74.0349177
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71764468029149,
+            "lng": -74.0335426697085
+          },
+          "southwest": {
+            "lat": 40.7149467197085,
+            "lng": -74.0362406302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The LiRo Group",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113981006727496666247\">The LiRo Group</a>"
+          ],
+          "photo_reference": "AeJbb3dXu5eJhKzoc6UgzUNj-ltJhSpPqPA-1aux7xyiunTRxO8f8bR8Wpma_FSzhDLBi-KA1_cYBQYtEybyrzIeRHSiev5VKwo6xARSRrrkyq8bNyCtcoSL4Msqu-AEETkhe0boohtSbvc2bhY1SSj5b-FCktRe61FcKE-y0pv0SRmTItNx",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJkXMBI6lQwokRII5DZg8bAwU",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJkXMBI6lQwokRII5DZg8bAwU",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street 21st floor, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71612029999999,
+          "lng": -74.03384179999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71748428029149,
+            "lng": -74.03237056970849
+          },
+          "southwest": {
+            "lat": 40.71478631970849,
+            "lng": -74.03506853029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Provident Financial Group",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109696510538001669429\">Provident Financial Group</a>"
+          ],
+          "photo_reference": "AeJbb3czMZqWuX3I5ceHS6MFfzTduo9y7MunYD107lKiD_KCX2Lik1Kf7zvJzojx_oK_axwdrUtYc3TMfuL0PTY9bnhGRKD46Onh5aVyd93DnsbQ1vnXvoXHanF9yKtNJTtTueTnydHOLP8zp3mer92vTxb7NHPLsup6-EkuxO8wBpLDqBJG",
+          "width": 1398
+        }
+      ],
+      "place_id": "ChIJoclDEqlQwokRmrupdEb7to4",
+      "plus_code": {
+        "compound_code": "PX88+CF Jersey City, NJ, USA",
+        "global_code": "87G7PX88+CF"
+      },
+      "reference": "ChIJoclDEqlQwokRmrupdEb7to4",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "15 Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7160849,
+          "lng": -74.0349825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176326302915,
+            "lng": -74.0335922197085
+          },
+          "southwest": {
+            "lat": 40.71493466970851,
+            "lng": -74.03629018029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "CME LLC",
+      "place_id": "ChIJkXMBI6lQwokRZ41F4dLn-xQ",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJkXMBI6lQwokRZ41F4dLn-xQ",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street # 2100, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7159419,
+          "lng": -74.0339139
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7174003802915,
+            "lng": -74.03242341970851
+          },
+          "southwest": {
+            "lat": 40.7147024197085,
+            "lng": -74.03512138029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "USAWorkersComp.com",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100674688599808733077\">USAWorkersComp.com</a>"
+          ],
+          "photo_reference": "AeJbb3c5fwMn6iTXnehv2_XIuxYm6_GjCvQ2hHUGOcDz6i1oh3LD2TrHw12UR1yxfcD6S1IIglHB8cZhvrPVCTwXE6Qr6C_ZikxuF1ooPSGA6DchY_yWOdxTTr3FEBLgxMcUxVGuVgmDCY_86rvfl6e-8cPMrfdlLY159LBYZtXaNLLY9Yl4",
+          "width": 1398
+        }
+      ],
+      "place_id": "ChIJoclDEqlQwokRBz04pgfAcy8",
+      "plus_code": {
+        "compound_code": "PX88+9C Jersey City, NJ, USA",
+        "global_code": "87G7PX88+9C"
+      },
+      "reference": "ChIJoclDEqlQwokRBz04pgfAcy8",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "15 Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7160849,
+          "lng": -74.0349825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176326302915,
+            "lng": -74.0335922197085
+          },
+          "southwest": {
+            "lat": 40.71493466970851,
+            "lng": -74.03629018029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cornell Capital Partners LP",
+      "permanently_closed": true,
+      "place_id": "ChIJe5LOIqlQwokRTqHXO99-fxc",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJe5LOIqlQwokRTqHXO99-fxc",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street # 3700, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7158416,
+          "lng": -74.0337741
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7173589802915,
+            "lng": -74.0323535197085
+          },
+          "southwest": {
+            "lat": 40.7146610197085,
+            "lng": -74.0350514802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "StockCross Financial Services",
+      "place_id": "ChIJoclDEqlQwokRmRddiEE8h7A",
+      "plus_code": {
+        "compound_code": "PX88+8F Jersey City, NJ, USA",
+        "global_code": "87G7PX88+8F"
+      },
+      "reference": "ChIJoclDEqlQwokRmRddiEE8h7A",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "15 Exchange Place #615, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.715473,
+          "lng": -74.03611599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7168502802915,
+            "lng": -74.03466631970849
+          },
+          "southwest": {
+            "lat": 40.7141523197085,
+            "lng": -74.0373642802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Honshu",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111917721639127156377\">Honshu</a>"
+          ],
+          "photo_reference": "AeJbb3cL35_aHaZjNtq9WSg0WTQ-uhDbzrbY8ilWtJDuqCKxcO9v3AxlaIAuITzabWQJjPVeN_1ofvKJ0r-E0dL43uIRpnEcSamtgLFV_yTa_K6gffhOtUqaqj9QuS6CdkaMWYCZDq4ZvmP6JIqX8_lD2QF84EEAJqwFpir3vA0R0anW3Be4",
+          "width": 4752
+        }
+      ],
+      "place_id": "ChIJgXR_NKlQwokR9uRHA0vNKDs",
+      "plus_code": {
+        "compound_code": "PX87+5H Jersey City, NJ, USA",
+        "global_code": "87G7PX87+5H"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJgXR_NKlQwokR9uRHA0vNKDs",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "meal_delivery",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 825,
+      "vicinity": "95 Greene Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7165434,
+          "lng": -74.0363112
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7179135302915,
+            "lng": -74.03501241970848
+          },
+          "southwest": {
+            "lat": 40.7152155697085,
+            "lng": -74.0377103802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "WFMU",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117863786776388722226\">Scott Benson</a>"
+          ],
+          "photo_reference": "AeJbb3dr3_ZefMz42Gs2DMy0_xLVozoB0nGw_s9Yok0uWXXQ-NHO63NhDSTeNIjsSBt6WR7FcSiCT6F5UNZEeI81Squ4InM-IMYHdm2Ud9TuhC7KvpLUGXRLrDaJo2N90t9J0l74NZcv-dWUfiOWE1ruxR3dvO5lG9t7A4eLFBktvxuXtSrM",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-Z_Bzq5QwokREvz_1IOvVxc",
+      "plus_code": {
+        "compound_code": "PX87+JF Jersey City, NJ, USA",
+        "global_code": "87G7PX87+JF"
+      },
+      "rating": 5,
+      "reference": "ChIJ-Z_Bzq5QwokREvz_1IOvVxc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 36,
+      "vicinity": "43 Montgomery Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.716651,
+          "lng": -74.03330079999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7181674302915,
+            "lng": -74.03198206970849
+          },
+          "southwest": {
+            "lat": 40.7154694697085,
+            "lng": -74.03468003029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rabo Support Services Inc",
+      "place_id": "ChIJzck2nqlQwokR3P1QBqDST4s",
+      "plus_code": {
+        "compound_code": "PX88+MM Jersey City, NJ, USA",
+        "global_code": "87G7PX88+MM"
+      },
+      "reference": "ChIJzck2nqlQwokR3P1QBqDST4s",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "10 Exchange Place #1603, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7163226,
+          "lng": -74.0352217
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7177669302915,
+            "lng": -74.03384131970849
+          },
+          "southwest": {
+            "lat": 40.7150689697085,
+            "lng": -74.0365392802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Wells Fargo Bank",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107003656282367344846\">Cesar Herrera</a>"
+          ],
+          "photo_reference": "AeJbb3frZeOuaea2lfwPzJYycrsv3JuAAYw5GbomrwsUsrzRCTcoQ2nKznwyqiEIUTnrV_DkPYMcHkRrGPwOZcJAwe2W-baypelhU_RIcdFBIx7dlLUtD8trbLinFlclXZ_ON7vXBncUOhiDU7pSCS9QcovkDGLFgvLDrKLODgHcmWgIt6sx",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJe5LOIqlQwokRBKAOqDupvKQ",
+      "plus_code": {
+        "compound_code": "PX87+GW Jersey City, NJ, USA",
+        "global_code": "87G7PX87+GW"
+      },
+      "rating": 3,
+      "reference": "ChIJe5LOIqlQwokRBKAOqDupvKQ",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71679460000001,
+          "lng": -74.03512150000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71804803029151,
+            "lng": -74.03380981970851
+          },
+          "southwest": {
+            "lat": 40.71535006970851,
+            "lng": -74.03650778029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Massage Park, Jersey city",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJPV5SNKlQwokRawwFPlyoeMo",
+      "plus_code": {
+        "compound_code": "PX87+PX Jersey City, NJ, USA",
+        "global_code": "87G7PX87+PX"
+      },
+      "reference": "ChIJPV5SNKlQwokRawwFPlyoeMo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "30 Montgomery Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7163504,
+          "lng": -74.0355757
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7177567802915,
+            "lng": -74.0343100697085
+          },
+          "southwest": {
+            "lat": 40.7150588197085,
+            "lng": -74.0370080302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "City Diner",
+      "photos": [
+        {
+          "height": 611,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113301849570703755522\">City Diner</a>"
+          ],
+          "photo_reference": "AeJbb3cweNrEoszXE6snPBIf0UeCSISW5Yrj1HOB6rXEPX5w-z-Fje2kpovNlzHhw-8dDhqsHFxe35qX8w39MUX_c0aVU9RJDYJUg54Wo6q5leAml81Pw7MJfjF6TVcheSeJFQ5JhWxiZCkgpInezGSGoJ9LKEn8yJfGrA_bhXCs0zOGNOCY",
+          "width": 917
+        }
+      ],
+      "place_id": "ChIJTXN_NKlQwokR2vAdEoecJC8",
+      "plus_code": {
+        "compound_code": "PX87+GQ Jersey City, NJ, USA",
+        "global_code": "87G7PX87+GQ"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJTXN_NKlQwokR2vAdEoecJC8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2363,
+      "vicinity": "31 Montgomery Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71607780000001,
+          "lng": -74.0350483
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71763283029151,
+            "lng": -74.0336453697085
+          },
+          "southwest": {
+            "lat": 40.71493486970851,
+            "lng": -74.03634333029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Insight Catastrophe Group LLC",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104972090736210410332\">Insight Catastrophe Group LLC</a>"
+          ],
+          "photo_reference": "AeJbb3chw-KV8I7x54N1TdbE7ipxyvb_Up1_8dF1ppuSx-YUvM2UU7Xt4tIRIasD4M48LxldJEjxjVBH7Smr5MLN7H8b39XqyasD4ePd9PznhUxKiyO7vLqVJocyni4oBx_Rzr-lfb9uRgXJEdh-RMFGtFrlYy5dSswErKFIL1bu2ua6_jM",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJ6dCG1v1YwokRkNAyBbX8DEQ",
+      "plus_code": {
+        "compound_code": "PX87+CX Jersey City, NJ, USA",
+        "global_code": "87G7PX87+CX"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ6dCG1v1YwokRkNAyBbX8DEQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "101 Hudson Street #2700, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.716087,
+          "lng": -74.034943
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176313802915,
+            "lng": -74.0335534197085
+          },
+          "southwest": {
+            "lat": 40.7149334197085,
+            "lng": -74.0362513802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PPM Solutions",
+      "permanently_closed": true,
+      "place_id": "ChIJrQnaJKlQwokRV8fzmSW9pZE",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJrQnaJKlQwokRV8fzmSW9pZE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street #2100, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7163596,
+          "lng": -74.0355895
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176522802915,
+            "lng": -74.0343343697085
+          },
+          "southwest": {
+            "lat": 40.7149543197085,
+            "lng": -74.03703233029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jersey City Dental Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105156783571714194328\">Eric Shaw</a>"
+          ],
+          "photo_reference": "AeJbb3f32pWQv6ZL5_IOKddheEubHqMCt_If6O7uKMTdrGDSPtkWc3t1UPJ3kORE6PHRcoaKtKt4MPWWv5_N5PoM_d73lvH5y-C5wxR-XlFyuCPRfbzSm1qJVmE20v8__cQggy1101Gyn1BllQZEdf0isLa8omd4EI2tZCMQNK5i0kUYPFDD",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJgXR_NKlQwokR9rzddF4RWIY",
+      "plus_code": {
+        "compound_code": "PX87+GQ Jersey City, NJ, USA",
+        "global_code": "87G7PX87+GQ"
+      },
+      "rating": 4.8,
+      "reference": "ChIJgXR_NKlQwokR9rzddF4RWIY",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 307,
+      "vicinity": "31 Montgomery Street 3rd fl, Jersey City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7160849,
+          "lng": -74.0349825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7176326302915,
+            "lng": -74.0335922197085
+          },
+          "southwest": {
+            "lat": 40.71493466970851,
+            "lng": -74.03629018029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Chartis",
+      "permanently_closed": true,
+      "place_id": "ChIJe5LOIqlQwokRkly9-SLNrkQ",
+      "plus_code": {
+        "compound_code": "PX88+C2 Jersey City, NJ, USA",
+        "global_code": "87G7PX88+C2"
+      },
+      "reference": "ChIJe5LOIqlQwokRkly9-SLNrkQ",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "101 Hudson Street, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7167268,
+          "lng": -74.0334549
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7182163802915,
+            "lng": -74.0320733697085
+          },
+          "southwest": {
+            "lat": 40.7155184197085,
+            "lng": -74.0347713302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Vine.com",
+      "place_id": "ChIJVTynnalQwokRtEnbunJQY8Q",
+      "plus_code": {
+        "compound_code": "PX88+MJ Jersey City, NJ, USA",
+        "global_code": "87G7PX88+MJ"
+      },
+      "reference": "ChIJVTynnalQwokRtEnbunJQY8Q",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "10 Exchange Place, Jersey City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7167302,
+          "lng": -74.0334575
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71821833029151,
+            "lng": -74.03207626970848
+          },
+          "southwest": {
+            "lat": 40.71552036970851,
+            "lng": -74.03477423029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kuehne + Nagel Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2384,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102604023472500046801\">Kuehne + Nagel Inc</a>"
+          ],
+          "photo_reference": "AeJbb3eZh8zFy-dj6Z9qO_jUO-3l1xlv7P9OBCebtnEF-A2rReckIDFYXlFJo_3EhTE12zFvdRY8Du649physhkWBrES_JQmldnw6QC1-Wmlapen8FIMe-G_SW4ny5ApCkdR81II03Ckw8S3p3vbycziN59BLzxZRzZUFfIcDpdQWMv8xfoi",
+          "width": 4670
+        }
+      ],
+      "place_id": "ChIJzck2nqlQwokRA2R9QfLycaQ",
+      "plus_code": {
+        "compound_code": "PX88+MJ Jersey City, NJ, USA",
+        "global_code": "87G7PX88+MJ"
+      },
+      "rating": 3.7,
+      "reference": "ChIJzck2nqlQwokRA2R9QfLycaQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "10 Exchange Place Floor 20, Jersey City"
+    }
+  ],
+  "status": "OK"
+}

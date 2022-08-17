@@ -1,0 +1,2576 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fTJUxVjLWTZ54uTqe7VQNiF67mE074r2xTD-TstPB0j-q2fD7b04xeio_upCgnivkl9OcpoN-wsG-S-TvjvlIhZk3H_nu0hlCKWt4Zo7DEk718czdv4L89JNxazzftnRtR2DRMtl8B-_0OpTGf4L7JQ0gqHDBf5pX76lJ-Wq32UlUM",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8036846,
+          "lng": -73.910454
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8050868802915,
+            "lng": -73.90907566970849
+          },
+          "southwest": {
+            "lat": 40.8023889197085,
+            "lng": -73.91177363029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Montefiore Medical Center Wellness Center at Port Morris",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104542517871553189279\">Paul Santo</a>"
+          ],
+          "photo_reference": "AeJbb3ehLiytQ-N09tCb7uZON5mi7MOidJDdqbtsAx8TSz1wFG20RHtNoyXEW-L_MRG61LVN5ekj-j2RoNMxs8jvK8XERREf7ZXcxKXkuXxDfZKHEyG0BUGBdvajN449hWBpC7Al9BN7rhBOkGKRAJCr_nvidhrPzWeODp5vCyTEIyjqwiKM",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ8-B4ZJX1wokRujis-86InFg",
+      "plus_code": {
+        "compound_code": "R33Q+FR \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+FR"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ8-B4ZJX1wokRujis-86InFg",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80285560000001,
+          "lng": -73.9125593
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8042779802915,
+            "lng": -73.9111864697085
+          },
+          "southwest": {
+            "lat": 40.8015800197085,
+            "lng": -73.9138844302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Titan P & H",
+      "place_id": "ChIJ__4Qt-r1wokRugCHQt6-HX0",
+      "plus_code": {
+        "compound_code": "R33P+4X \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33P+4X"
+      },
+      "reference": "ChIJ__4Qt-r1wokRugCHQt6-HX0",
+      "scope": "GOOGLE",
+      "types": [
+        "plumber",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "728 East 136th Street #1, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8034439,
+          "lng": -73.9104995
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80494453029149,
+            "lng": -73.9090366697085
+          },
+          "southwest": {
+            "lat": 40.80224656970849,
+            "lng": -73.9117346302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Per Scholas",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116230202445198316835\">Adam Cruz</a>"
+          ],
+          "photo_reference": "AeJbb3fksS1lYu6q96nYyJ6qI7VNZtsG486RL9eusIazVd5VopAnQHCUALEL70SCITyXAEQRo4R3fTduM1ctNQR5BtFwxpziGZn2CUeoqKPiuA93rcQJL6hcteh8gkbfUbR5hNUAiCEZOj5QURfzlq3m1YdMTjd6K5NBzjsSQMStj0bY5Q8h",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ8-B4ZJX1wokRht5i6o73fF4",
+      "plus_code": {
+        "compound_code": "R33Q+9R \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R33Q+9R"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ8-B4ZJX1wokRht5i6o73fF4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 68,
+      "vicinity": "804 East 138th Street #2, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80191399999999,
+          "lng": -73.915275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8031654802915,
+            "lng": -73.91399771970849
+          },
+          "southwest": {
+            "lat": 40.8004675197085,
+            "lng": -73.91669568029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NYCDPW (NYC Digital Photography Workshops)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 675,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111973334813710202572\">NYCDPW (NYC Digital Photography Workshops)</a>"
+          ],
+          "photo_reference": "AeJbb3ekPXDKoSVQPXNWtp0fo9Ys8orH8SCXfI1ya4UHFSgVL74UfQDYdIg6Qt6AQ49SikE5xrfJ-Zx_kJZPBuHm3OOfJ-i3OujH0Gj2m1bau2jdyAqnLvDdU_KPHrdyj0F-Qft-9bT3qdU6wIFUxxDsRtFdbCcaI-arrI-NRAO9YxKBctoY",
+          "width": 1042
+        }
+      ],
+      "place_id": "ChIJ5YM62K9ZwokRKujqiNA_UXQ",
+      "plus_code": {
+        "compound_code": "R32M+QV \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R32M+QV"
+      },
+      "reference": "ChIJ5YM62K9ZwokRKujqiNA_UXQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "709 East 133rd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8013989,
+          "lng": -73.9103076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80267823029149,
+            "lng": -73.9088389197085
+          },
+          "southwest": {
+            "lat": 40.7999802697085,
+            "lng": -73.91153688029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Shoot HR",
+      "photos": [
+        {
+          "height": 647,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105932432082721826977\">Shoot HR</a>"
+          ],
+          "photo_reference": "AeJbb3fgitjLgLsCw_aGUBQkbx0uZ7gscC4vLB718lX7CaNs1oXJjVQqtOukwBa4jB8etBI9voMbRrEHcAMqVhz5BDf-mScnfEMMe_RMyUqxnxlRO1MpLEQVMMRRGtuWmrddXDSCwQA284hxuyOgS6lIxky4xmYuBib3ks8YkqbILSEPJUJx",
+          "width": 979
+        }
+      ],
+      "place_id": "ChIJaaYw_ZT1wokRvkYH_vODtGs",
+      "plus_code": {
+        "compound_code": "R32Q+HV \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R32Q+HV"
+      },
+      "rating": 5,
+      "reference": "ChIJaaYw_ZT1wokRvkYH_vODtGs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "865 East 135th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80338719999999,
+          "lng": -73.91041009999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80489473029149,
+            "lng": -73.90892476970849
+          },
+          "southwest": {
+            "lat": 40.80219676970849,
+            "lng": -73.9116227302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Margo D. Simon, MD",
+      "place_id": "ChIJDbKEZJX1wokRVUnxuy_58Wg",
+      "plus_code": {
+        "compound_code": "R33Q+9R \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+9R"
+      },
+      "reference": "ChIJDbKEZJX1wokRVUnxuy_58Wg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80228199999999,
+          "lng": -73.91542989999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8037509802915,
+            "lng": -73.91399681970849
+          },
+          "southwest": {
+            "lat": 40.8010530197085,
+            "lng": -73.9166947802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Divas",
+      "place_id": "ChIJP13ELxv1wokRnOI1ki0bvyA",
+      "plus_code": {
+        "compound_code": "R32M+WR \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R32M+WR"
+      },
+      "reference": "ChIJP13ELxv1wokRnOI1ki0bvyA",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "One Million Diva Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80219719999999,
+          "lng": -73.9118056
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8034430302915,
+            "lng": -73.91054586970849
+          },
+          "southwest": {
+            "lat": 40.8007450697085,
+            "lng": -73.9132438302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Rosenzweig Lumber Corporation",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3123,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104469173182950988110\">Rosenzweig Lumber Corporation</a>"
+          ],
+          "photo_reference": "AeJbb3cHqb6yDTGCoSdWjsXivGtha2T2SuJMJkLy1rSX6J3ueKKcI1cTfAmHTn48aaQnR4RE7bgsXi-cDHmlYpjdE8TCNa72gn5ZhWXHyYGAyCxqMSSO8jlfPCYbSLnP_VjxQQanV6lRMe4W6UgHaTB3PfTK7dYbsFUev8K_K-TDVIrpM-Dp",
+          "width": 4684
+        }
+      ],
+      "place_id": "ChIJHyurKZX1wokRo4LgS8U5JRw",
+      "plus_code": {
+        "compound_code": "R32Q+V7 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R32Q+V7"
+      },
+      "rating": 4.3,
+      "reference": "ChIJHyurKZX1wokRo4LgS8U5JRw",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 56,
+      "vicinity": "801 East 135th Street #1, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8024085,
+          "lng": -73.9124674
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8036742802915,
+            "lng": -73.91117756970849
+          },
+          "southwest": {
+            "lat": 40.8009763197085,
+            "lng": -73.9138755302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Willow Ave Shelter",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106850499177391973498\">Ronald Crosby Jr</a>"
+          ],
+          "photo_reference": "AeJbb3eZIq6WByKyB-2FYYBHzl9ubDRVZsa8l43vaCm6LyPR1gUKpe0kufK7dFOG4EobEw3LpdqmHcgU1oitJw-TjPru88BA1Ta3ZEsyHjBR0cP59Xhe47ErAJirDO2tIyDiuV9hsahruM9kNgsj958Y8-5gFyygxCQwS79Lx7hpTmTKO0jn",
+          "width": 2304
+        }
+      ],
+      "place_id": "ChIJ3Tgh0-r1wokRN7Zue2pTQbU",
+      "plus_code": {
+        "compound_code": "R32Q+X2 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R32Q+X2"
+      },
+      "rating": 2.8,
+      "reference": "ChIJ3Tgh0-r1wokRN7Zue2pTQbU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 70,
+      "vicinity": "781 East 135th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Reinaldo D. Diaz, BS",
+      "permanently_closed": true,
+      "place_id": "ChIJ8-B4ZJX1wokR4j4yVYdj-OI",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokR4j4yVYdj-OI",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wendy A. Hunt, MA",
+      "place_id": "ChIJ8-B4ZJX1wokRFGoP5tmId5U",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokRFGoP5tmId5U",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "David Colon, BA",
+      "permanently_closed": true,
+      "place_id": "ChIJ8-B4ZJX1wokRBToYRKkXYuk",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokRBToYRKkXYuk",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jeremy-Ann Thom, RN",
+      "place_id": "ChIJDbKEZJX1wokRWo2U_EslKAI",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJDbKEZJX1wokRWo2U_EslKAI",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Becky Allen, BA",
+      "permanently_closed": true,
+      "place_id": "ChIJ8-B4ZJX1wokR2bEELIdqgO4",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokR2bEELIdqgO4",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dana F. Mcintosh, RN",
+      "place_id": "ChIJDbKEZJX1wokRZSvTHsAxsIU",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJDbKEZJX1wokRZSvTHsAxsIU",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "William A. Thompson, BSW",
+      "permanently_closed": true,
+      "place_id": "ChIJ8-B4ZJX1wokRicdphA9rNp4",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokRicdphA9rNp4",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Monique Defreitas-Gordon, RN",
+      "place_id": "ChIJDbKEZJX1wokRznUBy6LGIi8",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJDbKEZJX1wokRznUBy6LGIi8",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Maricela Ramirez Jr, BA",
+      "permanently_closed": true,
+      "place_id": "ChIJ8-B4ZJX1wokRCCRuGLEOEMg",
+      "plus_code": {
+        "compound_code": "R33Q+8Q \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokRCCRuGLEOEMg",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8519547,
+          "lng": -73.90070899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91527805889627,
+            "lng": -73.86840408623851
+          },
+          "southwest": {
+            "lat": 40.79678004393696,
+            "lng": -73.93340593816593
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West Bronx",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113738462812435835913\">Alex Lin</a>"
+          ],
+          "photo_reference": "AeJbb3dalnxCK5RkXEQPFv4OAIndoNJfnWHUWy175HV7N3BsLV6HIcqtB01iuobKavZlmDit1gznTUMW-ycH1-3sI4cKnF1QWxYyAns5qnmOjeTdpjgW3B-8NczQcxkiMlLrZmlo19SYYeBj2MMV7r-TDnrPtS9tE3TxpGAqPQguQs2UrrhM",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "reference": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jennifer Coss, BA",
+      "permanently_closed": true,
+      "place_id": "ChIJ8-B4ZJX1wokRHUlUF4xLO7s",
+      "plus_code": {
+        "compound_code": "R33Q+8Q The Bronx, NY, USA",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokRHUlUF4xLO7s",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Angelina Lopez, CASAC",
+      "place_id": "ChIJ8-B4ZJX1wokRrzHSr9Yxc7Y",
+      "plus_code": {
+        "compound_code": "R33Q+8Q The Bronx, NY, USA",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokRrzHSr9Yxc7Y",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Joseph Walker, BA",
+      "permanently_closed": true,
+      "place_id": "ChIJ8-B4ZJX1wokR-4bayqQeyEY",
+      "plus_code": {
+        "compound_code": "R33Q+8Q The Bronx, NY, USA",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJ8-B4ZJX1wokR-4bayqQeyEY",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sheila A. Carter, MPA",
+      "permanently_closed": true,
+      "place_id": "ChIJ8-B4ZJX1wokRXpDz5dQ2KJI",
+      "plus_code": {
+        "compound_code": "R33Q+8Q The Bronx, NY, USA",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "rating": 1,
+      "reference": "ChIJ8-B4ZJX1wokRXpDz5dQ2KJI",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8033384,
+          "lng": -73.9105384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8048852302915,
+            "lng": -73.90904086970848
+          },
+          "southwest": {
+            "lat": 40.8021872697085,
+            "lng": -73.9117388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Opal O. Stewart, RN",
+      "place_id": "ChIJDbKEZJX1wokR8vpHFktiMI8",
+      "plus_code": {
+        "compound_code": "R33Q+8Q The Bronx, NY, USA",
+        "global_code": "87G8R33Q+8Q"
+      },
+      "reference": "ChIJDbKEZJX1wokR8vpHFktiMI8",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8019185,
+          "lng": -73.9105843
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8033611802915,
+            "lng": -73.90911891970849
+          },
+          "southwest": {
+            "lat": 40.8006632197085,
+            "lng": -73.9118168802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Bronx Brewery & Empanology",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110490538051556534672\">Sean C. Koop</a>"
+          ],
+          "photo_reference": "AeJbb3dRZ4rG7jQWr0nn52BistP78cze-843_cgXtvSFCrfEK44DqRyaCXUPDbDmukdpWhoyyKKPgpMIhlN-XWU9ZU9LMrWJuFYxkVMsOC06Zmahv0Y5lzx0D-nFPmu9PccPrQf5bMtzn5xH2sVFtmrMTXxTJA-Vc0-hXAeyS3Mc9WeB8ngP",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJ-58gdd71wokR0j6VEtMh9ho",
+      "plus_code": {
+        "compound_code": "R32Q+QQ New York, NY, USA",
+        "global_code": "87G8R32Q+QQ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ-58gdd71wokR0j6VEtMh9ho",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 591,
+      "vicinity": "856 East 136th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80338750000001,
+          "lng": -73.90911369999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8046669802915,
+            "lng": -73.9078357697085
+          },
+          "southwest": {
+            "lat": 40.8019690197085,
+            "lng": -73.9105337302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Johnstone Supply Bronx",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113129014805128746907\">John Buck</a>"
+          ],
+          "photo_reference": "AeJbb3cTMS96bnGSD87cr8_8R52Yq-ft05ZfjNcSUPjLznQZWXMN7AteJwelSCpRtfrY_bBeiCiB2o-FtY3kLuO9b7Y8uJOksOi9tteP292MKEf-H6EGqdY7QubnMnPz8-nYlAZ_JqIOpTRXP5iQaGe6Sw-nJlwmoN40IQ4pFlhaVhLWSMU",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJpx4Pg5X1wokRcOM-mm3JSX4",
+      "plus_code": {
+        "compound_code": "R33R+99 New York, NY, USA",
+        "global_code": "87G8R33R+99"
+      },
+      "rating": 4.5,
+      "reference": "ChIJpx4Pg5X1wokRcOM-mm3JSX4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "845 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8024888,
+          "lng": -73.9070977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8038061802915,
+            "lng": -73.90569121970849
+          },
+          "southwest": {
+            "lat": 40.8011082197085,
+            "lng": -73.9083891802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Dufour Pastry Kitchens Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113846212264252033433\">Eva Kravitz</a>"
+          ],
+          "photo_reference": "AeJbb3cZIfOOyYpZa2_nYKi77NXmqyL0G64WbpSKiPXBbrtRpsGTIPrYmo9DptLP-XpkTsiVv12-KLrDAc8aJbhhze5_CX8EWgT9l7VKTSFXCYsyKofMAK_mOWtePUnRwC1OmkeBqksNXrM-SOQFM14q6RVaiWrcT-WlieuvHHbW3lau6nrH",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJI1b85pX1wokRnd28TnMRQ4A",
+      "plus_code": {
+        "compound_code": "R32V+X5 New York, NY, USA",
+        "global_code": "87G8R32V+X5"
+      },
+      "rating": 3.7,
+      "reference": "ChIJI1b85pX1wokRnd28TnMRQ4A",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "251 Locust Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8012153,
+          "lng": -73.91590070000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8028341302915,
+            "lng": -73.91435336970851
+          },
+          "southwest": {
+            "lat": 40.8001361697085,
+            "lng": -73.91705133029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pook Diemont & Ohl Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJi-tcouv1wokRlyGch_qXkUI",
+      "plus_code": {
+        "compound_code": "R32M+FJ The Bronx, NY, USA",
+        "global_code": "87G8R32M+FJ"
+      },
+      "rating": 3,
+      "reference": "ChIJi-tcouv1wokRlyGch_qXkUI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "701 East 132nd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8020678,
+          "lng": -73.9132928
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8034801802915,
+            "lng": -73.91190166970848
+          },
+          "southwest": {
+            "lat": 40.8007822197085,
+            "lng": -73.9145996302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Savant Sheet Metal Fabricators",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117251736148617776131\">Savant Sheet Metal Fabricators</a>"
+          ],
+          "photo_reference": "AeJbb3eVoizeH0ZZGSFpqzG1N2zgvjAfuFhIjnD-VM7Sge0bWpskePMit0RWUL5VUhO1xEoYPXdyRysi3Xedcj_jLCRFvbVfl8_vjKQq4xJnZda48vTJtOpYQG9A31QGCxC91vL4HbnHhkvQCeF45o0Ev_C-GoFmFQmEtJJ0B7rjNrWzLEpn",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJeaXMJ-v1wokR3JX7_Uoi6KQ",
+      "plus_code": {
+        "compound_code": "R32P+RM New York, NY, USA",
+        "global_code": "87G8R32P+RM"
+      },
+      "rating": 4.7,
+      "reference": "ChIJeaXMJ-v1wokR3JX7_Uoi6KQ",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "755 East 134th Street 1st Floor, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8006484,
+          "lng": -73.90933439999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80195303029151,
+            "lng": -73.9080102697085
+          },
+          "southwest": {
+            "lat": 40.79925506970851,
+            "lng": -73.9107082302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Miss Grimble Associates Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100700526153996630520\">Aldo Menichino Jr</a>"
+          ],
+          "photo_reference": "AeJbb3fO6pkHpNjMkoMHqST9Kw3lI2fO7PFeIHJVcaFLuzdXXOYi_k1D5EyKVeBpNf0RmHqoGrriPG6M_9kvEWXxvOj3RINhRnSj9XVT0rlCyilJiXd5zhQ9VpLunG5zrg5QNsaDRf5ZF1cmR6Z5yAJbOG4LpRFXV25BUs0Z3ULJpeEqLiUF",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJqTCoWZT1wokRWinvO7YKPag",
+      "plus_code": {
+        "compound_code": "R32R+77 New York, NY, USA",
+        "global_code": "87G8R32R+77"
+      },
+      "rating": 4.6,
+      "reference": "ChIJqTCoWZT1wokRWinvO7YKPag",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "909 East 135th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8004171,
+          "lng": -73.91039789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8016983302915,
+            "lng": -73.9091242697085
+          },
+          "southwest": {
+            "lat": 40.7990003697085,
+            "lng": -73.9118222302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "ROCK STONE WORKS CORP.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107126999283738246866\">ROCK STONE WORKS CORP.</a>"
+          ],
+          "photo_reference": "AeJbb3cemj0mEkzVZoV9KiaS6XcSzt9oRMR2q36ofXGr8loV-L4gRrV0HqcygsydWY27UaotH7oR-QtSHIfwhx_2aTVleBgctzkk8wTD1az2r9ymCVTxZmWnNAlOAjczRlTPHD4oVQ-eaG3GKNqPF3pxglciBwhrMwoZoKEHEgfLDSDOBhJ0",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJeS_Q7JT1wokRUnUOI-YW4iY",
+      "plus_code": {
+        "compound_code": "R32Q+5R The Bronx, NY, USA",
+        "global_code": "87G8R32Q+5R"
+      },
+      "rating": 4.2,
+      "reference": "ChIJeS_Q7JT1wokRUnUOI-YW4iY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "885 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8017002,
+          "lng": -73.9100087
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80308788029151,
+            "lng": -73.90862006970849
+          },
+          "southwest": {
+            "lat": 40.80038991970851,
+            "lng": -73.91131803029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jrs Boiler",
+      "place_id": "ChIJh6d-AZX1wokRS03VxIXCKT8",
+      "plus_code": {
+        "compound_code": "R32Q+MX The Bronx, NY, USA",
+        "global_code": "87G8R32Q+MX"
+      },
+      "reference": "ChIJh6d-AZX1wokRS03VxIXCKT8",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "862 East 136th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8014799,
+          "lng": -73.91020689999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8027626302915,
+            "lng": -73.9087440197085
+          },
+          "southwest": {
+            "lat": 40.8000646697085,
+            "lng": -73.9114419802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Leeds Radio",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102982269183526602222\">Michael Sanchez</a>"
+          ],
+          "photo_reference": "AeJbb3c0TUX7kZDKQBsSObBxDQezh9wtGE-ppQU9d5-e67SnlKJVbaGFyWhiz6HAtGEY2QnYYGM_NuVmhEMc-Izu7l8MxhBwDgVz1z5_Zclg17jPK_YRuyi6h85uIB7K4Y6OkrkIxjXbLyuGJwDLryuZFiBHl5XlNL5Xr1TtnHMVFloBCjn2",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJz08WCmdZwokR81J6-lyROpo",
+      "plus_code": {
+        "compound_code": "R32Q+HW New York, NY, USA",
+        "global_code": "87G8R32Q+HW"
+      },
+      "rating": 4.8,
+      "reference": "ChIJz08WCmdZwokR81J6-lyROpo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "175 Walnut Avenue Suite 304, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.802965,
+          "lng": -73.911564
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8041859302915,
+            "lng": -73.91030866970848
+          },
+          "southwest": {
+            "lat": 40.8014879697085,
+            "lng": -73.9130066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E & J Iron Works Inc",
+      "place_id": "ChIJBdmDR5X1wokRHFtSaIINqNs",
+      "plus_code": {
+        "compound_code": "R33Q+59 The Bronx, NY, USA",
+        "global_code": "87G8R33Q+59"
+      },
+      "rating": 5,
+      "reference": "ChIJBdmDR5X1wokRHFtSaIINqNs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "801 East 136th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8020285,
+          "lng": -73.91277199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8032907302915,
+            "lng": -73.91153841970849
+          },
+          "southwest": {
+            "lat": 40.8005927697085,
+            "lng": -73.91423638029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Marrins Moving Systems Ltd",
+      "place_id": "ChIJEZ25Wt31wokRDOP2ntoqIZc",
+      "plus_code": {
+        "compound_code": "R32P+RV The Bronx, NY, USA",
+        "global_code": "87G8R32P+RV"
+      },
+      "reference": "ChIJEZ25Wt31wokRDOP2ntoqIZc",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "406 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80228,
+          "lng": -73.908455
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8037449802915,
+            "lng": -73.9068794197085
+          },
+          "southwest": {
+            "lat": 40.8010470197085,
+            "lng": -73.90957738029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Parallel Products-New England",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105226948832812506316\">Terrance Tucker</a>"
+          ],
+          "photo_reference": "AeJbb3fAjDLOx2BH-gW38qEXSlUHwe9F4ORDZi2jFK07G5OKxCh1_ThltjywltUMyWSgrqYIAZlYsrVJuLeWw4SEfeA_QG4du9eYvNGC_JVuocm-UtJb_SJa2CDCq7f-ryXCW0aa2ljObegud6f0KJqCOGrVGHVvXNxgPf7ZVDIRD0bPw0ui",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJJ-edlZX1wokRQaGtv76vlN8",
+      "plus_code": {
+        "compound_code": "R32R+WJ The Bronx, NY, USA",
+        "global_code": "87G8R32R+WJ"
+      },
+      "rating": 1.8,
+      "reference": "ChIJJ-edlZX1wokRQaGtv76vlN8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "900 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8002663,
+          "lng": -73.91427589999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8016627302915,
+            "lng": -73.91289206970849
+          },
+          "southwest": {
+            "lat": 40.7989647697085,
+            "lng": -73.9155900302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Paper Enterprises, Inc",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108642411721861203232\">Junior Constanzo</a>"
+          ],
+          "photo_reference": "AeJbb3fRZJPOUpq0ce3Gzsng02BKq3O3DjZhlSmoNQTpayIyXqr-Yh2B0uHnUHNtZyeRi-gjWEXDz426eYYyQC-eoWFc17QgenHr1e8Gxr3rdFUyRnPt0p-7TZAbGMKgOm1yi-RfVKi6YF8gC7_AxysK3aHo6y1ooRMCOyvJgQgyLE5Z4eGB",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_WWBduv1wokRJTEOZqY36iU",
+      "plus_code": {
+        "compound_code": "R32P+47 New York, NY, USA",
+        "global_code": "87G8R32P+47"
+      },
+      "rating": 4,
+      "reference": "ChIJ_WWBduv1wokRJTEOZqY36iU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "770 East 132nd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80049030000001,
+          "lng": -73.90952469999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8018847802915,
+            "lng": -73.9081295197085
+          },
+          "southwest": {
+            "lat": 40.79918681970851,
+            "lng": -73.9108274802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brothers & Co Inc",
+      "place_id": "ChIJ_6rvTpT1wokRAFasSlMgHUo",
+      "plus_code": {
+        "compound_code": "R32R+55 The Bronx, NY, USA",
+        "global_code": "87G8R32R+55"
+      },
+      "reference": "ChIJ_6rvTpT1wokRAFasSlMgHUo",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "180 Locust Avenue, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.801999,
+          "lng": -73.913366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8034499302915,
+            "lng": -73.9119492197085
+          },
+          "southwest": {
+            "lat": 40.8007519697085,
+            "lng": -73.91464718029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "American Housewares",
+      "permanently_closed": true,
+      "place_id": "ChIJ33M4J-v1wokRgPmQ2z-ySMU",
+      "plus_code": {
+        "compound_code": "R32P+QM The Bronx, NY, USA",
+        "global_code": "87G8R32P+QM"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ33M4J-v1wokRgPmQ2z-ySMU",
+      "scope": "GOOGLE",
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "755 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.80150010000001,
+          "lng": -73.9121959
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8027452802915,
+            "lng": -73.9109231197085
+          },
+          "southwest": {
+            "lat": 40.8000473197085,
+            "lng": -73.9136210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Flam Associates",
+      "permanently_closed": true,
+      "place_id": "ChIJTaM_05T1wokRShatvhFVi8A",
+      "plus_code": {
+        "compound_code": "R32Q+J4 The Bronx, NY, USA",
+        "global_code": "87G8R32Q+J4"
+      },
+      "rating": 5,
+      "reference": "ChIJTaM_05T1wokRShatvhFVi8A",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "general_contractor",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "805 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8008601,
+          "lng": -73.9147359
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8021037802915,
+            "lng": -73.9134643197085
+          },
+          "southwest": {
+            "lat": 40.7994058197085,
+            "lng": -73.9161622802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tempest Architectural Products",
+      "place_id": "ChIJNW_Ga-v1wokRniKK61hT5EE",
+      "plus_code": {
+        "compound_code": "R32P+84 The Bronx, NY, USA",
+        "global_code": "87G8R32P+84"
+      },
+      "reference": "ChIJNW_Ga-v1wokRniKK61hT5EE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "767 East 132nd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80059550000001,
+          "lng": -73.91134459999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8017544302915,
+            "lng": -73.90987986970849
+          },
+          "southwest": {
+            "lat": 40.7990564697085,
+            "lng": -73.9125778302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Moishe's Self Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109439592644459083468\">Moishe&#39;s Self Storage</a>"
+          ],
+          "photo_reference": "AeJbb3cibInCAj8Vm3Uxgyj9YSq_1QRfJ--HUGr6g18MLQK4R56Wom0e-k8tbUeCIHPOjjHQuLj1iGdZAZO3MaNMsZruaDQRoWIAm7J0xypV2PvpPFhp9zdhXfFaJAZE731i-3BoQVOI8vWM0L6UcXD_K1yoRsiS18fHNT7_Xp8nzRdSRzzI",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJiUNCuJT1wokRsiFJuRCBcVM",
+      "plus_code": {
+        "compound_code": "R32Q+6F The Bronx, NY, USA",
+        "global_code": "87G8R32Q+6F"
+      },
+      "rating": 4.5,
+      "reference": "ChIJiUNCuJT1wokRsiFJuRCBcVM",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "storage",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 92,
+      "vicinity": "840 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.800167,
+          "lng": -73.9113488
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8014818802915,
+            "lng": -73.9099403697085
+          },
+          "southwest": {
+            "lat": 40.79878391970851,
+            "lng": -73.9126383302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Infinity Moving and Storage, Inc.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104878339005903574230\">Infinity Moving and Storage, Inc.</a>"
+          ],
+          "photo_reference": "AeJbb3fFWtZHi9XVzsz5wK8AgT8hjNW5eHZFvJsySguuNi9B6xu6rPptokkGXQsMJbhcY40FPEySbm9hGwc6B29BF8FghrwyB_6QyxxMonL7Fy_CkAh1pzE6V-AGpr4Fv7urDjU1XMmd09ZZ3Q_YVa6rUUCYQeeR9-Jdax02frYkv5WWClQz",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJBw9QlZT1wokR3dAsfKbkMds",
+      "plus_code": {
+        "compound_code": "R32Q+3F New York, NY, USA",
+        "global_code": "87G8R32Q+3F"
+      },
+      "rating": 1.9,
+      "reference": "ChIJBw9QlZT1wokR3dAsfKbkMds",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "storage",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "125 Walnut Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80032320000001,
+          "lng": -73.9103446
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8016125802915,
+            "lng": -73.90903901970849
+          },
+          "southwest": {
+            "lat": 40.7989146197085,
+            "lng": -73.9117369802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sure Combustion Heating",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108335565821385482780\">Sure Combustion Heating</a>"
+          ],
+          "photo_reference": "AeJbb3cbtZqDnzhHj2QwGiqzBumpbcNCdmVY_PlhUaatJTJaKlefysiTXZyk_CB7AdOz17eTEmb5IbSDj3Hyp7fayfHjRarVnC-bto-YsRMtxorpz_ZQ24x7uzZvV321PzmYPakRmuHZzmCOKDTzjDxZu8we8aLm7YtVJ7IMz8oQOD50mEYL",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJuyHkkpT1wokRz5H-qUZYTQ4",
+      "plus_code": {
+        "compound_code": "R32Q+4V New York, NY, USA",
+        "global_code": "87G8R32Q+4V"
+      },
+      "rating": 4.6,
+      "reference": "ChIJuyHkkpT1wokRz5H-qUZYTQ4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "889 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8013458,
+          "lng": -73.91040029999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8026180802915,
+            "lng": -73.90891941970848
+          },
+          "southwest": {
+            "lat": 40.7999201197085,
+            "lng": -73.9116173802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lush Music Rehearsal Studios NYC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1540,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115141733145052583147\">Lush Music Rehearsal Studios NYC</a>"
+          ],
+          "photo_reference": "AeJbb3e96RJuxwKyCF4JWBvBeqMFSUPlfFcE2D6cFIyz1PTjPoXYIQT4vBIKtB5mg2gbY6rPurFHZUVVcYqYXXAZdjXmpszLY_kIRzzoCFa8T2ntU57YBFRquUfYbZoyzlDQKqNf3trGCuX2xjbqbIA9rNGllY3KctFex9ZjP1Xya09oqOql",
+          "width": 2912
+        }
+      ],
+      "place_id": "ChIJLeRm_ZT1wokR7kHb3XybywU",
+      "plus_code": {
+        "compound_code": "R32Q+GR The Bronx, NY, USA",
+        "global_code": "87G8R32Q+GR"
+      },
+      "rating": 4.8,
+      "reference": "ChIJLeRm_ZT1wokR7kHb3XybywU",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "175 Walnut Avenue #306, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8013556,
+          "lng": -73.9103694
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8026585302915,
+            "lng": -73.90886786970849
+          },
+          "southwest": {
+            "lat": 40.7999605697085,
+            "lng": -73.9115658302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rapid Realty",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJr9Vg-5T1wokRyng3AKO1FZ8",
+      "plus_code": {
+        "compound_code": "R32Q+GV The Bronx, NY, USA",
+        "global_code": "87G8R32Q+GV"
+      },
+      "rating": 3.8,
+      "reference": "ChIJr9Vg-5T1wokRyng3AKO1FZ8",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "175 Walnut Avenue #102-B, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8014799,
+          "lng": -73.91020689999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8027626302915,
+            "lng": -73.9087440197085
+          },
+          "southwest": {
+            "lat": 40.8000646697085,
+            "lng": -73.9114419802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Tha Warehouse Studios",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116491197147425201793\">Tha Warehouse Studios</a>"
+          ],
+          "photo_reference": "AeJbb3eE_zrA8lcUt053W771744bHNEmzmV1uKk-SThR7nqAOZS_Aj9NFqgRn5viPZ57U5xqzlarmLO5YOBTfUf0OMz8yTxjLIF0ZACQdn0TQhuI6hpXNjWvKHcHEtn2YIKXbpkrN2cW0IdjN4fGqbecaGmoEyn-h1yjt9zOIe9WDVqpQhJB",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJr81g_ZT1wokRBC8IjjvmSBI",
+      "plus_code": {
+        "compound_code": "R32Q+HW New York, NY, USA",
+        "global_code": "87G8R32Q+HW"
+      },
+      "rating": 5,
+      "reference": "ChIJr81g_ZT1wokRBC8IjjvmSBI",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "175 Walnut Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.801489,
+          "lng": -73.910164
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80277788029149,
+            "lng": -73.90871171970848
+          },
+          "southwest": {
+            "lat": 40.80007991970849,
+            "lng": -73.9114096802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "For Reasons Unknown Creative Studio",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1692,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113492468904774134668\">For Reasons Unknown Creative Studio</a>"
+          ],
+          "photo_reference": "AeJbb3fLmhCJ3ZF4sQMdau5-V3nM5CCM6t12FJOUjEa4dA9ILJhvwZQpE1vdBZz7kAXDtakGMWoAVin3pAeiSLDCJ5PRfW8JQ-ZsnRqUggZmd1WVLyWFLclJyKprF9H5R17rg51k31mjLdH7wfr3OXmYcL6vEnVc3qQtYsddPvl8bDG6RVrf",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJaTln_ZT1wokR4g-gVpu8PnA",
+      "plus_code": {
+        "compound_code": "R32Q+HW The Bronx, NY, USA",
+        "global_code": "87G8R32Q+HW"
+      },
+      "reference": "ChIJaTln_ZT1wokR4g-gVpu8PnA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "175 Walnut Avenue suite 305-d, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7998619,
+          "lng": -73.9093856
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8014169302915,
+            "lng": -73.90795781970849
+          },
+          "southwest": {
+            "lat": 40.7987189697085,
+            "lng": -73.9106557802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Optima Communications Systems",
+      "place_id": "ChIJm1n5iZT1wokRWd5VLe4lPmA",
+      "plus_code": {
+        "compound_code": "Q3XR+W6 New York, NY, USA",
+        "global_code": "87G8Q3XR+W6"
+      },
+      "reference": "ChIJm1n5iZT1wokRWd5VLe4lPmA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "135 Locust Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8017121,
+          "lng": -73.9101143
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8031515802915,
+            "lng": -73.90879916970849
+          },
+          "southwest": {
+            "lat": 40.8004536197085,
+            "lng": -73.9114971302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Reypurposed HQ",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107983538791751388941\">Jose Robinson</a>"
+          ],
+          "photo_reference": "AeJbb3eHlVNEqmAYWC3-eXNXCbafjZ-5pZwHzzJLDPfP9GrFOSeq0G33nc7X3TYw7jcwU44v0mJo-joBxebFL__ZNga0AGApMB7etB4jIORDHm7FpTEXLFF8QJiNJ5vaeol9gCcf4H4ea8nEDRaCCi8OfrwWr9I0pNczud38Xfe-Xbsfn95-",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJCx_Hfef1wokRGI-O654M2vA",
+      "plus_code": {
+        "compound_code": "R32Q+MX New York, NY, USA",
+        "global_code": "87G8R32Q+MX"
+      },
+      "rating": 5,
+      "reference": "ChIJCx_Hfef1wokRGI-O654M2vA",
+      "scope": "GOOGLE",
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "860 East 136th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8005994,
+          "lng": -73.9130145
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80205893029149,
+            "lng": -73.9118225197085
+          },
+          "southwest": {
+            "lat": 40.79936096970849,
+            "lng": -73.91452048029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sol Cacao",
+      "photos": [
+        {
+          "height": 2295,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110675570245344138089\">Gavin</a>"
+          ],
+          "photo_reference": "AeJbb3eej0I1w2VqfXgFcYsStqFyOcR75jFa-IZGZqHjqwhJzBC8UJXusP4QvmLvgkPRF1J3nbENwWankXm5KUgDi_atT0x9T47S7MA_KTEh3qYdA1h9W9xkfr_7NjgnAj2taP1O0Xoggu-dAq-oA2QhkxEbr81_FGHMgV5Xq8PdRJYpF8wn",
+          "width": 1816
+        }
+      ],
+      "place_id": "ChIJ_eO1Sev1wokRJTywIZgLkt4",
+      "plus_code": {
+        "compound_code": "R32P+6Q New York, NY, USA",
+        "global_code": "87G8R32P+6Q"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ_eO1Sev1wokRJTywIZgLkt4",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "780 East 133rd Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8017317,
+          "lng": -73.9123117
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80290678029149,
+            "lng": -73.9110899197085
+          },
+          "southwest": {
+            "lat": 40.80020881970849,
+            "lng": -73.91378788029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jagart Limited",
+      "permanently_closed": true,
+      "place_id": "ChIJvzMV1ZT1wokRFxxZbBM-XLY",
+      "plus_code": {
+        "compound_code": "R32Q+M3 New York, NY, USA",
+        "global_code": "87G8R32Q+M3"
+      },
+      "reference": "ChIJvzMV1ZT1wokRFxxZbBM-XLY",
+      "scope": "GOOGLE",
+      "types": [
+        "painter",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "801 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.800493,
+          "lng": -73.913294
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8020057302915,
+            "lng": -73.91195706970848
+          },
+          "southwest": {
+            "lat": 40.7993077697085,
+            "lng": -73.9146550302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lyns Nail Studio",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2802,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110345514361436573788\">Lyns Nail Studio</a>"
+          ],
+          "photo_reference": "AeJbb3dIjuv5Ryi4LRyvymbj2Cyg6T9lEL8EUS-I52fkd_SsqvTLLXtHTEHLuoWvTbVd4UCaPYb4OHF_WgrYyVr9_Z1NgWD4PLFph1UDgboIllq--jjvGRApoLaBF3NxXAyTMxFTDSum5He7sGlxIhjuFKw0YLxF1DEbKQ-K8cQ7PVVeerE-",
+          "width": 2802
+        }
+      ],
+      "place_id": "ChIJ9U2XRuv1wokRztN2G6AIME0",
+      "plus_code": {
+        "compound_code": "R32P+5M New York, NY, USA",
+        "global_code": "87G8R32P+5M"
+      },
+      "rating": 5,
+      "reference": "ChIJ9U2XRuv1wokRztN2G6AIME0",
+      "scope": "GOOGLE",
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "780 East 133rd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8011773,
+          "lng": -73.9130673
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80268573029149,
+            "lng": -73.91160166970849
+          },
+          "southwest": {
+            "lat": 40.79998776970849,
+            "lng": -73.9142996302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Fire Soaps",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJK9YzL-v1wokRJbei4xhChpw",
+      "plus_code": {
+        "compound_code": "R32P+FQ New York, NY, USA",
+        "global_code": "87G8R32P+FQ"
+      },
+      "reference": "ChIJK9YzL-v1wokRJbei4xhChpw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "780 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8011773,
+          "lng": -73.9130673
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80268573029149,
+            "lng": -73.91160166970849
+          },
+          "southwest": {
+            "lat": 40.79998776970849,
+            "lng": -73.9142996302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Innova Interiors",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 299,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104177786035335875322\">Innova Interiors</a>"
+          ],
+          "photo_reference": "AeJbb3cyNAtuSUAmVmFIj-tigVHocm713XsjgFuIBRD50U6xaLPuOMyIEcsTIIvJO7u4Conr28oN1ZDAcVJZ3rGnKJ02a6OpBBoSjA6CrO43M_vvcCaGSac6VZhTsqWM6e6ho9A5o8NMPnL9hovqzsKlBEzGNzC87Oc8OJ0lj9qo-yN7eYgj",
+          "width": 450
+        }
+      ],
+      "place_id": "ChIJK9YzL-v1wokR2Yb_CmHtZiI",
+      "plus_code": {
+        "compound_code": "R32P+FQ The Bronx, NY, USA",
+        "global_code": "87G8R32P+FQ"
+      },
+      "rating": 5,
+      "reference": "ChIJK9YzL-v1wokR2Yb_CmHtZiI",
+      "scope": "GOOGLE",
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "general_contractor",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "780 East 134th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.80048,
+          "lng": -73.913456
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8019992302915,
+            "lng": -73.91202081970849
+          },
+          "southwest": {
+            "lat": 40.7993012697085,
+            "lng": -73.9147187802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Port Morris Media",
+      "permanently_closed": true,
+      "place_id": "ChIJ9U2XRuv1wokRRx7IDu30ZGk",
+      "plus_code": {
+        "compound_code": "R32P+5J The Bronx, NY, USA",
+        "global_code": "87G8R32P+5J"
+      },
+      "reference": "ChIJ9U2XRuv1wokRRx7IDu30ZGk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "780 East 133rd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8017743,
+          "lng": -73.91584759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8031663802915,
+            "lng": -73.91445196970851
+          },
+          "southwest": {
+            "lat": 40.8004684197085,
+            "lng": -73.91714993029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Marlande Heating Corporation",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108067565787121014658\">Atiba Williams</a>"
+          ],
+          "photo_reference": "AeJbb3ecd-9Rt_6Gd2Ph8PgjrEGbY-IvQcNuMZVbVW-WsFnD-22ZsEL4le47Bcq7whHhIR1rBZwZjJviQMi40A5MDQfPZs2v2hpNMcd-RA9ki3MQ1K0s-I_OO6wil4qYgf39b8zwDufSiF-Amf1tg1m4jtGAADPachiNmwMJcVjRRj7pAjuy",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJC-zppev1wokRuu8U83tU_UQ",
+      "plus_code": {
+        "compound_code": "R32M+PM New York, NY, USA",
+        "global_code": "87G8R32M+PM"
+      },
+      "rating": 4,
+      "reference": "ChIJC-zppev1wokRuu8U83tU_UQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "general_contractor",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "700 East 133rd Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8005039,
+          "lng": -73.91349699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8020111802915,
+            "lng": -73.91204131970849
+          },
+          "southwest": {
+            "lat": 40.7993132197085,
+            "lng": -73.9147392802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Youbewa Media",
+      "permanently_closed": true,
+      "place_id": "ChIJRa8lQuv1wokRO-9lLzrbMTI",
+      "plus_code": {
+        "compound_code": "R32P+6J The Bronx, NY, USA",
+        "global_code": "87G8R32P+6J"
+      },
+      "reference": "ChIJRa8lQuv1wokRO-9lLzrbMTI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "780 East 133rd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8007398,
+          "lng": -73.9136539
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8021275302915,
+            "lng": -73.9123972197085
+          },
+          "southwest": {
+            "lat": 40.7994295697085,
+            "lng": -73.9150951802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Tech Factory at Port Morris",
+      "place_id": "ChIJl8WiQOv1wokR-1_pTC9iwv8",
+      "plus_code": {
+        "compound_code": "R32P+7G The Bronx, NY, USA",
+        "global_code": "87G8R32P+7G"
+      },
+      "reference": "ChIJl8WiQOv1wokR-1_pTC9iwv8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "780 East 133rd, Willow Avenue, The Bronx"
+    }
+  ],
+  "status": "OK"
+}

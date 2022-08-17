@@ -1,0 +1,2474 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fI382jwvyqRKcpLpgdGC0Ph79sipBZihSG6GwkZVRClXdnrPAYIKCv92OgrjSawGX3umQA9u79NZrm2J2jJ8LW3DHu1t3ViQczB0_ibSlKpYRAnNo4CktnRE03Tub1NuzwZhRXihf_P_WlZ_jTIGuUdG-U9824v_1WnSyr8Ry-U8gm",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8174218,
+          "lng": -73.92720729999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8192605302915,
+            "lng": -73.92613521970848
+          },
+          "southwest": {
+            "lat": 40.8165625697085,
+            "lng": -73.92883318029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Hostos Community College",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110211705390897249088\">Hostos Community College</a>"
+          ],
+          "photo_reference": "AeJbb3c0k0iMuTgXnc57A3DI098edgTerbXENUth3YrcdcGiFK0oXHTPAxJOvQAoXkwbSi5m5CSsXjzRth38-oUFOxq_qrN4JxRmPU9RxiqFlHZipMH4BIiiaA-GhqBoUZBNiUI-Ykj2Vy8F4p_zQFIV1fQYeim6iAePw2QESEsw0hWm4Xjb",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ49l0jdD1wokRlJ4NQN2UVJE",
+      "plus_code": {
+        "compound_code": "R38F+X4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38F+X4"
+      },
+      "rating": 4,
+      "reference": "ChIJ49l0jdD1wokRlJ4NQN2UVJE",
+      "scope": "GOOGLE",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 225,
+      "vicinity": "500 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168717,
+          "lng": -73.9196959
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81816138029151,
+            "lng": -73.91821776970849
+          },
+          "southwest": {
+            "lat": 40.81546341970851,
+            "lng": -73.9209157302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Volunteers-Amer Aids Scattered",
+      "place_id": "ChIJjWSlPc_1wokRJl12SMCa2O4",
+      "plus_code": {
+        "compound_code": "R38J+P4 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38J+P4"
+      },
+      "rating": 4.5,
+      "reference": "ChIJjWSlPc_1wokRJl12SMCa2O4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "349 East 149th Street #706, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8164223,
+          "lng": -73.91812039999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8176934802915,
+            "lng": -73.9168060697085
+          },
+          "southwest": {
+            "lat": 40.8149955197085,
+            "lng": -73.9195040302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Towne Nursing",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 569,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105075404412303469049\">Towne Nursing</a>"
+          ],
+          "photo_reference": "AeJbb3eDpxLilFjFZqHP2FWymMBSi3vXqLmMHZwLXRBaeUVv447AC5yKd8AN9ZxK4C2K4gyx0yEXGEki9hmXRzc7H7jWoGNvnk6tyOgxt76sraDsubUKFDsuO7RQgLkHB0e0V3J9Wz4tD1Qzk6QtH4qyHzy6Hgv6pBBM37y9AYvWZpDMO78k",
+          "width": 1012
+        }
+      ],
+      "place_id": "ChIJSVP6mLv0wokRrZA3x3cADfU",
+      "plus_code": {
+        "compound_code": "R38J+HQ \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38J+HQ"
+      },
+      "rating": 1.7,
+      "reference": "ChIJSVP6mLv0wokRrZA3x3cADfU",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "391 East 149th Street 2nd Floor Suite 219, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.816112,
+          "lng": -73.9247757
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8186809,
+            "lng": -73.92249490000002
+          },
+          "southwest": {
+            "lat": 40.81469449999998,
+            "lng": -73.92576209999997
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Lincoln Medical Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103902073171360095728\">Abdul-Mumin Sanni-Adam</a>"
+          ],
+          "photo_reference": "AeJbb3dO9EOXlrPp_kE3cQbFdJLmTm5msoDOsTmkdhY_0kkRRo1FIZ-6Bb2XHFeg3fXAJSC7JpEx_5p9s80Jxu0Rk7oAFD-SiSKVSEN9c4YbZB8C3uDDnqHqXPObq6f5raoMAenHMeMDGF3m6OzsWVHUpBNzLTc7bmNfUGKlDT79qmIQJ-nV",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ56F418_1wokRMwWHcUO188E",
+      "plus_code": {
+        "compound_code": "R38G+C3 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38G+C3"
+      },
+      "rating": 2.6,
+      "reference": "ChIJ56F418_1wokRMwWHcUO188E",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 684,
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168149,
+          "lng": -73.9198787
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8181119302915,
+            "lng": -73.91855321970849
+          },
+          "southwest": {
+            "lat": 40.8154139697085,
+            "lng": -73.92125118029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Newmark Frank",
+      "place_id": "ChIJjWSlPc_1wokR6KNIzPZbZFU",
+      "plus_code": {
+        "compound_code": "R38J+P2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38J+P2"
+      },
+      "reference": "ChIJjWSlPc_1wokR6KNIzPZbZFU",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "349 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81686189999999,
+          "lng": -73.9196783
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81815648029149,
+            "lng": -73.9182100197085
+          },
+          "southwest": {
+            "lat": 40.8154585197085,
+            "lng": -73.92090798029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Planned Parenthood - The Bronx Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJjWSlPc_1wokRsYwioThBIEc",
+      "plus_code": {
+        "compound_code": "R38J+P4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38J+P4"
+      },
+      "rating": 3.5,
+      "reference": "ChIJjWSlPc_1wokRsYwioThBIEc",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 55,
+      "vicinity": "next to Citibank, 349 E 149th Street, 2nd Avenue 2nd Floor"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168618,
+          "lng": -73.9197154
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8181189302915,
+            "lng": -73.9184080197085
+          },
+          "southwest": {
+            "lat": 40.81542096970851,
+            "lng": -73.9211059802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cardinal McCloskey Children",
+      "place_id": "ChIJjWSlPc_1wokRZDmSlT8ZaVQ",
+      "plus_code": {
+        "compound_code": "R38J+P4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38J+P4"
+      },
+      "rating": 1.6,
+      "reference": "ChIJjWSlPc_1wokRZDmSlT8ZaVQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "349 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Francisco J. Gonzalez-Franco, MD",
+      "place_id": "ChIJ56F418_1wokRYhxifUTsT_A",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRYhxifUTsT_A",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Trakht Asya MD",
+      "place_id": "ChIJ56F418_1wokRGGljpJJMOsI",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRGGljpJJMOsI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lincoln Medical & Mental Health: Parry Thomas H MD",
+      "place_id": "ChIJ56F418_1wokRU5uVAsX0Gy0",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRU5uVAsX0Gy0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Sindhaghatta K. Venkatram, MD",
+      "place_id": "ChIJ56F418_1wokRHWcy5kcmUGE",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRHWcy5kcmUGE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Josephson Elaine B MD",
+      "place_id": "ChIJ56F418_1wokRzRS1NoKFmQM",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRzRS1NoKFmQM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Nirmala Kanna, MD",
+      "place_id": "ChIJ56F418_1wokRxwsjn71gT4I",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRxwsjn71gT4I",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lincoln Medical & Mental Health: Celentano James MD",
+      "place_id": "ChIJ56F418_1wokR4PwHgFPeqJk",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokR4PwHgFPeqJk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Ramnath D. Kapoor, MD",
+      "place_id": "ChIJ56F418_1wokR8SfBg9mUFVk",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokR8SfBg9mUFVk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Narayanan Sivasubrama MD",
+      "place_id": "ChIJ56F418_1wokR-KUM4FzutEI",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokR-KUM4FzutEI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Jean J. Cadet, MD",
+      "place_id": "ChIJ56F418_1wokRthIBu8PM87o",
+      "plus_code": {
+        "compound_code": "R38G+W9 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRthIBu8PM87o",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81734100000001,
+          "lng": -73.92328119999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185025302915,
+            "lng": -73.92196496970848
+          },
+          "southwest": {
+            "lat": 40.8158045697085,
+            "lng": -73.9246629302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "G E Healthcare",
+      "place_id": "ChIJ56F418_1wokRfgeiKEWXjD0",
+      "plus_code": {
+        "compound_code": "R38G+WM \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+WM"
+      },
+      "reference": "ChIJ56F418_1wokRfgeiKEWXjD0",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8519547,
+          "lng": -73.90070899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91527805889627,
+            "lng": -73.86840408623851
+          },
+          "southwest": {
+            "lat": 40.79678004393696,
+            "lng": -73.93340593816593
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West Bronx",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113738462812435835913\">Alex Lin</a>"
+          ],
+          "photo_reference": "AeJbb3d8pBXCYcrr8dMrVwAYSZyZF10YZQITk5j4kszvfd9bDvR_UiaBadkfEKzo-IKYq997R9DMthubuwhc2evn33dmm8O_SFKBO45CnZihl8nxu_9I60iMvqhKORVncmJNN3YEbgev_pkXgva-ENH_nokfySZ1TNc32utAUurnbTjA518_",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "reference": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8189146,
+          "lng": -73.92001309999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82033393029149,
+            "lng": -73.91859786970849
+          },
+          "southwest": {
+            "lat": 40.8176359697085,
+            "lng": -73.9212958302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Alfred E. Smith Career and Technical Education High School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJGViW6M71wokRCyxHYGVJ09g",
+      "plus_code": {
+        "compound_code": "R39H+HX New York, NY, USA",
+        "global_code": "87G8R39H+HX"
+      },
+      "rating": 4.3,
+      "reference": "ChIJGViW6M71wokRCyxHYGVJ09g",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "333 East 151st Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8168717,
+          "lng": -73.9196959
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81816138029151,
+            "lng": -73.91821776970849
+          },
+          "southwest": {
+            "lat": 40.81546341970851,
+            "lng": -73.9209157302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloomfield ESQ",
+      "permanently_closed": true,
+      "place_id": "ChIJjWSlPc_1wokRFS1i7F6epRI",
+      "plus_code": {
+        "compound_code": "R38J+P4 The Bronx, NY, USA",
+        "global_code": "87G8R38J+P4"
+      },
+      "reference": "ChIJjWSlPc_1wokRFS1i7F6epRI",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "349 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8207473,
+          "lng": -73.9243841
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8222532302915,
+            "lng": -73.9236152197085
+          },
+          "southwest": {
+            "lat": 40.8195552697085,
+            "lng": -73.9263131802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Cardinal Hayes High School for Boys",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3cPzJkgHGN4lyAwgaCxHvpmmeN-URAhKtDZJ8hbygv3chxKfjzh5IyJwhDVp3GnDEKWZvCPvAl-4nRaPr2QV8kJvuAQ_-OEVFsz1QcmZdnVs352up503VC4Q6v8ZCGtk9l0j6DCfwqqOSXHkj6RMFNG5a8gqXI4Yi868vUMiGWQcvFT",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJV9mzitH1wokRapnNci5yZBc",
+      "plus_code": {
+        "compound_code": "R3CG+76 New York, NY, USA",
+        "global_code": "87G8R3CG+76"
+      },
+      "rating": 4.5,
+      "reference": "ChIJV9mzitH1wokRapnNci5yZBc",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8184815802915,
+            "lng": -73.92235351970848
+          },
+          "southwest": {
+            "lat": 40.8157836197085,
+            "lng": -73.9250514802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mitsianis Dimitra",
+      "place_id": "ChIJN_F618_1wokRXYp5nxCy1t8",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJN_F618_1wokRXYp5nxCy1t8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street #14, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81770379999999,
+          "lng": -73.9240054
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8190400802915,
+            "lng": -73.9226619697085
+          },
+          "southwest": {
+            "lat": 40.8163421197085,
+            "lng": -73.9253599302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Generations Medical Services",
+      "place_id": "ChIJN_F618_1wokRQ5C1qNHacxo",
+      "plus_code": {
+        "compound_code": "R39G+39 The Bronx, NY, USA",
+        "global_code": "87G8R39G+39"
+      },
+      "reference": "ChIJN_F618_1wokRQ5C1qNHacxo",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 E 149th St # 8D200, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8168717,
+          "lng": -73.9196959
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81816138029151,
+            "lng": -73.91821776970849
+          },
+          "southwest": {
+            "lat": 40.81546341970851,
+            "lng": -73.9209157302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Serra Wesley",
+      "permanently_closed": true,
+      "place_id": "ChIJjWSlPc_1wokR6AkDdUcfoM8",
+      "plus_code": {
+        "compound_code": "R38J+P4 The Bronx, NY, USA",
+        "global_code": "87G8R38J+P4"
+      },
+      "reference": "ChIJjWSlPc_1wokR6AkDdUcfoM8",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "349 East 149th Street #7, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81686189999999,
+          "lng": -73.9196783
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81815648029149,
+            "lng": -73.9182100197085
+          },
+          "southwest": {
+            "lat": 40.8154585197085,
+            "lng": -73.92090798029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Marquita Rodriguez, PA",
+      "place_id": "ChIJjWSlPc_1wokRkNniUQMTGqo",
+      "plus_code": {
+        "compound_code": "R38J+P4 New York, NY, USA",
+        "global_code": "87G8R38J+P4"
+      },
+      "reference": "ChIJjWSlPc_1wokRkNniUQMTGqo",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "349 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8160342,
+          "lng": -73.9184523
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8174748802915,
+            "lng": -73.91706241970851
+          },
+          "southwest": {
+            "lat": 40.8147769197085,
+            "lng": -73.91976038029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bankers Conseco Life Insurance Company",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114601982468046597966\">ekra victor Boouazaud</a>"
+          ],
+          "photo_reference": "AeJbb3fd9xFWGONzpOPTLbWMoOeS1LK1NdCvv7YnOp7ZHaetzF-4TLa7JQM7Me139REawlag7n6HU9hqg5Ape-WSW-04girIJ5K_CQbZsVZCHTKi50UX4mW9LR26psIZtjjsxIx-GKUpPYlXBc4T50p0LcaxklY0lWxOfXranr4Spg7dUQc",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJWZhR8ZCWwokR6Pd08IpU268",
+      "plus_code": {
+        "compound_code": "R38J+CJ New York, NY, USA",
+        "global_code": "87G8R38J+CJ"
+      },
+      "rating": 4.5,
+      "reference": "ChIJWZhR8ZCWwokR6Pd08IpU268",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "finance",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 45,
+      "vicinity": "384 East 149th Street Ste 204, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81677490000001,
+          "lng": -73.9193511
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8180286302915,
+            "lng": -73.91804446970849
+          },
+          "southwest": {
+            "lat": 40.8153306697085,
+            "lng": -73.92074243029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Municipal Credit Union",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106038498837146973208\">D G</a>"
+          ],
+          "photo_reference": "AeJbb3fpTBWpwrHo6rBsH0M0dzM5ZlEqoKz7ZxgbLo0rM-GjvdZ7SEIDet1Xxb4WxphmzgHUz6hImJJxPUun-z3n-DuwbWnje2yHWPoWhjImN76l5f9xjp69KnlBSVljpdnlfyZkst7gbWNFeKA1LjLSUiCDjR20JWeLZ6-G9WjfJghouoxv",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJL_12MM_1wokRxVRFmSCJjb0",
+      "plus_code": {
+        "compound_code": "R38J+P7 New York, NY, USA",
+        "global_code": "87G8R38J+P7"
+      },
+      "rating": 3.9,
+      "reference": "ChIJL_12MM_1wokRxVRFmSCJjb0",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "353 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8160555,
+          "lng": -73.91859579999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8175030802915,
+            "lng": -73.91720281970849
+          },
+          "southwest": {
+            "lat": 40.8148051197085,
+            "lng": -73.9199007802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "US Army Recruiting Office South Bronx",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109099561174014326669\">US Army Recruiting Office South Bronx</a>"
+          ],
+          "photo_reference": "AeJbb3fr_UVtWFgAqJ3-DazcRGKBykwcWIU-MbYuiF9dME6c0bYDM7HtLx79D5ETo87aaorO3-2jxnPwXL87Wyi7FEAmkoBunWmDP0oONCMD-Iqtk6dj8e0Pg4kkzC6fmf2uxHCjQyww262xi26s8nwiHXMgqVuZezy0yO-W-54_dSJyD32-",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ6SGhxcj1wokRBxVwW1MK2mE",
+      "plus_code": {
+        "compound_code": "R38J+CH The Bronx, NY, USA",
+        "global_code": "87G8R38J+CH"
+      },
+      "rating": 4.9,
+      "reference": "ChIJ6SGhxcj1wokRBxVwW1MK2mE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 54,
+      "vicinity": "374 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8183151,
+          "lng": -73.9276915
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81964393029149,
+            "lng": -73.9262662197085
+          },
+          "southwest": {
+            "lat": 40.8169459697085,
+            "lng": -73.9289641802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Hostos Academy",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115973349696919279139\">Tarik Washington</a>"
+          ],
+          "photo_reference": "AeJbb3e1sCWaqA1ku5qb8zez3hpre3GlTq_xN37S4mDMTBo9dTOK3L8tBC0zjuqfhG-1XYL3cSSnjFuFCptqjo6mtg2lRdFqn1ZZbkB9qxAbhzULw-3-G19gnVECo_PN-5AMMpUhca5D1PNU7aLSCPjuSlf2_NWj6CDqEuIa5Oae7gEvT5rm",
+          "width": 1960
+        }
+      ],
+      "place_id": "ChIJPeum8ND1wokRDjBO8-s8Eqo",
+      "plus_code": {
+        "compound_code": "R39C+8W New York, NY, USA",
+        "global_code": "87G8R39C+8W"
+      },
+      "rating": 5,
+      "reference": "ChIJPeum8ND1wokRDjBO8-s8Eqo",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "477 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81444090000001,
+          "lng": -73.91933829999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81573493029151,
+            "lng": -73.91784951970848
+          },
+          "southwest": {
+            "lat": 40.81303696970851,
+            "lng": -73.9205474802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Papa John's Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105123153766062428893\">Jose Miranda</a>"
+          ],
+          "photo_reference": "AeJbb3einecLGg2tTIW2fb8ZbagPWSzCLxPDM-X92r8rmlvM9RXhCjZ3-mF4mlbmuC65b7UUVyMM_towWqu8JVjIyKzQ0XyAyG6rGVeHofkt3rrmVVD2o20MKScF8EugnS7yRGhiDMCBp2olofhqBHzxWQlueaqx9-XWOYNw0R08FaCp4lg1",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJqVNp7sX1wokR8fqArldlt4I",
+      "plus_code": {
+        "compound_code": "R37J+Q7 The Bronx, NY, USA",
+        "global_code": "87G8R37J+Q7"
+      },
+      "price_level": 1,
+      "rating": 3.2,
+      "reference": "ChIJqVNp7sX1wokR8fqArldlt4I",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 267,
+      "vicinity": "475 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168629,
+          "lng": -73.91961719999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8181436802915,
+            "lng": -73.9181961197085
+          },
+          "southwest": {
+            "lat": 40.8154457197085,
+            "lng": -73.9208940802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Citi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106038498837146973208\">D G</a>"
+          ],
+          "photo_reference": "AeJbb3dQasHzfPsT1YIBn4N6MRBKgnvuhbHLubA4eOzvcgnEdomPKInglRT2SxNNykHizZvpE8ZaX-3wRzJTcGTDHYjeSKmckqT1hhvBpunYQTLhcv9Mq7BbTDHdtGKCkEylVmlRE5m2PY3e1z1VCe9cGLxxlrKqvwYyaI2iiZx6T6uTbsNT",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJjWSlPc_1wokRc-glKaXfXiU",
+      "plus_code": {
+        "compound_code": "R38J+P5 New York, NY, USA",
+        "global_code": "87G8R38J+P5"
+      },
+      "rating": 2.9,
+      "reference": "ChIJjWSlPc_1wokRc-glKaXfXiU",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 57,
+      "vicinity": "349 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8161082,
+          "lng": -73.918734
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81754798029149,
+            "lng": -73.91734451970851
+          },
+          "southwest": {
+            "lat": 40.81485001970849,
+            "lng": -73.92004248029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wilks Law Real Estate",
+      "permanently_closed": true,
+      "place_id": "ChIJsQlmSc_1wokRcWjQunjsKJE",
+      "plus_code": {
+        "compound_code": "R38J+CG The Bronx, NY, USA",
+        "global_code": "87G8R38J+CG"
+      },
+      "rating": 5,
+      "reference": "ChIJsQlmSc_1wokRcWjQunjsKJE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "370 East 149th Street #3, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8164223,
+          "lng": -73.91812039999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8176934802915,
+            "lng": -73.9168060697085
+          },
+          "southwest": {
+            "lat": 40.8149955197085,
+            "lng": -73.9195040302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Robert Locastro, DPM",
+      "place_id": "ChIJrZzry8j1wokRspA5Ba_acn0",
+      "plus_code": {
+        "compound_code": "R38J+HQ The Bronx, NY, USA",
+        "global_code": "87G8R38J+HQ"
+      },
+      "rating": 4,
+      "reference": "ChIJrZzry8j1wokRspA5Ba_acn0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "391 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817313,
+          "lng": -73.9213547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185580302915,
+            "lng": -73.9200526697085
+          },
+          "southwest": {
+            "lat": 40.8158600697085,
+            "lng": -73.9227506302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "New York Pawnbrokers \"The Biggest Pawnshop in the Bronx\"",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+          ],
+          "photo_reference": "AeJbb3c7K0FdcLuhWE1x_v5_L5AwKnQ6V5G64ZxVUOj1RuOer56Yq856SbOqPwr_geJ0Ulu9EXIkCh3FwPCaNu1RGJqCEvKhqwn_DtvEJw2BgO9sJdzZqJuUpVg-q4BV7YQsb1f_2G7tUUyJaV3qjaYDPPsP4sYWJ2pO5JlqTOeNDHZh87vx",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJw-_9p8_1wokR1pYXkTxDS6o",
+      "plus_code": {
+        "compound_code": "R38H+WF New York, NY, USA",
+        "global_code": "87G8R38H+WF"
+      },
+      "rating": 3.8,
+      "reference": "ChIJw-_9p8_1wokR1pYXkTxDS6o",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 221,
+      "vicinity": "301 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.816638,
+          "lng": -73.9177948
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8179562302915,
+            "lng": -73.9163213697085
+          },
+          "southwest": {
+            "lat": 40.8152582697085,
+            "lng": -73.91901933029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Cookie's Department Stores",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2824,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117768608905090782733\">anthony gopar</a>"
+          ],
+          "photo_reference": "AeJbb3eGsSHVze4JidtgBlwhCejNIhew8uVsA6ug3YPzuGPIw_8AGFYgRnQX8bYGaoxZPSJq9_oTSZclT9rGpYi5VXEU3qfWbfElUWLpRU50HBxr-Uc95XQIe55wB3E0ITRSTTZVGU7oXRkGssOjohPJkVO24nJzCtzbIkUO1Vbb4cEACAeQ",
+          "width": 3654
+        }
+      ],
+      "place_id": "ChIJP9Lrt8j1wokR9Ng7_Kh1yk4",
+      "plus_code": {
+        "compound_code": "R38J+MV New York, NY, USA",
+        "global_code": "87G8R38J+MV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJP9Lrt8j1wokR9Ng7_Kh1yk4",
+      "scope": "GOOGLE",
+      "types": [
+        "department_store",
+        "furniture_store",
+        "home_goods_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1270,
+      "vicinity": "567 Melrose Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8160816,
+          "lng": -73.9183535
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8174896802915,
+            "lng": -73.91697816970849
+          },
+          "southwest": {
+            "lat": 40.8147917197085,
+            "lng": -73.91967613029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "New Era Employment Services Inc",
+      "place_id": "ChIJAbzMtMj1wokRlqbYdlFuOto",
+      "plus_code": {
+        "compound_code": "R38J+CM The Bronx, NY, USA",
+        "global_code": "87G8R38J+CM"
+      },
+      "rating": 5,
+      "reference": "ChIJAbzMtMj1wokRlqbYdlFuOto",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "384 East 149th Street #320, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8190242,
+          "lng": -73.9274324
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8203339302915,
+            "lng": -73.9259739697085
+          },
+          "southwest": {
+            "lat": 40.8176359697085,
+            "lng": -73.9286719302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "PostNet",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103390199756002664179\">PostNet</a>"
+          ],
+          "photo_reference": "AeJbb3eTefQyKqfquvS_oH_Aai4WpkLpM3Crf3A3_FYKRI2WtFn-BXQiHhGyqAza9k2TEPf3m3Y8DI0IHGlh74L6CuIFVsOrdYi-Yvi8YtOgpJaHpHnrRafAnn799WsLUTY-l93GKjVaAxiL9ScPYjUJ3sS1FObsvnUPcHQzNAPqyrRHNew0",
+          "width": 1365
+        }
+      ],
+      "place_id": "ChIJQcIjAdH1wokRYhDuotA5gDU",
+      "plus_code": {
+        "compound_code": "R39F+J2 New York, NY, USA",
+        "global_code": "87G8R39F+J2"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJQcIjAdH1wokRYhDuotA5gDU",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 115,
+      "vicinity": "557 Grand Concourse Ste 3, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8183333,
+          "lng": -73.9177778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8197601302915,
+            "lng": -73.91644146970849
+          },
+          "southwest": {
+            "lat": 40.8170621697085,
+            "lng": -73.91913943029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "East 152nd Street",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107710908804180620542\">Angela Rivera</a>"
+          ],
+          "photo_reference": "AeJbb3eVnH5hhODTlLMPG1rnkNo0DIUUzng37EDFM1zFbeqBtkjFxBwI9hTVoAkVRtik4DDeU9MhKYFwNvdq4gQnGT2w8lKyePe1Vt8zS-nzuDNYFvcfM4uNCP2OSo9RYeP-k5QJ3qwAichrl2MOOZ6VEk5zm4Fs3PErN_h8e_bqwYiIy8RJ",
+          "width": 1836
+        }
+      ],
+      "place_id": "ChIJJbmEHbf1wokR-n5tjRipoQo",
+      "plus_code": {
+        "compound_code": "R39J+8V The Bronx, NY, USA",
+        "global_code": "87G8R39J+8V"
+      },
+      "rating": 3.4,
+      "reference": "ChIJJbmEHbf1wokR-n5tjRipoQo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "372 East 152nd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Harriet I. Jones, MD",
+      "place_id": "ChIJ56F418_1wokR-gYzmfxDRUs",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokR-gYzmfxDRUs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cole Helene a MD",
+      "place_id": "ChIJ56F418_1wokRuWzqfsbrfQc",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRuWzqfsbrfQc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Christian R. Gonzalez, MD",
+      "place_id": "ChIJ56F418_1wokRRIiHHzNueM4",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRRIiHHzNueM4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rangsiyakul Subha MD",
+      "place_id": "ChIJ56F418_1wokR3Uvl-N9x24I",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokR3Uvl-N9x24I",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8164988,
+          "lng": -73.9199325
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8179007802915,
+            "lng": -73.9185527697085
+          },
+          "southwest": {
+            "lat": 40.8152028197085,
+            "lng": -73.92125073029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Free Abortion Alternatives",
+      "place_id": "ChIJT4WsFc_1wokRNLi0YUKAJDI",
+      "plus_code": {
+        "compound_code": "R38J+H2 New York, NY, USA",
+        "global_code": "87G8R38J+H2"
+      },
+      "rating": 4.4,
+      "reference": "ChIJT4WsFc_1wokRNLi0YUKAJDI",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 165,
+      "vicinity": "344 East 149th Street 2nd floor, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8194431,
+          "lng": -73.92722049999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8207683802915,
+            "lng": -73.9257613197085
+          },
+          "southwest": {
+            "lat": 40.8180704197085,
+            "lng": -73.9284592802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Giovanni's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116993096890774455089\">Brittany Holland</a>"
+          ],
+          "photo_reference": "AeJbb3cIcb9WNsKScj2vGiB5PE_i0SwUouV5xqFg7WduQXjp70P6dkZmdBURBeQJEjAvMSATAQ6rO38M_DyUIWp6sjFK1HpOPZ78NZFPe2C82jzaoYN0Ixg6CVJC6N1EFv_wHrmKSZUWagOo5TGLjW5jPMUaYpHGMrNTBJjT6jim_4IIuC4L",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJZdK7p9H1wokRXtG1oueAShI",
+      "plus_code": {
+        "compound_code": "R39F+Q4 The Bronx, NY, USA",
+        "global_code": "87G8R39F+Q4"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJZdK7p9H1wokRXtG1oueAShI",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1529,
+      "vicinity": "579 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Abdul S. Mondul, MD",
+      "place_id": "ChIJ56F418_1wokR68WkATZlhJ0",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokR68WkATZlhJ0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8159683,
+          "lng": -73.9205374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81735193029151,
+            "lng": -73.91917286970849
+          },
+          "southwest": {
+            "lat": 40.81465396970851,
+            "lng": -73.92187083029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Anita Jose, PHD",
+      "place_id": "ChIJr0n8b8_1wokR-tBEKsKjHUM",
+      "plus_code": {
+        "compound_code": "R38H+9Q New York, NY, USA",
+        "global_code": "87G8R38H+9Q"
+      },
+      "reference": "ChIJr0n8b8_1wokR-tBEKsKjHUM",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "334 East 148th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8166614,
+          "lng": -73.92056269999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81806373029151,
+            "lng": -73.91918966970849
+          },
+          "southwest": {
+            "lat": 40.81536576970851,
+            "lng": -73.92188763029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "St Barnabas Southern Med Center",
+      "place_id": "ChIJs8B9Es_1wokRHGRiWfXmvRw",
+      "plus_code": {
+        "compound_code": "R38H+MQ The Bronx, NY, USA",
+        "global_code": "87G8R38H+MQ"
+      },
+      "rating": 3,
+      "reference": "ChIJs8B9Es_1wokRHGRiWfXmvRw",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "326 East 149th Street #8, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pierre Antonio MD",
+      "place_id": "ChIJ56F418_1wokRtBV7NIM3BPs",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRtBV7NIM3BPs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8172575,
+          "lng": -73.92328309999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8184607802915,
+            "lng": -73.92196496970848
+          },
+          "southwest": {
+            "lat": 40.8157628197085,
+            "lng": -73.9246629302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Lincoln Hospital-Cardio Clinic",
+      "place_id": "ChIJ56F418_1wokR9U8NZrQDhiA",
+      "plus_code": {
+        "compound_code": "R38G+WM The Bronx, NY, USA",
+        "global_code": "87G8R38G+WM"
+      },
+      "rating": 3.3,
+      "reference": "ChIJ56F418_1wokR9U8NZrQDhiA",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8171495,
+          "lng": -73.92421499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8184067802915,
+            "lng": -73.9223958197085
+          },
+          "southwest": {
+            "lat": 40.8157088197085,
+            "lng": -73.9250937802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Prosper, Gerard, MD",
+      "place_id": "ChIJ56F418_1wokR9mfDPs2fiLM",
+      "plus_code": {
+        "compound_code": "R38G+V8 The Bronx, NY, USA",
+        "global_code": "87G8R38G+V8"
+      },
+      "rating": 5,
+      "reference": "ChIJ56F418_1wokR9mfDPs2fiLM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81689049999999,
+          "lng": -73.9244406
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182875302915,
+            "lng": -73.92250861970848
+          },
+          "southwest": {
+            "lat": 40.8155895697085,
+            "lng": -73.9252065802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lincoln Hospital Pediatrics Department",
+      "place_id": "ChIJ56F418_1wokRrfTZ1mfZN4g",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "rating": 3,
+      "reference": "ChIJ56F418_1wokRrfTZ1mfZN4g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8160855,
+          "lng": -73.9247762
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8172404302915,
+            "lng": -73.9235230197085
+          },
+          "southwest": {
+            "lat": 40.8145424697085,
+            "lng": -73.9262209802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "GVS @ Lincoln Medical Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ56F418_1wokRxq12iAQpacQ",
+      "plus_code": {
+        "compound_code": "R38G+C3 New York, NY, USA",
+        "global_code": "87G8R38G+C3"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ56F418_1wokRxq12iAQpacQ",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "234 East 149th Street RM 2-A3, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Downtown Bronx Medical Assocs",
+      "place_id": "ChIJ56F418_1wokRCGwMlqSzYjo",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRCGwMlqSzYjo",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lincoln Medical & Mental Health: Shah Amish M MD",
+      "place_id": "ChIJ56F418_1wokRv6vhJOlaejU",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRv6vhJOlaejU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cassandra M. Clay, PA",
+      "place_id": "ChIJ56F418_1wokRGw5SZk3AsR0",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRGw5SZk3AsR0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Marilyn P. Guerrero, MD",
+      "place_id": "ChIJ56F418_1wokRKi9hcHspj40",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRKi9hcHspj40",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Katherine D. Schoyer, MD",
+      "place_id": "ChIJ56F418_1wokRYEz-xr53-Iw",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRYEz-xr53-Iw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817374,
+          "lng": -73.9240962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185190302915,
+            "lng": -73.9223364197085
+          },
+          "southwest": {
+            "lat": 40.81582106970851,
+            "lng": -73.9250343802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Espejo Maria T MD",
+      "place_id": "ChIJ56F418_1wokRzL26zx_PkAM",
+      "plus_code": {
+        "compound_code": "R38G+W9 The Bronx, NY, USA",
+        "global_code": "87G8R38G+W9"
+      },
+      "reference": "ChIJ56F418_1wokRzL26zx_PkAM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    }
+  ],
+  "status": "OK"
+}

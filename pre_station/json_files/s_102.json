@@ -1,0 +1,2774 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3eM-j6MDOIq2qct_Q-4ATSjs5nuMUxN5cDAEa3mJ0fP1y7gng7T1fs0NhTiHgCoXpIXo_AtwoXMfidWmRbUJuxLQHq_De7rvJvjmwc3xDEO1pgKywmWB0FrHCG02EoPkcAWEmqs5i0D-khL6NTpUzs1VlPuc5zMDz2cQ_7kU28xt3yI",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6927618,
+          "lng": -73.9457975
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69410593029149,
+            "lng": -73.94448946970851
+          },
+          "southwest": {
+            "lat": 40.69140796970849,
+            "lng": -73.94718743029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Vakb Apartments",
+      "place_id": "ChIJq3_s9vJbwokRH7igqZA9Jeo",
+      "plus_code": {
+        "compound_code": "M3V3+4M \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3V3+4M"
+      },
+      "reference": "ChIJq3_s9vJbwokRH7igqZA9Jeo",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Pulaski Street &, Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6953295,
+          "lng": -73.94771879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69678328029151,
+            "lng": -73.9463903197085
+          },
+          "southwest": {
+            "lat": 40.69408531970851,
+            "lng": -73.9490882802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SquareBuilt",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106377738135057260416\">Lance Mercado</a>"
+          ],
+          "photo_reference": "AeJbb3c8y6nnk2qGItqoJCCem7eO0QURAFcpkd5FgF_uJggZYbt1k9dBVi3laCLxAcaJz9bB3uGimsPG8TlpWe40GNELtth1c2ZCFY-atc51d-RgpJjRoCh5N7lzovADn79oZ1FVbB1W7oiA-X9jzWwtahG18RImD_7Ebf19Xtg_hg9FsSg6",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ6RH4APJbwokRU83z_5JIEZI",
+      "plus_code": {
+        "compound_code": "M3W2+4W \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3W2+4W"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ6RH4APJbwokRU83z_5JIEZI",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "868 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6980157,
+          "lng": -73.9477728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6992545802915,
+            "lng": -73.94640171970848
+          },
+          "southwest": {
+            "lat": 40.6965566197085,
+            "lng": -73.9490996802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Bed-Stuy Apartment",
+      "place_id": "ChIJq6p7Ku5bwokRUB9E7YteHmw",
+      "plus_code": {
+        "compound_code": "M3X2+6V \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M3X2+6V"
+      },
+      "reference": "ChIJq6p7Ku5bwokRUB9E7YteHmw",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "697 Park Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6938075,
+          "lng": -73.9410137
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69529988029149,
+            "lng": -73.9395625197085
+          },
+          "southwest": {
+            "lat": 40.69260191970849,
+            "lng": -73.94226048029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Young Scholars' Academy-Dscvry",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115562514863352898236\">nelsy Rodriguez</a>"
+          ],
+          "photo_reference": "AeJbb3dF1bZ-PmXgTgX_W23EBxujbtwjsryPamoRuZxdsH-QKOPgr2K0iy4YDTDzED9NQ2D2d3vkh_N-oD9mNdOfdLCofIzxybBC9_T4hK-1gYpsJQME9VjmJq7164WLkYBJBd-aMQg2ml9NEn0qOjzCUiqvsYKbYZ7DPeK7Dz-atqd611mz",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJF-AfDfRbwokRBrQAeJxVoZY",
+      "plus_code": {
+        "compound_code": "M3V5+GH \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3V5+GH"
+      },
+      "rating": 4.4,
+      "reference": "ChIJF-AfDfRbwokRBrQAeJxVoZY",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "280 Hart Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6961741,
+          "lng": -73.9461297
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69750578029151,
+            "lng": -73.9449443697085
+          },
+          "southwest": {
+            "lat": 40.69480781970851,
+            "lng": -73.9476423302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tompkins",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109203082045822623890\">ANTOINE BARKSDALE</a>"
+          ],
+          "photo_reference": "AeJbb3ef1vHQ6jqOqZoyAKZLa9zfI4rsy7i7xvJOddikJTr1j2QwLmVPMaCBSRBQlBYDjUqXyzfOLDX6kwWNmbGhtwCN91eDP6Wtq3qmj9S6kUsuC_UcwmBybuqmZneC7lbzwzghWipxJHvB3_Y8uvgdTQO7J8r7_qKt292LIQ4zndp122Ad",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJY_hg8_FbwokRufuR60fYa-w",
+      "plus_code": {
+        "compound_code": "M3W3+FG \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3W3+FG"
+      },
+      "rating": 5,
+      "reference": "ChIJY_hg8_FbwokRufuR60fYa-w",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "105 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6944681,
+          "lng": -73.94740689999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69562543029149,
+            "lng": -73.9460196197085
+          },
+          "southwest": {
+            "lat": 40.6929274697085,
+            "lng": -73.9487175802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Brooklyn Charter School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101881959053735035032\">Cesar Perez</a>"
+          ],
+          "photo_reference": "AeJbb3eaQQ3PrZ8QvCKfnrqtHkbtuY9RA4JbAWBHxKU4yXOP1Pi0avoM0Gx8pyy9-P56FR5uTCqP8v3BYxNfO_8Nj-VzfNSw6tdxQjUSk9lMXzcOoNn_5U24tHG1ZRKunboUX4GWPQE3xnE3Zo-B_QNJnSN3TrmfQs0TvLQLd7MmL9toE7Dq",
+          "width": 486
+        }
+      ],
+      "place_id": "ChIJj2IscvJbwokRJB35qXb3sxI",
+      "plus_code": {
+        "compound_code": "M3V3+Q2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M3V3+Q2"
+      },
+      "rating": 4.1,
+      "reference": "ChIJj2IscvJbwokRJB35qXb3sxI",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "545 Willoughby Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6924941,
+          "lng": -73.9430268
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6937728302915,
+            "lng": -73.94166411970849
+          },
+          "southwest": {
+            "lat": 40.6910748697085,
+            "lng": -73.9443620802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "New Hardee",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115061838776673818706\">Lionel Ames</a>"
+          ],
+          "photo_reference": "AeJbb3djZyeTI96kKt1xrtpigUcKrS2QrOSFhqkDdM9xC6-kMPa5puAKutkqPEyl0r9GAfutestqBKuHdG861x10CsrgblghP6vbKx_iuulnzpaSTT3iEhTz1rH9L4nIKQPRGS57uQhCzCnJNYB3ymYGz2a8J2P2qIiSyfGnbzxZrlTj9ciU",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ21XFdfNbwokRhquJbNPv760",
+      "plus_code": {
+        "compound_code": "M3R4+XQ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M3R4+XQ"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJ21XFdfNbwokRhquJbNPv760",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 465,
+      "vicinity": "835 DeKalb Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69060820000001,
+          "lng": -73.94699469999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6918485802915,
+            "lng": -73.9456282697085
+          },
+          "southwest": {
+            "lat": 40.6891506197085,
+            "lng": -73.9483262302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "American Environmental Assessment & Solutions, Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1524,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106437013398905693796\">Antoinette AEASinc</a>"
+          ],
+          "photo_reference": "AeJbb3ejCeuglZrb2myK646CVK6nTt4eVf2jqmrEOElMm06FzeDbP-RuchZJOjVDL43E_h-e7faV-Q-BLIuLIeZrT-FTE_i5xC_qijCZebdiWhJFJgtYKSWJCqAEXoIwitgE0HGlpz0PZCdmpGlgiIWzQIt7dH8teonypuDM3Pz7O9yNam1l",
+          "width": 2667
+        }
+      ],
+      "place_id": "ChIJySKo0_JbwokRtuu1uK8U414",
+      "plus_code": {
+        "compound_code": "M3R3+66 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3R3+66"
+      },
+      "rating": 5,
+      "reference": "ChIJySKo0_JbwokRtuu1uK8U414",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "677 Lafayette Avenue 3rd floor, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6940078,
+          "lng": -73.9492363
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69528988029149,
+            "lng": -73.9478744197085
+          },
+          "southwest": {
+            "lat": 40.6925919197085,
+            "lng": -73.9505723802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "U Like",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113215481308302081514\">syed j.</a>"
+          ],
+          "photo_reference": "AeJbb3dleRJqq_6gDcnJfYL4ct28xcVdr3S5AUfzzCPpyhJ__18mOlWJ1tzpuLPzWwJNRdDH4THv4La_79GHXXznm8KOHnEeKnoVuXBZFybDxd-BRXVwcr9LXLbvxB5-wORURpKI5KPcP9X6sOuOByEHHt75veZi0YyjqbqvZaMdV98By2Iw",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJu8UjmO1bwokRme24D4lFxD0",
+      "plus_code": {
+        "compound_code": "M3V2+J8 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3V2+J8"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJu8UjmO1bwokRme24D4lFxD0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 93,
+      "vicinity": "602 Marcy Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.691992,
+          "lng": -73.9480193
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6932373302915,
+            "lng": -73.94664966970849
+          },
+          "southwest": {
+            "lat": 40.6905393697085,
+            "lng": -73.94934763029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mr. Davis MedTroop CPR",
+      "place_id": "ChIJgekVXu1bwokRK-WAgaCC70s",
+      "plus_code": {
+        "compound_code": "M3R2+QQ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M3R2+QQ"
+      },
+      "rating": 5,
+      "reference": "ChIJgekVXu1bwokRK-WAgaCC70s",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "699 DeKalb Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6957951,
+          "lng": -73.9446628
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69719578029149,
+            "lng": -73.94328736970849
+          },
+          "southwest": {
+            "lat": 40.6944978197085,
+            "lng": -73.9459853302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Smart Tax",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJdd-HgvFbwokRe_b8SG7n9TY",
+      "plus_code": {
+        "compound_code": "M3W4+84 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M3W4+84"
+      },
+      "rating": 4.8,
+      "reference": "ChIJdd-HgvFbwokRe_b8SG7n9TY",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "932 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6949274,
+          "lng": -73.951917
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6963428802915,
+            "lng": -73.9505178197085
+          },
+          "southwest": {
+            "lat": 40.6936449197085,
+            "lng": -73.9532157802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Our Children Leaders of Tomorrow",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114591904435767875950\">Ramon Sandoval</a>"
+          ],
+          "photo_reference": "AeJbb3dgYD2XvAZhPhP7h-HiRmpqtf0xDsc0ykXkNxQmAv8CuMzgbL1QmFhkovW1hD2ygB8QCCjlPxGaYVbJyumtj4W0Mrv3XMjvqE4GZIvoSP5VtzfCqFuwx4WwEc16XCRjNnraiqwHdIhNZvX75je7d4Ws-ja5Au-7drrwdIba36nX_6-6",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ6xNPauxbwokRCAEjwdW8MKM",
+      "plus_code": {
+        "compound_code": "M2VX+X6 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M2VX+X6"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ6xNPauxbwokRCAEjwdW8MKM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "756 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69442039999999,
+          "lng": -73.9425262
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6958744802915,
+            "lng": -73.9412187697085
+          },
+          "southwest": {
+            "lat": 40.6931765197085,
+            "lng": -73.9439167302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Little Tots Growth Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ05NU5fNbwokRcajRi7hYH58",
+      "plus_code": {
+        "compound_code": "M3V4+QX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M3V4+QX"
+      },
+      "reference": "ChIJ05NU5fNbwokRcajRi7hYH58",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "666 Willoughby Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6931953,
+          "lng": -73.946696
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6946465302915,
+            "lng": -73.9453672197085
+          },
+          "southwest": {
+            "lat": 40.6919485697085,
+            "lng": -73.94806518029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "American Heart Garden",
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108464042376670708325\">Johnny Rivera</a>"
+          ],
+          "photo_reference": "AeJbb3dcK58PdsxMNSs0_jr4aubcOYYPtiHtXUgwdUCURcHnr2xIDZJ8JpjBLN0yf7Y59FhZDArutTHOv-9thI8ki0jn91HrkAOLi5Jmg31UACjgddIVfdx1dhU9o3XRloYcvlCMwJ7IET3FiXCi-WDZPNJ8oti3obFuQF8QbYoKdA_mR1jY",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJXUpGYvJbwokR8PqAHsZ3xG8",
+      "plus_code": {
+        "compound_code": "M3V3+78 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3V3+78"
+      },
+      "rating": 5,
+      "reference": "ChIJXUpGYvJbwokR8PqAHsZ3xG8",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "118 Hart Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6924627,
+          "lng": -73.9466721
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6939139802915,
+            "lng": -73.94534371970849
+          },
+          "southwest": {
+            "lat": 40.6912160197085,
+            "lng": -73.94804168029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Attob, inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1050,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111119861024957809267\">Attob, inc.</a>"
+          ],
+          "photo_reference": "AeJbb3dK6pZjpyScmYXzHVeoYClUVTdTbYcyEAEsOLAQWYjFcwA6jyBw17qXuDxLG8VhIi2c1RpbbH-3wlknVc2eZR3A5ENfpS2n9nVfRAe0R918jpU_PihbeK5_E7715_RmUT3Ccf1uzcqkuqAmzU2ZKknMZ3-1C9ofO3ANMOXTUhA9YcGT",
+          "width": 1452
+        }
+      ],
+      "place_id": "ChIJNaHA7R5cwokR14j002Y6gGM",
+      "plus_code": {
+        "compound_code": "M3R3+X8 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3R3+X8"
+      },
+      "reference": "ChIJNaHA7R5cwokR14j002Y6gGM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "120 Pulaski Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6958328,
+          "lng": -73.9470048
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6970805802915,
+            "lng": -73.9456344197085
+          },
+          "southwest": {
+            "lat": 40.6943826197085,
+            "lng": -73.9483323802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Circle of Voices Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJVX7X9fFbwokRL2IEWNUZYVo",
+      "plus_code": {
+        "compound_code": "M3W3+85 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M3W3+85"
+      },
+      "rating": 5,
+      "reference": "ChIJVX7X9fFbwokRL2IEWNUZYVo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "891 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.69364349999999,
+          "lng": -73.9466872
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6948760302915,
+            "lng": -73.9453152197085
+          },
+          "southwest": {
+            "lat": 40.6921780697085,
+            "lng": -73.94801318029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "spatula creative food lab",
+      "permanently_closed": true,
+      "place_id": "ChIJz7oIZPJbwokRqM0U8Ra3e1Q",
+      "plus_code": {
+        "compound_code": "M3V3+F8 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3V3+F8"
+      },
+      "rating": 5,
+      "reference": "ChIJz7oIZPJbwokRqM0U8Ra3e1Q",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "119 Hart Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6920177,
+          "lng": -73.94427139999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69345823029149,
+            "lng": -73.94294141970849
+          },
+          "southwest": {
+            "lat": 40.6907602697085,
+            "lng": -73.94563938029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "fallon-photo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJc3o3BfNbwokRC5rCtiwHLeE",
+      "plus_code": {
+        "compound_code": "M3R4+R7 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M3R4+R7"
+      },
+      "rating": 2,
+      "reference": "ChIJc3o3BfNbwokRC5rCtiwHLeE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "796 DeKalb Avenue Apt.B8, Brooklyn"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.6781784,
+          "lng": -73.9441579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73944597129348,
+            "lng": -73.83336505117123
+          },
+          "southwest": {
+            "lat": 40.55104197967331,
+            "lng": -74.05662998413648
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u5e03\u9c81\u514b\u6797",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114417859579881743500\">Chengxiang Yuan</a>"
+          ],
+          "photo_reference": "AeJbb3eNKvU5Rnzou__ApLBgN3mVGhzKuqqNAvSX2u7NuP0ehox46vwcMkyh53G71VTXnuZ1uAuIBgmZ58li_Qg6PQX0q5I3v_qP30VS44B9gh7HYAtVzo9lcZPHylQZ5rQ1L6PfdRcqvqwlzTKIGkcR4nx_qkdTuVQhjtq_PxmcOTEbyy6t",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "reference": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "\u5e03\u9c81\u514b\u6797"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6941154,
+          "lng": -73.9463141
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6955072302915,
+            "lng": -73.94497371970849
+          },
+          "southwest": {
+            "lat": 40.6928092697085,
+            "lng": -73.94767168029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Feel Air Conditioning Inc",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103172509957488280628\">Feel Air Conditioning Inc</a>"
+          ],
+          "photo_reference": "AeJbb3eaxwlLMCyProgOedMzj1Jv0L06Gk1i9yGTQCWu7Xs02opzygWW6o5NmcVgAhULhRsKKOPbtl8LiCF4f8JOvA08_QYsuIl_xfQ06ZtlTsVrgFx2iHoTbJXh6Ukilh3WaswOqtaBJHydlEWNORdIhiJ79cm9FFDGygF5gQwb8TRv1pC1",
+          "width": 898
+        }
+      ],
+      "place_id": "ChIJ4cJYmPNbwokR-MB5jc7R3rU",
+      "plus_code": {
+        "compound_code": "M3V3+JF Brooklyn, NY, USA",
+        "global_code": "87G8M3V3+JF"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ4cJYmPNbwokR-MB5jc7R3rU",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "576 Willoughby Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6940707,
+          "lng": -73.9463051
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69543373029149,
+            "lng": -73.94483371970848
+          },
+          "southwest": {
+            "lat": 40.6927357697085,
+            "lng": -73.9475316802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Homeland Property Groups",
+      "permanently_closed": true,
+      "place_id": "ChIJIWPXQfJbwokRbhr2EdcuLfc",
+      "plus_code": {
+        "compound_code": "M3V3+JF New York, NY, USA",
+        "global_code": "87G8M3V3+JF"
+      },
+      "reference": "ChIJIWPXQfJbwokRbhr2EdcuLfc",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "148 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6940707,
+          "lng": -73.9463051
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69543373029149,
+            "lng": -73.94483371970848
+          },
+          "southwest": {
+            "lat": 40.6927357697085,
+            "lng": -73.9475316802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PARK SLOPE ASSOCIATES",
+      "place_id": "ChIJlbZqavJbwokR98RX53vBBcw",
+      "plus_code": {
+        "compound_code": "M3V3+JF New York, NY, USA",
+        "global_code": "87G8M3V3+JF"
+      },
+      "reference": "ChIJlbZqavJbwokR98RX53vBBcw",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "148 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6932743,
+          "lng": -73.9461063
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6946248802915,
+            "lng": -73.9446534697085
+          },
+          "southwest": {
+            "lat": 40.6919269197085,
+            "lng": -73.9473514302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "GSC",
+      "place_id": "ChIJOfElWfJbwokRS1eRBUzheIo",
+      "plus_code": {
+        "compound_code": "M3V3+8H New York, NY, USA",
+        "global_code": "87G8M3V3+8H"
+      },
+      "reference": "ChIJOfElWfJbwokRS1eRBUzheIo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "166 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6938249,
+          "lng": -73.945043
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6950639302915,
+            "lng": -73.9436720697085
+          },
+          "southwest": {
+            "lat": 40.6923659697085,
+            "lng": -73.9463700302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Anita Fuchs",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104517393299306494999\">Rigo Vargas</a>"
+          ],
+          "photo_reference": "AeJbb3dnCBG4si4ZvpqITp1GBPplnN5Jdj9KIe3Dr1BR_Rdj3Pq1afeSy4ACHcF3npGMMc9aNSR3zzzm5Xkx0cHhp04Xe5LVQ38JpvXhBi7hbpCK2X7MvgQqxNyjuj_WR3wjdqpZ1DZlDCIu0bmfdFG02UB2XmwL1YNsgJEvtWpL5nmxRYKY",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJ4U-OS_JbwokRPhSP0fxLYlQ",
+      "plus_code": {
+        "compound_code": "M3V3+GX Brooklyn, NY, USA",
+        "global_code": "87G8M3V3+GX"
+      },
+      "reference": "ChIJ4U-OS_JbwokRPhSP0fxLYlQ",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "157 Hart Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6953734,
+          "lng": -73.9464514
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6967322302915,
+            "lng": -73.94502851970849
+          },
+          "southwest": {
+            "lat": 40.6940342697085,
+            "lng": -73.9477264802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Western Union",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114205178960622899614\">Western Union</a>"
+          ],
+          "photo_reference": "AeJbb3fOHrDMRNlSDdZTI9LnDlpFgKXMUVGuEEdpIrsCM7Pfkw0UM-pmOLQ-yI7iJAG3avv-crJHhe7txeSiNKXflgD8KhtGtrr5UW3vHxIEV1G_G1r3YqKyhsjvQwkHQjwdcMefiNQ0IgVBcxAacQ75iX3tr3-gKlOadHGZq1KfQ15I-gPG",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJu9YBH_JbwokRQ72HYkZ_cCY",
+      "plus_code": {
+        "compound_code": "M3W3+4C Brooklyn, NY, USA",
+        "global_code": "87G8M3W3+4C"
+      },
+      "rating": 4.3,
+      "reference": "ChIJu9YBH_JbwokRQ72HYkZ_cCY",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Cfsc - Checks Cashed, 112 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69537109999999,
+          "lng": -73.9465043
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6967418302915,
+            "lng": -73.9450571197085
+          },
+          "southwest": {
+            "lat": 40.6940438697085,
+            "lng": -73.94775508029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "CFSC Checks Cashed Tompkins",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105831478459483747379\">CFSC Checks Cashed Tompkins</a>"
+          ],
+          "photo_reference": "AeJbb3eQhBR7xX9lt98TfW3E_VSGmlYrI_Uy9Wuov9oY7TdcyWcLF93ADKHtSZFx4EUgUBJHHn_ZYDVTSmlPenKsnLp77f1oQDETz1HwrIxRvif58vX8ws8n1ZL-NRKKNcVWxR-4QA629PLrAnGFAku_Mlt9HOG8jkrfBRGZieV69GloJNEl",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJfVuUH_JbwokRuJX9nUhF0wA",
+      "plus_code": {
+        "compound_code": "M3W3+49 New York, NY, USA",
+        "global_code": "87G8M3W3+49"
+      },
+      "rating": 2.2,
+      "reference": "ChIJfVuUH_JbwokRuJX9nUhF0wA",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "112 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.695603,
+          "lng": -73.945112
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6969438302915,
+            "lng": -73.94383831970848
+          },
+          "southwest": {
+            "lat": 40.6942458697085,
+            "lng": -73.9465362802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bridge",
+      "place_id": "ChIJRc9FgfFbwokR7bhNCL11nsQ",
+      "plus_code": {
+        "compound_code": "M3W3+6X Brooklyn, NY, USA",
+        "global_code": "87G8M3W3+6X"
+      },
+      "rating": 4.3,
+      "reference": "ChIJRc9FgfFbwokR7bhNCL11nsQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "920 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6941692,
+          "lng": -73.94842659999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6954152302915,
+            "lng": -73.94705691970849
+          },
+          "southwest": {
+            "lat": 40.6927172697085,
+            "lng": -73.9497548802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hakan Ertan - Visual Designer",
+      "place_id": "ChIJ42TZke1bwokRNX4zQ8ixWiw",
+      "plus_code": {
+        "compound_code": "M3V2+MJ Brooklyn, NY, USA",
+        "global_code": "87G8M3V2+MJ"
+      },
+      "reference": "ChIJ42TZke1bwokRNX4zQ8ixWiw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "521 Willoughby Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.695384,
+          "lng": -73.9445949
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6966186802915,
+            "lng": -73.9432230197085
+          },
+          "southwest": {
+            "lat": 40.6939207197085,
+            "lng": -73.9459209802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Boutique Productions, LLC",
+      "permanently_closed": true,
+      "place_id": "ChIJ-dpNfvFbwokRIDIImwmT4O8",
+      "plus_code": {
+        "compound_code": "M3W4+55 Brooklyn, NY, USA",
+        "global_code": "87G8M3W4+55"
+      },
+      "rating": 5,
+      "reference": "ChIJ-dpNfvFbwokRIDIImwmT4O8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "185 Vernon Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6938307,
+          "lng": -73.9485203
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6952368302915,
+            "lng": -73.94718281970849
+          },
+          "southwest": {
+            "lat": 40.6925388697085,
+            "lng": -73.9498807802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Willoughby General",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1066,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114033917269397048128\">Willoughby General</a>"
+          ],
+          "photo_reference": "AeJbb3ducBc101Mzcz-wsNlyUxMPZi7wvImLpNODUnKLS81OJX9TE5yNOA2Lz8uWHzqQV4VySDR8TbuNhRhUy_aoI-SNfIc6m18qGaYdLewOnHnTgmMwpaZSJIeLfn5JoReAZFQ9Rpqb-DAahXaDea9EjHvs0hA9UHdTeP5vd4UvfIaEH1ox",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJYXiDme1bwokRnLhsFj4h4gY",
+      "plus_code": {
+        "compound_code": "M3V2+GH New York, NY, USA",
+        "global_code": "87G8M3V2+GH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJYXiDme1bwokRnLhsFj4h4gY",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "cafe",
+        "store",
+        "health",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 60,
+      "vicinity": "518A Willoughby Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6957752,
+          "lng": -73.94477640000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69718008029151,
+            "lng": -73.94342521970849
+          },
+          "southwest": {
+            "lat": 40.69448211970851,
+            "lng": -73.94612318029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Liberty Tax",
+      "photos": [
+        {
+          "height": 417,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108033376526412979049\">Liberty Tax</a>"
+          ],
+          "photo_reference": "AeJbb3fULinOXyJBJrcB119Ho-0RbIqTCo12fh-sMEaqg6a-auQbHLgx66kwd5-4Agc4EYJgvlGGV0L2VH4b569Wc96LDgPEHglx-cplVE4NKldIYx-TGSv0siusAtnu5T9K9OJQDk4YgAiDDgjHNTBUqyGZIMBCd3ygXdlaLwuhgJb6pJh0",
+          "width": 417
+        }
+      ],
+      "place_id": "ChIJ9zz5ePFbwokR2C6x5ui7BB4",
+      "plus_code": {
+        "compound_code": "M3W4+83 New York, NY, USA",
+        "global_code": "87G8M3W4+83"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ9zz5ePFbwokR2C6x5ui7BB4",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "930 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6923485,
+          "lng": -73.9458874
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6937155302915,
+            "lng": -73.9444545697085
+          },
+          "southwest": {
+            "lat": 40.6910175697085,
+            "lng": -73.9471525302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "BKLYN Blend",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117755438538588367429\">Z Regal</a>"
+          ],
+          "photo_reference": "AeJbb3euutVGR06Fm4eDPUliwl-mVUK8YRH9IJKPwpnbWBiyXW8OsumRLzU8K0Vzqz_WLWdPdjhzQzB5Kyvxt0yx9CT8h5PayBRi7WLXT9y12mUkaj9gKEJFmF4eXomC9bwSmi3QPO24ZJoosbM_IQ6syxGJU10JqDCmEJBhbKWTafLqCD9u",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJd_XT8fJbwokRIRr2Y937e1E",
+      "plus_code": {
+        "compound_code": "M3R3+WJ Brooklyn, NY, USA",
+        "global_code": "87G8M3R3+WJ"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJd_XT8fJbwokRIRr2Y937e1E",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 799,
+      "vicinity": "194 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.692157,
+          "lng": -73.946568
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69340418029149,
+            "lng": -73.94518686970848
+          },
+          "southwest": {
+            "lat": 40.6907062197085,
+            "lng": -73.9478848302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "KIZMIT",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109480582101688344269\">KIZMIT</a>"
+          ],
+          "photo_reference": "AeJbb3ck9Q1jzbCTA_kBKauV038s3TUud8Nm8I8Gwr2b0FHuEdNNVWyjJ-rL0s1UYkIpYqhqrpSctN8Xg6zLO2zd3ODxcqWHhICJKXvQL9ZOiu4uhR4_sQJeC9h118J-_H6Eb-ZF1Ih_sS7yZZ2ITzA63FiC81xWPb4BQQoPz-XhUREJdhNn",
+          "width": 5760
+        }
+      ],
+      "place_id": "ChIJ5QD2k_JbwokR6Kwlbo-ORmE",
+      "plus_code": {
+        "compound_code": "M3R3+V9 Brooklyn, NY, USA",
+        "global_code": "87G8M3R3+V9"
+      },
+      "rating": 5,
+      "reference": "ChIJ5QD2k_JbwokR6Kwlbo-ORmE",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "743 DeKalb Avenue #1, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.695087,
+          "lng": -73.948978
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6964336302915,
+            "lng": -73.9477187197085
+          },
+          "southwest": {
+            "lat": 40.6937356697085,
+            "lng": -73.95041668029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Yossi Gee Studios",
+      "place_id": "ChIJtdB0EOtbwokR2V5PggYY3KU",
+      "plus_code": {
+        "compound_code": "M3W2+2C Brooklyn, NY, USA",
+        "global_code": "87G8M3W2+2C"
+      },
+      "rating": 5,
+      "reference": "ChIJtdB0EOtbwokR2V5PggYY3KU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "585 Marcy Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6941391,
+          "lng": -73.94918659999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6955021302915,
+            "lng": -73.94773251970848
+          },
+          "southwest": {
+            "lat": 40.6928041697085,
+            "lng": -73.95043048029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Wine-O",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117890597853518649545\">Wine-O</a>"
+          ],
+          "photo_reference": "AeJbb3c8Cye2ZF5Wk38QQ__bN5Am8fM2kc3RCQzikxb0yWHOn4rDpmTLsa8kBwtlyhyxaYcNVYEyY602rK0yQ5VEJnob7-oEZ9fVgCfJUFG4jmGR7KcMd-BYL2tGxosQDc9DyOYkMelTjOuyvETkSJN9mNwlaAk2uZQ-MHyzYlNVKyZoEALP",
+          "width": 2004
+        }
+      ],
+      "place_id": "ChIJ3RSiou1bwokRdx9sd2NDtEs",
+      "plus_code": {
+        "compound_code": "M3V2+M8 New York, NY, USA",
+        "global_code": "87G8M3V2+M8"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ3RSiou1bwokRdx9sd2NDtEs",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 46,
+      "vicinity": "602 Marcy Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.69208,
+          "lng": -73.947243
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69332543029149,
+            "lng": -73.9458761197085
+          },
+          "southwest": {
+            "lat": 40.6906274697085,
+            "lng": -73.94857408029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Extreme Achievers Team",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114631831330628408275\">Luz Ortiz</a>"
+          ],
+          "photo_reference": "AeJbb3co_4jzzs4s8DkolfAp-gmRyjwP55lSOjt_XSqzxmZL0v-ibszqWq63mSmeJU05M61Bmo2bBmCTl32uzx-6fgN1Iv0wXMabtSS963SzGVNr-fBw3fI_FkBN6XrWuqKFbLt65Q7EOvO-B1ec3cmLDfWytCU-NEQhmvEiAZAagHA9jZhc",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ29n6E5RbwokRX7lKem4tbKk",
+      "plus_code": {
+        "compound_code": "M3R3+R4 Brooklyn, NY, USA",
+        "global_code": "87G8M3R3+R4"
+      },
+      "reference": "ChIJ29n6E5RbwokRX7lKem4tbKk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "721 DeKalb Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6926789,
+          "lng": -73.9485253
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6940163302915,
+            "lng": -73.94725361970849
+          },
+          "southwest": {
+            "lat": 40.6913183697085,
+            "lng": -73.94995158029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Lucky's Wine & Spirits",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101378040042700016306\">Roberto Viajero Vlogs</a>"
+          ],
+          "photo_reference": "AeJbb3cbhpaK5sv17CUgENR4YKGNBJMSYsacD3kTSNrdwo4y-7E4vhkVx36Adtv3BIddpFVnYUjgDv7UPUVywdPW98SlMpIOvtlszlntOTOhZJCv1uxhAb28OCo1ejmvORyK-guwJbr5G52IQrvB04Yg4eoFCSgHtHjA2IzM_dFyKoAFjQdF",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJSecTZe1bwokRxHuIR6v13Pg",
+      "plus_code": {
+        "compound_code": "M3V2+3H New York, NY, USA",
+        "global_code": "87G8M3V2+3H"
+      },
+      "rating": 3.9,
+      "reference": "ChIJSecTZe1bwokRxHuIR6v13Pg",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 42,
+      "vicinity": "641 Marcy Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6922484,
+          "lng": -73.9447613
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6935491302915,
+            "lng": -73.9435566697085
+          },
+          "southwest": {
+            "lat": 40.6908511697085,
+            "lng": -73.9462546302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Atrium",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112701754252129717527\">Chris Grundemann</a>"
+          ],
+          "photo_reference": "AeJbb3exmeAljfJEzqDqIPd3tBPs8XLyU5CW22mO3ZJF254MlCBNP4RYMcA8mcpdSwoSfV6TYiCbmecGpxJtFDvYm3T4oug7nwnEcpsDLc2Ops5W-I8bDmHLxLpncft3Dw2m2GjF93gG8gtEqF_-l11TGMBQpaX002VLCUYPx8T9xYQNDaEb",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJGYdHHfNbwokR5c2kWH6DArQ",
+      "plus_code": {
+        "compound_code": "M3R4+V3 Brooklyn, NY, USA",
+        "global_code": "87G8M3R4+V3"
+      },
+      "rating": 3.7,
+      "reference": "ChIJGYdHHfNbwokR5c2kWH6DArQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "785 DeKalb Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.691561,
+          "lng": -73.948145
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6930089302915,
+            "lng": -73.94682561970849
+          },
+          "southwest": {
+            "lat": 40.6903109697085,
+            "lng": -73.9495235802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Carey Kirkella Photography",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1278,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100010912024708821439\">Carey Kirkella Photography</a>"
+          ],
+          "photo_reference": "AeJbb3c_PVB1kL8KvhocOwl_AHQ65LI4LQYnhM-a0tsvD7Zod_PQn9c4scVFE2XahaxnGhHAFDfmd5BxTuP0zIiXt0hxmLh5PibMTKc3_em0s7kkE5AzVRVsXK3Dcgfh19qC0Q0RIz4ehLits_FQ4QBc3gjpJVeF6Uq5jud4KmehWiSow5wh",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJOxklWu1bwokR_9_NWreIZIM",
+      "plus_code": {
+        "compound_code": "M3R2+JP New York, NY, USA",
+        "global_code": "87G8M3R2+JP"
+      },
+      "reference": "ChIJOxklWu1bwokR_9_NWreIZIM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "700 DeKalb Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69662199999999,
+          "lng": -73.9472359
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6982185802915,
+            "lng": -73.94584426970849
+          },
+          "southwest": {
+            "lat": 40.6955206197085,
+            "lng": -73.9485422302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Success Academy Bed-Stuy Middle School",
+      "place_id": "ChIJ_2XZ5vFbwokROYrLksYRCWQ",
+      "plus_code": {
+        "compound_code": "M3W3+J4 New York, NY, USA",
+        "global_code": "87G8M3W3+J4"
+      },
+      "rating": 3.3,
+      "reference": "ChIJ_2XZ5vFbwokROYrLksYRCWQ",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 55,
+      "vicinity": "70 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69483109999999,
+          "lng": -73.9430958
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69605483029149,
+            "lng": -73.9417218697085
+          },
+          "southwest": {
+            "lat": 40.6933568697085,
+            "lng": -73.94441983029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Tranquility Farm",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109099499625139212566\">Alexander Munoz</a>"
+          ],
+          "photo_reference": "AeJbb3ca2zsD0A4xgDxr-ok2CLn1LMZHQ6mKqov0KUldXxwJHeh8Fv3srQmTLcMWeGFWBDNXB4GnQP0aKVWKmU_ZlZG98NkARKXQFSXsgsVmczTx1BWptdtHjYFR7E-G5H7Q8vxpEhpcdMBYy6W_expYJ7W60rfUPTQldELhvlwwRJSI863a",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJlVvU5vNbwokRa_l_32cBsck",
+      "plus_code": {
+        "compound_code": "M3V4+WQ Brooklyn, NY, USA",
+        "global_code": "87G8M3V4+WQ"
+      },
+      "rating": 4.8,
+      "reference": "ChIJlVvU5vNbwokRa_l_32cBsck",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "659 Willoughby Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6952398,
+          "lng": -73.9493421
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6966040802915,
+            "lng": -73.94792121970849
+          },
+          "southwest": {
+            "lat": 40.6939061197085,
+            "lng": -73.95061918029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Marcy & Myrtle",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112415187949974550226\">Meir T</a>"
+          ],
+          "photo_reference": "AeJbb3caCUeLPbBS4GXM314VOVHseab0eYoWwV4XR1Wf_6e2ebMm4uvDuPAgVEmgBavQEIE7VC02QMVeQUNbdnaTXN9sLJnChs632rPmcKQ3hROsn-5CFspRNDaPjXSmQRzd35wL7w26r58pwyJ47h3s3FsUOhwgLdBFWr-q72gtkD-ok1ip",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ98Xc6e1bwokRQz2oRvqG7C0",
+      "plus_code": {
+        "compound_code": "M3W2+37 Brooklyn, NY, USA",
+        "global_code": "87G8M3W2+37"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJ98Xc6e1bwokRQz2oRvqG7C0",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bakery",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 335,
+      "vicinity": "574 Marcy Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6916776,
+          "lng": -73.9440187
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69292473029149,
+            "lng": -73.9426495197085
+          },
+          "southwest": {
+            "lat": 40.6902267697085,
+            "lng": -73.9453474802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Providence House Inc",
+      "place_id": "ChIJ67rhF_NbwokRGUFYVcej1qA",
+      "plus_code": {
+        "compound_code": "M3R4+M9 Brooklyn, NY, USA",
+        "global_code": "87G8M3R4+M9"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ67rhF_NbwokRGUFYVcej1qA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "275 Kosciuszko Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69519019999999,
+          "lng": -73.949444
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69661848029149,
+            "lng": -73.94808181970848
+          },
+          "southwest": {
+            "lat": 40.69392051970849,
+            "lng": -73.9507797802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Crown Fried Chicken",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101081198675823776336\">Pablo Ort\u00fazar K.</a>"
+          ],
+          "photo_reference": "AeJbb3c6vIXjcArtBYVXmXXQ5t0LZwu1WP0nIO9nM6IsxXZohrVtgmm7KbRo5yFk9l-g4J6oBnlsao2WLrs38LiYK5RdJDrvz9lnyPIQXaqhiDvZ9ONT1b1AfnR_KOj32TapmsODDewp-NU_hkFsftILiyCNtjVOl-5jTwSRtayfkoAz1sze",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJqY2nw-1bwokR_Piokxqo1QA",
+      "plus_code": {
+        "compound_code": "M3W2+36 New York, NY, USA",
+        "global_code": "87G8M3W2+36"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJqY2nw-1bwokR_Piokxqo1QA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 81,
+      "vicinity": "822 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6951026,
+          "lng": -73.9496073
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6965627802915,
+            "lng": -73.94827496970849
+          },
+          "southwest": {
+            "lat": 40.69386481970851,
+            "lng": -73.9509729302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SmartPix Photography Studio",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1180,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100569586098852735164\">SmartPix Photography Studio</a>"
+          ],
+          "photo_reference": "AeJbb3d44LKCjzMYFR_hdHZNohTQIzR73pPDMHjJnW24TFi4dKjP8ZBVM7dV5ySGDOa1VufPHUZAGAwHwy2go5yuufUORHPiBDb7AtzfTXNwU2KxlMuuKauOy6A8hf6V9wpPoaBFumb__lCg6BAgY7XXzMIZ9B0HHIxBwj67E3kZIVpYQv1s",
+          "width": 1770
+        }
+      ],
+      "place_id": "ChIJk6l45upbwokRMS7SC1XAlhQ",
+      "plus_code": {
+        "compound_code": "M3W2+25 New York, NY, USA",
+        "global_code": "87G8M3W2+25"
+      },
+      "rating": 5,
+      "reference": "ChIJk6l45upbwokRMS7SC1XAlhQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "816 Myrtle Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6968241,
+          "lng": -73.9473055
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69831963029151,
+            "lng": -73.9458790697085
+          },
+          "southwest": {
+            "lat": 40.69562166970851,
+            "lng": -73.9485770302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Intermediate School 33",
+      "place_id": "ChIJiUdH5_FbwokRXBG_KPs-gkw",
+      "plus_code": {
+        "compound_code": "M3W3+P3 New York, NY, USA",
+        "global_code": "87G8M3W3+P3"
+      },
+      "reference": "ChIJiUdH5_FbwokRXBG_KPs-gkw",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "70 Tompkins Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6924295,
+          "lng": -73.943581
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6937085302915,
+            "lng": -73.94221156970848
+          },
+          "southwest": {
+            "lat": 40.6910105697085,
+            "lng": -73.9449095302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Habitat821",
+      "photos": [
+        {
+          "height": 1123,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100169003496109856949\">Habitat821</a>"
+          ],
+          "photo_reference": "AeJbb3fgSc5AK-pwBaO5JsEdxWEtNzcZnE3LYG6wvh6-A97T9hpxScHTkFNmMEUm72IXZZ_82lHppb1fKinWE11Tx3mMIWcNJxqM2H36Tx_I-SWGQebMxx6tUcZPbYoQoBesNRehaNOov_w4LWErT39MhLL7kqJ2jgSNl7o0GKRdIR9maDTy",
+          "width": 1685
+        }
+      ],
+      "place_id": "ChIJe86TC_NbwokRwhIWrtQoKVM",
+      "plus_code": {
+        "compound_code": "M3R4+XH Brooklyn, NY, USA",
+        "global_code": "87G8M3R4+XH"
+      },
+      "reference": "ChIJe86TC_NbwokRwhIWrtQoKVM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "817-821 DeKalb Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6947094,
+          "lng": -73.95011319999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6959643802915,
+            "lng": -73.9487454697085
+          },
+          "southwest": {
+            "lat": 40.6932664197085,
+            "lng": -73.9514434302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Fizzix Productions Music + Sound",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117923006707080668600\">Fizzix Productions Music + Sound</a>"
+          ],
+          "photo_reference": "AeJbb3da6n9P70GO6EwuKcDii0ftr6L-B1-b1s5OOsJo9VJlcN0kJGdH_xZoqfgXfp9lQueGBLZaLymhh2fGp0wMPfkwIn0rQjYSWt5H7eY_VcfjM2cKDguJRbpmu1RZ8d3RNWa4VrQOsDoOrN5Lp9r0jsloD5H2SdmvkqQE7kAci9KHjOPM",
+          "width": 3888
+        }
+      ],
+      "place_id": "ChIJGd9Ftu1bwokRTTbPflBAdJU",
+      "plus_code": {
+        "compound_code": "M2VX+VX Brooklyn, NY, USA",
+        "global_code": "87G8M2VX+VX"
+      },
+      "reference": "ChIJGd9Ftu1bwokRTTbPflBAdJU",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "point_of_interest",
+        "home_goods_store",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "49 Vernon Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6932382,
+          "lng": -73.9426345
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69453393029149,
+            "lng": -73.9413864197085
+          },
+          "southwest": {
+            "lat": 40.69183596970849,
+            "lng": -73.9440843802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Night Kitchen Catering",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104185481977798544297\">Kiera Nagle</a>"
+          ],
+          "photo_reference": "AeJbb3ddix9v32tAR0hkS9ZAOr03t2nCCgOAHeVuv_Wu4I8IMUyJfgNsqHTd_B3OTU887zmSUx1eNEg0uJhotHaI7065tHise4-XXV_R_soyfONXmFHP5mUAHt8BhIt-rXUrcnJxMuz39E978SK9ofFDmnzdFltkOH1EF81KJ3rl5jLDv1V9",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJI79szAlbwokRzxP7E7VulTQ",
+      "plus_code": {
+        "compound_code": "M3V4+7W New York, NY, USA",
+        "global_code": "87G8M3V4+7W"
+      },
+      "rating": 4.8,
+      "reference": "ChIJI79szAlbwokRzxP7E7VulTQ",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "217 Pulaski Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69323689999999,
+          "lng": -73.9426332
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69453333029149,
+            "lng": -73.9413859197085
+          },
+          "southwest": {
+            "lat": 40.69183536970849,
+            "lng": -73.9440838802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kurent Events",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111083807679129305803\">Kurent Events</a>"
+          ],
+          "photo_reference": "AeJbb3eHtlkqMyzbftHop6TDYR3pka8Z0FLepEGlsTnQbte5yQIeG_7iF3HfwnLix-TIWjjbOMfWc0Ev964XoC2uSqE21cWb6HAExUNZZIIuJtgqFuIaCPum03JgdtFOwv-N1rbI3hhDTiyW3VWbUu5MIElfwGqRmSNWJXuIP2CTR1xHqvFB",
+          "width": 1632
+        }
+      ],
+      "place_id": "ChIJ4UDfj_NbwokRvVgVhfwAMHU",
+      "plus_code": {
+        "compound_code": "M3V4+7W New York, NY, USA",
+        "global_code": "87G8M3V4+7W"
+      },
+      "rating": 5,
+      "reference": "ChIJ4UDfj_NbwokRvVgVhfwAMHU",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "217 Pulaski Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6926576,
+          "lng": -73.94300559999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6940140302915,
+            "lng": -73.94158956970848
+          },
+          "southwest": {
+            "lat": 40.6913160697085,
+            "lng": -73.9442875302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Throop Avenue Wine & Liquor",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112718181325752538510\">Boris Yush</a>"
+          ],
+          "photo_reference": "AeJbb3dmuOAgag4ALS9xZPuDnwP_-hie9seogCyA4P0G0t_JBs8_r9uskTnaqCMXe0D2xK-vyIZt-vpgZpaxfBD9PqPKJGoOuWgqWdM_wRjJUaVfiJBqrBLbjZDbTszmAtQMbKy8P4QW4VYbFMnnGtS6BeP-iIKdKPponbghrV_ptml74Pvz",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ568LnvNbwokRtLl8-jQc-l4",
+      "plus_code": {
+        "compound_code": "M3V4+3Q New York, NY, USA",
+        "global_code": "87G8M3V4+3Q"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ568LnvNbwokRtLl8-jQc-l4",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 55,
+      "vicinity": "342 Throop Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.692485,
+          "lng": -73.943112
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6937649802915,
+            "lng": -73.9417361197085
+          },
+          "southwest": {
+            "lat": 40.69106701970851,
+            "lng": -73.9444340802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Petisco Brazuca",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4003,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115275162375272692778\">Petisco Brazuca</a>"
+          ],
+          "photo_reference": "AeJbb3dZ2wAjwRM60Qf6KnxNMsIbrlk2BfkTcFdVCBDN3KjPmuglyIaFs5vlP1XCLRjWx1jE4_tFyagPG05-aAkXf9WVGkxObLarVyrt2bARw0EOnH-3oKRJX7215HSA-ToT0ICj7ywHO1gp5eHSY20ihiKS5QKXHKLPhLs-XimDVh2Ev-ws",
+          "width": 5996
+        }
+      ],
+      "place_id": "ChIJoQ7arAL2wokRsbwV6Aafweo",
+      "plus_code": {
+        "compound_code": "M3R4+XQ Brooklyn, NY, USA",
+        "global_code": "87G8M3R4+XQ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJoQ7arAL2wokRsbwV6Aafweo",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 124,
+      "vicinity": "833 DeKalb Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69269619999999,
+          "lng": -73.9428734
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6940405302915,
+            "lng": -73.9415668697085
+          },
+          "southwest": {
+            "lat": 40.6913425697085,
+            "lng": -73.9442648302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Golden Harvest Garden",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115458982000585030848\">David Kempton</a>"
+          ],
+          "photo_reference": "AeJbb3cj10kXFUxBVdCnkPNue3Z1LNpcwcdhjC6U0wiLAN5mUFzz3edWnmYyWVxBu1diN4OshcMWPhZQ3vouXhGQu6U5To3cJKzDvS2RBLN0xAlN1tA3uLYG85O5mY1oUMGLx0KFcKAlhr2cT5tWytsRjYPyzOe7vtH2KTAcuFtSAle_VB7a",
+          "width": 2340
+        }
+      ],
+      "place_id": "ChIJGQ7KnfNbwokRF2Qo-03ALzk",
+      "plus_code": {
+        "compound_code": "M3V4+3V Brooklyn, NY, USA",
+        "global_code": "87G8M3V4+3V"
+      },
+      "rating": 4,
+      "reference": "ChIJGQ7KnfNbwokRF2Qo-03ALzk",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "338 Throop Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.696483,
+          "lng": -73.9492522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6978206802915,
+            "lng": -73.9479900697085
+          },
+          "southwest": {
+            "lat": 40.6951227197085,
+            "lng": -73.9506880302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Bitcoin ATM by CoinBTM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 363,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100255842606583334685\">Bitcoin ATM by CoinBTM</a>"
+          ],
+          "photo_reference": "AeJbb3cFa_aQBdMueCDGRmLujUzXQIfFvfytoqpdJm3Sw2XdJqIb7hYnHeaK_A00i4yywWcibj1ftCodkeXuIht0xRpu6c8ANynsPk8UGCIuv4vEbup9B5CFUumzVnyUsUAe_Uyrdog-VDefkWHN1MqbsEnG_xjRRML0DCJoobnauRmKUlx_",
+          "width": 645
+        }
+      ],
+      "place_id": "ChIJXZ41De5bwokRGEAeywGIUK0",
+      "plus_code": {
+        "compound_code": "M3W2+H7 Brooklyn, NY, USA",
+        "global_code": "87G8M3W2+H7"
+      },
+      "reference": "ChIJXZ41De5bwokRGEAeywGIUK0",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "545 Marcy Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.692919,
+          "lng": -73.94239
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6943831802915,
+            "lng": -73.9410637197085
+          },
+          "southwest": {
+            "lat": 40.6916852197085,
+            "lng": -73.9437616802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Overcoming Love Ministries",
+      "place_id": "ChIJczZXhPNbwokRf7j4vMMKmiI",
+      "plus_code": {
+        "compound_code": "M3V5+52 Brooklyn, NY, USA",
+        "global_code": "87G8M3V5+52"
+      },
+      "reference": "ChIJczZXhPNbwokRf7j4vMMKmiI",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "228 Pulaski Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6930306,
+          "lng": -73.9501672
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69438703029149,
+            "lng": -73.9488197197085
+          },
+          "southwest": {
+            "lat": 40.6916890697085,
+            "lng": -73.95151768029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Papo Pest Control",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106904047207867012796\">Papo Pest Control</a>"
+          ],
+          "photo_reference": "AeJbb3f3NX6ErXkI2uHX1tyPbDx2bvUCHGg9DURtfrm_jSwvMP02V6xdjmp_60VOvNJwqdjvHHxVtIgWhFwxaIv_YdSW137u4caHREIAb89P1Of1TVCvzt1HQKiNApEtiGjCITTJTdV_JLtXo6tsB6OB4RVpQJ48IVx8J3YepUhjao0c2_p1",
+          "width": 3240
+        }
+      ],
+      "place_id": "ChIJW_qxgfJbwokRR2zOBrZNFx8",
+      "plus_code": {
+        "compound_code": "M2VX+6W Brooklyn, NY, USA",
+        "global_code": "87G8M2VX+6W"
+      },
+      "rating": 2,
+      "reference": "ChIJW_qxgfJbwokRR2zOBrZNFx8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "home_goods_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "100 Hart Street #2b, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69220900000001,
+          "lng": -73.9429468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6936307802915,
+            "lng": -73.94161121970849
+          },
+          "southwest": {
+            "lat": 40.6909328197085,
+            "lng": -73.94430918029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brooklyn Cooperative Federal Credit Union",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 753,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118360139649333845704\">Brooklyn Cooperative Federal Credit Union</a>"
+          ],
+          "photo_reference": "AeJbb3cVugq83DKNtcyLL69igqz1bkLSSHo34SbOfAB_x2ZeiJISX1u5eooZnZIa-S59A-jw1y-C0SxZeBwYM2pUktpcso7YDPlnZHDyVFkLKKHJKTiJ20dK5suROAcwwNVBdQrKNx2MRbrktnSfgkAqC_aORVfuahEMidiccoIrUCQEqiis",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJZZzgrqr7ZUARph7PkBADaHY",
+      "plus_code": {
+        "compound_code": "M3R4+VR New York, NY, USA",
+        "global_code": "87G8M3R4+VR"
+      },
+      "rating": 4.5,
+      "reference": "ChIJZZzgrqr7ZUARph7PkBADaHY",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 40,
+      "vicinity": "834 DeKalb Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6916705,
+          "lng": -73.9489442
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.69301948029151,
+            "lng": -73.94759521970849
+          },
+          "southwest": {
+            "lat": 40.69032151970851,
+            "lng": -73.95029318029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "ALNYC",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103835402684646806595\">MARTIN KALWILL</a>"
+          ],
+          "photo_reference": "AeJbb3cMStMEjE-KjPvdomC07dxhfTK4_SjRZIgo1jBUICLJOr-NzaBbiYqAvWS1ReKtmjyfVRQ08KhPe3_vzFFLTbjK6HnH1q9nN1F1b1cNkFcP2bwVr73rxOSPW2qsIH4DW7z5NivzI_5Sjj3GKogFXgymCztrqaSA8kEu8Ya9J4kVngmZ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJJ4fISQVcwokRm1IMiwvlvcE",
+      "plus_code": {
+        "compound_code": "M3R2+MC New York, NY, USA",
+        "global_code": "87G8M3R2+MC"
+      },
+      "rating": 5,
+      "reference": "ChIJJ4fISQVcwokRm1IMiwvlvcE",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "DeKalb Avenue"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.69596469999999,
+          "lng": -73.94255989999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6973998802915,
+            "lng": -73.94122886970848
+          },
+          "southwest": {
+            "lat": 40.6947019197085,
+            "lng": -73.94392683029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "International Fish Fry",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107562184238108385960\">J Money</a>"
+          ],
+          "photo_reference": "AeJbb3cRwc1H_32HQBhIs39UBGVXs5nfEmo1Jmzvv0udOXCogKO2B54K-7laai0KbCUBXLPbAUHjBS6341H7r3ydjYdwyDJCSysyBipSS4QTwbPYoopa173DY2e5zwYPqdkT0jN7MUt2p-xiry90GShRKftnYI56O7R52nGfIAuUWTAQNqjS",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJG8i4SPFbwokRW7QzOURQCq8",
+      "plus_code": {
+        "compound_code": "M3W4+9X New York, NY, USA",
+        "global_code": "87G8M3W4+9X"
+      },
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "ChIJG8i4SPFbwokRW7QzOURQCq8",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 93,
+      "vicinity": "972 Myrtle Avenue, Brooklyn"
+    }
+  ],
+  "status": "OK"
+}

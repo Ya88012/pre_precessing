@@ -1,0 +1,2780 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3e_5EnRbogCNJuSW2vFuJW8g9edeYNgBTMdMv5ruOBWhZaZihrP_lwG_V82x_OzSk2y16W7Frlk5OlzdrqRfHg_1rCeVvi2rKauEtQNThhB8X4o0E5h4oeNIuUJL92zGAOe-m5IJz60JeHFKpuIkznSXTjE6GVcyiItO5zMqqZJE79J",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8186141,
+          "lng": -73.93622239999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82001733029151,
+            "lng": -73.93483391970848
+          },
+          "southwest": {
+            "lat": 40.81731936970851,
+            "lng": -73.9375318802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Extra Space Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 270,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103846024828429357224\">Extra Space Storage</a>"
+          ],
+          "photo_reference": "AeJbb3cgBlWsTc0s3TxqrrZHWRVHo9XC9eg0EIxsmq_fFKC15gYCDIth1JLxq-ZSib6BBUvuHFOG6yfmyo8m9YlBOlJA_pOsQMPvD79jYVF_XXrEjPbcBi-a23nCCXBwUi-LoJ4M6dE19kwaa-PBfV48N6fBMsIhER_eEXRwf2seNBLTzp_C",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJAyjS4df1wokRXfaWpKLQXBM",
+      "plus_code": {
+        "compound_code": "R397+CG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R397+CG"
+      },
+      "rating": 4.9,
+      "reference": "ChIJAyjS4df1wokRXfaWpKLQXBM",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "storage",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2383,
+      "vicinity": "58 West 143rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8162917,
+          "lng": -73.9373803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8175335302915,
+            "lng": -73.9361095697085
+          },
+          "southwest": {
+            "lat": 40.8148355697085,
+            "lng": -73.93880753029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ragland Yolanda MD",
+      "place_id": "ChIJnwi9wHf2wokR1eaysE_2J8Y",
+      "plus_code": {
+        "compound_code": "R387+G2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R387+G2"
+      },
+      "reference": "ChIJnwi9wHf2wokR1eaysE_2J8Y",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "45 West 139th Street # 14k, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8155905,
+          "lng": -73.9369924
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81695988029149,
+            "lng": -73.93544746970849
+          },
+          "southwest": {
+            "lat": 40.81426191970849,
+            "lng": -73.9381454302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Child Development Center",
+      "place_id": "ChIJa9BDXvdYwokRDT5YMl9et_4",
+      "plus_code": {
+        "compound_code": "R387+66 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R387+66"
+      },
+      "rating": 3.9,
+      "reference": "ChIJa9BDXvdYwokRDT5YMl9et_4",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "34 West 139th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8208558,
+          "lng": -73.93645520000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8221339802915,
+            "lng": -73.9349398697085
+          },
+          "southwest": {
+            "lat": 40.8194360197085,
+            "lng": -73.93763783029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Papa Johns Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111483567713247876680\">Claudio Napoli</a>"
+          ],
+          "photo_reference": "AeJbb3emODLXndbD4J_dBpWwgR2RE3ihxL0kQijGTWamQ7pEduLnkC6KCAocCdu5TyAdXuuvdsyMAJ9-_A1xBTN1YYzpZAs8MnNtDVTieJVB_LU--um2o4R2pNbtIAnK8pHvqPlLHMOBdwzWsXqsunRqTaxI3x0zfYD9sXptBIxs1ja3IheU",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJFZeHg3j2wokR_oDsD1M_t74",
+      "plus_code": {
+        "compound_code": "R3C7+8C \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3C7+8C"
+      },
+      "price_level": 1,
+      "rating": 3,
+      "reference": "ChIJFZeHg3j2wokR_oDsD1M_t74",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 177,
+      "vicinity": "703 Lenox Avenue Unit 2, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81610939999999,
+          "lng": -73.9362697
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8173351302915,
+            "lng": -73.93479491970848
+          },
+          "southwest": {
+            "lat": 40.8146371697085,
+            "lng": -73.9374928802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Junk Pros",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1061,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115169617295485351420\">The Junk Pros</a>"
+          ],
+          "photo_reference": "AeJbb3fw9nBCtii3p3lGGQm63oHFZtC_ylHc5GMpWP3YcOsOWxA46h58KPwVKewMhkK4uy6dy-PcVydeK7cHHfF_itKZU6WBIlD3RaRJG2TdG9BkMrrd6gGzSSkzdLMcSabvowVh2yRTiqlTWgFJ9Ib6JeZPsO6ck9ZRRTcbBJlE6m9Iw48C",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJURESfNj1wokRtmK0C3DDu8E",
+      "plus_code": {
+        "compound_code": "R387+CF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R387+CF"
+      },
+      "rating": 4.8,
+      "reference": "ChIJURESfNj1wokRtmK0C3DDu8E",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "15 West 139th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8196118,
+          "lng": -73.94105019999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8208939302915,
+            "lng": -73.93956296970848
+          },
+          "southwest": {
+            "lat": 40.8181959697085,
+            "lng": -73.9422609302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hamilton",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ_RPukXn2wokRO4fHiKVRBhg",
+      "plus_code": {
+        "compound_code": "R395+RH \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R395+RH"
+      },
+      "rating": 1.8,
+      "reference": "ChIJ_RPukXn2wokRO4fHiKVRBhg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "local_government_office",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "210 West 142nd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8153844,
+          "lng": -73.9363587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8168143302915,
+            "lng": -73.93498801970848
+          },
+          "southwest": {
+            "lat": 40.8141163697085,
+            "lng": -73.93768598029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "Park 139th LLC",
+      "place_id": "ChIJR_dByXf2wokREOnra9npxkU",
+      "plus_code": {
+        "compound_code": "R387+5F \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R387+5F"
+      },
+      "rating": 3.7,
+      "reference": "ChIJR_dByXf2wokREOnra9npxkU",
+      "scope": "GOOGLE",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "34 West 139th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8165905,
+          "lng": -73.93944340000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81791183029151,
+            "lng": -73.93797986970851
+          },
+          "southwest": {
+            "lat": 40.81521386970851,
+            "lng": -73.94067783029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108483543945650864601\">Kalam Chowdhury M.Ed, MD.</a>"
+          ],
+          "photo_reference": "AeJbb3c6HrPs7l40bdGu-bmBlt019VaaqK23YeFJPRGZ7BpNUMIOe43hzYFKj_kNuRrgbLWl4wxGGoOyHyDoWF_kVkeLaIRCG2s9PO_ctXoeRclzHRwHuLPxkhkXTbDzVp804AFVlrkOLQyFG3pPBEhNSGAQvOE2-BR9qm48Zh1W-nlAnUNd",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJRQnIrNb1wokRYfdN3JgKKVI",
+      "plus_code": {
+        "compound_code": "R386+J6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R386+J6"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJRQnIrNb1wokRYfdN3JgKKVI",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 89,
+      "vicinity": "563 Malcolm X Boulevard Store #2, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8209486,
+          "lng": -73.9391126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8222766302915,
+            "lng": -73.9378732697085
+          },
+          "southwest": {
+            "lat": 40.8195786697085,
+            "lng": -73.94057123029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Citi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106128155498028294119\">DUO RIKA</a>"
+          ],
+          "photo_reference": "AeJbb3cm9H6x4cCf4aRtzemuM9TjpUHLn0vUJZVorUh8tP5xgyD-_cD59oyQgyx-Eakt2cTFaeT29cU8qK2Lc2CGm0N88fcRmm0O60IpaZiJYU7V6MR2SZfg3gjGKtOxEMdguanZwu_9osmXKmLYPVonYQh1gZ6d_3VcEMfwrNyBZhqr_VTz",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ1Xf8Ann2wokRWbIsTDtf_Oo",
+      "plus_code": {
+        "compound_code": "R3C6+99 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3C6+99"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ1Xf8Ann2wokRWbIsTDtf_Oo",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "2481 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8211816,
+          "lng": -73.9406654
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8226420302915,
+            "lng": -73.93927746970849
+          },
+          "southwest": {
+            "lat": 40.81994406970851,
+            "lng": -73.94197543029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Harlem Village Academies West Middle",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114911858200534929397\">Harlem Village Academies West Middle</a>"
+          ],
+          "photo_reference": "AeJbb3djR9i_DB1yuvZZpuGHMvFs5jaAaCzyi3xV5fnQ31GntOAbAwOlrmaHcSH7utACO1q-FX0XP6Xibiw_qA81idBnP97bhAtbbjF6fqf43CGZX0fWp-Bk2Eo80VAtyqvqHD4OgyQ8C1lRzvuemlhcEDZArFyAhEA1-kt09KzmpJuWH6TY",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJGVvw4Gv2wokRsoqeJyCMkbg",
+      "plus_code": {
+        "compound_code": "R3C5+FP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3C5+FP"
+      },
+      "rating": 3.1,
+      "reference": "ChIJGVvw4Gv2wokRsoqeJyCMkbg",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "244 West 144th Street 5th floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8208748,
+          "lng": -73.93824959999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82226143029149,
+            "lng": -73.9368724197085
+          },
+          "southwest": {
+            "lat": 40.8195634697085,
+            "lng": -73.9395703802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+      "name": "Mobil",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100649222162516238744\">Page Ware</a>"
+          ],
+          "photo_reference": "AeJbb3fYPxyhWSZml31r3zuAgS5O-0iZ4TpanhHnQF1lj1MMJFWyGn67SOz6KLxHkIQdnqZ54IQezYByFPp1j3M-RSh7Ohs9YNau6mpbAvxHiGWR0ke0ZK5Oh6n31W5804K1YlC5PHn4M4Li5QyFCzOTxbHheJI1l_po9oupDSJiAMLj8g_C",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJf9kXIXn2wokRgvA0qdQ-BfA",
+      "plus_code": {
+        "compound_code": "R3C6+8P \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3C6+8P"
+      },
+      "rating": 3.9,
+      "reference": "ChIJf9kXIXn2wokRgvA0qdQ-BfA",
+      "scope": "GOOGLE",
+      "types": [
+        "gas_station",
+        "parking",
+        "convenience_store",
+        "car_repair",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 123,
+      "vicinity": "Parking lot, 150-54 West 145th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8155905,
+          "lng": -73.9369924
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81695988029149,
+            "lng": -73.93544746970849
+          },
+          "southwest": {
+            "lat": 40.81426191970849,
+            "lng": -73.9381454302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Heritage Vending, LLC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJR_dByXf2wokR0ESWHip4Yd4",
+      "plus_code": {
+        "compound_code": "R387+66 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R387+66"
+      },
+      "reference": "ChIJR_dByXf2wokR0ESWHip4Yd4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "34 West 139th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8155908,
+          "lng": -73.9370485
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81702163029149,
+            "lng": -73.93552416970849
+          },
+          "southwest": {
+            "lat": 40.8143236697085,
+            "lng": -73.93822213029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jewish Board-Family & Children",
+      "place_id": "ChIJR_dByXf2wokRpB1oxQdSdIo",
+      "plus_code": {
+        "compound_code": "R387+65 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R387+65"
+      },
+      "rating": 2.3,
+      "reference": "ChIJR_dByXf2wokRpB1oxQdSdIo",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "34 West 139th Street # 1, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8174042,
+          "lng": -73.940099
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8189567302915,
+            "lng": -73.9386029697085
+          },
+          "southwest": {
+            "lat": 40.8162587697085,
+            "lng": -73.94130093029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PS 139 Senior Center",
+      "place_id": "ChIJv0ZWb3f2wokR2xgIz4LY3Bc",
+      "plus_code": {
+        "compound_code": "R385+XX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R385+XX"
+      },
+      "rating": 4.6,
+      "reference": "ChIJv0ZWb3f2wokR2xgIz4LY3Bc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "120 West 140th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8155007,
+          "lng": -73.9366411
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8169379302915,
+            "lng": -73.9353001697085
+          },
+          "southwest": {
+            "lat": 40.8142399697085,
+            "lng": -73.9379981302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harlem Childrens Zone",
+      "place_id": "ChIJrRGBWRL2wokRqJNhzhuK4E4",
+      "plus_code": {
+        "compound_code": "R387+68 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R387+68"
+      },
+      "rating": 4.5,
+      "reference": "ChIJrRGBWRL2wokRqJNhzhuK4E4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "34 West 139th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82095379999999,
+          "lng": -73.9363947
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82222793029149,
+            "lng": -73.93487581970851
+          },
+          "southwest": {
+            "lat": 40.81952996970849,
+            "lng": -73.93757378029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "KFC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111483567713247876680\">Claudio Napoli</a>"
+          ],
+          "photo_reference": "AeJbb3fqq66O7xd7xucVyfTFS5fpSfcnLIP3SDIsTVplwVEEdya5PqjsxYy7paWaBlciNiuSHoWerVsd3xR0MlGXrZGx8QsygQ-OcX7Rn6UAK6R4uraKgUtKkczSV5bvMxPOkIew7JjT1HkZueA1l0IUF92SxPcQT8hOhD8cH3z8H_l79igU",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJl6ekhnj2wokRzy74usjqqy8",
+      "plus_code": {
+        "compound_code": "R3C7+9C \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3C7+9C"
+      },
+      "price_level": 1,
+      "rating": 3.4,
+      "reference": "ChIJl6ekhnj2wokRzy74usjqqy8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 539,
+      "vicinity": "707 Lenox Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8232165,
+          "lng": -73.9384391
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8245125302915,
+            "lng": -73.9371306197085
+          },
+          "southwest": {
+            "lat": 40.8218145697085,
+            "lng": -73.9398285802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Harlem's Heaven",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 919,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102490412487620939158\">Harlem&#39;s Heaven</a>"
+          ],
+          "photo_reference": "AeJbb3cv4gNHkK0MhFJGBSf7xxtZJ0gB7O2UBvHqJaO2exzUWqsSCJI0bWvla4HiLJX8Vddw6PhE7W6gS8qQ7HPYaQE7fISJckaL3EKC-UF9NgEks38U24GUd1TcBho8dUQk7QnaGtG476oBh6c09jNs17BhJUroI6mGYz53tdB3uaYpcRAS",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJz7cTLn_2wokRQsAp3hVeCzA",
+      "plus_code": {
+        "compound_code": "R3F6+7J \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3F6+7J"
+      },
+      "rating": 4.5,
+      "reference": "ChIJz7cTLn_2wokRQsAp3hVeCzA",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "2538 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81670199999999,
+          "lng": -73.9395535
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8181224302915,
+            "lng": -73.9381528197085
+          },
+          "southwest": {
+            "lat": 40.8154244697085,
+            "lng": -73.94085078029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Heritage Health & Housing",
+      "place_id": "ChIJHVsoDXf2wokRFKtM_qHlX7w",
+      "plus_code": {
+        "compound_code": "R386+M5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R386+M5"
+      },
+      "rating": 5,
+      "reference": "ChIJHVsoDXf2wokRFKtM_qHlX7w",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "100 West 139th Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8240478,
+          "lng": -73.9447643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87822003591612,
+            "lng": -73.91064591328563
+          },
+          "southwest": {
+            "lat": 40.78278392408598,
+            "lng": -73.97119006413347
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e0a\u57ce",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108665206705263687409\">Chris Lidstone</a>"
+          ],
+          "photo_reference": "AeJbb3ftidpm4RV8s5_SRVP5a1_4R4uNsV8qjKWXyQxtesxp-gU11aAkcXxuWZ6VVoZw4zOv3GSwxOqx9wXAaKIqtEdgwdUvUQLmSl4yqWK2FcIAYvrBAJDQ00YJsTAitTm6fIXT89pDjHAUL8e9Yi5zXZdfDEgkDyTWuW5IKOYuomfEX4Bb",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "reference": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8235759,
+          "lng": -73.9380415
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8249961802915,
+            "lng": -73.9367271197085
+          },
+          "southwest": {
+            "lat": 40.8222982197085,
+            "lng": -73.9394250802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Domino's Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2404,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111444671146808251214\">Eric Finkelstein</a>"
+          ],
+          "photo_reference": "AeJbb3cbM9JhUZ95nHQGckULtDjOUvsQxceXBE4_B1yI503E2MKiQOu9dB218e4LQ8JAsGdtlVVWozK8OVj6RNfS4iWjerLqN0G5jYzGru-DQmMlXdNz5Ng8pUrrkHNaWv1nqqrWrBffsRRa6gYOVlJQNv7CAuQrHBBc1sRT_V-J8CgqpU7b",
+          "width": 3772
+        }
+      ],
+      "place_id": "ChIJ_7z4On_2wokRNKRJ8BFZ0x4",
+      "plus_code": {
+        "compound_code": "R3F6+CQ New York, NY, USA",
+        "global_code": "87G8R3F6+CQ"
+      },
+      "price_level": 1,
+      "rating": 3.6,
+      "reference": "ChIJ_7z4On_2wokRNKRJ8BFZ0x4",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 382,
+      "vicinity": "2554 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81729089999999,
+          "lng": -73.9357264
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81843173029149,
+            "lng": -73.93385601970849
+          },
+          "southwest": {
+            "lat": 40.8157337697085,
+            "lng": -73.93655398029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Penske Truck Rental",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114819143967273469033\">Penske Truck Rental</a>"
+          ],
+          "photo_reference": "AeJbb3fJYA9289HdOPryet62f2ds8pX6WZxncazQvBY6PwFwHUcxTN95iaVyJedBQnMF0SpfOZhbOslEt3j2vw0VfCkI_dCeYjCntDZ_KkjP9fTO7KJEfvtADT-2tTqrpsa1POU6uheW1F2eOTXOpoyBnhHJGHIL2qA6rxMWN2lxx0Ff1CKx",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJXbx2H9j1wokRQ9LE_xPlB2U",
+      "plus_code": {
+        "compound_code": "R387+WP New York, NY, USA",
+        "global_code": "87G8R387+WP"
+      },
+      "rating": 4.2,
+      "reference": "ChIJXbx2H9j1wokRQ9LE_xPlB2U",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 37,
+      "vicinity": "11 West 141st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81793620000001,
+          "lng": -73.94133959999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8192449302915,
+            "lng": -73.9400702697085
+          },
+          "southwest": {
+            "lat": 40.8165469697085,
+            "lng": -73.9427682302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "McDonald's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2625,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111444671146808251214\">Eric Finkelstein</a>"
+          ],
+          "photo_reference": "AeJbb3dKXx1-pYB8senPabonoJLxU4fA8Ko0lmSlMJTivq7fspvVG00DTpNPsVXS8tUU7SKuwkDXgDNQNn_Hmypa2Bk-EPznwbEOTD4Es7nkXASdSO4RLOudHRuQMoJCbYFSmERhyqBy9SD2ZCQ1t5nLVajN_91_2ZpGIOuyqXo5fH7u_vgx",
+          "width": 3577
+        }
+      ],
+      "place_id": "ChIJsTcyUnf2wokRkyIfyPX8zPI",
+      "plus_code": {
+        "compound_code": "R395+5F New York, NY, USA",
+        "global_code": "87G8R395+5F"
+      },
+      "price_level": 1,
+      "rating": 3.6,
+      "reference": "ChIJsTcyUnf2wokRkyIfyPX8zPI",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1572,
+      "vicinity": "2379 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8187243,
+          "lng": -73.9368203
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8201661302915,
+            "lng": -73.93535756970849
+          },
+          "southwest": {
+            "lat": 40.8174681697085,
+            "lng": -73.9380555302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bethune Tower Inc",
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111322364192988956665\">Alrick collins Sr.</a>"
+          ],
+          "photo_reference": "AeJbb3cjrwZ-lCj1epQjwzfEdRjxNJvY1quTjltds82qBCcMybqOS3gPxlPTh7OdGRc0peKJ7MU8SemqRZcNRzvQTAudRznRUxQY0NJybNDXo6TfWTBqTdgLzOph3FLx6LSkWoLEef8A4cWt-m9Km7mHNAN8z5LOke5bf83mw6BjMF44Uphw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJvREvEHj2wokRb3x1pMKNSUs",
+      "plus_code": {
+        "compound_code": "R397+F7 New York, NY, USA",
+        "global_code": "87G8R397+F7"
+      },
+      "rating": 3.7,
+      "reference": "ChIJvREvEHj2wokRb3x1pMKNSUs",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "650 Malcolm X Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82256460000001,
+          "lng": -73.9407516
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8238554802915,
+            "lng": -73.9395206697085
+          },
+          "southwest": {
+            "lat": 40.8211575197085,
+            "lng": -73.9422186302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Prestige Management",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJLTvPL3n2wokRYjLCo9i8VDg",
+      "plus_code": {
+        "compound_code": "R3F5+2M New York, NY, USA",
+        "global_code": "87G8R3F5+2M"
+      },
+      "rating": 3.6,
+      "reference": "ChIJLTvPL3n2wokRYjLCo9i8VDg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "237 West 145th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8176723,
+          "lng": -73.9345585
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8190215802915,
+            "lng": -73.93313451970849
+          },
+          "southwest": {
+            "lat": 40.8163236197085,
+            "lng": -73.93583248029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Armory Superintendent",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112195412344575571569\">Dorian Miranda</a>"
+          ],
+          "photo_reference": "AeJbb3eCMnx3Mkzz2QsIGCqaK6AA4zPb3qdN47dkLnLw6pfdh_uO7fmt_20XyS_pRqQpLT-PmvQbGSC3rC8vdkrVnds9HoZ-GJJdiSqcn7lIeVuBftazLIKEx9hJJ4BBA1r24Zc4prlrbLZho7yZiat3DJwk3KnJDyPQclKWFm9sjanr-xCN",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJT032itf1wokRTSJHTZ4SWzg",
+      "plus_code": {
+        "compound_code": "R398+35 New York, NY, USA",
+        "global_code": "87G8R398+35"
+      },
+      "rating": 4,
+      "reference": "ChIJT032itf1wokRTSJHTZ4SWzg",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "2366 5th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8206576,
+          "lng": -73.937358
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8221210802915,
+            "lng": -73.93595801970851
+          },
+          "southwest": {
+            "lat": 40.8194231197085,
+            "lng": -73.93865598029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Baskin-Robbins",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 902,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107264496336520366068\">Shandell D-F</a>"
+          ],
+          "photo_reference": "AeJbb3cQRJyglJ3WJf2oCIpWOoB9UoQK1tmHnVb3bEOeCatUB4iEUZTWC6V1xd7XxWjP8RHYF2wX5gwcT1n3ePH1xHJXOjTyYv8NyuZDrVZIkp96jQjirWrSxqU0YyOXbyEZDiLCDq2SPqxUtEfoEVSQ2zRToWmOmtz7VO_fnrux3nSP0qxZ",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJbWfIg3j2wokR8wpcS0si2T4",
+      "plus_code": {
+        "compound_code": "R3C7+73 New York, NY, USA",
+        "global_code": "87G8R3C7+73"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJbWfIg3j2wokR8wpcS0si2T4",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "110 West 145th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81719220000001,
+          "lng": -73.9354379
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8183807802915,
+            "lng": -73.9337128697085
+          },
+          "southwest": {
+            "lat": 40.8156828197085,
+            "lng": -73.9364108302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harlem Self-Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 612,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110881664689663088605\">Harlem Self-Storage</a>"
+          ],
+          "photo_reference": "AeJbb3fTWa8IRFr8XBpHjdFeAGANkhwU0OMuWyFYRMsZ5jvEUEr5PMKo87M73xwT4UWoLRBuFUqcm-eI1pU80TIHeeZI9jdCWOiu8qGCHlDGO6Z7lhDiYTMCasJlpDb_-QTRCtu7FEnFWQUim1BlD9pcvXl2NGw1s2JmVSqewUUqai2unRo",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJScrGGNj1wokRHNW2kNfZS8g",
+      "plus_code": {
+        "compound_code": "R387+VR New York, NY, USA",
+        "global_code": "87G8R387+VR"
+      },
+      "rating": 4,
+      "reference": "ChIJScrGGNj1wokRHNW2kNfZS8g",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "storage",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 43,
+      "vicinity": "2350 5th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82160529999999,
+          "lng": -73.9385018
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8229056302915,
+            "lng": -73.9372666197085
+          },
+          "southwest": {
+            "lat": 40.82020766970851,
+            "lng": -73.9399645802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lemor Realty Corporation",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJC45N73j2wokRaRHak6w926k",
+      "plus_code": {
+        "compound_code": "R3C6+JH New York, NY, USA",
+        "global_code": "87G8R3C6+JH"
+      },
+      "rating": 2.2,
+      "reference": "ChIJC45N73j2wokRaRHak6w926k",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "167 West 145th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8216166,
+          "lng": -73.9383013
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82285453029149,
+            "lng": -73.93703471970849
+          },
+          "southwest": {
+            "lat": 40.82015656970849,
+            "lng": -73.9397326802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harlem Dental Care",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868\">Harlem Dental Care</a>"
+          ],
+          "photo_reference": "AeJbb3cWwT5kuf3WJd5lhVNzxASXzup53waMF28Wa1rvCzctX3_ilnUoYybTjU_N2_JMVwlt1DFN-bq_aV-WFQvYluQohh1v8-wavhOIaQj5yDgX9ggQ9tuerJS9KNdMibqzYumadU3r-S-RMujOWlUeFd-2-5h0VwHvcziPrZ80lv6rslR7",
+          "width": 675
+        }
+      ],
+      "place_id": "ChIJiYbw3Xj2wokRZtXnZdGfev0",
+      "plus_code": {
+        "compound_code": "R3C6+JM New York, NY, USA",
+        "global_code": "87G8R3C6+JM"
+      },
+      "rating": 4.7,
+      "reference": "ChIJiYbw3Xj2wokRZtXnZdGfev0",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 481,
+      "vicinity": "163 West 145th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81953069999999,
+          "lng": -73.937337
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8209363802915,
+            "lng": -73.9357993697085
+          },
+          "southwest": {
+            "lat": 40.8182384197085,
+            "lng": -73.93849733029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Frederick Samuel Community Center",
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+          ],
+          "photo_reference": "AeJbb3e2eoJfzYH30OwderkvqphlKbjdNlgHAXFr9e42CCjPYe9ZI7eUqzVlF9fqXKhQI5gek9PEOXIhR-lhxgSCmVKN2YgvMrw9V-T5wnylEHHmE9pHZmjc5leitlIMuRr2PyBmwV9I77YsA8GN1WGK3RWGFTRnC1lyXEU57R0yLqwvCUYW",
+          "width": 500
+        }
+      ],
+      "place_id": "ChIJBSQeZnj2wokR9lcObJqfnBI",
+      "plus_code": {
+        "compound_code": "R397+R3 New York, NY, USA",
+        "global_code": "87G8R397+R3"
+      },
+      "rating": 4.7,
+      "reference": "ChIJBSQeZnj2wokR9lcObJqfnBI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "669 Malcolm X Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8209531,
+          "lng": -73.9391077
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8222766302915,
+            "lng": -73.9378708197085
+          },
+          "southwest": {
+            "lat": 40.8195786697085,
+            "lng": -73.9405687802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Citi ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 403,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102161494295246709578\">Citi ATM</a>"
+          ],
+          "photo_reference": "AeJbb3e6LQUD2oI4X7rAjAegOIAnW9iqAX3qqPpCymsPBmUZOKabQc-vGdtrDk3aqW9an4-CKIiAbOcTChrn35RGrtVLOxv0PLK67pck0dpGXQa91qWz9o0AqY1cKaRotoDdKGJRB58KJOeIi_p6-P9Ly3pmtYjw4WqUgKNwEGdBIzIz0PUc",
+          "width": 402
+        }
+      ],
+      "place_id": "ChIJ1Xf8Ann2wokRahNGjWI3eqs",
+      "plus_code": {
+        "compound_code": "R3C6+99 New York, NY, USA",
+        "global_code": "87G8R3C6+99"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ1Xf8Ann2wokRahNGjWI3eqs",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "2481 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8204498,
+          "lng": -73.93708459999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8219382802915,
+            "lng": -73.93563336970848
+          },
+          "southwest": {
+            "lat": 40.8192403197085,
+            "lng": -73.93833133029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Cardtronics ATM",
+      "place_id": "ChIJ61nIg3j2wokRQV6uz525q4g",
+      "plus_code": {
+        "compound_code": "R3C7+55 New York, NY, USA",
+        "global_code": "87G8R3C7+55"
+      },
+      "reference": "ChIJ61nIg3j2wokRQV6uz525q4g",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "108 West 145th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8212853,
+          "lng": -73.9364106
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82267588029149,
+            "lng": -73.93503666970851
+          },
+          "southwest": {
+            "lat": 40.81997791970849,
+            "lng": -73.93773463029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "ARC XVI A. Philip Randolph Senior Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 980,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106219023227977810098\">Jose rafael Almonte D\u00edaz</a>"
+          ],
+          "photo_reference": "AeJbb3fiRcXlLhauqHcyxD7Ubkq_c0GJih4OJ4uAyv01CC9Gy3ibHeuNsyKVsLbdfVLOftSzYI-8N5U1-wf-yc8XA8lRWYnjEgINMV-5v4w9gKOSYjDYNfcDZgLdsUlFoe8zJyC4PGPsY-sFn3U3nrfvsARpVcgHPf6gO9foXeoFABDUJY2k",
+          "width": 2016
+        }
+      ],
+      "place_id": "ChIJd0MHonj2wokR9NLmElY-F1g",
+      "plus_code": {
+        "compound_code": "R3C7+GC New York, NY, USA",
+        "global_code": "87G8R3C7+GC"
+      },
+      "rating": 4.3,
+      "reference": "ChIJd0MHonj2wokR9NLmElY-F1g",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 43,
+      "vicinity": "108 West 146th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8191987,
+          "lng": -73.9376491
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8206085302915,
+            "lng": -73.9362554197085
+          },
+          "southwest": {
+            "lat": 40.8179105697085,
+            "lng": -73.93895338029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Project Renewal Inc",
+      "place_id": "ChIJ7c2fQXj2wokR0DFinnjBhrI",
+      "plus_code": {
+        "compound_code": "R396+MW New York, NY, USA",
+        "global_code": "87G8R396+MW"
+      },
+      "rating": 1,
+      "reference": "ChIJ7c2fQXj2wokR0DFinnjBhrI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "100 West 143rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82070299999999,
+          "lng": -73.940305
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8219875302915,
+            "lng": -73.93879026970849
+          },
+          "southwest": {
+            "lat": 40.8192895697085,
+            "lng": -73.9414882302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rick's Store Front & Glass Work",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110504776742798080691\">Danni Tyson</a>"
+          ],
+          "photo_reference": "AeJbb3cB20mrcnr_fha0zNDPIhzjg4jVhnMFfTc4_I2aIOCnfR2_yvns5GTFAWUPMmq9iOr6FciXFSD79QrdOirj64akkm73Sf9_lnzs8ddfag2fuxLEffzSJMqURR73MS8dv76N2PJx0TWyMakQdZUKX_ZwWvN5B2UXhkm1AlljUkvZCBXL",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlZ0pBRH2wokRp83lckWa9B8",
+      "plus_code": {
+        "compound_code": "R3C5+7V New York, NY, USA",
+        "global_code": "87G8R3C5+7V"
+      },
+      "rating": 4.6,
+      "reference": "ChIJlZ0pBRH2wokRp83lckWa9B8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "2460 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.81804409999999,
+          "lng": -73.9380894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81940058029149,
+            "lng": -73.9367585697085
+          },
+          "southwest": {
+            "lat": 40.81670261970849,
+            "lng": -73.93945653029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Siressweettreasures",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 398,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103238658283407470339\">Siressweettreasures</a>"
+          ],
+          "photo_reference": "AeJbb3fU6508brSmJ-GHxWQkRTFtXklBjJWDrBjihsh8vLJ2bf3M6nWYKKA-TRgBvT9HgoNAIJHsEEMzus1hyXKPAtOvBq3sI2ylVuOoaoc6CDIEdY6o8Z9BKZDe9PzLeFG69drTS58xI8uPSw_9ztvVvswjYNlcw3Z8EyMbY7-Ybb6qpV01",
+          "width": 350
+        }
+      ],
+      "place_id": "ChIJFQBw3Hn2wokRKjZYs6iKeHs",
+      "plus_code": {
+        "compound_code": "R396+6Q New York, NY, USA",
+        "global_code": "87G8R396+6Q"
+      },
+      "reference": "ChIJFQBw3Hn2wokRKjZYs6iKeHs",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "628-141 Malcolm X Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8186939,
+          "lng": -73.9385197
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8201148802915,
+            "lng": -73.93711756970849
+          },
+          "southwest": {
+            "lat": 40.8174169197085,
+            "lng": -73.9398155302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Graham Windham Services To Families",
+      "place_id": "ChIJqxBEMXj2wokRXVt8JbQnEcI",
+      "plus_code": {
+        "compound_code": "R396+FH New York, NY, USA",
+        "global_code": "87G8R396+FH"
+      },
+      "reference": "ChIJqxBEMXj2wokRXVt8JbQnEcI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "106 West 142nd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8184707,
+          "lng": -73.93813999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8197587802915,
+            "lng": -73.9366437697085
+          },
+          "southwest": {
+            "lat": 40.8170608197085,
+            "lng": -73.9393417302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harlem Masters Barbershop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 515,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117916115972464436788\">Harlem Masters Barbershop</a>"
+          ],
+          "photo_reference": "AeJbb3fZT8jkB9rGyHB7ztxIs7cI2Mo4UteQDbwrX-6-hv6SZbkhVYuWX-BJJHlgqeLjvicD-p4hu5YXkbygRTHC5oeu2VhaaHG7JwcpiCwFLohLtcndcNaNVpFTmV2S2EqvrXv795LTMHxQZ9KwDhmWVE460g0inZO-IeNbzxUHSw7SbiaF",
+          "width": 916
+        }
+      ],
+      "place_id": "ChIJIykVlxL2wokRoNMzuXKOZiM",
+      "plus_code": {
+        "compound_code": "R396+9P New York, NY, USA",
+        "global_code": "87G8R396+9P"
+      },
+      "rating": 4.7,
+      "reference": "ChIJIykVlxL2wokRoNMzuXKOZiM",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 33,
+      "vicinity": "633 Malcolm X Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82169569999999,
+          "lng": -73.9386552
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8229680302915,
+            "lng": -73.93738576970848
+          },
+          "southwest": {
+            "lat": 40.8202700697085,
+            "lng": -73.9400837302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "H&R Block",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104029595898645096304\">H&amp;R Block</a>"
+          ],
+          "photo_reference": "AeJbb3exLR6aL59-qnRPYYZdbTZdLKWFX7S6TO1C8RonkM56BRg8J6jOCRc7Jj1MlAm-PcLrdO6nJScbfddOzMLFgVL0fz8sS9Ren4dJ9SqGT_XTVdirBvLPolb1XQVjB4c0EoqGy8DGw-sII4V-e_Xfch0yQZxpSD7WUbcVqSM-61y5M6IP",
+          "width": 2119
+        }
+      ],
+      "place_id": "ChIJfXPMoXf2wokR5kYQgYcmgv8",
+      "plus_code": {
+        "compound_code": "R3C6+MG New York, NY, USA",
+        "global_code": "87G8R3C6+MG"
+      },
+      "rating": 4.6,
+      "reference": "ChIJfXPMoXf2wokR5kYQgYcmgv8",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 84,
+      "vicinity": "C, 2503 A, Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82032179999999,
+          "lng": -73.9403684
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8217319802915,
+            "lng": -73.9389642197085
+          },
+          "southwest": {
+            "lat": 40.8190340197085,
+            "lng": -73.94166218029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "7th Avenue Pharmacy",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJIR6GmHn2wokRFih3RFJ1xCE",
+      "plus_code": {
+        "compound_code": "R3C5+4V New York, NY, USA",
+        "global_code": "87G8R3C5+4V"
+      },
+      "rating": 4.6,
+      "reference": "ChIJIR6GmHn2wokRFih3RFJ1xCE",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "2454 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.821396,
+          "lng": -73.937783
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8226347802915,
+            "lng": -73.9365147697085
+          },
+          "southwest": {
+            "lat": 40.8199368197085,
+            "lng": -73.9392127302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Direct Print Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108728792455087142540\">Mwisha Ludack</a>"
+          ],
+          "photo_reference": "AeJbb3eQtV18HcdpzCMAYlkTochWaoA9Q3TJEb2rk6KqOlFzpRjpV2ZSRncJ_o6D-CrXMnT9i7Q4YtXjeevCNlHF_tgskLxRH0PqJZ_li21R879NNqufq3r_-trXiD-02W37AsH8Uz-RFSCWVZeKxtjBKKy--oQbB2K2I0p7E4UHIjcROerV",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ7wUj6nj2wokRhqaHj5RKBpA",
+      "plus_code": {
+        "compound_code": "R3C6+HV New York, NY, USA",
+        "global_code": "87G8R3C6+HV"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ7wUj6nj2wokRhqaHj5RKBpA",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 33,
+      "vicinity": "147 West 145th Street A, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8195797,
+          "lng": -73.937178
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8208841302915,
+            "lng": -73.93575396970851
+          },
+          "southwest": {
+            "lat": 40.8181861697085,
+            "lng": -73.93845193029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Sheltering Arms Day Care",
+      "place_id": "ChIJaRTNaHj2wokRigLMRJd5jQ0",
+      "plus_code": {
+        "compound_code": "R397+R4 New York, NY, USA",
+        "global_code": "87G8R397+R4"
+      },
+      "rating": 4.3,
+      "reference": "ChIJaRTNaHj2wokRigLMRJd5jQ0",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "669 Lenox Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8205991,
+          "lng": -73.9393478
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8220082802915,
+            "lng": -73.93814456970848
+          },
+          "southwest": {
+            "lat": 40.8193103197085,
+            "lng": -73.94084253029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Empress of Hair and Beauty",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117875051313309380339\">Empress of Hair and Beauty</a>"
+          ],
+          "photo_reference": "AeJbb3dPHlYId7GOCVAYXpJ20WP1_hkkG_MFK1hCVQJcRbKZyuClLVJIrygCsDrFKoTLh9exlhRbZQDtcp8Y1r2gm_UozWaayIsjxyfvNKnNnjs0TRr6zML77-Tm7c23FSljANoJpvZjrOpX93viPA9AYqT_BmrtFBCnk769jCqG1TuWaG9V",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJa55G6Hv2wokRbYxADGr3PwQ",
+      "plus_code": {
+        "compound_code": "R3C6+67 New York, NY, USA",
+        "global_code": "87G8R3C6+67"
+      },
+      "rating": 4.5,
+      "reference": "ChIJa55G6Hv2wokRbYxADGr3PwQ",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 33,
+      "vicinity": "2473 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8188007,
+          "lng": -73.9377736
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82005743029151,
+            "lng": -73.9364819197085
+          },
+          "southwest": {
+            "lat": 40.81735946970851,
+            "lng": -73.93917988029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Harlem Driving School",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104481834948661455999\">Harlem Driving School</a>"
+          ],
+          "photo_reference": "AeJbb3difNq3IIiB3qARCqWb8yKkr9eUWdB_6RS_aHFg-OYQGt1_OXWDT6JJDNVzI5zpiuxmhYmvlr7l0XpdqyrO0-KoWyFoMadbhnjV2PQbTT5FGol3XlKA4-SGiDPlBoHjTxOpZ0lxQoGVENPgEh2tNxi69ye7Lsy4N2ruPxIJg3ehcF4Y",
+          "width": 623
+        }
+      ],
+      "place_id": "ChIJR0pbPHj2wokRGBTGvajwA2I",
+      "plus_code": {
+        "compound_code": "R396+GV New York, NY, USA",
+        "global_code": "87G8R396+GV"
+      },
+      "rating": 3.5,
+      "reference": "ChIJR0pbPHj2wokRGBTGvajwA2I",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 102,
+      "vicinity": "641 Malcolm X Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8213029,
+          "lng": -73.93665969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82271118029151,
+            "lng": -73.93522491970849
+          },
+          "southwest": {
+            "lat": 40.82001321970851,
+            "lng": -73.93792288029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Early LIFE Harlem",
+      "place_id": "ChIJ805aonj2wokRap3oX4bYy8g",
+      "plus_code": {
+        "compound_code": "R3C7+G8 New York, NY, USA",
+        "global_code": "87G8R3C7+G8"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ805aonj2wokRap3oX4bYy8g",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "110 West 146th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.821216,
+          "lng": -73.9373828
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82246353029149,
+            "lng": -73.93612116970849
+          },
+          "southwest": {
+            "lat": 40.81976556970849,
+            "lng": -73.93881913029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "LiceXchange",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105878400712934680373\">LiceXchange</a>"
+          ],
+          "photo_reference": "AeJbb3ewZYuvIpfEzC3de-yYqEAamLstPXi63nty9oI3Cm4j5DGmNrVEt1gPCTujOk95LBDfjAH58CDnCo492gD7Hom7vfk4EgHQIDpDfhnV5cUrqQC_gE4-wfxCSCVit9OXje2V6H6XmW6YMopTz7lR-VdREjcLZPP9m9IqfBTmDiqAn94f",
+          "width": 500
+        }
+      ],
+      "place_id": "ChIJc3nH54JZwokR-URULiR4_Hg",
+      "plus_code": {
+        "compound_code": "R3C7+F2 New York, NY, USA",
+        "global_code": "87G8R3C7+F2"
+      },
+      "rating": 5,
+      "reference": "ChIJc3nH54JZwokR-URULiR4_Hg",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "137 West 145th Street # 24, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81907770000001,
+          "lng": -73.9384091
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82033443029151,
+            "lng": -73.93712771970849
+          },
+          "southwest": {
+            "lat": 40.81763646970851,
+            "lng": -73.9398256802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Cakedominicano.com",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 953,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101934294708278070711\">Cakedominicano.com</a>"
+          ],
+          "photo_reference": "AeJbb3ej9W-2U34YR218WKVGYlkrrMIslsMheC4WQY2Tj6aYAUWfZHrdj43OdNt78rTF4wzQ_INgB8Htd-0S6_xZis5X9cyvlhE3mvD9TUkdSK_kPT8HeRGygRGvjYUZQhGHROXEtZl6etLc3S3MrgboCydfIysAWTAfysw2XvUWHmZL1D23",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJmbZGNHj2wokRgGLM8vOmfME",
+      "plus_code": {
+        "compound_code": "R396+JJ New York, NY, USA",
+        "global_code": "87G8R396+JJ"
+      },
+      "rating": 5,
+      "reference": "ChIJmbZGNHj2wokRgGLM8vOmfME",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "125 West 142nd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8200689,
+          "lng": -73.93879600000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8213305302915,
+            "lng": -73.9375111697085
+          },
+          "southwest": {
+            "lat": 40.81863256970851,
+            "lng": -73.94020913029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "VashtiDance Theater, Inc.",
+      "place_id": "ChIJGYFjU3j2wokRJAFO18ZbsQY",
+      "plus_code": {
+        "compound_code": "R3C6+2F New York, NY, USA",
+        "global_code": "87G8R3C6+2F"
+      },
+      "rating": 4,
+      "reference": "ChIJGYFjU3j2wokRJAFO18ZbsQY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "147 West 143rd Street #5A, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8183531,
+          "lng": -73.9381914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8196587302915,
+            "lng": -73.93669926970848
+          },
+          "southwest": {
+            "lat": 40.8169607697085,
+            "lng": -73.9393972302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Boost Mobile",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104811271920664645096\">Elbrick Lupy</a>"
+          ],
+          "photo_reference": "AeJbb3cWRb01hbj-VLF0_59xd4jsrT-ykMDVSzdfakepX5UXvbXaVcouzd1UrImeE_aOtLpED59o4lGT4sQtMNvaI7qt3-K_Ad7NZw_W4j0O3XqI3abEwahGg9GsY-2ZdfuJT9Bya34xC775lHZYwQKw01cefrSRPxgumziYEqdyxgZhgDM4",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJg-iTJHj2wokRtZkm0qh9Dn8",
+      "plus_code": {
+        "compound_code": "R396+8P New York, NY, USA",
+        "global_code": "87G8R396+8P"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJg-iTJHj2wokRtZkm0qh9Dn8",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "629 Malcolm X Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8213875,
+          "lng": -73.9380101
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82265348029151,
+            "lng": -73.93666306970849
+          },
+          "southwest": {
+            "lat": 40.81995551970851,
+            "lng": -73.9393610302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Street Corner Resources",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101766588871499521718\">Crown Prince Saul</a>"
+          ],
+          "photo_reference": "AeJbb3dHxpG9vm9z9MghifsaRCu_NtIZSHW93HBuoDTmkVlT9ydSzLNVF38SGyx_Kcgy3q4xj0ER9w1YROX1mEiycf67ln3F1zib8RZk4VZ9XlNcFYjFmVZisydVTUGQG65Vl_YXeXlZgHqa38IhEQiDPPL1df0qt918rAbgNs4QCC5nNs4Z",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJXRNT6Hj2wokRy4PAs1-_apk",
+      "plus_code": {
+        "compound_code": "R3C6+HQ New York, NY, USA",
+        "global_code": "87G8R3C6+HQ"
+      },
+      "rating": 4.7,
+      "reference": "ChIJXRNT6Hj2wokRy4PAs1-_apk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 30,
+      "vicinity": "151 West 145th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82154,
+          "lng": -73.939658
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8228253802915,
+            "lng": -73.93815991970848
+          },
+          "southwest": {
+            "lat": 40.8201274197085,
+            "lng": -73.94085788029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Dynamic Cellular 145 Street",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJeQekGXn2wokRWd8Ul4pjTAE",
+      "plus_code": {
+        "compound_code": "R3C6+J4 New York, NY, USA",
+        "global_code": "87G8R3C6+J4"
+      },
+      "reference": "ChIJeQekGXn2wokRWd8Ul4pjTAE",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2492 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8179181,
+          "lng": -73.93758
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8192073802915,
+            "lng": -73.9360765197085
+          },
+          "southwest": {
+            "lat": 40.8165094197085,
+            "lng": -73.9387744802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cloud Counseling",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 497,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100265223919294456685\">Cloud Counseling</a>"
+          ],
+          "photo_reference": "AeJbb3dTYTrD8sCIimh-Fc4Re6XQn76T4TdHoFDNrN41ubCt506MJP81wEznAmIto0du5r8WJGKfpQnKF41R7DAKYs-d3R_HcGwuPbAirIS_MXkbn9b7jNjtlOXvdynr1BWt9ALdn8lL9_WDex4oQ-YJjlPRpktjRKc-k9WD73Cif0in3kXv",
+          "width": 657
+        }
+      ],
+      "place_id": "ChIJyfuyIXj2wokRDK4IW3xhJ3o",
+      "plus_code": {
+        "compound_code": "R396+5X New York, NY, USA",
+        "global_code": "87G8R396+5X"
+      },
+      "rating": 4.5,
+      "reference": "ChIJyfuyIXj2wokRDK4IW3xhJ3o",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "630 Malcolm X Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82160149999999,
+          "lng": -73.9383071
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8228460802915,
+            "lng": -73.9370355697085
+          },
+          "southwest": {
+            "lat": 40.8201481197085,
+            "lng": -73.9397335302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Nazar Shcheglov DDS",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108667015142286768466\">nazar shcheglov</a>"
+          ],
+          "photo_reference": "AeJbb3fIGcDRBSQHZMh3NRbvVma0X6VPgQoHFkpBKRCgo7gC3ucBxami8o8vrgDqLysa18IRGYaxjiUIB_SNOJ0a_lPswVmkFAYys2ex_9eTi7TxlvP_4TYqNQK8jfeJ8y5j6qoR2ax8JENCs2CbHrGVjb-PwUTOft86zNwhEkPRdRiyQT6h",
+          "width": 2016
+        }
+      ],
+      "place_id": "ChIJWwlp3Xj2wokRmvKt5sxqSdY",
+      "plus_code": {
+        "compound_code": "R3C6+JM New York, NY, USA",
+        "global_code": "87G8R3C6+JM"
+      },
+      "rating": 4.6,
+      "reference": "ChIJWwlp3Xj2wokRmvKt5sxqSdY",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "163 West 145th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81732,
+          "lng": -73.93517609999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8184663302915,
+            "lng": -73.93350316970849
+          },
+          "southwest": {
+            "lat": 40.8157683697085,
+            "lng": -73.9362011302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Legacy Builders Developers Co",
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100756967568740646634\">Gerrianne Ellen Puntervold</a>"
+          ],
+          "photo_reference": "AeJbb3faV8jqfczv29PS8UqsUgJRp5S3mBXkiepW0OTK7lIrC5B_mZeihjn7r9KVnSL-X9yxotQWFFq60AjQJ-ed_fcSphG18EcnEtXe2llA38oeTYJ47j5Ttz-knjWZxaR_OTQixd1WAS0BLkgQqJ5XMMr0lXGBfyYUj8cHVx2FA_4v4QFL",
+          "width": 5616
+        }
+      ],
+      "place_id": "ChIJXfDGD9j1wokRM_9w-CjBuMs",
+      "plus_code": {
+        "compound_code": "R387+WW New York, NY, USA",
+        "global_code": "87G8R387+WW"
+      },
+      "rating": 1,
+      "reference": "ChIJXfDGD9j1wokRM_9w-CjBuMs",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "30 West 141st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8215938,
+          "lng": -73.9385066
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8229050302915,
+            "lng": -73.9372690197085
+          },
+          "southwest": {
+            "lat": 40.82020706970851,
+            "lng": -73.9399669802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lemor Development Group",
+      "place_id": "ChIJ84v33Xj2wokR1qmUabi26GM",
+      "plus_code": {
+        "compound_code": "R3C6+JH New York, NY, USA",
+        "global_code": "87G8R3C6+JH"
+      },
+      "reference": "ChIJ84v33Xj2wokR1qmUabi26GM",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "167 West 145th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8215938,
+          "lng": -73.9385066
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8229050302915,
+            "lng": -73.9372690197085
+          },
+          "southwest": {
+            "lat": 40.82020706970851,
+            "lng": -73.9399669802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "bradhurst merchants association",
+      "permanently_closed": true,
+      "place_id": "ChIJ84v33Xj2wokRVwc-CRNVNYI",
+      "plus_code": {
+        "compound_code": "R3C6+JH New York, NY, USA",
+        "global_code": "87G8R3C6+JH"
+      },
+      "rating": 2,
+      "reference": "ChIJ84v33Xj2wokRVwc-CRNVNYI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "167 West 145th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82006730000001,
+          "lng": -73.9397255
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8214962302915,
+            "lng": -73.93851296970848
+          },
+          "southwest": {
+            "lat": 40.8187982697085,
+            "lng": -73.94121093029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Johnny Kaks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116380317394853907596\">Johnny Kaks International Restaurant Caribbean &amp; Soul Food</a>"
+          ],
+          "photo_reference": "AeJbb3egsH-pA8ei_mjXVPHjYiaoo87FlOODpUWtzkZCCPp0vWpBN4Cf-ZDEvlEurdQFh2X25jnyq3gpDI68w2URvqq5fCms-l1KfmyF4vHXE5stkDatABaKIZZkrp7_6K7krKI37lhjr2Y46cEUdhDB5kspW3DA36wCZ1dO13UI9ftilunF",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJGweepXn2wokRASgpjGomoS0",
+      "plus_code": {
+        "compound_code": "R3C6+24 New York, NY, USA",
+        "global_code": "87G8R3C6+24"
+      },
+      "rating": 4.3,
+      "reference": "ChIJGweepXn2wokRASgpjGomoS0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 197,
+      "vicinity": "2453 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8200796,
+          "lng": -73.9397518
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82150238029151,
+            "lng": -73.93852611970848
+          },
+          "southwest": {
+            "lat": 40.81880441970851,
+            "lng": -73.9412240802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Jolie Patisserie",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ9cyhpXn2wokR_qGmF8I_yIc",
+      "plus_code": {
+        "compound_code": "R3C6+23 New York, NY, USA",
+        "global_code": "87G8R3C6+23"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ9cyhpXn2wokR_qGmF8I_yIc",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "2453 Adam Clayton Powell Junior Boulevard, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.82183120000001,
+          "lng": -73.9384152
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8232438302915,
+            "lng": -73.9372235697085
+          },
+          "southwest": {
+            "lat": 40.8205458697085,
+            "lng": -73.9399215302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "The Green Parrot Lounge",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102849867781668136343\">Lisa Moore</a>"
+          ],
+          "photo_reference": "AeJbb3cDztDgjEjQy9RD5xlF1vqHTVrlXwVMXSK60f9xIK0YAd4488MOXkt7B--ous1vF0NlzDBnRmjR8EDDh7mmjWjLYNTEC_TJ3FsAin9E8uc0qtuE_XB7lB34ZLMwTaBWYLjJzaBAt-O4VXz44p2hm_0v3-GSioMkKlP5vKlFC4GQblwZ",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJt4tl3Hj2wokRQz79Ov8JhVM",
+      "plus_code": {
+        "compound_code": "R3C6+PJ New York, NY, USA",
+        "global_code": "87G8R3C6+PJ"
+      },
+      "rating": 4.2,
+      "reference": "ChIJt4tl3Hj2wokRQz79Ov8JhVM",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 32,
+      "vicinity": "2509 Adam Clayton Powell Junior Boulevard, New York"
+    }
+  ],
+  "status": "OK"
+}

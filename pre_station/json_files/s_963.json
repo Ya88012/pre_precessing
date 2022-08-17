@@ -1,0 +1,2856 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3cGyhxwhHTP85JTMnekNr91TRHJs55xMughL1QJZ3oK3Oj_JaepxfJN_sRuRm9Acv2NpZoxEpJ7vqPIiie0v-Wje1ZtEe1gArE_GC-Hw-T-oYa48njfk34OEXD5i5pEmc1GmaSRzysOgsyiW3mSop419LXcrvjdskKtMsGERet_sqKQ",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7197829,
+          "lng": -73.9792454
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7209466302915,
+            "lng": -73.9777923197085
+          },
+          "southwest": {
+            "lat": 40.7182486697085,
+            "lng": -73.9804902802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "NEST+M",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJoXEAz35ZwokR4D2aBgqEwuM",
+      "plus_code": {
+        "compound_code": "P29C+W8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P29C+W8"
+      },
+      "rating": 4.2,
+      "reference": "ChIJoXEAz35ZwokR4D2aBgqEwuM",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 78,
+      "vicinity": "111 Columbia Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7184646,
+          "lng": -73.97585710000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7196904302915,
+            "lng": -73.97450406970849
+          },
+          "southwest": {
+            "lat": 40.7169924697085,
+            "lng": -73.9772020302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Bard High School Early College",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114175603856129713809\">Bard College</a>"
+          ],
+          "photo_reference": "AeJbb3cdwAuLP8B0f0nnVdY7GKZx0bCX0DiNzehEtdfEgqtIoUnAJwqPgYPnesEDtaRrOSwWZi3MZboSQbYlfq112_WNvg-N5RCUqKYkVNpfaZkRuUXZqJd_Zz5dcGUJzLqh3RM0puPlZgHKahb2_upnYm9XdaK2y6Oh7R_lIh_FgQ9ABXX8",
+          "width": 1357
+        }
+      ],
+      "place_id": "ChIJJVcqPnxZwokRw8Tw5d6rjT4",
+      "plus_code": {
+        "compound_code": "P29F+9M \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P29F+9M"
+      },
+      "rating": 4.5,
+      "reference": "ChIJJVcqPnxZwokRw8Tw5d6rjT4",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 36,
+      "vicinity": "525 East Houston Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7219836,
+          "lng": -73.9817849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7234096802915,
+            "lng": -73.98038741970849
+          },
+          "southwest": {
+            "lat": 40.7207117197085,
+            "lng": -73.98308538029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Nuyorican Poets Cafe",
+      "photos": [
+        {
+          "height": 514,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102573630607857625777\">Nuyorican Poets Cafe</a>"
+          ],
+          "photo_reference": "AeJbb3cEw6Bnsa88G5GnwIjIkACy5zUDws9wcDigp2DHG93UxnwRYScyodrp2mX3O-n5UpGihUWLjTB1WaW0RAhEowl2nWaihsKLE3O9tzLiV0Eq2PR-gjfnDrG9hXGU7ecm1OEFdZ1M8vM9lPWd7hgA15Z_8b7oubTbiCcTR6yfru2zB8Mp",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJa9ykPA72wokR6xb4TkIDNcM",
+      "plus_code": {
+        "compound_code": "P2C9+Q7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2C9+Q7"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJa9ykPA72wokR6xb4TkIDNcM",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 840,
+      "vicinity": "236 East 3rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7243198,
+          "lng": -73.9784447
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7257097302915,
+            "lng": -73.9771928697085
+          },
+          "southwest": {
+            "lat": 40.72301176970851,
+            "lng": -73.97989083029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Kafana",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 665,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108846469206223589571\">Kafana</a>"
+          ],
+          "photo_reference": "AeJbb3fGOyc3vmTq_n9zjTlXGs7kyU7GLD9QIdSQZEZSrlaumSJQberkznNeOD3CuEE4USuzE0ad7C1eFWuke7pZ0ReE_UCbKZqPPxiEwjVQhZe9MreBiwy0j4ooMg1v_dzOfRJPj-MEbaOMwKcSEZU-lYq70a8uMpqxX79bRYmrEXNLgwan",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJoRWJ3XlZwokRG88-orPcMUc",
+      "plus_code": {
+        "compound_code": "P2FC+PJ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2FC+PJ"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJoRWJ3XlZwokRG88-orPcMUc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 744,
+      "vicinity": "116 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7245,
+          "lng": -73.9814
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7258804302915,
+            "lng": -73.98013536970849
+          },
+          "southwest": {
+            "lat": 40.7231824697085,
+            "lng": -73.9828333302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Horus Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105504177892821875944\">Horus Cafe</a>"
+          ],
+          "photo_reference": "AeJbb3f4DPu5_39DqfDQDlX1-P2oqi9otxxzyA1Dce7xn131eSPRUB5VyeIJWpzlvAcD27Ga5_UKBNXLqLtaujOAEWoS5Ng_ronk_KHqTQ-rG2Hc7maM6yrdj2BI4Cxl4oG5yZBiZc5g_DIQ0AAymszuwwFyFGWiZp0fqwe55mPaCnsicXJ4",
+          "width": 844
+        }
+      ],
+      "place_id": "ChIJd44UPXhZwokRMNBKRybimqY",
+      "plus_code": {
+        "compound_code": "P2F9+RC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2F9+RC"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJd44UPXhZwokRMNBKRybimqY",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 510,
+      "vicinity": "93 Avenue B, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72114380000001,
+          "lng": -73.97977840000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7225647302915,
+            "lng": -73.9783767697085
+          },
+          "southwest": {
+            "lat": 40.7198667697085,
+            "lng": -73.98107473029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Green Map System",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 701,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106579308002048432987\">Green Map System</a>"
+          ],
+          "photo_reference": "AeJbb3fAnAKenQNkL_2AexkkC-obuDNwIaz_460LACWg3_sQPi6Lr74JNFaGcwq8ppYo6INRsopgoXdRmWSQZ9KItZagVwgq77xMHXv9hASV_iKJSLFvMvLTkVh-_JL0Upz7q5xscfEE-m5PtTFWG8MSAaSV1KmToFPT-HseL3-qG8YBn_K9",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJGzJKhIJZwokRpSqFNsP1a3M",
+      "plus_code": {
+        "compound_code": "P2CC+F3 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2CC+F3"
+      },
+      "rating": 3.8,
+      "reference": "ChIJGzJKhIJZwokRpSqFNsP1a3M",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "292 East 3rd Street #1a, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7255385,
+          "lng": -73.9783142
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7268497802915,
+            "lng": -73.9769928697085
+          },
+          "southwest": {
+            "lat": 40.7241518197085,
+            "lng": -73.9796908302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beast River Fitness - CrossFit East River",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103822648728845803303\">Beast River Fitness - CrossFit East River</a>"
+          ],
+          "photo_reference": "AeJbb3ecpzSAMLvw6Im2yBsDFbd_LoCYqFRNb9VydNI8sbLc6jTG8wPKEzJM-2nwWWfJw1kgC1cGQ8VOe7_Z0_80k7x4fOzjJ_fSNzXo6aqzKpl2FG1PGA_BZnv9xfMIuN9nlOU3rCEpnUiXUjf6NXY20wvRKcbsajuqT5gTCOQJCYV_jyKp",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ6aF0Q3dZwokRydRHo4O7GMo",
+      "plus_code": {
+        "compound_code": "P2GC+6M \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2GC+6M"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ6aF0Q3dZwokRydRHo4O7GMo",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "647 East 9th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7236373,
+          "lng": -73.9789605
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72502868029149,
+            "lng": -73.9776984697085
+          },
+          "southwest": {
+            "lat": 40.72233071970849,
+            "lng": -73.9803964302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Bobwhite Counter",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114323966297968128247\">Bobwhite Counter</a>"
+          ],
+          "photo_reference": "AeJbb3djtkSv8f8nLdSbKzkU8_FEEvLvYtZygOgzl7uZX5e-BwHr-Ycga-5R6N97KKkwkZ0DmPbeZC5bjW_TWcTpyvY1yvOwSFgkRBIMdVRa65ZmlS454TGOLzSr44MegVyuz1PhW-rkgyhQq42gPcUSB63r0WB_sH6tLHlcLEB81Kl9neI",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJhb1Sx3lZwokR7-zaifOkCwo",
+      "plus_code": {
+        "compound_code": "P2FC+FC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2FC+FC"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJhb1Sx3lZwokR7-zaifOkCwo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 929,
+      "vicinity": "94 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7250978,
+          "lng": -73.97778720000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7264923802915,
+            "lng": -73.9764186697085
+          },
+          "southwest": {
+            "lat": 40.7237944197085,
+            "lng": -73.97911663029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Ninth Street Espresso",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112084566223972084450\">Delphine Ettinger</a>"
+          ],
+          "photo_reference": "AeJbb3fr29ugFRlI__RvtAwt9ZwcsSwRh9bCnqqOvPw6wkDkSue4U9wbQsYGozu4TENbXgGpkOQLre-s0hv8DhoHLr6dXLSC5xVpX9rH3IuLaB0Um9Mg9mpyq-pwyHjBccrMANVgAEim5eqkiAaXEM-Z7SlWOKILx6ahAEunR6HuCMMa6iIA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJzeWUWndZwokRyAM_ckmcdDY",
+      "plus_code": {
+        "compound_code": "P2GC+2V \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2GC+2V"
+      },
+      "rating": 4.5,
+      "reference": "ChIJzeWUWndZwokRyAM_ckmcdDY",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "store",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 301,
+      "vicinity": "700 East 9th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7236833,
+          "lng": -73.9789528
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7250752802915,
+            "lng": -73.9776774197085
+          },
+          "southwest": {
+            "lat": 40.7223773197085,
+            "lng": -73.9803753802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Alphabet City Beer Co.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2026,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118431002483960860651\">Alphabet City Beer Co.</a>"
+          ],
+          "photo_reference": "AeJbb3fspJaLwiMZNp0cidW3aYhWEPvgN1BJe4iMzSJtimiwCieIhwsQ1D8-IA8rp_O1B6KYuqLnuQvuKhQm4LS28dN0z32LVLNJrH_890LBKnbkZQZXRrt9B8zYgdtVyR3o5URzEokZ4w8-dEUER_X17s4duecaHzUz3Rgqo-bIj8y4cf__",
+          "width": 3600
+        }
+      ],
+      "place_id": "ChIJWaWbwHlZwokRj1wHkvB84zE",
+      "plus_code": {
+        "compound_code": "P2FC+FC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2FC+FC"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJWaWbwHlZwokRj1wHkvB84zE",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "store",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 455,
+      "vicinity": "96 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72580699999999,
+          "lng": -73.97786599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72711433029149,
+            "lng": -73.97642166970849
+          },
+          "southwest": {
+            "lat": 40.72441636970849,
+            "lng": -73.97911963029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Royale",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 783,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110121844469765350506\">Royale</a>"
+          ],
+          "photo_reference": "AeJbb3eqYR6r7VedefBO8BHRrW9tkOLgeyZNyN57ChftANbC5qH8XBc4Ggsie3ARnoOMyUbTLJuhgoCrMqiaubneeyCSx42lkexvP0nDY-vIvGMOU9xLnd0dAdSlBmeH9892UfM-xE-x_FBfjz4XAfWb4zvOaw_vPshsLIuLvhlXSOenFwf6",
+          "width": 1170
+        }
+      ],
+      "place_id": "ChIJ8UwiNndZwokRdRVevqF6DWw",
+      "plus_code": {
+        "compound_code": "P2GC+8V \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2GC+8V"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJ8UwiNndZwokRdRVevqF6DWw",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 389,
+      "vicinity": "157 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7218342,
+          "lng": -73.9787655
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72313033029149,
+            "lng": -73.9774553697085
+          },
+          "southwest": {
+            "lat": 40.72043236970849,
+            "lng": -73.9801533302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Street Settlement",
+      "place_id": "ChIJlaBXDXlZwokR1Tf_u10KlkA",
+      "plus_code": {
+        "compound_code": "P2CC+PF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2CC+PF"
+      },
+      "reference": "ChIJlaBXDXlZwokR1Tf_u10KlkA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "333 East 4th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7229344,
+          "lng": -73.9746545
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72422908029149,
+            "lng": -73.97315106970849
+          },
+          "southwest": {
+            "lat": 40.7215311197085,
+            "lng": -73.9758490302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Riis II",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110247327979234631574\">wxlliqm</a>"
+          ],
+          "photo_reference": "AeJbb3cAiECITHY0Uw538bppumpMWHZWbUI9O0N1PuhmkqK-OiZFxk7w4OjU58heV64TG7pKFu_hakQoqgzuCo0-9Qyr7yJurz7Ne6rhbBnMFKSxTwOG0Y4xlaPlnYjZWicxTUjtRo9QKp1EV1oQ8PH8yUuaV3f7HOzNxZ0PkxXtkYjfJzwg",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJ-_-G5nhZwokR1L8pUjacRDs",
+      "plus_code": {
+        "compound_code": "P2FG+54 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2FG+54"
+      },
+      "rating": 3.3,
+      "reference": "ChIJ-_-G5nhZwokR1L8pUjacRDs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "765 FDR Drive, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7217817,
+          "lng": -73.98025969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7231972802915,
+            "lng": -73.97900416970849
+          },
+          "southwest": {
+            "lat": 40.7204993197085,
+            "lng": -73.9817021302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Bedlam",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102658448644919392092\">R Randolph</a>"
+          ],
+          "photo_reference": "AeJbb3dXu1gMAflU6w_597wxMZREx_vJ3chorfdsYe7UqPZjE620ak2Nyw_twzOYj3l2enRl0hFUD0eGguH1G84XfiqHO9eKTBlshUuAB5kUmlpg4DJtwFpHMsR0Ns0g5nCQSmVgyQONTfFEqZuqJes9IK_HMPohwEV8VRDsC8D20SsKJ8yO",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-_cJ43hZwokRF5vAmhR6Jug",
+      "plus_code": {
+        "compound_code": "P2C9+PV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2C9+PV"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ-_cJ43hZwokRF5vAmhR6Jug",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 131,
+      "vicinity": "40 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72422989999999,
+          "lng": -73.9813997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72564268029149,
+            "lng": -73.9800053197085
+          },
+          "southwest": {
+            "lat": 40.72294471970849,
+            "lng": -73.9827032802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "M839 Tompkins Square Middle School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJwXM1FnhZwokRV1u15QxFV_Q",
+      "plus_code": {
+        "compound_code": "P2F9+MC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2F9+MC"
+      },
+      "rating": 4.1,
+      "reference": "ChIJwXM1FnhZwokRV1u15QxFV_Q",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "600 East 6th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72512209999999,
+          "lng": -73.97788899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7265127302915,
+            "lng": -73.9764507197085
+          },
+          "southwest": {
+            "lat": 40.7238147697085,
+            "lng": -73.9791486802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "The Wayland",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118043785816592823296\">The Wayland</a>"
+          ],
+          "photo_reference": "AeJbb3eveiC07yjO2stPVxT6aFDBq6dQt3CoPT7DIRBSsFHC-A8vALnk_Zis-emCfCHWKqfrGAfoeKftQM3XN7opz08MO-IuQD78alYLTYveVGzJ6SGOYmtdwsiD_gOR28brd8mM3roRNB0-IfQLw-H7VQl3zRBl1C-LH-8nOuAIKw9Dkpjc",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJZeSUWndZwokRwwxbW4B4nHM",
+      "plus_code": {
+        "compound_code": "P2GC+2R \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2GC+2R"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJZeSUWndZwokRwwxbW4B4nHM",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 685,
+      "vicinity": "700 East 9th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7231961,
+          "lng": -73.9797081
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72451443029149,
+            "lng": -73.97828556970848
+          },
+          "southwest": {
+            "lat": 40.72181646970849,
+            "lng": -73.98098353029148
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sixth St Spcals Brit Motorcycle",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+          ],
+          "photo_reference": "AeJbb3eRGwymgEo21bS70SyFNNj1ZowBcuEK5jhJ3FpIkapCDscfJuqm0z44-0-VzneuA3ZltKixvr9xfXkdg2fXGX0GZHIYo4W1GAzoagfz7b4j_qZ1fZx0ms8u0oAiMuXgr6x_8IGtxQyMjS_ngLIDZxwM7etldaId4T0HqNoFfWsqf4oa",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJs0ylv3lZwokRD5uvniGuTK4",
+      "plus_code": {
+        "compound_code": "P2FC+74 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2FC+74"
+      },
+      "rating": 4.8,
+      "reference": "ChIJs0ylv3lZwokRD5uvniGuTK4",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 43,
+      "vicinity": "703 East 6th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72215129999999,
+          "lng": -73.982187
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72357558029149,
+            "lng": -73.9807826197085
+          },
+          "southwest": {
+            "lat": 40.72087761970849,
+            "lng": -73.98348058029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Gaia Italian Caf\u00e8 Shop",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107281819533053849417\">Gaia Italian Caf\u00e8 Shop</a>"
+          ],
+          "photo_reference": "AeJbb3eyFTX_0Um3O14n0fJZK8gwevfkVURTIvObcCiROE4lzTZca5kDTcrg-2Q7t4wFiFaSlL6QRwYqcQ0jBugAv7GjSyaD6bPf3hgBJUsqc1LlSBEr373bqJVB2AyAC4PC2dW11MivodpQe-0m_9Xb2a5W0cEOlhWGMA6AqSAayzrMaHBa",
+          "width": 1836
+        }
+      ],
+      "place_id": "ChIJPQf6MIJZwokRHVlYSwjBFSU",
+      "plus_code": {
+        "compound_code": "P2C9+V4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2C9+V4"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJPQf6MIJZwokRHVlYSwjBFSU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "grocery_or_supermarket",
+        "store",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 275,
+      "vicinity": "226 East 3rd Street, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7208595,
+          "lng": -74.0006686
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74252626980653,
+            "lng": -73.97164456012949
+          },
+          "southwest": {
+            "lat": 40.7004631483133,
+            "lng": -74.01933501070937
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e0b\u57ce",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112269732478250326030\">Lorri Smalls</a>"
+          ],
+          "photo_reference": "AeJbb3f-PjAc4Y8E6SXmpiP6x4hHGj_USOK5x-RF0gTyEn7DHerPdeZBmYI2Juj0z1aGe9HyjuQKlOSAjmZwIoyEp01S8pUWu0QWj5TpL7Ov5wQmZEH4BpDn-z2QNhwj9q-O1uhWaPc40ZmhvVeLzptmJPSginrJ_emb8_LCift07VG9APwz",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+      "reference": "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.721082,
+          "lng": -73.979817
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7225327802915,
+            "lng": -73.9783935697085
+          },
+          "southwest": {
+            "lat": 40.7198348197085,
+            "lng": -73.98109153029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bullet Space Housing Developme",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114974613704893594085\">Galois Theorem</a>"
+          ],
+          "photo_reference": "AeJbb3exx-6n5hBvJcciBuAJfEIY952IpeSLkfAz42CFwNecFgi1zCsAlgPiLXcA4cvLNiAukculJ_m2Ifxs44TVLDsII6gA7GNvsi5ok7KdMq2lxLs4IL4hYzNrX5OFv69NxiIFaOhQ459Kb3ceYheydlnNoPm4xmGqeMOgrex28OCvtX1I",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJIUcRIXlZwokRo2S4hURPmMQ",
+      "plus_code": {
+        "compound_code": "P2CC+C3 New York, NY, USA",
+        "global_code": "87G8P2CC+C3"
+      },
+      "rating": 4.6,
+      "reference": "ChIJIUcRIXlZwokRo2S4hURPmMQ",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "292 East 3rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7215057,
+          "lng": -73.98096269999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7228172802915,
+            "lng": -73.97953226970849
+          },
+          "southwest": {
+            "lat": 40.7201193197085,
+            "lng": -73.9822302302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Downtown Florist",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115401456869023208612\">Dr chief Apostle Pastor Bishop Mark Robinson</a>"
+          ],
+          "photo_reference": "AeJbb3frPNWG_M6coKnwjijYyDR6YB-2xH7Z8i5OlhzZzju9LVrECvCQeCMoe6KYXEmlOso7i2nbwQOCB82nufPRiplmQ_91ruHWYT6-e1QZExpxv6wWBf8ZthV0Vzux97KrmmUKXxtxRNdSwycPbTuoRiT2Dp7J4ZK04AniBF6W2AhBgsT3",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJK0cHzhhawokRYmfzoWNV7V0",
+      "plus_code": {
+        "compound_code": "P2C9+JJ New York, NY, USA",
+        "global_code": "87G8P2C9+JJ"
+      },
+      "rating": 3.5,
+      "reference": "ChIJK0cHzhhawokRYmfzoWNV7V0",
+      "scope": "GOOGLE",
+      "types": [
+        "florist",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "27 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7215718,
+          "lng": -73.9800563
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7228858302915,
+            "lng": -73.9787694697085
+          },
+          "southwest": {
+            "lat": 40.7201878697085,
+            "lng": -73.9814674302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ryan Health | NENA",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111221919224621186689\">shimmeringpath</a>"
+          ],
+          "photo_reference": "AeJbb3eYG_gp5qkSF2OHlF40y30s4JEj8Mc5Za5GTyg8mLMr1_lDhEQAMpJ4jAr8RLuFwjNqRXk1z22UUrIyl-LBkk5PaSJXZ-Q_m0CsV0aBSDLRSXVveAql8WmY1HwVL9gxE05qjCPch2ilemm7hTqLn8Y4e5EG--Ad-2fTIJJMURT8yk0L",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJpSTi4XhZwokRx6pTNmLZIQ8",
+      "plus_code": {
+        "compound_code": "P2C9+JX New York, NY, USA",
+        "global_code": "87G8P2C9+JX"
+      },
+      "rating": 3.5,
+      "reference": "ChIJpSTi4XhZwokRx6pTNmLZIQ8",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 59,
+      "vicinity": "279 East 3rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.725031,
+          "lng": -73.97846
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7263505802915,
+            "lng": -73.97699226970849
+          },
+          "southwest": {
+            "lat": 40.7236526197085,
+            "lng": -73.9796902302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "The Summit Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2867,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101365581050076385310\">The Summit Bar</a>"
+          ],
+          "photo_reference": "AeJbb3fDlpyhHkYHkaIYRDI7XpTJ_Clib8Lr33J07r4HH1E0kgkE2vFAjfiFz5vmMcI_paCSaguQy_c79_NDFgpFj3UktORe3GaS4Huo6DOP1RKlM9cQnl3I6LPY-Hcos2zr1PV78mKD1CYd9eqWVg_7UDcC_hQCghOpgisuunhtOryaCYmA",
+          "width": 3817
+        }
+      ],
+      "place_id": "ChIJG4L6XndZwokR7CIyJVdM4CI",
+      "plus_code": {
+        "compound_code": "P2GC+2J New York, NY, USA",
+        "global_code": "87G8P2GC+2J"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJG4L6XndZwokR7CIyJVdM4CI",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 336,
+      "vicinity": "133 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7238154,
+          "lng": -73.98070779999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72527498029149,
+            "lng": -73.97927736970848
+          },
+          "southwest": {
+            "lat": 40.7225770197085,
+            "lng": -73.98197533029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "6BC Botanical Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+          ],
+          "photo_reference": "AeJbb3eSalBNOmrm_qN8g3x2_A7rgKeFe4V1bzFI6GRb1NEa8tsPuFXwoqJIls7wvq5UyMvFWNTcC0SZRetqvKffo2LBPG6R7vphLQFTGrKAP1aXwyKRMkX11p6deNnN6lFLtBqnjYx_b7FszGkCK0_r9U29_5lcCvPW72OWmV4glOryT10u",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJbxEpSHhZwokRy0E6XKUyNPk",
+      "plus_code": {
+        "compound_code": "P2F9+GP New York, NY, USA",
+        "global_code": "87G8P2F9+GP"
+      },
+      "rating": 4.6,
+      "reference": "ChIJbxEpSHhZwokRy0E6XKUyNPk",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 133,
+      "vicinity": "630 East 6th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7237784,
+          "lng": -73.9817332
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72541693029149,
+            "lng": -73.98017206970849
+          },
+          "southwest": {
+            "lat": 40.7227189697085,
+            "lng": -73.98287003029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "NYC Korean School",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJwXM1FnhZwokRs_ZzmVCr0xc",
+      "plus_code": {
+        "compound_code": "P2F9+G8 New York, NY, USA",
+        "global_code": "87G8P2F9+G8"
+      },
+      "rating": 4.6,
+      "reference": "ChIJwXM1FnhZwokRs_ZzmVCr0xc",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "600 East 6th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72496859999999,
+          "lng": -73.9759231
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72639098029149,
+            "lng": -73.9744590697085
+          },
+          "southwest": {
+            "lat": 40.72369301970849,
+            "lng": -73.97715703029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Storage Post Self Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112144796070345074826\">Storage Post Self Storage</a>"
+          ],
+          "photo_reference": "AeJbb3eaHms3xxrjhkmCqgRnjLAPe_KXf-qSjcckcHur-Zi81dKqyRpMLSfrhnDpw2gUB-m6QGF0NLQ0ggQ9ZZ9ZiIl23BF9u7LgqOysFFyma6wrJedPdR0_WUwBE6OBJRgAf4bXQuQaYz3GY4jWg8ux46TTSz1V9UoOJ2zLQKLKk4E_U-YN",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJzUvXmXBZwokRl5M74KtQcvI",
+      "plus_code": {
+        "compound_code": "P2FF+XJ New York, NY, USA",
+        "global_code": "87G8P2FF+XJ"
+      },
+      "rating": 4.2,
+      "reference": "ChIJzUvXmXBZwokRl5M74KtQcvI",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 90,
+      "vicinity": "444 East 10th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7198813,
+          "lng": -73.97769939999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72110978029149,
+            "lng": -73.97643676970849
+          },
+          "southwest": {
+            "lat": 40.71841181970849,
+            "lng": -73.9791347302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Girls Prep Lower East Side Elementary Charter School",
+      "place_id": "ChIJyevWroVZwokRVxMCD2u7knU",
+      "plus_code": {
+        "compound_code": "P29C+XW New York, NY, USA",
+        "global_code": "87G8P29C+XW"
+      },
+      "rating": 3.9,
+      "reference": "ChIJyevWroVZwokRVxMCD2u7knU",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "442 East Houston Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7210768,
+          "lng": -73.9775255
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7224942302915,
+            "lng": -73.97633871970848
+          },
+          "southwest": {
+            "lat": 40.7197962697085,
+            "lng": -73.9790366802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Lillian Wald Day Care Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJy9rYZXlZwokRBzzURBd37UQ",
+      "plus_code": {
+        "compound_code": "P2CC+CX New York, NY, USA",
+        "global_code": "87G8P2CC+CX"
+      },
+      "rating": 3,
+      "reference": "ChIJy9rYZXlZwokRBzzURBd37UQ",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "34 Avenue D, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71839060000001,
+          "lng": -73.97654709999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7197674302915,
+            "lng": -73.9752880697085
+          },
+          "southwest": {
+            "lat": 40.7170694697085,
+            "lng": -73.9779860302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Urban Family Center",
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109729906374494491138\">Yuyang Dong</a>"
+          ],
+          "photo_reference": "AeJbb3dXO4K71saCoYBcQT7ZQ1l-Kc_xdR122QN0bEtTEZfAEersOYIeZi7PFGHPHDmS4sTX9VhC6RAjSvGmn84jnMiU507-XgXI6twXpEuMnnd7nvqHnzp5eK7Q2wD-BQRvqcSeHJlId-9PVudViBg4oVFJxgQ3RiJIq3GEOmhnl3umcpNg",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJC3lED3xZwokRrS84WkVRySE",
+      "plus_code": {
+        "compound_code": "P29F+99 New York, NY, USA",
+        "global_code": "87G8P29F+99"
+      },
+      "rating": 3.5,
+      "reference": "ChIJC3lED3xZwokRrS84WkVRySE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "130 Baruch Place, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.719841,
+          "lng": -73.97937999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72099893029149,
+            "lng": -73.97778691970849
+          },
+          "southwest": {
+            "lat": 40.71830096970849,
+            "lng": -73.9804848802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Hamilton Fish Park Library",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113151506387623700108\">\u05d9\u05d5\u05d3\u05d9 \u05de\u05e2\u05dc\u05d1\u05e2\u05e8</a>"
+          ],
+          "photo_reference": "AeJbb3fSJybOL_BglTwmw0_wUM516XDMARVf_69DsEOuVvbVxM0A361ZetXQ2FS7079AuJCjwVCTLaO5YpOpZco1SYmI4_2HFNhuwfFMfIFL0tfPspx5etbys3I6AzXwxeBFLKcPkW3a_xtbQLgfk6vXbBccAXaOaWa-uRezXJyq6BDkpR-K",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ0fml0n5ZwokRuAiZc6HCFKE",
+      "plus_code": {
+        "compound_code": "P29C+W6 New York, NY, USA",
+        "global_code": "87G8P29C+W6"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ0fml0n5ZwokRuAiZc6HCFKE",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "415 East Houston Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7214445,
+          "lng": -73.9779065
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7227509802915,
+            "lng": -73.9765887697085
+          },
+          "southwest": {
+            "lat": 40.7200530197085,
+            "lng": -73.97928673029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Kromagnon Music Productions",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106084722732138950839\">Kromagnon Music Productions</a>"
+          ],
+          "photo_reference": "AeJbb3dzq-Jwstc1zC5DIsJwPdSk3dXN2Mrphf7p8s9yUU24G1Syf_wsa8a5nfVE0uH5YE2d74NSqS9Ja1kQhiqNJnKq4vV_0ycx5n9Pn_Jp4aT9ONI6vjMA-Pq0eNFqArjQA-TP9TL0M_GqB4ITRzX63VolG0j1XPPllRTNKkOA2Rkly-Rz",
+          "width": 1707
+        }
+      ],
+      "place_id": "ChIJ046DZXlZwokRAARmcCIEYEo",
+      "plus_code": {
+        "compound_code": "P2CC+HR New York, NY, USA",
+        "global_code": "87G8P2CC+HR"
+      },
+      "reference": "ChIJ046DZXlZwokRAARmcCIEYEo",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "355 East 4th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7247571,
+          "lng": -73.9811947
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7261560302915,
+            "lng": -73.9799352197085
+          },
+          "southwest": {
+            "lat": 40.7234580697085,
+            "lng": -73.9826331802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Pardon My French",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 452,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103946826533976090837\">\u304b\u3063\u3071\u5bff\u53f8</a>"
+          ],
+          "photo_reference": "AeJbb3fHCXjiuNIrE0AXqM69oX7tF2Gi6xOhNpOmTCvBn3ievko8Eu52GGdGqE2sP1DDq9bm0FR7e9kV1iEZOqK361hc5xclLZz5Dgsgiz1odrWmUAhuICvElq4O0tvd_hS8-1M8fQTDjuzzEopcs9qhn3hwweNpDnG_M3DaHWCnEirF2NKO",
+          "width": 679
+        }
+      ],
+      "place_id": "ChIJtSmSI3hZwokRadPZ1D2XFzE",
+      "plus_code": {
+        "compound_code": "P2F9+WG New York, NY, USA",
+        "global_code": "87G8P2F9+WG"
+      },
+      "price_level": 3,
+      "rating": 4.3,
+      "reference": "ChIJtSmSI3hZwokRadPZ1D2XFzE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 657,
+      "vicinity": "103 Avenue B, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72139,
+          "lng": -73.97936399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7226501802915,
+            "lng": -73.97808001970849
+          },
+          "southwest": {
+            "lat": 40.7199522197085,
+            "lng": -73.9807779802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Earth Video",
+      "place_id": "ChIJudHmF3lZwokRNIjjqtgrutM",
+      "plus_code": {
+        "compound_code": "P2CC+H7 New York, NY, USA",
+        "global_code": "87G8P2CC+H7"
+      },
+      "rating": 1,
+      "reference": "ChIJudHmF3lZwokRNIjjqtgrutM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "299 East 3rd Street # 6A, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72412719999999,
+          "lng": -73.97465009999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72561123029149,
+            "lng": -73.9731906697085
+          },
+          "southwest": {
+            "lat": 40.7229132697085,
+            "lng": -73.97588863029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Virginia Day Nursery",
+      "place_id": "ChIJqwNdhHBZwokRtyJ5ukAZ5x0",
+      "plus_code": {
+        "compound_code": "P2FG+M4 New York, NY, USA",
+        "global_code": "87G8P2FG+M4"
+      },
+      "rating": 4.5,
+      "reference": "ChIJqwNdhHBZwokRtyJ5ukAZ5x0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "464 East 10th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7245026,
+          "lng": -73.9802093
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7259113802915,
+            "lng": -73.9788256697085
+          },
+          "southwest": {
+            "lat": 40.7232134197085,
+            "lng": -73.9815236302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sake Bar Satsko",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 423,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116025198085392094587\">Sake Bar Satsko</a>"
+          ],
+          "photo_reference": "AeJbb3f-Ozf9meeHqCczbsfwrc3zi6bgUTnXXK3WGhWoeDeW0GjBZFEZP26LBUoFeHLFvNJ5LeKNxHSkwqSxYGmW7LWXLVG4D3oBKNQauuo6S7cj_CnMYROGquomeTBL8ghcn8pTnCToRoEW9B5dIcs-k1S46w7sNMXPc4HBStAYe-qV2A1B",
+          "width": 749
+        }
+      ],
+      "place_id": "ChIJ15UbLXhZwokRSJWN97Vg5Rg",
+      "plus_code": {
+        "compound_code": "P2F9+RW New York, NY, USA",
+        "global_code": "87G8P2F9+RW"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJ15UbLXhZwokRSJWN97Vg5Rg",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 186,
+      "vicinity": "202 East 7th Street between Avenue B and C, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7236586,
+          "lng": -73.9820374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7254009802915,
+            "lng": -73.9803655697085
+          },
+          "southwest": {
+            "lat": 40.7227030197085,
+            "lng": -73.9830635302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "M364 The Earth School",
+      "place_id": "ChIJwXM1FnhZwokR6wVp09C1R0c",
+      "plus_code": {
+        "compound_code": "P2F9+F5 New York, NY, USA",
+        "global_code": "87G8P2F9+F5"
+      },
+      "rating": 4.4,
+      "reference": "ChIJwXM1FnhZwokR6wVp09C1R0c",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "600 East 6th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7228688,
+          "lng": -73.9772745
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7241371302915,
+            "lng": -73.9759845697085
+          },
+          "southwest": {
+            "lat": 40.7214391697085,
+            "lng": -73.97868253029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "A Gathering of Tribes",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2315,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108333097094555374903\">aileen creates</a>"
+          ],
+          "photo_reference": "AeJbb3cYkOs7prVSzq_ax3e9IXhar74FFC6qWyKBOGu8-FnmJHUPVPPfM3uHkelABA7x-JWVet3tRM1VsxoEn8Z-5mqNC1A61X_wvLYTGbJVQB5GOasWgzZ6NF0ddIqkfqsjoWhrCLBziKZh0-AHK_mbpD3i8QQrZyJREGttMyiETyLG-lI",
+          "width": 2314
+        }
+      ],
+      "place_id": "ChIJaVOCHnlZwokRlXfQPvdtWj8",
+      "plus_code": {
+        "compound_code": "P2FF+43 New York, NY, USA",
+        "global_code": "87G8P2FF+43"
+      },
+      "rating": 5,
+      "reference": "ChIJaVOCHnlZwokRlXfQPvdtWj8",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "745 East 6th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7239044,
+          "lng": -73.9779708
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7251800302915,
+            "lng": -73.9766756197085
+          },
+          "southwest": {
+            "lat": 40.7224820697085,
+            "lng": -73.97937358029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Root Group",
+      "permanently_closed": true,
+      "place_id": "ChIJr3957nlZwokRmkrYlAfocPc",
+      "plus_code": {
+        "compound_code": "P2FC+HR New York, NY, USA",
+        "global_code": "87G8P2FC+HR"
+      },
+      "reference": "ChIJr3957nlZwokRmkrYlAfocPc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "249 East 7th Street #3, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72460969999999,
+          "lng": -73.9760187
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72589848029149,
+            "lng": -73.9746909197085
+          },
+          "southwest": {
+            "lat": 40.72320051970849,
+            "lng": -73.9773888802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Housing Works - Keith D. Cylar Community Health Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 596,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115129956570897155151\">Housing Works - Keith D. Cylar Community Health Center</a>"
+          ],
+          "photo_reference": "AeJbb3d-_tqxM3KLmDBuNl_AQF3-oLfcStdmqSgLWKbOPqEJ5NRB6pejQ5I0Z2ZYtMcy3uBzsdHYIZOEN9v-Pd2F7EIi4SabkuPKIIozFGjkuD4qEChZmNlZSmsGQL2PyWBi0BwvGJcc50cCcadrpilIsDBoSGINWi4i1S_V6JiDFxSX-GU",
+          "width": 1638
+        }
+      ],
+      "place_id": "ChIJM_Wfp3BZwokRckkdOz9H2Fs",
+      "plus_code": {
+        "compound_code": "P2FF+RH New York, NY, USA",
+        "global_code": "87G8P2FF+RH"
+      },
+      "rating": 4.3,
+      "reference": "ChIJM_Wfp3BZwokRckkdOz9H2Fs",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 144,
+      "vicinity": "743-749 East 9th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7199522,
+          "lng": -73.9814913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7213288302915,
+            "lng": -73.9802429197085
+          },
+          "southwest": {
+            "lat": 40.71863086970851,
+            "lng": -73.98294088029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hamilton Fish Recreation Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102713857857330469943\">Hamilton Fish Recreation Center</a>"
+          ],
+          "photo_reference": "AeJbb3ePquzIBxVs1JcCDSM0IMGdiJUOfaxpKR1TD_lvNS2XZZOtEAlZE1cqyn1uW2x9BIMrOF7QBpEs0QDVsLieb4kx-GQ07ai9JZLIocGQO9_dmsOeCzFikQHyh5Y5JOvB7nPWVqlsn3ZLSUsqJg9GLh9umx4ktptdnCHfbm9TmffanZY",
+          "width": 4928
+        }
+      ],
+      "place_id": "ChIJhZ8ASn9ZwokR4OPfJ0Gswhs",
+      "plus_code": {
+        "compound_code": "P299+XC New York, NY, USA",
+        "global_code": "87G8P299+XC"
+      },
+      "rating": 4.1,
+      "reference": "ChIJhZ8ASn9ZwokR4OPfJ0Gswhs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 314,
+      "vicinity": "128 Pitt Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.726073,
+          "lng": -73.977727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72738013029149,
+            "lng": -73.97642251970849
+          },
+          "southwest": {
+            "lat": 40.72468216970849,
+            "lng": -73.9791204802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Urban Vets Animal Hospital",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1760,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106311090223173422494\">Lisa Martin</a>"
+          ],
+          "photo_reference": "AeJbb3ey0VZ12rXGuNH069shmsUfEqTHXWcv_VLbrQNTVyGd3J6cAJGMYUkkveD7FokCWfGkruWW8eYt3saV5Bzrgi9RsQIGZ77weDV0y1bKwgcTxBnXsTjR6eN-_BBd-UP32dv_UiBGzXYBXKEEz6Wxv7lpd8eFAIk7FGr1HiHNk1oE0twf",
+          "width": 1786
+        }
+      ],
+      "place_id": "ChIJyWSvN3dZwokRyL-Cmc1LOMA",
+      "plus_code": {
+        "compound_code": "P2GC+CW New York, NY, USA",
+        "global_code": "87G8P2GC+CW"
+      },
+      "rating": 4.5,
+      "reference": "ChIJyWSvN3dZwokRyL-Cmc1LOMA",
+      "scope": "GOOGLE",
+      "types": [
+        "veterinary_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 173,
+      "vicinity": "163 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7238584,
+          "lng": -73.9761339
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7251715802915,
+            "lng": -73.97469746970849
+          },
+          "southwest": {
+            "lat": 40.7224736197085,
+            "lng": -73.9773954302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Crown Fried Chicken",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+          ],
+          "photo_reference": "AeJbb3faPfEV6BA0jNSmyeb2d4oDmb0MYydyRQUH5jFjc2FAjyWPcV5EwFXTY26WlDwxiftkyf99l0pQrArQ01LJIB2NaHpkBnh0DScCGAfT-dMU9Cm8_7y9kqiqFDWUR1UqdlmGety7fNO3hhPkqVaNGCJuL7EYqCXRe1gzxdmqp77m-WOG",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJWwALDnpZwokRKIuoMd9W55M",
+      "plus_code": {
+        "compound_code": "P2FF+GG New York, NY, USA",
+        "global_code": "87G8P2FF+GG"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJWwALDnpZwokRKIuoMd9W55M",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 188,
+      "vicinity": "117 Avenue D, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7239935,
+          "lng": -73.9800047
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7252717802915,
+            "lng": -73.97870776970849
+          },
+          "southwest": {
+            "lat": 40.7225738197085,
+            "lng": -73.9814057302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bridge Inc",
+      "place_id": "ChIJQ2PVNHhZwokRxmCAW7ZUPbk",
+      "plus_code": {
+        "compound_code": "P2F9+HX New York, NY, USA",
+        "global_code": "87G8P2F9+HX"
+      },
+      "reference": "ChIJQ2PVNHhZwokRxmCAW7ZUPbk",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "631 East 6th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71989889999999,
+          "lng": -73.9773555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72106593029149,
+            "lng": -73.9761369197085
+          },
+          "southwest": {
+            "lat": 40.7183679697085,
+            "lng": -73.9788348802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Educational Alliance",
+      "place_id": "ChIJczv2_IFZwokRPCK6Zfvm5ZA",
+      "plus_code": {
+        "compound_code": "P29F+X3 New York, NY, USA",
+        "global_code": "87G8P29F+X3"
+      },
+      "rating": 5,
+      "reference": "ChIJczv2_IFZwokRPCK6Zfvm5ZA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "442 East Houston Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.721554,
+          "lng": -73.97709200000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72290938029149,
+            "lng": -73.9759908197085
+          },
+          "southwest": {
+            "lat": 40.7202114197085,
+            "lng": -73.97868878029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lillian Wald",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105280660387671034338\">Helmut G-W</a>"
+          ],
+          "photo_reference": "AeJbb3fRYAt_HqWyKshzTiBaskc16tjPFEEPH4eAnoUccUFLLnEuQ5Hb_IapRsbOpXOufEuUEz3sEAJzydoncYIgtST1Pecr76oB57Nxd8V0pQyTgBdD13i2jPfGeRLN-3axUq-FtWWj9KA2Sep8vL8rV7lNMZeGcRAuS8Q72DJFAmQdihWD",
+          "width": 4352
+        }
+      ],
+      "place_id": "ChIJm1YvfHlZwokR8_OhIlOOBYc",
+      "plus_code": {
+        "compound_code": "P2CF+J5 New York, NY, USA",
+        "global_code": "87G8P2CF+J5"
+      },
+      "rating": 4.6,
+      "reference": "ChIJm1YvfHlZwokR8_OhIlOOBYc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "54 Avenue D, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7250096,
+          "lng": -73.9779669
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7263952302915,
+            "lng": -73.97670526970849
+          },
+          "southwest": {
+            "lat": 40.7236972697085,
+            "lng": -73.97940323029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "A & C Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2809,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+          ],
+          "photo_reference": "AeJbb3cNOThGkITLxcGCP4rc7Qgddxax9RQh4elohsQAvOWQN1ykC8YV3wtgYjZv55Nm_WtPBqucIHDur7ESsrckzWfRVZ-Q7ZwOlgFOjF-j-VbreeqeIgSP4M43RC3KodD86n_XSvBegjmzZ9l8_LuXzQZj9f5AORH0mQPnyK3Ym2Qhw-tc",
+          "width": 3746
+        }
+      ],
+      "place_id": "ChIJBxeKWXdZwokRoE0jhLAfrjU",
+      "plus_code": {
+        "compound_code": "P2GC+2R New York, NY, USA",
+        "global_code": "87G8P2GC+2R"
+      },
+      "price_level": 1,
+      "rating": 3.5,
+      "reference": "ChIJBxeKWXdZwokRoE0jhLAfrjU",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "136 Loisaida Avenue A, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7236486,
+          "lng": -73.98027789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7251024302915,
+            "lng": -73.97885171970849
+          },
+          "southwest": {
+            "lat": 40.7224044697085,
+            "lng": -73.9815496802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Chinese Hawaiian Kenpo Academy",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114933707533700353004\">Chinese Hawaiian Kenpo Academy</a>"
+          ],
+          "photo_reference": "AeJbb3dnyqkazuU3u9MUpLz49RGVUkkDIgdvZc-RtVfu1ZGo08Xgn6Oj_1hyeEyGl2H3kBIydQouufgQ9injngWkzVuPHeAhHy0McbwCX_KyfFljAGANLCXHyyWAg3YSJpb7X2xEQBLyjiPH5nBE2PBN8mSBWkchXCfReSyEGqSqOTmgSTPC",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJdQle-IJZwokR5FN5lQBaT0M",
+      "plus_code": {
+        "compound_code": "P2F9+FV New York, NY, USA",
+        "global_code": "87G8P2F9+FV"
+      },
+      "rating": 4.8,
+      "reference": "ChIJdQle-IJZwokR5FN5lQBaT0M",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "638 East 6th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7227447,
+          "lng": -73.9796795
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7241201302915,
+            "lng": -73.97839371970849
+          },
+          "southwest": {
+            "lat": 40.7214221697085,
+            "lng": -73.9810916802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "5C Cafe",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1261,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104085210188848097748\">5C Cafe</a>"
+          ],
+          "photo_reference": "AeJbb3eZQfEu-Yo8y1TJT2dMxv87ErJ2PkPoCVaTgavM2qn7N5hOgvzL2P2yoSRNOaKNjV9NHriqz5SAPfoMH9jjjEU9jt_T3_yn9y5DMrY4TeHD_Fekihhaz-y7d8VXacNHA0QxVq2v6nJEsprmWbvSeJWtsHQ4JyBoyc9S3XCirbLLp4D6",
+          "width": 1284
+        }
+      ],
+      "place_id": "ChIJ7fVnqXlZwokRi6v1ivguMWE",
+      "plus_code": {
+        "compound_code": "P2FC+34 New York, NY, USA",
+        "global_code": "87G8P2FC+34"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJ7fVnqXlZwokRi6v1ivguMWE",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 101,
+      "vicinity": "68 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7216972,
+          "lng": -73.9734364
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7230461802915,
+            "lng": -73.97208741970849
+          },
+          "southwest": {
+            "lat": 40.7203482197085,
+            "lng": -73.9747853802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "John V. Lindsay East River Park Track",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 7449,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102824433786931720370\">Doosung Shin</a>"
+          ],
+          "photo_reference": "AeJbb3c_abSkkysCf7uao5wFP-Uv61fgCFjeJRvPX1U5pmke7HSTnlcSdsTe8g4umz9HRl_a-TFmWegl26KOiG-blwokXyx8GdKzk2HtqypPi2MPqS5cMi8wU3j9O7LMyhrK1Pr4EjxsjNo7giOTQV5q7uZed1xrkbOdkAIc5pwoYnPlEgSm",
+          "width": 5587
+        }
+      ],
+      "place_id": "ChIJ3Z6yJiJawokR_NZVoJM3X7U",
+      "plus_code": {
+        "compound_code": "P2CG+MJ New York, NY, USA",
+        "global_code": "87G8P2CG+MJ"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ3Z6yJiJawokR_NZVoJM3X7U",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 748,
+      "vicinity": "1234 East 6th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72659029999999,
+          "lng": -73.9780047
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72804633029149,
+            "lng": -73.9765986697085
+          },
+          "southwest": {
+            "lat": 40.72534836970849,
+            "lng": -73.9792966302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sky East LLC",
+      "place_id": "ChIJ9fhjL3dZwokReejVHe2Gv-U",
+      "plus_code": {
+        "compound_code": "P2GC+JQ New York, NY, USA",
+        "global_code": "87G8P2GC+JQ"
+      },
+      "rating": 3.3,
+      "reference": "ChIJ9fhjL3dZwokReejVHe2Gv-U",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "636 East 11th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7240249,
+          "lng": -73.9816527
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7255401802915,
+            "lng": -73.98013181970849
+          },
+          "southwest": {
+            "lat": 40.7228422197085,
+            "lng": -73.98282978029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cordner Arthur",
+      "place_id": "ChIJwXM1FnhZwokRIurJN7x0FxY",
+      "plus_code": {
+        "compound_code": "P2F9+J8 New York, NY, USA",
+        "global_code": "87G8P2F9+J8"
+      },
+      "reference": "ChIJwXM1FnhZwokRIurJN7x0FxY",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "600 East 6th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7247162,
+          "lng": -73.9755662
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72602088029149,
+            "lng": -73.9741113197085
+          },
+          "southwest": {
+            "lat": 40.72332291970849,
+            "lng": -73.9768092802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Glass Factory",
+      "place_id": "ChIJ5Uofn3BZwokR9SdYt1G1Zn8",
+      "plus_code": {
+        "compound_code": "P2FF+VQ New York, NY, USA",
+        "global_code": "87G8P2FF+VQ"
+      },
+      "rating": 3.5,
+      "reference": "ChIJ5Uofn3BZwokR9SdYt1G1Zn8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "139 Avenue D, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7247484,
+          "lng": -73.9816424
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7260670302915,
+            "lng": -73.98022021970849
+          },
+          "southwest": {
+            "lat": 40.7233690697085,
+            "lng": -73.9829181802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Gruppo NYC Thin Crust Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102775150136900088187\">Gruppo NYC Thin Crust Pizza</a>"
+          ],
+          "photo_reference": "AeJbb3fWaz-zvV-sM6sR7ln6jpITvMHWw8Pf8mVuikgyz4kadC_dHAC4X94D32V0aYThnd-Z97fh3kwe3KDFZu8eJs57iTdv8e--9o3FAa_cekF9sMmdq4VYgwFFFgGx96TrLKzuGER50Cye5wrJI4SIkbFAdcwVv0VTXK6yBDk6RO7yslKS",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJOYIs-3ZZwokRH5msQ2RZCQ8",
+      "plus_code": {
+        "compound_code": "P2F9+V8 New York, NY, USA",
+        "global_code": "87G8P2F9+V8"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJOYIs-3ZZwokRH5msQ2RZCQ8",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "cafe",
+        "meal_delivery",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 388,
+      "vicinity": "98 Avenue B, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7246356,
+          "lng": -73.9786598
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72604398029149,
+            "lng": -73.9772511697085
+          },
+          "southwest": {
+            "lat": 40.72334601970849,
+            "lng": -73.9799491302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Associated Supermarkets of Alphabet City",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+          ],
+          "photo_reference": "AeJbb3cmX8p53Nrdt_CMsyZzs86lxlvjPliNJlMO55_RLXRTP8Ko5pnn6PQF5cvpwmTIJ_rluEZ9vNIwEvux7s_9ttEafMPtqqBy10cUMDXUcGG5VFP43uXIiOVXSW9Hw1GSKlHCi578QtIjp7TB545mjUnqD9IabTY0qNXZc2H2-BAr7qy8",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJSxJS4HlZwokR1RIP2fu3yH4",
+      "plus_code": {
+        "compound_code": "P2FC+VG New York, NY, USA",
+        "global_code": "87G8P2FC+VG"
+      },
+      "rating": 3.8,
+      "reference": "ChIJSxJS4HlZwokR1RIP2fu3yH4",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 192,
+      "vicinity": "123 Loisaida Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7218342,
+          "lng": -73.9787655
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72313033029149,
+            "lng": -73.9774553697085
+          },
+          "southwest": {
+            "lat": 40.72043236970849,
+            "lng": -73.9801533302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Queens Children Psychiatric",
+      "place_id": "ChIJlaBXDXlZwokRwVG_PrK1FMw",
+      "plus_code": {
+        "compound_code": "P2CC+PF New York, NY, USA",
+        "global_code": "87G8P2CC+PF"
+      },
+      "reference": "ChIJlaBXDXlZwokRwVG_PrK1FMw",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "333 East 4th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72404700000001,
+          "lng": -73.97737839999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72548033029151,
+            "lng": -73.97596781970849
+          },
+          "southwest": {
+            "lat": 40.72278236970851,
+            "lng": -73.97866578029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Green Oasis",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2781,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+          ],
+          "photo_reference": "AeJbb3dxhSRBojpPmH6X17KMexKlNjJbdTTPSvzu2G7pam_FW2IQ9Z1lnmw28mj-RneKExNmc4AguwFkEEg_b22BpKIwa1Y54syIJTLFd_cNvfmKaBcOOZN1ROaL0CNK0MlpO-BEiaZ1aLFfkyeoSvdbOgHqu8pUKqLPfOMs6xscHsL45CM9",
+          "width": 2781
+        }
+      ],
+      "place_id": "ChIJ5ccq-HlZwokRf-uTkQ219Rw",
+      "plus_code": {
+        "compound_code": "P2FF+J2 New York, NY, USA",
+        "global_code": "87G8P2FF+J2"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ5ccq-HlZwokRf-uTkQ219Rw",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "370 East 8th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7228802,
+          "lng": -73.98132319999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7241879802915,
+            "lng": -73.98000461970848
+          },
+          "southwest": {
+            "lat": 40.7214900197085,
+            "lng": -73.98270258029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "George Daly House",
+      "place_id": "ChIJSVLDX3hZwokR8pasVGiuXKQ",
+      "plus_code": {
+        "compound_code": "P2F9+5F New York, NY, USA",
+        "global_code": "87G8P2F9+5F"
+      },
+      "rating": 3.5,
+      "reference": "ChIJSVLDX3hZwokR8pasVGiuXKQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "269 East 4th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.721882,
+          "lng": -73.98156469999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7233055802915,
+            "lng": -73.98015126970849
+          },
+          "southwest": {
+            "lat": 40.7206076197085,
+            "lng": -73.98284923029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Rossy's Bakery & Coffee Shop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+          ],
+          "photo_reference": "AeJbb3cl6TtexhXYxxnGKP1Vn966H7Mw8gPqGB-fgPKT9hKmReO9Clju8EGmc0lDYmDhtZ2Ld8GRrrAdRNtzssSzPxOt-QAsFE9HP3gZ8TLVAeDucNacx0I0N2nKPpEAe6gapBCzZiOxO4SP8BYp26xekBykEJ1tSJcixN5beGvRDnGEXVHU",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJT4eklHhZwokRFHm1q8ywTDo",
+      "plus_code": {
+        "compound_code": "P2C9+Q9 New York, NY, USA",
+        "global_code": "87G8P2C9+Q9"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJT4eklHhZwokRFHm1q8ywTDo",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 158,
+      "vicinity": "242 East 3rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7240138,
+          "lng": -73.9802586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72532528029151,
+            "lng": -73.9789372197085
+          },
+          "southwest": {
+            "lat": 40.72262731970851,
+            "lng": -73.9816351802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Common Name",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 416,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110262810023423832413\">Common Name</a>"
+          ],
+          "photo_reference": "AeJbb3fkZqbKVoUopDf-bCW-ZS_C4Pj185_PLnpoDNely-aHUoLqCh221OO0DEwQBcpn4ppnaA06UspqfrAsGxxSSDC9-epxvQfFEXAAj5KHdz4-tAvwG3FVuKevj19OTeFjrS4bwuQIsk0wpTnzmlFBUuCqmGWwJ-72q5h3Y1XBYVlqaE5I",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJP-a4k4dZwokRj6Ghv2ckS78",
+      "plus_code": {
+        "compound_code": "P2F9+JV New York, NY, USA",
+        "global_code": "87G8P2F9+JV"
+      },
+      "reference": "ChIJP-a4k4dZwokRj6Ghv2ckS78",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "625 East 6th Street #1, New York"
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,2827 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fAWLYORdWesnwm1h-w1sYR93YbNqpcR77rB2ptml9zzAR_ZLiQf4zfJR7xe81V94A-y8FadH2nXX72u-fMxPDi_vBHsslkNtaF9198Oskn9ACeSL3ztIOIB7tWtsy7PM1QaBO5Yrwgm2kkbohrersMLLuJtFs1lVR33qiSZWXQXdFZ",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8212913,
+          "lng": -73.9089098
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8226329802915,
+            "lng": -73.9075095197085
+          },
+          "southwest": {
+            "lat": 40.8199350197085,
+            "lng": -73.9102074802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "The New LIFE School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJqUW3-7T1wokRnv_agIvC4cw",
+      "plus_code": {
+        "compound_code": "R3CR+GC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CR+GC"
+      },
+      "rating": 3,
+      "reference": "ChIJqUW3-7T1wokRnv_agIvC4cw",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "831 Eagle Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8237321,
+          "lng": -73.9138947
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82505218029151,
+            "lng": -73.91263381970849
+          },
+          "southwest": {
+            "lat": 40.82235421970851,
+            "lng": -73.91533178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "United States Postal Service",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1404,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3de3lzTyNLeSf6ZWKrrmLD5e5I91ri4tl0ohnTd6BW6X1YmVoRHUf6w80g2KwnRy30VdNIgV_fZZGQVthXqKvTNcu9-MZlh3Ox_YVDp9LY7fZj1h_AqOhhpJkx75uC3C8aB4cGaLJYgYk0cP4bakVDH4q1bYPp2Xuvxa8o65EFOsuGT",
+          "width": 3230
+        }
+      ],
+      "place_id": "ChIJfcbJD0n0wokRmK-Xk0oJGbo",
+      "plus_code": {
+        "compound_code": "R3FP+FC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3FP+FC"
+      },
+      "rating": 1.6,
+      "reference": "ChIJfcbJD0n0wokRmK-Xk0oJGbo",
+      "scope": "GOOGLE",
+      "types": [
+        "post_office",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 65,
+      "vicinity": "860 Melrose Avenue FRNT 2, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81979800000001,
+          "lng": -73.9128709
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8212843302915,
+            "lng": -73.9116659197085
+          },
+          "southwest": {
+            "lat": 40.81858636970851,
+            "lng": -73.9143638802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Forman Mills",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3507,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117768608905090782733\">anthony gopar</a>"
+          ],
+          "photo_reference": "AeJbb3dVpuy1kupMK_QeknZik-n6lY9-EDw-bnSZg9kAkoVdLlMRTfp1sd69BvPRLz0d0i3f5uglYRlC18Ww_sO1-585qLeZ4HQEg-09WeoZ-sUlrLPbtjVwZnxwZ5vzJEMoWBZ3Qgv9sUUmyZG_uHEoG68prlzL-YldqNoNsoEY52Z2e47f",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJab1RG8r1wokRA4P6mUZzgJ8",
+      "plus_code": {
+        "compound_code": "R39P+WV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39P+WV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJab1RG8r1wokRA4P6mUZzgJ8",
+      "scope": "GOOGLE",
+      "types": [
+        "department_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1998,
+      "vicinity": "3036 3rd Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8213341,
+          "lng": -73.9168589
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8226007802915,
+            "lng": -73.9155516197085
+          },
+          "southwest": {
+            "lat": 40.8199028197085,
+            "lng": -73.9182495802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Public School 29",
+      "permanently_closed": true,
+      "place_id": "ChIJvX4TmMv1wokROXr-OjgxJEA",
+      "plus_code": {
+        "compound_code": "R3CM+G7 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3CM+G7"
+      },
+      "reference": "ChIJvX4TmMv1wokROXr-OjgxJEA",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "\u5e03\u6717\u514b\u65af"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82365829999999,
+          "lng": -73.91261639999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8249568302915,
+            "lng": -73.91109826970849
+          },
+          "southwest": {
+            "lat": 40.8222588697085,
+            "lng": -73.9137962302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "EVS Tax Services",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJdQqkqMr1wokR-V3lv4tyfPc",
+      "plus_code": {
+        "compound_code": "R3FP+FX \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3FP+FX"
+      },
+      "rating": 5,
+      "reference": "ChIJdQqkqMr1wokR-V3lv4tyfPc",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "871 Elton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8224399,
+          "lng": -73.9112273
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8237572802915,
+            "lng": -73.91000676970849
+          },
+          "southwest": {
+            "lat": 40.8210593197085,
+            "lng": -73.9127047302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "New York City Police Department - 42nd Precinct",
+      "photos": [
+        {
+          "height": 2863,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3dxWL1huKUjWOa0At3_xREc4aNzNGCJ5v58Q_3SDtuIIICyPdKmch-Rr6M5kGPHvF_mIoe_W3eLpx97DAE_pV7xhXSzgSeHgT2rfWQ9ZiGfCutZSNiJz-TNGLt_TvXoYm3WjvfiOclBn6Br1cBmgDTJ3Xnm1rJK0JIHL90YkwLBTPhh",
+          "width": 3808
+        }
+      ],
+      "place_id": "ChIJOxNdZbX1wokR0UgklFunWhQ",
+      "plus_code": {
+        "compound_code": "R3CQ+XG \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3CQ+XG"
+      },
+      "rating": 2.9,
+      "reference": "ChIJOxNdZbX1wokR0UgklFunWhQ",
+      "scope": "GOOGLE",
+      "types": [
+        "police",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 53,
+      "vicinity": "830 Washington Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81879849999999,
+          "lng": -73.91400039999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8201839802915,
+            "lng": -73.91270861970848
+          },
+          "southwest": {
+            "lat": 40.8174860197085,
+            "lng": -73.9154065802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Mattress Firm The Hub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117170947404002347314\">Mattress Firm The Hub</a>"
+          ],
+          "photo_reference": "AeJbb3de5Zh8t3Honbmw71Q256VSnvCMFRihtSaFx87i1ngyEr_1fP3nDn0cTvHMHbSbNd4ZdlJXvWqmqcMYwN9K4MlSqJe--ZkKa_0frTaKHSKwI17WSfqX-gmwc7kh2KUzIG97P8BzTpwUDiYKRbPf3kfEL4EGDFrRoDbKHFuDCSGQqFay",
+          "width": 1333
+        }
+      ],
+      "place_id": "ChIJj8FstMj1wokRDUBm83ROpUo",
+      "plus_code": {
+        "compound_code": "R39P+G9 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39P+G9"
+      },
+      "price_level": 1,
+      "rating": 4.7,
+      "reference": "ChIJj8FstMj1wokRDUBm83ROpUo",
+      "scope": "GOOGLE",
+      "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 215,
+      "vicinity": "2984 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8196661,
+          "lng": -73.9132353
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82104743029149,
+            "lng": -73.9119587197085
+          },
+          "southwest": {
+            "lat": 40.8183494697085,
+            "lng": -73.91465668029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Bronx Community Board 1",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJAbzMtMj1wokRHPAjb1xQYPM",
+      "plus_code": {
+        "compound_code": "R39P+VP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39P+VP"
+      },
+      "rating": 3.7,
+      "reference": "ChIJAbzMtMj1wokRHPAjb1xQYPM",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "3024 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8205328,
+          "lng": -73.91301820000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8218081302915,
+            "lng": -73.91159926970849
+          },
+          "southwest": {
+            "lat": 40.8191101697085,
+            "lng": -73.9142972302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Madison Avenue Radiology Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJdeYU4g72wokRte2BrkKxlwk",
+      "plus_code": {
+        "compound_code": "R3CP+6Q \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CP+6Q"
+      },
+      "rating": 2.8,
+      "reference": "ChIJdeYU4g72wokRte2BrkKxlwk",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "3055 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8219652,
+          "lng": -73.9106875
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8233524302915,
+            "lng": -73.90942961970849
+          },
+          "southwest": {
+            "lat": 40.8206544697085,
+            "lng": -73.9121275802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "NYC Charter High School for Architecture, Engineering & Construction Industries",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ8TnUWtv1wokRVWlpOA0Jzo8",
+      "plus_code": {
+        "compound_code": "R3CQ+QP \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3CQ+QP"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ8TnUWtv1wokRVWlpOA0Jzo8",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "838 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8198258,
+          "lng": -73.9135956
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8211268302915,
+            "lng": -73.91213926970849
+          },
+          "southwest": {
+            "lat": 40.81842886970851,
+            "lng": -73.9148372302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Domino's Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1253,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104469289447992069299\">Domino&#39;s Pizza</a>"
+          ],
+          "photo_reference": "AeJbb3cJF1KvH__0DtkoxVMu5ffdHyT2uxl3D-r3pX8NRG_8rbdiJ16K4ujqxXRMZFJTGpZmqsvb3U5HwjFweQS8serjQfNMhH0BIqEzw9DxSu3Ubmu1_Tit-T4WLxRzUSDZG3mfXuDq7jBPUEiWYL5lQK4LSoDDB-VZWZz_huk1X5aYT4Zq",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJMzSqmMn1wokR253ZIp6d7tA",
+      "plus_code": {
+        "compound_code": "R39P+WH \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39P+WH"
+      },
+      "price_level": 1,
+      "rating": 2.4,
+      "reference": "ChIJMzSqmMn1wokR253ZIp6d7tA",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 607,
+      "vicinity": "3025 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8194696,
+          "lng": -73.9133844
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82085423029149,
+            "lng": -73.91210836970849
+          },
+          "southwest": {
+            "lat": 40.8181562697085,
+            "lng": -73.9148063302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walgreens",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101361015038158888797\">Jorge Canizares</a>"
+          ],
+          "photo_reference": "AeJbb3fSkMtkexIHuuxNxbCKllSCn32V-di91L5vNN4Oqofzy6XYZHKz4XXxeiPKnKWpJZyJmRLDqrI06foIOEJmSeMiZcRWG-Mum6uzo2rWymopzlOmisoxsjEiTKwRlXJyWwCBuJoGn3XwbMaotJvvfIk86BuE2ZudBNyVh3kj9d2wWQ4V",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJLaxnHMr1wokRVOHSFIdmQY0",
+      "plus_code": {
+        "compound_code": "R39P+QJ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39P+QJ"
+      },
+      "price_level": 2,
+      "rating": 2.3,
+      "reference": "ChIJLaxnHMr1wokRVOHSFIdmQY0",
+      "scope": "GOOGLE",
+      "types": [
+        "drugstore",
+        "convenience_store",
+        "clothing_store",
+        "health",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 71,
+      "vicinity": "3012 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8237252,
+          "lng": -73.90868019999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8251080802915,
+            "lng": -73.90743176970848
+          },
+          "southwest": {
+            "lat": 40.8224101197085,
+            "lng": -73.9101297302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Cestra's Pizza II",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103592550289614404496\">Mayra Ruiz</a>"
+          ],
+          "photo_reference": "AeJbb3fLjf0ux8LiI1Er0xyCe2OWI_Jdwr3ehcxz8LdWP3PAmitJDaiqrdET5bFbOSvYYfNIeUgsYKhA4tGWR5IxzVOvpBd0N-JvAePuD-d5iMqScyU2a5TKAhFH6GSqoqZkveVk-fCOfnWuw_JCBaMWJ8C0eaNAQ7-dUPdFA1AxKe3yhZOq",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlVB7Mkv0wokRHBMKBcBRmX8",
+      "plus_code": {
+        "compound_code": "R3FR+FG \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3FR+FG"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJlVB7Mkv0wokRHBMKBcBRmX8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 93,
+      "vicinity": "3240 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.820287,
+          "lng": -73.9127563
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8216259802915,
+            "lng": -73.91151186970848
+          },
+          "southwest": {
+            "lat": 40.8189280197085,
+            "lng": -73.9142098302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 766,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114799691177942420968\">Subway</a>"
+          ],
+          "photo_reference": "AeJbb3dU5ef5jvQGSykLzqTwV4gkWSQtUBuH3ARFa8LJP9igq77DLJ6aj-UPH5eXa3FHADZSb_VZ9JO40KkdiC9tyN69J1R0swg7KfvdlOLciQwmgyUlxG6bGazkMaSb6JAPpsIRMB-G5d4x_L5wNHdQvDZxtIipsBzHquA2PdAQmo_ZEkCA",
+          "width": 766
+        }
+      ],
+      "place_id": "ChIJ2UxUCsr1wokRAw3sxSm6cOk",
+      "plus_code": {
+        "compound_code": "R3CP+4V \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CP+4V"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJ2UxUCsr1wokRAw3sxSm6cOk",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 104,
+      "vicinity": "3044 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8182061,
+          "lng": -73.9113093
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8194208802915,
+            "lng": -73.90992391970849
+          },
+          "southwest": {
+            "lat": 40.8167229197085,
+            "lng": -73.9126218802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "University Heights Secondary School",
+      "place_id": "ChIJGzk4F7b1wokR_gInV3xGN88",
+      "plus_code": {
+        "compound_code": "R39Q+7F \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39Q+7F"
+      },
+      "rating": 4.5,
+      "reference": "ChIJGzk4F7b1wokR_gInV3xGN88",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 26,
+      "vicinity": "701 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81810709999999,
+          "lng": -73.9114331
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8194003802915,
+            "lng": -73.90992306970848
+          },
+          "southwest": {
+            "lat": 40.81670241970851,
+            "lng": -73.91262103029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Moleti Carole A",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110701434155782146359\">Jay Sprill</a>"
+          ],
+          "photo_reference": "AeJbb3f9FWvelDbylBToOHi5LT2CylrEKZ8Fr_w4_2KWuUt8NEosUL40qKkZpZcHedcfy3Sb7yxve0-My8uZtj7P8mub0s6sYFUAPKj9JrC6yD802p9amOyWfpS_ZSiu1koMp4YjVTS6FPkKTLXYSCc6q4RQdZtL9FAQL9KMQUbOvdCJaZ7g",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJCVYBFLb1wokRY3Ko6tKitZ0",
+      "plus_code": {
+        "compound_code": "R39Q+6C \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39Q+6C"
+      },
+      "reference": "ChIJCVYBFLb1wokRY3Ko6tKitZ0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "701 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82131150000001,
+          "lng": -73.9151779
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8226676802915,
+            "lng": -73.91391981970848
+          },
+          "southwest": {
+            "lat": 40.8199697197085,
+            "lng": -73.9166177802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "We Stay/Nos Quedamos",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJQ5NOs8v1wokRSuwhXsFs5yw",
+      "plus_code": {
+        "compound_code": "R3CM+GW \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CM+GW"
+      },
+      "rating": 4.3,
+      "reference": "ChIJQ5NOs8v1wokRSuwhXsFs5yw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "754 Melrose Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8213777,
+          "lng": -73.9094877
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8227622302915,
+            "lng": -73.9083165697085
+          },
+          "southwest": {
+            "lat": 40.8200642697085,
+            "lng": -73.91101453029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "NAPA Auto Parts - Imagine Auto Parts",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 875,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114959164090566436958\">NAPA Auto Parts - Imagine Auto Parts</a>"
+          ],
+          "photo_reference": "AeJbb3eGwDBJpoG7NECCB_nDzkY61SRUDUa0fDMXNSI7TbzWPma6WKRapyUOuU2_Wt4wKMKBcT2E0j3j0ML-GVtIPL76KMjPCTutD66umOfM_S17FSatG6EH4FWkxApZ9Nw4E3H4_WLJW4JSTDy3oZieArGsot4qi7Z1nlI5eKGGqp360pR1",
+          "width": 1556
+        }
+      ],
+      "place_id": "ChIJgQB2AbX1wokRB__1ob246ds",
+      "plus_code": {
+        "compound_code": "R3CR+H6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CR+H6"
+      },
+      "rating": 3.6,
+      "reference": "ChIJgQB2AbX1wokRB__1ob246ds",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 70,
+      "vicinity": "830 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8519547,
+          "lng": -73.90070899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91527805889627,
+            "lng": -73.86840408623851
+          },
+          "southwest": {
+            "lat": 40.79678004393696,
+            "lng": -73.93340593816593
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West Bronx",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113738462812435835913\">Alex Lin</a>"
+          ],
+          "photo_reference": "AeJbb3d94rDnQ031M51fBU8So-rmHbUayCHmiGwBt4XWLgaR_FsSOI6Z9eqvSlKnWo-WqL3fPMzSOHENce--fZq8ITK9XerbP0Aihu2U5MW0-1z1ZeqnJ9XedcZkYQbM78hW1HIuYVlmAhc-F9tI96BCwN0E4V9UGAAzbxMkwU5Q-z_viKQG",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "reference": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8210352,
+          "lng": -73.9119163
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82246883029151,
+            "lng": -73.91078686970849
+          },
+          "southwest": {
+            "lat": 40.81977086970851,
+            "lng": -73.91348483029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Flynn Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116713507421434885418\">Flynn Playground</a>"
+          ],
+          "photo_reference": "AeJbb3dYeRL1G7Ctwfzs32HbxgAz_mZsutflNTo6wjEZvm0469P9zmwuFw7nBihOT24HSTQ65DWjrgysvvV9Tr-nKT1KsqfLtJbfSnAd7xrp9oQEo_o4WyHLB22vi2Sy90Suq_CAkMffTvO7_7thlQoEoePKxICshc_TUb3gY7CN-ClFdBVb",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJsZBThLX1wokR4XHDk77cYfY",
+      "plus_code": {
+        "compound_code": "R3CQ+C6 The Bronx, NY, USA",
+        "global_code": "87G8R3CQ+C6"
+      },
+      "rating": 3.9,
+      "reference": "ChIJsZBThLX1wokR4XHDk77cYfY",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 177,
+      "vicinity": "2739 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8201131,
+          "lng": -73.9115091
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82146343029151,
+            "lng": -73.91016756970849
+          },
+          "southwest": {
+            "lat": 40.81876546970851,
+            "lng": -73.9128655302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tony Terrell Productions",
+      "place_id": "ChIJ-WRCnrX1wokRo2BakWgbFQ4",
+      "plus_code": {
+        "compound_code": "R3CQ+29 New York, NY, USA",
+        "global_code": "87G8R3CQ+29"
+      },
+      "reference": "ChIJ-WRCnrX1wokRo2BakWgbFQ4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "804 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.820424,
+          "lng": -73.914883
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8218693802915,
+            "lng": -73.91349031970849
+          },
+          "southwest": {
+            "lat": 40.8191714197085,
+            "lng": -73.9161882802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Francesco Productions",
+      "place_id": "ChIJ4zvaNsr1wokRDkIrQzNqir0",
+      "plus_code": {
+        "compound_code": "R3CP+52 The Bronx, NY, USA",
+        "global_code": "87G8R3CP+52"
+      },
+      "reference": "ChIJ4zvaNsr1wokRDkIrQzNqir0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "420 East 156th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8215829,
+          "lng": -73.9122971
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82291093029149,
+            "lng": -73.91095841970849
+          },
+          "southwest": {
+            "lat": 40.82021296970849,
+            "lng": -73.9136563802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Phipps Houses Services Inc",
+      "place_id": "ChIJ91gPf7X1wokRmNj63muGR10",
+      "plus_code": {
+        "compound_code": "R3CQ+J3 New York, NY, USA",
+        "global_code": "87G8R3CQ+J3"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ91gPf7X1wokRmNj63muGR10",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "479 East 158th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.822926,
+          "lng": -73.91274299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82437023029151,
+            "lng": -73.9113465697085
+          },
+          "southwest": {
+            "lat": 40.82167226970851,
+            "lng": -73.9140445302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Little Green Garden",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100689882983855597440\">Freddy Karlow</a>"
+          ],
+          "photo_reference": "AeJbb3frOb9Qk7you7kxhnf7GxDehx3aDwAughEenLe2iPnT8GEfb1KL6zMduk2x6LwJ_Iwia9QEvN2GVChC8n6C7r7k5bBOWN5IQIfwBbgUaByB7hX-PLupqVnzLn5D0tdIitZGqeuzgSo8pvnQX3THNyDADNEx5G92DEvkxPVmb4f1ySai",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ8WiDocr1wokRpraP-HlecpM",
+      "plus_code": {
+        "compound_code": "R3FP+5W The Bronx, NY, USA",
+        "global_code": "87G8R3FP+5W"
+      },
+      "rating": 4,
+      "reference": "ChIJ8WiDocr1wokRpraP-HlecpM",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "453 East 160th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.821014,
+          "lng": -73.912657
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8223524302915,
+            "lng": -73.9114271697085
+          },
+          "southwest": {
+            "lat": 40.8196544697085,
+            "lng": -73.91412513029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Daisy's Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+          ],
+          "photo_reference": "AeJbb3c7n5Ka-NFjiUyYn6luQ47egtEg78QZNCPpVQdzIlWnPgcZAnshMCgOU44-S5PlXmAWMozZAff5_ht6TVK-d-oxmYoqJIQy3ahMwEkSphKdFz9jSloBOm66RA2pSOH1ikj3BZ73gs8wonayAFkdUQBI1eLU70a-wF4jjw-vo89vVN4c",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJVz7vecr1wokRBMPf2HsZpvk",
+      "plus_code": {
+        "compound_code": "R3CP+CW New York, NY, USA",
+        "global_code": "87G8R3CP+CW"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJVz7vecr1wokRBMPf2HsZpvk",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 168,
+      "vicinity": "3075 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.821574,
+          "lng": -73.9140989
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8228934802915,
+            "lng": -73.9126035197085
+          },
+          "southwest": {
+            "lat": 40.8201955197085,
+            "lng": -73.9153014802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Latinos Unidos Garden.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116359111489933624929\">J.R. Matias</a>"
+          ],
+          "photo_reference": "AeJbb3c9m8iA_NMzJSonXiZUFFMexA9Vaqd1Sm8Z-qLh-pFLl97Kw0TYbHo0FEy9aalNco35GVq4R00EfUUWBZ5sSYk4d_rM2F753RPBYhj2v_Vr7wOzaQf8yEI7YajI0lULdsyN_EdDItI-8iWWnb1XZI7abT38dYRSZL13W5RT2Kj3L2N5",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJ67qHXsr1wokRjp1nle8RBt4",
+      "plus_code": {
+        "compound_code": "R3CP+J9 The Bronx, NY, USA",
+        "global_code": "87G8R3CP+J9"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ67qHXsr1wokRjp1nle8RBt4",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "427E 157th st, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8205074,
+          "lng": -73.9137547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8218789302915,
+            "lng": -73.91247471970848
+          },
+          "southwest": {
+            "lat": 40.8191809697085,
+            "lng": -73.9151726802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Greater Eternal Baptist Church",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3fH3zUts3WPoBCrJC44SkjhOeB0A_dKBNuSQ6qrPMCyxvbJdilSsNgJzQVYqS7ml1mo9VwtAnUVRHHMKPHZxjdvErnHNdTHIHp0UYTgvnTFEM9KtTmayakcN4HQ_ZNnaiNwnLc1U6BDJ6KdFIblA8QbpEvUZmOuQ1BPu7oZipe51psV",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJm8XHasr1wokRmLc82czhQz4",
+      "plus_code": {
+        "compound_code": "R3CP+6F The Bronx, NY, USA",
+        "global_code": "87G8R3CP+6F"
+      },
+      "rating": 4.5,
+      "reference": "ChIJm8XHasr1wokRmLc82czhQz4",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "746 Elton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82078199999999,
+          "lng": -73.90930399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8221002302915,
+            "lng": -73.9078185697085
+          },
+          "southwest": {
+            "lat": 40.8194022697085,
+            "lng": -73.9105165302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "El Batey Borincano",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3fMnGFaspjw5_JU5kPx-1yk2kODvyv7n7eWZHA3vRGTkO09Rlz80hcn36vnbjAElK5bYUV5gjtJHsyh6F9Au3hpQ_qvVeM0dcrk3QrnVRd97QRpRtcydbA1HaW027PbxYg0_1tzmckSr7cyUFKiV0hviHG25TmMZ6fcmnARim19Pd03",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJLyi5U7T1wokR3HKYcTOWpBE",
+      "plus_code": {
+        "compound_code": "R3CR+87 The Bronx, NY, USA",
+        "global_code": "87G8R3CR+87"
+      },
+      "rating": 4.2,
+      "reference": "ChIJLyi5U7T1wokR3HKYcTOWpBE",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "811, 813, 815 Eagle Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8199991,
+          "lng": -73.9089767
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82148413029149,
+            "lng": -73.90757041970849
+          },
+          "southwest": {
+            "lat": 40.8187861697085,
+            "lng": -73.91026838029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grove Hill Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103249646112598020474\">Liduo Luo</a>"
+          ],
+          "photo_reference": "AeJbb3d1uqjOd7fNxix9DNR96y02WsVWWVs4sRxz8__bs30_uLIVY7h-aSqVSMNUyRiU2B3nkxPrpoPBVmh-3wXThLNNW_WkLsqe0MxQvoMMTiJfxmtzXR-tUtS4MskOYKqMkyXJ8YmorFYpf5R-wK1LBWTofqantZgT5uO_6xw0bNz9X1TA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJPTNzSLT1wokRrVhaZC3VD74",
+      "plus_code": {
+        "compound_code": "R39R+XC The Bronx, NY, USA",
+        "global_code": "87G8R39R+XC"
+      },
+      "rating": 4,
+      "reference": "ChIJPTNzSLT1wokRrVhaZC3VD74",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 61,
+      "vicinity": "615 East 158th Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.820341,
+          "lng": -73.91119599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8216050802915,
+            "lng": -73.9100171697085
+          },
+          "southwest": {
+            "lat": 40.8189071197085,
+            "lng": -73.9127151302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "HermesCentral",
+      "permanently_closed": true,
+      "place_id": "ChIJ64N8kLX1wokRbusglfkQeMU",
+      "plus_code": {
+        "compound_code": "R3CQ+4G The Bronx, NY, USA",
+        "global_code": "87G8R3CQ+4G"
+      },
+      "reference": "ChIJ64N8kLX1wokRbusglfkQeMU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "770 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82030309999999,
+          "lng": -73.9114441
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82158613029149,
+            "lng": -73.91014121970849
+          },
+          "southwest": {
+            "lat": 40.81888816970849,
+            "lng": -73.91283918029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "CJ DESIGNS - Fashion Designer / Haute Couture",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116583730629412940589\">CJ DESIGNS - Fashion Designer / Haute Couture</a>"
+          ],
+          "photo_reference": "AeJbb3fXz-i1ynYEjlGdL4hUoLZAU3ezWPOhJwuP_Rq4kITHEOAMoZQNtD61W1Ka2q290n99CaHixkKS-qJtPQhgal2gvg9SgzU5XQY3zCITcgEEmxBxzstVV7FV0O_SYnjHyCV0f8UjRdyt36Bw1conRXReDvEhRWDlZ4JsNMNGkKDnIpW6",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJhzBXxsj1wokRG5Hq1jHjJWM",
+      "plus_code": {
+        "compound_code": "R3CQ+4C New York, NY, USA",
+        "global_code": "87G8R3CQ+4C"
+      },
+      "rating": 3.6,
+      "reference": "ChIJhzBXxsj1wokRG5Hq1jHjJWM",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "770 Brook Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8218442,
+          "lng": -73.914075
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8232912302915,
+            "lng": -73.9126733197085
+          },
+          "southwest": {
+            "lat": 40.8205932697085,
+            "lng": -73.91537128029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Family Group Garden",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102406415199207477876\">Josh Garcia</a>"
+          ],
+          "photo_reference": "AeJbb3cLwUR9nYJHPNsLFrrYF3PqVT8yMm44L0C2Xy-QaISwvz_QSH5Og6LqPxuKQgG-Hn2wi3W5S-WG1oVB3sXTU2WhU1fd-rtHawB9XBC-WVHFT5ZC-6Xj8E3f9h2gHkF6F-4zv2_cpywzCtGnfvsmU8nlGXSGd8tBPCjWVzA1qCU6lxpE",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJuRsT9cr1wokRynznzbMgKrE",
+      "plus_code": {
+        "compound_code": "R3CP+P9 The Bronx, NY, USA",
+        "global_code": "87G8R3CP+P9"
+      },
+      "rating": 4.3,
+      "reference": "ChIJuRsT9cr1wokRynznzbMgKrE",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "420 East 158th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8227645,
+          "lng": -73.9124215
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8241523302915,
+            "lng": -73.91119906970849
+          },
+          "southwest": {
+            "lat": 40.8214543697085,
+            "lng": -73.9138970302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Edith Garden",
+      "photos": [
+        {
+          "height": 2880,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116395030143054544964\">Miguel Cruz Vargas</a>"
+          ],
+          "photo_reference": "AeJbb3ec5izoO5qgeRgwasExCdcGAY5G34_LPRf0uWdV8tHywsf2J2WdtDk5WJuXQwNxQKaRkssRfw-jG0Ojebxj2049oGnOaX6aIC3c76RfqK1zq9LM7zUtBXGQ3SZADkD-e2cgEY9jxXQwjnM58VGxmyX-ITtnlhrzEkFRTHvL6Hxvuy1r",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJC20aYLX1wokR_btJ0ez64d8",
+      "plus_code": {
+        "compound_code": "R3FQ+42 The Bronx, NY, USA",
+        "global_code": "87G8R3FQ+42"
+      },
+      "rating": 4.5,
+      "reference": "ChIJC20aYLX1wokR_btJ0ez64d8",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "838 Elton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8183431,
+          "lng": -73.9138504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8196581802915,
+            "lng": -73.9125269697085
+          },
+          "southwest": {
+            "lat": 40.8169602197085,
+            "lng": -73.91522493029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "VNS",
+      "photos": [
+        {
+          "height": 940,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113517729221920353858\">Fermin B</a>"
+          ],
+          "photo_reference": "AeJbb3dteKixLGjIqvx8bJS1MIkLM7xwvjACDUCkZDJCKvBKEePXF-j4nG9ROi4Wj82Y4dEKvBXh_oWG_jny5tmi3WceDWIy1iS3qzwrFPNEd7E4LsoaQE2K3aIbm55Jt7eI1Bi19i5wedpJETEeoFb38mX_Sn8oA_JXuCGjsD95NuPuOYMA",
+          "width": 828
+        }
+      ],
+      "place_id": "ChIJD-WUlMn1wokR7rXnBS1wq6E",
+      "plus_code": {
+        "compound_code": "R39P+8F New York, NY, USA",
+        "global_code": "87G8R39P+8F"
+      },
+      "rating": 3.5,
+      "reference": "ChIJD-WUlMn1wokR7rXnBS1wq6E",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "489-493 East 153rd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8231063,
+          "lng": -73.9090229
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82449313029149,
+            "lng": -73.90778416970849
+          },
+          "southwest": {
+            "lat": 40.8217951697085,
+            "lng": -73.9104821302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PAYOMATIC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJyd1P17T1wokRbNeagYGEcG8",
+      "plus_code": {
+        "compound_code": "R3FR+69 New York, NY, USA",
+        "global_code": "87G8R3FR+69"
+      },
+      "rating": 2.6,
+      "reference": "ChIJyd1P17T1wokRbNeagYGEcG8",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "3212 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8205641,
+          "lng": -73.9124423
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8219718802915,
+            "lng": -73.9112298197085
+          },
+          "southwest": {
+            "lat": 40.8192739197085,
+            "lng": -73.9139277802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dental Oral Surgery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100169432017085585134\">Lafertaque Higgins</a>"
+          ],
+          "photo_reference": "AeJbb3dk1amPXHtgcLHy045y9bBAUjj_jheoH9ualvhR8f3aX6SICcVaTjVZeuAGo8YANAw58IZIn5O6YcisTJFy6wF4CqWBxoAVOwmjH0P-HUjWD8JXunc2AuHyXOhDacdjbqoFjSXD2579A8OTTrJeHDP-EUrMpBTqKSsuDk1tbDJlHSnk",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJjURsirX1wokRTTAtByFSsEo",
+      "plus_code": {
+        "compound_code": "R3CQ+62 New York, NY, USA",
+        "global_code": "87G8R3CQ+62"
+      },
+      "rating": 3.5,
+      "reference": "ChIJjURsirX1wokRTTAtByFSsEo",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 103,
+      "vicinity": "3056 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82103259999999,
+          "lng": -73.91264509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82235378029149,
+            "lng": -73.91124386970849
+          },
+          "southwest": {
+            "lat": 40.81965581970849,
+            "lng": -73.9139418302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "American Base No. 1 Inc",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ4aogdsj1wokRlAqUGFwkUQo",
+      "plus_code": {
+        "compound_code": "R3CP+CW New York, NY, USA",
+        "global_code": "87G8R3CP+CW"
+      },
+      "rating": 3.6,
+      "reference": "ChIJ4aogdsj1wokRlAqUGFwkUQo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 85,
+      "vicinity": "3077 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82151389999999,
+          "lng": -73.9119437
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8228172302915,
+            "lng": -73.91059216970851
+          },
+          "southwest": {
+            "lat": 40.8201192697085,
+            "lng": -73.91329013029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Foodtown of Third Avenue",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101181827856774983186\">lorena devord</a>"
+          ],
+          "photo_reference": "AeJbb3fY_2-cbOxPHrRV17QNj8uU98SjdnUorkpT9QAibwE0i1Ox9sekeAKrwsoalwCnJxltM4pNgS4yQn81d4-k29WLao0_FQYMx8F_ZV5xbgVPiBAZ8fCG20y49ry3FcV4DDIJ5oVBEyCWcjkf6uJ5-xlvw_l1_dDirUpXZX6jhULcAezW",
+          "width": 1932
+        }
+      ],
+      "place_id": "ChIJjyU4eLX1wokR8pZgAsSF7Gk",
+      "plus_code": {
+        "compound_code": "R3CQ+J6 New York, NY, USA",
+        "global_code": "87G8R3CQ+J6"
+      },
+      "rating": 3.8,
+      "reference": "ChIJjyU4eLX1wokR8pZgAsSF7Gk",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "atm",
+        "florist",
+        "supermarket",
+        "finance",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 457,
+      "vicinity": "3100 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8200843,
+          "lng": -73.91268749999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8213935802915,
+            "lng": -73.91136386970848
+          },
+          "southwest": {
+            "lat": 40.8186956197085,
+            "lng": -73.91406183029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Bed Bugs Inspections Bronx",
+      "place_id": "ChIJwS1qCcr1wokRydfEYdknrU0",
+      "plus_code": {
+        "compound_code": "R3CP+2W The Bronx, NY, USA",
+        "global_code": "87G8R3CP+2W"
+      },
+      "rating": 5,
+      "reference": "ChIJwS1qCcr1wokRydfEYdknrU0",
+      "scope": "GOOGLE",
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 42,
+      "vicinity": "East 156th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8218612,
+          "lng": -73.9117279
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8232454802915,
+            "lng": -73.9104501697085
+          },
+          "southwest": {
+            "lat": 40.82054751970851,
+            "lng": -73.91314813029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Children of Zion Pediatrics",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 501,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101563694873237140140\">Children of Zion Pediatrics</a>"
+          ],
+          "photo_reference": "AeJbb3eUXYfmHz9sGAgnyuXtDHFM7RHnyxXFnNcY9wXzbg8achYARlMvgcrXwqfTPopF8NS_dqEpv85uSEIZJdzudzPBEjvSZwIBwYBK_wg8vPP7cCvQfyVQ0mADfEfG4bcP8lUONghy1k6KF1Wi_6tY1yyOHZcwcRjEKT4gIKlvpWJ2oChi",
+          "width": 700
+        }
+      ],
+      "place_id": "ChIJFQZTKdD1wokRIMl4zDvpuns",
+      "plus_code": {
+        "compound_code": "R3CQ+P8 New York, NY, USA",
+        "global_code": "87G8R3CQ+P8"
+      },
+      "rating": 4.9,
+      "reference": "ChIJFQZTKdD1wokRIMl4zDvpuns",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "3108 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8201411,
+          "lng": -73.9133525
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8214808802915,
+            "lng": -73.91191636970849
+          },
+          "southwest": {
+            "lat": 40.8187829197085,
+            "lng": -73.9146143302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Kennedy Fried Chicken",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104429577288367709871\">gamble tyrone</a>"
+          ],
+          "photo_reference": "AeJbb3fsEgYCbPuwP_IdN9Bh6rG8MIB_DcTgFVJWkyLdSrmfuqkg6RCh2Y4ikzruIbxuTd5yf7-T39YHxMlKkDhXV7njznjjRitwJZBqnPnDLysGkvNGpI99TquooQS4THxTmKFJ5h571_nbGduBIw8o9R3DGs29HoiOGly1FQbLz0XrS1Ub",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJTSqEEcr1wokRyfF0QCwJQkQ",
+      "plus_code": {
+        "compound_code": "R3CP+3M The Bronx, NY, USA",
+        "global_code": "87G8R3CP+3M"
+      },
+      "rating": 3,
+      "reference": "ChIJTSqEEcr1wokRyfF0QCwJQkQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "3045 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8200429,
+          "lng": -73.9134195
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8213450302915,
+            "lng": -73.91196566970851
+          },
+          "southwest": {
+            "lat": 40.8186470697085,
+            "lng": -73.91466363029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Holland Textiles USA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109249398899565506244\">Latoya St. Hill</a>"
+          ],
+          "photo_reference": "AeJbb3e8F0buxaW0c8EDhxOkXe4WEsEnoWEWAfDEGY_pgUj5q-D8VC_HispaaEBm5-9X91Cfb56HuxnbPL3rWbfV9xM7yYyjWaI_WWpdDOqUfIY64Ey5tdXFkrMKowqZCXNDk1O1AkfPTmqr8Mys7p4gu7QBqnm2wLOEIZAzMfNwu8oMBTKD",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJs8DAEcr1wokRN74dvB9CV4w",
+      "plus_code": {
+        "compound_code": "R3CP+2J The Bronx, NY, USA",
+        "global_code": "87G8R3CP+2J"
+      },
+      "rating": 4.4,
+      "reference": "ChIJs8DAEcr1wokRN74dvB9CV4w",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "home_goods_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "3037 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8197254,
+          "lng": -73.9131604
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8210994802915,
+            "lng": -73.9119031197085
+          },
+          "southwest": {
+            "lat": 40.8184015197085,
+            "lng": -73.9146010802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Bronx County Sheriff's Office",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJs5TUBMr1wokRwOFAugrsiu8",
+      "plus_code": {
+        "compound_code": "R39P+VP New York, NY, USA",
+        "global_code": "87G8R39P+VP"
+      },
+      "rating": 3.5,
+      "reference": "ChIJs5TUBMr1wokRwOFAugrsiu8",
+      "scope": "GOOGLE",
+      "types": [
+        "police",
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "SHERIFF'S OFFICE, 3030 3rd Avenue 2nd Floor, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81957949999999,
+          "lng": -73.9130461
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82101678029149,
+            "lng": -73.9118542697085
+          },
+          "southwest": {
+            "lat": 40.81831881970849,
+            "lng": -73.91455223029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Finance Building",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113633913607174589024\">Emman Boquiren</a>"
+          ],
+          "photo_reference": "AeJbb3d0PdApl2l9NZgOwirQDu5-q27tRgikX5xaznRsda5pMW2z_3S2UYyypurYiLyyCLgmPy6a3y3o9CGp04ZK0svZNqKNnw0Vq2F91pWj5114Y_R2BXWRRyCpY3bEukiIcOfe0_QYkkKUvUBP14_oVzg-oZFPlTb0EcCfVSh8LCJCIUmF",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQXLEGsr1wokRWduef1eNOp8",
+      "plus_code": {
+        "compound_code": "R39P+RQ New York, NY, USA",
+        "global_code": "87G8R39P+RQ"
+      },
+      "rating": 3.1,
+      "reference": "ChIJQXLEGsr1wokRWduef1eNOp8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "finance",
+        "establishment"
+      ],
+      "user_ratings_total": 34,
+      "vicinity": "3030 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81991850000001,
+          "lng": -73.9135069
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8214041302915,
+            "lng": -73.91199356970849
+          },
+          "southwest": {
+            "lat": 40.81870616970851,
+            "lng": -73.91469153029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109022872179586148711\">Martin Molina</a>"
+          ],
+          "photo_reference": "AeJbb3c_L9af_Za5Wwfn9AfXiDzpFVEz7Y_f6tpjcrQ3QRkTqByruLnAGMck4kOYJnobdXh7cI2IKXupbbRgcRuDzVM2FndDQFdD2tlKCXcHMTVZA8wYbdkbniD-EDZKPfi8KQAp6hyFVee7CY4rltzPE7gO60G19kx7h0KCMs7vbPzhOujY",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJcZrAEMr1wokRHjKSv46zMQY",
+      "plus_code": {
+        "compound_code": "R39P+XH New York, NY, USA",
+        "global_code": "87G8R39P+XH"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJcZrAEMr1wokRHjKSv46zMQY",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 150,
+      "vicinity": "3033 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8194552,
+          "lng": -73.9129806
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8208470302915,
+            "lng": -73.91190646970848
+          },
+          "southwest": {
+            "lat": 40.8181490697085,
+            "lng": -73.9146044302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Western Union",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJP5DvAsr1wokR3FbGQjjZU-U",
+      "plus_code": {
+        "compound_code": "R39P+QR New York, NY, USA",
+        "global_code": "87G8R39P+QR"
+      },
+      "reference": "ChIJP5DvAsr1wokR3FbGQjjZU-U",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "finance",
+        "establishment"
+      ],
+      "vicinity": "Walgreens, 3012 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81983289999999,
+          "lng": -73.9134878
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8211508302915,
+            "lng": -73.9120693697085
+          },
+          "southwest": {
+            "lat": 40.8184528697085,
+            "lng": -73.91476733029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Collectibles By Armada",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104203390292958075208\">Brennan Ortiz</a>"
+          ],
+          "photo_reference": "AeJbb3cM_s95MtVGBfWK7S_krttAjVsAXGjf7jzaP2gMnLjNZQqqOL4Vh448uS8KVr1ZUpN24dS8Kiu4P3Q2Wd2rlNiE3snCUPjbBugXcDd4wQOD1CnQ1CjgaaFSt50UGYgm79M_hT3SFp4azzUjOEnqb0NK9WOOKXXq0-j_faFVBUjpwi7k",
+          "width": 2992
+        }
+      ],
+      "place_id": "ChIJJYISGsr1wokR6N24jGqnTuA",
+      "plus_code": {
+        "compound_code": "R39P+WJ New York, NY, USA",
+        "global_code": "87G8R39P+WJ"
+      },
+      "rating": 4.9,
+      "reference": "ChIJJYISGsr1wokR6N24jGqnTuA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 479,
+      "vicinity": "3025B 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.819892,
+          "lng": -73.913551
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8211918302915,
+            "lng": -73.9120920197085
+          },
+          "southwest": {
+            "lat": 40.8184938697085,
+            "lng": -73.9147899802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Cedra Pharmacy",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107744928477176626147\">John F</a>"
+          ],
+          "photo_reference": "AeJbb3dP2pa0rSHwjrZE26recBGm22PXfJjdMjCUOtwLM22dKudAzGJzdSseZBnpS2AhHnku-3__vT_J-unxsZd8QprM57lUCSgV671bOUYIzQyGWBa9vxHkKYkdmT9QDttOOUwitm8sNoeNA0iB-p5y_sQwEg8T0eid2ddyJhf0_ANXTrnW",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJtc6rEMr1wokR5-jxEyFvbwY",
+      "plus_code": {
+        "compound_code": "R39P+XH New York, NY, USA",
+        "global_code": "87G8R39P+XH"
+      },
+      "rating": 3.9,
+      "reference": "ChIJtc6rEMr1wokR5-jxEyFvbwY",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "point_of_interest",
+        "clothing_store",
+        "store",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 26,
+      "vicinity": "3027 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.819892,
+          "lng": -73.913551
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8211918302915,
+            "lng": -73.9120920197085
+          },
+          "southwest": {
+            "lat": 40.8184938697085,
+            "lng": -73.9147899802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "InvestinTheBronx.com",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105468158430040275448\">InvestinTheBronx.com</a>"
+          ],
+          "photo_reference": "AeJbb3eriIPZWSZ38r5w-oiFxsgrD8p-LrO32fXVlFUhSUbNA9K992EaAuhBYQhNEkM3omPHL4gfsuoyrVnJCDZHX9yBXfSLL7Oqeuvt-vj5m8o8l87RrF5lEihVIORG_-ExwxPIhijv9JqX81fo5cAcD6FOQD059vFBaKha8Ejho4K44Liq",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJtc6rEMr1wokRql-tmQwXVcc",
+      "plus_code": {
+        "compound_code": "R39P+XH The Bronx, NY, USA",
+        "global_code": "87G8R39P+XH"
+      },
+      "reference": "ChIJtc6rEMr1wokRql-tmQwXVcc",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3027 3rd Avenue #1, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.821038,
+          "lng": -73.909627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8224211802915,
+            "lng": -73.90844636970849
+          },
+          "southwest": {
+            "lat": 40.8197232197085,
+            "lng": -73.91114433029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "IntraCares",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ0zDnqrX1wokRVCk36qAKBqU",
+      "plus_code": {
+        "compound_code": "R3CR+C4 New York, NY, USA",
+        "global_code": "87G8R3CR+C4"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ0zDnqrX1wokRVCk36qAKBqU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "820 Saint Ann's Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8197519,
+          "lng": -73.9135927
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8210706802915,
+            "lng": -73.9121527697085
+          },
+          "southwest": {
+            "lat": 40.8183727197085,
+            "lng": -73.9148507302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Boost Mobile",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 715,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108150497697350690743\">Syed S</a>"
+          ],
+          "photo_reference": "AeJbb3f9S3xxS6l4V3yuaARYkEjKOLr4DXqTSOw_Zy3yvVLp2yzbQQNQK3ywSMMxk9I_mekGia5twaKdypuHRsS5gesMg8Qr8-TbyynCmwpuSztsRp5Kw_Y-mtn3QPi6mjILkWryOKyjKgHMipm7dZ7cp-mKMxN65kSB-OLbW9_f78sJmCMW",
+          "width": 1099
+        }
+      ],
+      "place_id": "ChIJe3aQGcr1wokR-ARQ8SpQn3M",
+      "plus_code": {
+        "compound_code": "R39P+WH New York, NY, USA",
+        "global_code": "87G8R39P+WH"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJe3aQGcr1wokR-ARQ8SpQn3M",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "3023 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8225247,
+          "lng": -73.9118115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82385618029149,
+            "lng": -73.91036791970849
+          },
+          "southwest": {
+            "lat": 40.8211582197085,
+            "lng": -73.9130658802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Simply Moving",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116945254538639955577\">Simply Moving</a>"
+          ],
+          "photo_reference": "AeJbb3ebo39UvQT_5ybjUhMbwLVjLJ4mzEYZDoZWsSW5R0f2_vtKA9dCqtMbEpl9o0b_oIi05yD18TkK1we06797DcOWBLX5051F-YIWQcuZWDaX1SiCxWvYBmIvB8Lz7cvjjqbrvsWRRzDTsMggzVwWeBV3LOCWaQfHZSCYyzyFoAC0sXA",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJWXk3ZrX1wokRegEi0XA_Tm0",
+      "plus_code": {
+        "compound_code": "R3FQ+27 The Bronx, NY, USA",
+        "global_code": "87G8R3FQ+27"
+      },
+      "rating": 4.9,
+      "reference": "ChIJWXk3ZrX1wokRegEi0XA_Tm0",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "storage",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1142,
+      "vicinity": "837 Washington Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8224987,
+          "lng": -73.91230879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8237511802915,
+            "lng": -73.91101191970849
+          },
+          "southwest": {
+            "lat": 40.8210532197085,
+            "lng": -73.9137098802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Finest Tax Service",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111303631425960881081\">Marta De La T</a>"
+          ],
+          "photo_reference": "AeJbb3f_TocikkA7RqFoWIIn0DXJTuS_nGYGPU9OhiF5NHzcMlqB4Bcri0VFQMg7-gLf1YqZcm9X2NnBk9igfEm1BeTx0u2FtcsgsslbzN-fwrYp--wtRzg44yMmWNj8hZRYk5c9tXAIjsqBJTwSdpJF7qZK8Jfa7HmhGuI5rTT0gSxe8XNX",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJpwOEYbX1wokRiUzA7DZ35Hg",
+      "plus_code": {
+        "compound_code": "R3CQ+X3 The Bronx, NY, USA",
+        "global_code": "87G8R3CQ+X3"
+      },
+      "rating": 3.5,
+      "reference": "ChIJpwOEYbX1wokRiUzA7DZ35Hg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "461 East 159th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8198099,
+          "lng": -73.913926
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82120208029149,
+            "lng": -73.91271806970852
+          },
+          "southwest": {
+            "lat": 40.81850411970849,
+            "lng": -73.91541603029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Cedra Healthcare",
+      "place_id": "ChIJw1R4GMr1wokRrUVgDrGj2KU",
+      "plus_code": {
+        "compound_code": "R39P+WC The Bronx, NY, USA",
+        "global_code": "87G8R39P+WC"
+      },
+      "reference": "ChIJw1R4GMr1wokRrUVgDrGj2KU",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "point_of_interest",
+        "store",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "724 Elton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8192658,
+          "lng": -73.9135694
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8206562802915,
+            "lng": -73.9122816197085
+          },
+          "southwest": {
+            "lat": 40.8179583197085,
+            "lng": -73.9149795802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "ALDI",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114376432433898833181\">Pena_boy TSIO</a>"
+          ],
+          "photo_reference": "AeJbb3d1E3dzP1y346Lih_krZUO7SOwk4b_d6LiyxrjrCB8qTHAjsX5SYKYDYBV8dr623WqPEI_xcVwxHW8A-9KjmiV5DLCUoEno_m0NWXVw6IlrbMYcbiO7by0-pnuY3ymLicXLSoIUuBbOT024fVy-5GNT9EU5i75TMQk3Xo-fqojImSKw",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJ7W4x9sn1wokRcFe1QdW-YwI",
+      "plus_code": {
+        "compound_code": "R39P+PH New York, NY, USA",
+        "global_code": "87G8R39P+PH"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJ7W4x9sn1wokRcFe1QdW-YwI",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2857,
+      "vicinity": "3006 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.819473,
+          "lng": -73.91387329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82078978029149,
+            "lng": -73.91240841970848
+          },
+          "southwest": {
+            "lat": 40.81809181970849,
+            "lng": -73.9151063802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Western Union",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103936697331809235320\">Western Union</a>"
+          ],
+          "photo_reference": "AeJbb3fGipmDlkOyyhQk6a3M1WKWhKdZkIAkSP9ixz0VGKEeS6UTw0ZILVmEIxS0BwHGck12pYpcJzX65GrvmjkoSs4KsDd3wxZ10tDSfSEawwDo_yI1xpRD70RVxxF_wb9DIUAEMi6eVleyScdgwf143rysLJr86P8B1CV7T15PVgPpyDCS",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJM4x5H8r1wokRCrhF_8L0bNo",
+      "plus_code": {
+        "compound_code": "R39P+QF New York, NY, USA",
+        "global_code": "87G8R39P+QF"
+      },
+      "rating": 3,
+      "reference": "ChIJM4x5H8r1wokRCrhF_8L0bNo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "finance",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Davids Check Cashing Dcc, 3015 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8200749,
+          "lng": -73.9147796
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8214116802915,
+            "lng": -73.9133786197085
+          },
+          "southwest": {
+            "lat": 40.81871371970851,
+            "lng": -73.9160765802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Our Lady of the Angels Friary",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3dsTGW5EotNbLB0ajD40h_FjWSlMw-axeOFzSc4czO-gXmb5bc_ssgmi3aqB1e24NHB94PXAqHIDBtFbm1iit2JKmobQC-Wr6DNoe6hp15QqBgPb9KTusKQDDlw8cAJ5csTId42_SZVTvc1M0ChX83o-34BCJFivxZ4e8qcBC2VtR7x",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJL2IhMMr1wokRgfz1AMU3TCc",
+      "plus_code": {
+        "compound_code": "R3CP+23 The Bronx, NY, USA",
+        "global_code": "87G8R3CP+23"
+      },
+      "rating": 4.7,
+      "reference": "ChIJL2IhMMr1wokRgfz1AMU3TCc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "427 East 155th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8186606,
+          "lng": -73.9149935
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8199545802915,
+            "lng": -73.91375856970849
+          },
+          "southwest": {
+            "lat": 40.8172566197085,
+            "lng": -73.9164565302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Local Flyer Distribution Service",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJLXtWmsn1wokRz_Z97vlHSDw",
+      "plus_code": {
+        "compound_code": "R39P+F2 The Bronx, NY, USA",
+        "global_code": "87G8R39P+F2"
+      },
+      "rating": 5,
+      "reference": "ChIJLXtWmsn1wokRz_Z97vlHSDw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "671 Elton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8228155,
+          "lng": -73.9132791
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82406048029151,
+            "lng": -73.9119874197085
+          },
+          "southwest": {
+            "lat": 40.82136251970851,
+            "lng": -73.9146853802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "The Salvation Army Bronx Citadel Corps Community Center",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116940632508231611697\">Guy Smiley</a>"
+          ],
+          "photo_reference": "AeJbb3eZUjsujFXxTO4M4BDv6rhMLh9at-wkNBOwRWLgXOm8ztN7rxtflCvto_wVUIk27mU3b0_vSSnfm4TITGCSCanHvPcZpVCS89q9V1AdcaECG7Ho6H0CZkMWK4lvoVZw8oaNcwTO7rj6GTwN9D4xIdPtQ10gs7A5HCxGoUAFl-4zM85D",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJLWkel8r1wokRmJL3JxHNXRQ",
+      "plus_code": {
+        "compound_code": "R3FP+4M The Bronx, NY, USA",
+        "global_code": "87G8R3FP+4M"
+      },
+      "rating": 4.3,
+      "reference": "ChIJLWkel8r1wokRmJL3JxHNXRQ",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 59,
+      "vicinity": "425 East 159th Street, The Bronx"
+    }
+  ],
+  "status": "OK"
+}

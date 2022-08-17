@@ -1,0 +1,2686 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3eiiCgKT09zZUob6K8UiRNyzKBaLk16bXFS1E2aHY2w66Hs60NM4juRLB_eAba1IXSBcKxKjC9fMMxl5AA2aTqTGZI7JXuL-B8YZb9611kNOi8HSA2Z0meLzamr7qZUA5k9U9bNhkw-LbOxlPLqG5793CNOBh3AkS-SYSwcr3LdKORn",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.770517,
+          "lng": -73.9904311
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77164843029151,
+            "lng": -73.98929336970849
+          },
+          "southwest": {
+            "lat": 40.76895046970851,
+            "lng": -73.99199133029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "BMW of Manhattan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2131,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114198027017468366004\">Barrett Henry</a>"
+          ],
+          "photo_reference": "AeJbb3d1CTpHq4doycLMAWFmytAozXiuqK2JbHz8WQZJ2ncUdiCNLTAs3tfqhuBOE3x1AYLDOBQa5z3zdVJpkG6GrjkCOyKI_Gl9k5ZKUI049bcaFO3-cpCAL5XQT4Y9Zn8RrKP7KeAXjFzfCbzlMftkdrPg-PAmyNOebvZhX7Iiob5bR-UP",
+          "width": 3094
+        }
+      ],
+      "place_id": "ChIJi2cUkVtYwokR6I5cEa72OBU",
+      "plus_code": {
+        "compound_code": "Q2C5+6R \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2C5+6R"
+      },
+      "rating": 4.2,
+      "reference": "ChIJi2cUkVtYwokR6I5cEa72OBU",
+      "scope": "GOOGLE",
+      "types": [
+        "car_dealer",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1425,
+      "vicinity": "555 West 57th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7699713,
+          "lng": -73.9872805
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7713954302915,
+            "lng": -73.9862030197085
+          },
+          "southwest": {
+            "lat": 40.76869746970851,
+            "lng": -73.9889009802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Institute for Advanced Medicine - Samuel's Clinic",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJryA_SFlYwokR5_suDje9oGk",
+      "plus_code": {
+        "compound_code": "Q297+X3 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q297+X3"
+      },
+      "rating": 1,
+      "reference": "ChIJryA_SFlYwokR5_suDje9oGk",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "1000 10th Ave, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7694817,
+          "lng": -73.98650649999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7710506802915,
+            "lng": -73.9854171197085
+          },
+          "southwest": {
+            "lat": 40.7683527197085,
+            "lng": -73.98811508029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Mount Sinai West",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116882937263130282699\">TheMrscarface2009</a>"
+          ],
+          "photo_reference": "AeJbb3d5gWaPlsyfRBJTkKPJtzgMsRw6P8eoyvGDbZ3aKgZxCXGGBoUgb9pmVDTj6FVJER3ZbXVMPTk3vEPEptK5-0BFP3tL2rqZp3Qt8UGNvtHBVDiXQZf8K79xwjyCS7dfesGzdsydy_jDeI99StJUN5pMcyAAAZfeKNEIklJ3jJX2HkGU",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJOzBevz32wokRyOlTYIko13s",
+      "plus_code": {
+        "compound_code": "Q297+Q9 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q297+Q9"
+      },
+      "rating": 3,
+      "reference": "ChIJOzBevz32wokRyOlTYIko13s",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 403,
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76892,
+          "lng": -73.9937025
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7701964802915,
+            "lng": -73.99237856970849
+          },
+          "southwest": {
+            "lat": 40.7674985197085,
+            "lng": -73.9950765302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "RK Bridal",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115000491709261090191\">Elser Llanos</a>"
+          ],
+          "photo_reference": "AeJbb3e2yTVkw6PZQBBE7mmIv1_M29nMPyv3Y5ORDiE6CcKbpGGLmMBrDsgRfkKv2ZJeh98dw8wEifc-ASpg0EzKKzLKjx_h9bYc_B86tCl-gvsc_Q8-VDXgEJF8yKYYL1swkqytoTWo2UigLeJAmNv1UGqQZgq4lrAyEo-EflfGXcigJd2H",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJTwfYJa1ZwokRNVWyXD7YcEI",
+      "plus_code": {
+        "compound_code": "Q294+HG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q294+HG"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJTwfYJa1ZwokRNVWyXD7YcEI",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 671,
+      "vicinity": "619 West 54th Street 5th Floor between 11th Avenue & The, West Side Highway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.773172,
+          "lng": -73.989606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77447258029149,
+            "lng": -73.98814446970849
+          },
+          "southwest": {
+            "lat": 40.77177461970849,
+            "lng": -73.99084243029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107841041949837625886\">Stephan Betz</a>"
+          ],
+          "photo_reference": "AeJbb3dFz60wTuX8PAIGB2gIErOWSJy7gH7LzaH9Pj0CA-LL6KffskBhFDhpT4dmNEtRJ3VPIV0Xqsb0PpmuRAEeH-gAS-E59XEwLh34kOUhVxoP58hnS1ONkqqK9W_vhy5MpRRhT2gRFLTE1eSOJpZSSFhNxvE2VRcMhqOHGxqLuD3X-g79",
+          "width": 4752
+        }
+      ],
+      "place_id": "ChIJQ-zZNVxYwokRNQG8bCrVffM",
+      "plus_code": {
+        "compound_code": "Q2F6+75 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2F6+75"
+      },
+      "price_level": 1,
+      "rating": 3.5,
+      "reference": "ChIJQ-zZNVxYwokRNQG8bCrVffM",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 78,
+      "vicinity": "33 West End Avenue 1st Floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7697168,
+          "lng": -73.9868805
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712681802915,
+            "lng": -73.98600301970849
+          },
+          "southwest": {
+            "lat": 40.7685702197085,
+            "lng": -73.98870098029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ambulatory Surgery Center - Mount Sinai West",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109539456226368574143\">Ambulatory Surgery Center - Mount Sinai West</a>"
+          ],
+          "photo_reference": "AeJbb3fbFWmVljC_Uia6cB4cKXPrIQ1dVa2BLXbf3aK3TdtXVuJbJlzAYfu5EOpSNZrkgCzHT2Hq3_QwiUojPOCobuab6B0wbMMeQfZnMahSzDlrh2ph_8yEEVJAlz9J_wO537XAWPb8yd3DEHlXn4SdyaDYbPj8QuDHqwpiM-0EtkYp9VUB",
+          "width": 300
+        }
+      ],
+      "place_id": "ChIJryA_SFlYwokRsDyXqDQssro",
+      "plus_code": {
+        "compound_code": "Q297+V6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q297+V6"
+      },
+      "rating": 1,
+      "reference": "ChIJryA_SFlYwokRsDyXqDQssro",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7699942,
+          "lng": -73.98747039999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7714006802915,
+            "lng": -73.98629796970849
+          },
+          "southwest": {
+            "lat": 40.7687027197085,
+            "lng": -73.98899593029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Werner S. Achatz, PHD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJryA_SFlYwokRxfalZoLRrYI",
+      "plus_code": {
+        "compound_code": "Q297+X2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q297+X2"
+      },
+      "rating": 5,
+      "reference": "ChIJryA_SFlYwokRxfalZoLRrYI",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77102980000001,
+          "lng": -73.9850963
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77231304999999,
+            "lng": -73.9831212197085
+          },
+          "southwest": {
+            "lat": 40.76928005000001,
+            "lng": -73.98581918029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Fordham University Lincoln Center",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112902987482938130928\">Siyao Chen</a>"
+          ],
+          "photo_reference": "AeJbb3d0uFgqcxsGUoN-NA6mF_rdipVeq0Mlh7DJuh6nkgJ-s57pCLNxOzhYS6bo_1sXUhBWN3bS97GH0yznhpAUR05LpqM23WytwTOVp4NzZBD7JOe-jGZH3E4RZ0EPU3oPSJRQ3GZtFoksrSWxAlO8h8dq-onDmQ5gpJy9aL-FJMr7Luj8",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJz6Ecy1hYwokRT0rsSp5P7lw",
+      "plus_code": {
+        "compound_code": "Q2C7+CX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2C7+CX"
+      },
+      "rating": 4.4,
+      "reference": "ChIJz6Ecy1hYwokRT0rsSp5P7lw",
+      "scope": "GOOGLE",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 62,
+      "vicinity": "113 West 60th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7704347,
+          "lng": -73.9904841
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7715901302915,
+            "lng": -73.9892798697085
+          },
+          "southwest": {
+            "lat": 40.7688921697085,
+            "lng": -73.9919778302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Greater New York Hospital Association",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106770236907725234792\">Mauricio Blandino</a>"
+          ],
+          "photo_reference": "AeJbb3dz548UzI-JMYJo7knFkkFbmUVwND0uVIL4o8VHfNRq1v84bOWN8iM3HGedyIkCU-AAo5L3MgthGKj5rhdY6TaFyPz10h-vkSKrj__uQF7tOu5Pg7DyvPqNtkAj3qxAwv5HWIM7NkHGmKClwV4Kv5rifvSaLcLoGNosjr8e7ZiDCWWA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJi2cUkVtYwokRtxYTgh7ZVRs",
+      "plus_code": {
+        "compound_code": "Q2C5+5R \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2C5+5R"
+      },
+      "rating": 3.2,
+      "reference": "ChIJi2cUkVtYwokRtxYTgh7ZVRs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "555 West 57th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7697168,
+          "lng": -73.9868805
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712532302915,
+            "lng": -73.98601406970849
+          },
+          "southwest": {
+            "lat": 40.7685552697085,
+            "lng": -73.9887120302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Edward Jew, MD",
+      "place_id": "ChIJryA_SFlYwokRcl1TKTjK4xA",
+      "plus_code": {
+        "compound_code": "Q297+V6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q297+V6"
+      },
+      "reference": "ChIJryA_SFlYwokRcl1TKTjK4xA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue #10c, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7692142,
+          "lng": -73.9916124
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7707248302915,
+            "lng": -73.99030806970849
+          },
+          "southwest": {
+            "lat": 40.7680268697085,
+            "lng": -73.99300603029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Open Road Volkswagen Manhattan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103275391887722900501\">Open Road Volkswagen Manhattan</a>"
+          ],
+          "photo_reference": "AeJbb3fRpxjnbS8H8ayhovKfswnwc8emFdMl21s1J8lhI867XAhPjes5kb5AYYPKsUrM0Ms-EDAFs4IaE3Aj2SxmHLH1DTQTsXpLKLDx1MMR1P5ZrOcdg7-20E3Qul8zUN9nWtp9DZs7CZ_plizvLqoCzs9LSBzQWvynrR5FlKAIkER5cHkG",
+          "width": 769
+        }
+      ],
+      "place_id": "ChIJB-vGBltYwokRTHRdeupURcw",
+      "plus_code": {
+        "compound_code": "Q295+M9 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q295+M9"
+      },
+      "rating": 4.6,
+      "reference": "ChIJB-vGBltYwokRTHRdeupURcw",
+      "scope": "GOOGLE",
+      "types": [
+        "car_dealer",
+        "finance",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 944,
+      "vicinity": "802 11th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7697168,
+          "lng": -73.9868805
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712532302915,
+            "lng": -73.98601406970849
+          },
+          "southwest": {
+            "lat": 40.7685552697085,
+            "lng": -73.9887120302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jason Chu, MD",
+      "place_id": "ChIJryA_SFlYwokR42_hJKXP8kY",
+      "plus_code": {
+        "compound_code": "Q297+V6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q297+V6"
+      },
+      "rating": 5,
+      "reference": "ChIJryA_SFlYwokR42_hJKXP8kY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1000 10th Avenue #10, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7696913,
+          "lng": -73.9868596
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712404802915,
+            "lng": -73.9860036197085
+          },
+          "southwest": {
+            "lat": 40.7685425197085,
+            "lng": -73.9887015802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mount Sinai Center for Neuromodulation",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113151506387623700108\">\u05d9\u05d5\u05d3\u05d9 \u05de\u05e2\u05dc\u05d1\u05e2\u05e8</a>"
+          ],
+          "photo_reference": "AeJbb3fkSJQIaUdiSaB8Bst8kb6w9-Sop-lYTnNkr3NxN0Shdg6DLvfVHraZNE7gyoLAj8FLMpZ7cJVcQVxrK7W-3QaJ1SzHs9YaHIwaO6Qw1ZJ-2nBdgAnPl6qx7IdSn4hcuTQkfDyiT3Ea9uFOjSjoub29Kvwwio0aXLn6k6Qj4775quNt",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJmaGEXKdYwokRh9zbyPY4KKw",
+      "plus_code": {
+        "compound_code": "Q297+V7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q297+V7"
+      },
+      "rating": 4.2,
+      "reference": "ChIJmaGEXKdYwokRh9zbyPY4KKw",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "1000 10th Avenue 10th floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7704288,
+          "lng": -73.9922675
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77184528029149,
+            "lng": -73.99077506970849
+          },
+          "southwest": {
+            "lat": 40.7691473197085,
+            "lng": -73.9934730302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "e9digital",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJlYKXPa1ZwokRbbK_cy78Qc0",
+      "plus_code": {
+        "compound_code": "Q2C5+53 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2C5+53"
+      },
+      "rating": 5,
+      "reference": "ChIJlYKXPa1ZwokRbbK_cy78Qc0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 86,
+      "vicinity": "606 West 57th Street Suite 4403, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77431070000001,
+          "lng": -73.98945990000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7757164802915,
+            "lng": -73.98799626970852
+          },
+          "southwest": {
+            "lat": 40.7730185197085,
+            "lng": -73.99069423029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Chauffeur Uno",
+      "place_id": "ChIJwRoX111YwokRTEnRkDPQMoA",
+      "plus_code": {
+        "compound_code": "Q2F6+P6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2F6+P6"
+      },
+      "reference": "ChIJwRoX111YwokRTEnRkDPQMoA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "75 West End Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7741651,
+          "lng": -73.9892929
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7756037802915,
+            "lng": -73.98787796970848
+          },
+          "southwest": {
+            "lat": 40.7729058197085,
+            "lng": -73.9905759302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Hannah Roses",
+      "permanently_closed": true,
+      "place_id": "ChIJwRoX111YwokRu-EJZCruL2c",
+      "plus_code": {
+        "compound_code": "Q2F6+M7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q2F6+M7"
+      },
+      "reference": "ChIJwRoX111YwokRu-EJZCruL2c",
+      "scope": "GOOGLE",
+      "types": [
+        "florist",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "75 W End Ave # R35d, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76800009999999,
+          "lng": -73.9927804
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7694327802915,
+            "lng": -73.9915253197085
+          },
+          "southwest": {
+            "lat": 40.7667348197085,
+            "lng": -73.99422328029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Mercedes-Benz Manhattan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114247572721538687434\">Mercedes-Benz Manhattan</a>"
+          ],
+          "photo_reference": "AeJbb3cyXPplyEqcA9m2XKj0XhlT24XOxpH82FOmNk3hJ3m3twkOqw3M1E9FeF0bDMEAhQmE8H5ubrEjDqdA4QBF2PPmRzoK4otzpwaBHL6yG96AFXGok4qAMYVqKJUeZbN3akcT-qzE28JEEpa8TWbObFWVicF8j663UM-DJJTaWrHT40yy",
+          "width": 829
+        }
+      ],
+      "place_id": "ChIJ6xsO91pYwokRXiAXeqpROkI",
+      "plus_code": {
+        "compound_code": "Q294+6V \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q294+6V"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ6xsO91pYwokRXiAXeqpROkI",
+      "scope": "GOOGLE",
+      "types": [
+        "car_dealer",
+        "car_repair",
+        "finance",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 3813,
+      "vicinity": "770 11th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76980619999999,
+          "lng": -73.9871606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77129793029149,
+            "lng": -73.9861541197085
+          },
+          "southwest": {
+            "lat": 40.7685999697085,
+            "lng": -73.98885208029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Stephan G. Lynn, MD",
+      "place_id": "ChIJryA_SFlYwokRqt3snvhSlgU",
+      "plus_code": {
+        "compound_code": "Q297+W4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q297+W4"
+      },
+      "reference": "ChIJryA_SFlYwokRqt3snvhSlgU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7549309,
+          "lng": -73.9840195
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77410688375117,
+            "lng": -73.95889871560205
+          },
+          "southwest": {
+            "lat": 40.72686854646897,
+            "lng": -74.00894884492357
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e2d\u57ce",
+      "photos": [
+        {
+          "height": 5450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110409177493276546551\">Heidi Kirkland</a>"
+          ],
+          "photo_reference": "AeJbb3e-Di2t9b3vEE35glV24RyL2VLKQFXU7OcaJsLvkaav2da2dIiUv13ph8Zc9nbaluhpxuxW2dtc_RQht90tXtL4STp3MUVoLRuAI7R5ePtTfUOltP0Hx2Z8EgOQotzw-1-Uu5zGOn6rAPd5tFtt0Jq1WaZdpE3XdfuV_tQtWUcM8_vt",
+          "width": 2936
+        }
+      ],
+      "place_id": "ChIJqXwSpAFZwokR28_WgZDMzb4",
+      "reference": "ChIJqXwSpAFZwokR28_WgZDMzb4",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7742409,
+          "lng": -73.98945990000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77567798029149,
+            "lng": -73.98799626970852
+          },
+          "southwest": {
+            "lat": 40.7729800197085,
+            "lng": -73.99069423029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Binary Bits",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJPb-D3F1YwokRnELR_SFP5bI",
+      "plus_code": {
+        "compound_code": "Q2F6+M6 New York, NY, USA",
+        "global_code": "87G8Q2F6+M6"
+      },
+      "reference": "ChIJPb-D3F1YwokRnELR_SFP5bI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "75 West End Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7683224,
+          "lng": -73.9873267
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7698134802915,
+            "lng": -73.9860303697085
+          },
+          "southwest": {
+            "lat": 40.7671155197085,
+            "lng": -73.98872833029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York Underground Fitness",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115606121637751281545\">Dee Lee</a>"
+          ],
+          "photo_reference": "AeJbb3dfEX4gsYlFISY8PJSD3p4_R6-EwnqC_7eSnOH40OfdtVkrAK9T7gLZgy0riCy6pMmPbZtpEH0Gz869JZ9lerSTai1R03WFKVJLnK5G0T2wAxuannrA27ZZyHPWZCHS8aABkMJZ6ZqXVMAFzBTZqkco-dci_sgkV1aKzS2s5sEptSDW",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJG0yHcllYwokRdWO8U6okNbk",
+      "plus_code": {
+        "compound_code": "Q297+83 New York, NY, USA",
+        "global_code": "87G8Q297+83"
+      },
+      "rating": 4.7,
+      "reference": "ChIJG0yHcllYwokRdWO8U6okNbk",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 42,
+      "vicinity": "440 West 57th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76913969999999,
+          "lng": -73.991642
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7704105802915,
+            "lng": -73.9905697197085
+          },
+          "southwest": {
+            "lat": 40.7677126197085,
+            "lng": -73.99326768029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Audi Manhattan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102669618003994071086\">Eduardo Moreira</a>"
+          ],
+          "photo_reference": "AeJbb3ezMxOtj7l86WD9GTdmZoTaR010gFuOmwur95cRVPzawf1RgOeZvHA5TUH3x02BAnJrvC02decWOBUZ5ZZodIa_2kgIaGqxEXf7SCJNpciQTodANdbIV4L1mfN6w7DVed6XKL3-NZNDsbVMnNfKos_J6Ce27UbE4qQ0UqiWWPm8q9o",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJVf7011pYwokR0JNsJ54sVsU",
+      "plus_code": {
+        "compound_code": "Q295+M8 New York, NY, USA",
+        "global_code": "87G8Q295+M8"
+      },
+      "rating": 4.5,
+      "reference": "ChIJVf7011pYwokR0JNsJ54sVsU",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "car_dealer",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1183,
+      "vicinity": "800 11th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7699148,
+          "lng": -73.9874425
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7713522302915,
+            "lng": -73.9862950697085
+          },
+          "southwest": {
+            "lat": 40.7686542697085,
+            "lng": -73.98899303029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Douglas B. Unis, MD",
+      "place_id": "ChIJM9DO2VhYwokRx2LIFYnyiHE",
+      "plus_code": {
+        "compound_code": "Q297+X2 New York, NY, USA",
+        "global_code": "87G8Q297+X2"
+      },
+      "rating": 4.3,
+      "reference": "ChIJM9DO2VhYwokRx2LIFYnyiHE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "1000 10th Avenue suite 3a-35, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7684256,
+          "lng": -73.9874565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7698650802915,
+            "lng": -73.9860454697085
+          },
+          "southwest": {
+            "lat": 40.7671671197085,
+            "lng": -73.9887434302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dom Recine Fitness",
+      "permanently_closed": true,
+      "place_id": "ChIJIThWC1lYwokRQpmF0UhkPb4",
+      "plus_code": {
+        "compound_code": "Q297+92 New York, NY, USA",
+        "global_code": "87G8Q297+92"
+      },
+      "reference": "ChIJIThWC1lYwokRQpmF0UhkPb4",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "440 West 57th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.774574,
+          "lng": -73.990979
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7760356302915,
+            "lng": -73.9896430697085
+          },
+          "southwest": {
+            "lat": 40.7733376697085,
+            "lng": -73.99234103029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Total Home Improvement Services",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1001,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115784813621654502771\">Total Home Improvement Services</a>"
+          ],
+          "photo_reference": "AeJbb3fAHrGbrfsGbjGGvvUURRn7R5kDE8l0TN-qDy2JhVoZCQtXVmDDOzJf7LJV08r7OehxgM8R2VEZiuZbY1u_SOa2j41zGN1tF2pCvDmoKbTac2DoV6IdZZnWspo0xsVrCK4r2fA8lzFiMqCSmRjUHUc2hHQldj4ix2YOXYHyGZxMPxOx",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJ15gF911YwokRDDg6pCy5lYY",
+      "plus_code": {
+        "compound_code": "Q2F5+RJ New York, NY, USA",
+        "global_code": "87G8Q2F5+RJ"
+      },
+      "rating": 3.6,
+      "reference": "ChIJ15gF911YwokRDDg6pCy5lYY",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "painter",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "60 Riverside Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7695909,
+          "lng": -73.9867838
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7711902802915,
+            "lng": -73.9859657197085
+          },
+          "southwest": {
+            "lat": 40.7684923197085,
+            "lng": -73.98866368029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Evan L. Flatow, MD, President, Mount Sinai West",
+      "photos": [
+        {
+          "height": 300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114575818005334889330\">Evan L. Flatow, MD, President, Mount Sinai West</a>"
+          ],
+          "photo_reference": "AeJbb3eiymP20ciL2zb121DHao33yZv4txdhoGknUQbLGRm3U5GiyHyrQqtG2tijjiaO4j9SHsQoXIcYI_XdNaS5I5gNC4HlOFM3sdgwYo3rnVHd7cnvz3pkJgyIcMjsH2xsm7w7pNDs9SkwLxcJzfl1VdPjorB5xGAVhFV8FENIx2p_PBoU",
+          "width": 300
+        }
+      ],
+      "place_id": "ChIJf0SSxqBYwokRwO-yoJH6udU",
+      "plus_code": {
+        "compound_code": "Q297+R7 New York, NY, USA",
+        "global_code": "87G8Q297+R7"
+      },
+      "rating": 3.7,
+      "reference": "ChIJf0SSxqBYwokRwO-yoJH6udU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7698378,
+          "lng": -73.98952249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7710663302915,
+            "lng": -73.98829216970849
+          },
+          "southwest": {
+            "lat": 40.7683683697085,
+            "lng": -73.9909901302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Jiachun X. Kung, MD",
+      "place_id": "ChIJtz_D3FtYwokRJga2ks_M90E",
+      "plus_code": {
+        "compound_code": "Q296+W5 New York, NY, USA",
+        "global_code": "87G8Q296+W5"
+      },
+      "reference": "ChIJtz_D3FtYwokRJga2ks_M90E",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "521 West 57th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7699581,
+          "lng": -73.9895378
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7711430302915,
+            "lng": -73.98830866970849
+          },
+          "southwest": {
+            "lat": 40.7684450697085,
+            "lng": -73.9910066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tisch MS Research Center of New York, Saud A. Sadiq, MD, FAAN",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109240412083905071453\">Tisch MS Research Center of New York</a>"
+          ],
+          "photo_reference": "AeJbb3dkCbUUF4mHw37RzjukdKVKgcLEh8FfDlP19fcgGQfw6EWNDa1GgU2rr5Sxadt6M7u6Cf8KRWjUKLG5v0alTxEpkz28LPLgTX5bm5-1aHKqik8eWN89oxFiO5rxktv0MS42bNmw2hd_lEK2m-Na571zwM5zTQ6AvP6HB_cAQ_7LZiba",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJtz_D3FtYwokR2ISE31QpUcA",
+      "plus_code": {
+        "compound_code": "Q296+X5 New York, NY, USA",
+        "global_code": "87G8Q296+X5"
+      },
+      "rating": 4.3,
+      "reference": "ChIJtz_D3FtYwokR2ISE31QpUcA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 26,
+      "vicinity": "521 West 57th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7718088,
+          "lng": -73.98933099999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77327578029149,
+            "lng": -73.98811236970849
+          },
+          "southwest": {
+            "lat": 40.77057781970849,
+            "lng": -73.9908103302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Manhattan Movement & Arts Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109935633775925442801\">Dmitriy Osta</a>"
+          ],
+          "photo_reference": "AeJbb3fERpOPGSLJ-CBzkywjbLkQoyeplBmkd5zpSuEnB1FXvHAZgU8HOzHbfKe4-B6U0dMVUixb6jV4gaiovZO0CQ9SpfOa417ygAhi4iofZpD2Ei4bnGhiVB5LshGePiqDCaA_EktysjSACfgbSwq_5Up2rDy-waK7UNB4DNSG4To80zvM",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJN9omH1xYwokRE7awI4F-I2M",
+      "plus_code": {
+        "compound_code": "Q2C6+P7 New York, NY, USA",
+        "global_code": "87G8Q2C6+P7"
+      },
+      "rating": 4.5,
+      "reference": "ChIJN9omH1xYwokRE7awI4F-I2M",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 90,
+      "vicinity": "248 West 60th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7737541,
+          "lng": -73.99068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7750840302915,
+            "lng": -73.98916591970848
+          },
+          "southwest": {
+            "lat": 40.7723860697085,
+            "lng": -73.9918638802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Collegiate School",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108169731549683204294\">Collegiate School</a>"
+          ],
+          "photo_reference": "AeJbb3fvtrLfO72z2rrR35oXnf_oZg4U62LY358K2MCKTtrY5-54yfA2WuVEUiX01FcExiAX9DVrhvUugO26Oqogx95luKplvbGqauq5QNvIGvcryFIxEJgL_qWgxFRjsX5eLSzYYiWr_wm-RWj5BJizVboc9EHq8ApJfJyPABLFzb8ukUSL",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJE7HPa4hYwokRvy6pmFLDwpc",
+      "plus_code": {
+        "compound_code": "Q2F5+GP New York, NY, USA",
+        "global_code": "87G8Q2F5+GP"
+      },
+      "rating": 3.9,
+      "reference": "ChIJE7HPa4hYwokRvy6pmFLDwpc",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "301 Freedom Place South, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7679759,
+          "lng": -73.9881796
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76936443029149,
+            "lng": -73.9867991197085
+          },
+          "southwest": {
+            "lat": 40.7666664697085,
+            "lng": -73.9894970802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "M400 High School for Environmental Studies",
+      "photos": [
+        {
+          "height": 1410,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110904354346800034602\">Marcio GFonseca</a>"
+          ],
+          "photo_reference": "AeJbb3fIV7WLG2mWyBELofMlcAUHwb5mvY_DjesE8va3q-bcxk-nOXzo3ss6s_x73nBodru0dXg9QfDNAKCm-zMR40iCOMByg8oEpVtyFaPX1QgeqvBTDxTFAUIB7ixYQgoJue0POuA-5Bfq-_TEvc3wLcdwfYrigjV_MWwMnA5dyOBNastn",
+          "width": 1061
+        }
+      ],
+      "place_id": "ChIJHyDkK1pYwokRpFzBg5a2LwQ",
+      "plus_code": {
+        "compound_code": "Q296+5P New York, NY, USA",
+        "global_code": "87G8Q296+5P"
+      },
+      "rating": 4.4,
+      "reference": "ChIJHyDkK1pYwokRpFzBg5a2LwQ",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "444 West 56th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7748037,
+          "lng": -73.98785579999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77609658029149,
+            "lng": -73.98660271970849
+          },
+          "southwest": {
+            "lat": 40.77339861970849,
+            "lng": -73.98930068029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Toga Bike Shop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106653496241514829847\">Anthony DeSimone</a>"
+          ],
+          "photo_reference": "AeJbb3fyQEdaSl3ExDJwGkxwZqgatxPe6QOtlKbUqPpKa7dUsNB1fpyU8J0s4eWJ44P8hRN-ZqXCu2t0rz6cJoAz36KcYIf-o1GFH3O-TuZa6eNhHED1-uZc28sG8L7g1I_N5d_29vEQjApiXrPMLd50z-2k7ibZSj4BL_W_Zb_X86LArDtF",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJQ9MPHF5YwokRNOs38qSxDM8",
+      "plus_code": {
+        "compound_code": "Q2F6+WV New York, NY, USA",
+        "global_code": "87G8Q2F6+WV"
+      },
+      "price_level": 3,
+      "rating": 3.6,
+      "reference": "ChIJQ9MPHF5YwokRNOs38qSxDM8",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 200,
+      "vicinity": "110 West End Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7698378,
+          "lng": -73.98952249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7710663302915,
+            "lng": -73.98829216970849
+          },
+          "southwest": {
+            "lat": 40.7683683697085,
+            "lng": -73.9909901302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Henry Y. Dong, MD",
+      "place_id": "ChIJtz_D3FtYwokRywCYn6dqOW8",
+      "plus_code": {
+        "compound_code": "Q296+W5 New York, NY, USA",
+        "global_code": "87G8Q296+W5"
+      },
+      "reference": "ChIJtz_D3FtYwokRywCYn6dqOW8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "521 West 57th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77196300000001,
+          "lng": -73.987663
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7733560802915,
+            "lng": -73.98628181970848
+          },
+          "southwest": {
+            "lat": 40.77065811970851,
+            "lng": -73.9889797802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "PS 452",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJO0ZDL4lYwokRF1lz9YOv5tM",
+      "plus_code": {
+        "compound_code": "Q2C6+QW New York, NY, USA",
+        "global_code": "87G8Q2C6+QW"
+      },
+      "rating": 5,
+      "reference": "ChIJO0ZDL4lYwokRF1lz9YOv5tM",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "210 West 61st Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7718934,
+          "lng": -73.988595
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7731522302915,
+            "lng": -73.98731161970849
+          },
+          "southwest": {
+            "lat": 40.7704542697085,
+            "lng": -73.9900095802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West End Enterprize LLC",
+      "permanently_closed": true,
+      "place_id": "ChIJC6XpoV5YwokRECUV5Jt8us0",
+      "plus_code": {
+        "compound_code": "Q2C6+QH New York, NY, USA",
+        "global_code": "87G8Q2C6+QH"
+      },
+      "reference": "ChIJC6XpoV5YwokRECUV5Jt8us0",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "229 West 60th Street # 3G, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.770115,
+          "lng": -73.9858998
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7713003802915,
+            "lng": -73.9846715697085
+          },
+          "southwest": {
+            "lat": 40.76860241970851,
+            "lng": -73.98736953029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Daniel Labow, MD",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114017319526674435173\">janetkayconway</a>"
+          ],
+          "photo_reference": "AeJbb3durvJ0Ln0jwrF_LBZAeFN7awEc8YRHWtBKnSD8f5WQghdeeD2IC2Vs6VW_NJY21w2FFNyYSCA8xUAV8myxy6l3f3ruCneekFSg4HYL4p_p5pgZ3IaWtMVLEUQBOBUt5vUh57qelkbuISH7bc_eudeZI0UU8-IxS08JAlHhWbXP4QXQ",
+          "width": 1956
+        }
+      ],
+      "place_id": "ChIJf0SSxqBYwokRgznCWJr3mJM",
+      "plus_code": {
+        "compound_code": "Q2C7+2J New York, NY, USA",
+        "global_code": "87G8Q2C7+2J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJf0SSxqBYwokRgznCWJr3mJM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "425 West 59th Street 7th Fl, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7698378,
+          "lng": -73.98952249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7710663302915,
+            "lng": -73.98829216970849
+          },
+          "southwest": {
+            "lat": 40.7683683697085,
+            "lng": -73.9909901302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Armistead D. Williams III, MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJtz_D3FtYwokRBWaiWIOrhTk",
+      "plus_code": {
+        "compound_code": "Q296+W5 New York, NY, USA",
+        "global_code": "87G8Q296+W5"
+      },
+      "rating": 5,
+      "reference": "ChIJtz_D3FtYwokRBWaiWIOrhTk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "2929, 521 West 57th Street 4th floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7686973,
+          "lng": -73.9918181
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7698872802915,
+            "lng": -73.9909249697085
+          },
+          "southwest": {
+            "lat": 40.76718931970851,
+            "lng": -73.99362293029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Etiquetteoutreach.Com",
+      "place_id": "ChIJX1VVVVpYwokRONWOZhn5yqo",
+      "plus_code": {
+        "compound_code": "Q295+F7 New York, NY, USA",
+        "global_code": "87G8Q295+F7"
+      },
+      "reference": "ChIJX1VVVVpYwokRONWOZhn5yqo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76955699999999,
+          "lng": -73.993909
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7709695302915,
+            "lng": -73.9925944197085
+          },
+          "southwest": {
+            "lat": 40.7682715697085,
+            "lng": -73.9952923802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Manhattan Jeep Service Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102190167193095663162\">joselito roman</a>"
+          ],
+          "photo_reference": "AeJbb3fDl8PYsrJVo9ZNFj8JhBFsSdOCJgfPyWIisxlw3yp62d5TeAc7QzGU__WhBYUYLYQBUNUtFNHYTiEfg6OqJF62n5e1G2mZGvSePEENtLEMur5pALHUu0g7tVsM8GY_IlZFZkcOyiX5RlgaGhwiz8lxYY8E4wtn3uPnsfAe9zuHrWvb",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJOcr9KltYwokRQWFUmKOZswQ",
+      "plus_code": {
+        "compound_code": "Q294+RC New York, NY, USA",
+        "global_code": "87G8Q294+RC"
+      },
+      "rating": 2.6,
+      "reference": "ChIJOcr9KltYwokRQWFUmKOZswQ",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 147,
+      "vicinity": "630 West 55th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7698253,
+          "lng": -73.98716530000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7713224302915,
+            "lng": -73.9861454197085
+          },
+          "southwest": {
+            "lat": 40.7686244697085,
+            "lng": -73.98884338029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Farol Peter MD",
+      "place_id": "ChIJryA_SFlYwokR6H4lYpwlxjY",
+      "plus_code": {
+        "compound_code": "Q297+W4 New York, NY, USA",
+        "global_code": "87G8Q297+W4"
+      },
+      "reference": "ChIJryA_SFlYwokR6H4lYpwlxjY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Ave # 8C-02, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76980619999999,
+          "lng": -73.9871606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77129793029149,
+            "lng": -73.9861541197085
+          },
+          "southwest": {
+            "lat": 40.7685999697085,
+            "lng": -73.98885208029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Gabriel R. Wilson, MD",
+      "place_id": "ChIJryA_SFlYwokRXdnUEzeSO_Y",
+      "plus_code": {
+        "compound_code": "Q297+W4 New York, NY, USA",
+        "global_code": "87G8Q297+W4"
+      },
+      "reference": "ChIJryA_SFlYwokRXdnUEzeSO_Y",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76980619999999,
+          "lng": -73.9871606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77129793029149,
+            "lng": -73.9861541197085
+          },
+          "southwest": {
+            "lat": 40.7685999697085,
+            "lng": -73.98885208029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Liana Makarian, MD",
+      "place_id": "ChIJryA_SFlYwokR_FMzmbBt538",
+      "plus_code": {
+        "compound_code": "Q297+W4 New York, NY, USA",
+        "global_code": "87G8Q297+W4"
+      },
+      "reference": "ChIJryA_SFlYwokR_FMzmbBt538",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76980619999999,
+          "lng": -73.9871606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77129793029149,
+            "lng": -73.9861541197085
+          },
+          "southwest": {
+            "lat": 40.7685999697085,
+            "lng": -73.98885208029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Ashwin Prakash, MD",
+      "place_id": "ChIJryA_SFlYwokR5LDqAw_s2tQ",
+      "plus_code": {
+        "compound_code": "Q297+W4 New York, NY, USA",
+        "global_code": "87G8Q297+W4"
+      },
+      "reference": "ChIJryA_SFlYwokR5LDqAw_s2tQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77457369999999,
+          "lng": -73.99097859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7756930802915,
+            "lng": -73.98940951970849
+          },
+          "southwest": {
+            "lat": 40.7729951197085,
+            "lng": -73.99210748029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "Icon Parking",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105302534647663809905\">Robert Kovner</a>"
+          ],
+          "photo_reference": "AeJbb3f-mWzCwA-p3M3EPNns4RBOR3I-dw_1DwU6QtNcGJAPK3oIbwnp4D7G-CvnB2Q1AL4C5r5iXXrcd14fUiKMgXIvKTbLuC3DFyfVYTuygK8VW6tW7xNx4-VGmSrtKWPJu2SEyNhrQ6ItcMGk7xL4Crh54_jM4hChj07a7Xb0hkKbsJXC",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJMTPYF_VYwokREBS7G3DgqQw",
+      "plus_code": {
+        "compound_code": "Q2F5+RJ New York, NY, USA",
+        "global_code": "87G8Q2F5+RJ"
+      },
+      "rating": 3.4,
+      "reference": "ChIJMTPYF_VYwokREBS7G3DgqQw",
+      "scope": "GOOGLE",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "60 Riverside Boulevard, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7721673,
+          "lng": -73.9875806
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7734666302915,
+            "lng": -73.9862606197085
+          },
+          "southwest": {
+            "lat": 40.7707686697085,
+            "lng": -73.98895858029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "The American Musical and Dramatic Academy",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4705,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102960054881546670613\">The American Musical and Dramatic Academy</a>"
+          ],
+          "photo_reference": "AeJbb3eyFDwleb6xVFBoORvaDSjyWYJM_imOtXbylMDlPtopaY0w0EQ8JqgpOqwQqXNkLNKOmxJcqCFg5srDJHEOLG5msenLUI3V8niBSyiS8slJrpZKwdInYtgMgBc3xgNuvpxPXPr4lSZw-XUEzdKcnbHOm27UzGpTXNKekMDGZ5xcDSE-",
+          "width": 3660
+        }
+      ],
+      "place_id": "ChIJLzFrkl5YwokRz1RpQk6dP8U",
+      "plus_code": {
+        "compound_code": "Q2C6+VX New York, NY, USA",
+        "global_code": "87G8Q2C6+VX"
+      },
+      "rating": 4.4,
+      "reference": "ChIJLzFrkl5YwokRz1RpQk6dP8U",
+      "scope": "GOOGLE",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 69,
+      "vicinity": "211 West 61st Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7697168,
+          "lng": -73.9868805
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712532302915,
+            "lng": -73.98601406970849
+          },
+          "southwest": {
+            "lat": 40.7685552697085,
+            "lng": -73.9887120302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sherly Altidor, PA",
+      "place_id": "ChIJryA_SFlYwokRSqN3g-7_N-E",
+      "plus_code": {
+        "compound_code": "Q297+V6 New York, NY, USA",
+        "global_code": "87G8Q297+V6"
+      },
+      "reference": "ChIJryA_SFlYwokRSqN3g-7_N-E",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Ave # 11C02, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7697168,
+          "lng": -73.9868805
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712532302915,
+            "lng": -73.98601406970849
+          },
+          "southwest": {
+            "lat": 40.7685552697085,
+            "lng": -73.9887120302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Chen Donald MD",
+      "place_id": "ChIJryA_SFlYwokRJ8k5IY3gKwk",
+      "plus_code": {
+        "compound_code": "Q297+V6 New York, NY, USA",
+        "global_code": "87G8Q297+V6"
+      },
+      "reference": "ChIJryA_SFlYwokRJ8k5IY3gKwk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7696913,
+          "lng": -73.9868596
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712404802915,
+            "lng": -73.9860036197085
+          },
+          "southwest": {
+            "lat": 40.7685425197085,
+            "lng": -73.9887015802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Christine K. Farinelli, MD",
+      "place_id": "ChIJryA_SFlYwokRtrik2_E4i6A",
+      "plus_code": {
+        "compound_code": "Q297+V7 New York, NY, USA",
+        "global_code": "87G8Q297+V7"
+      },
+      "reference": "ChIJryA_SFlYwokRtrik2_E4i6A",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7696913,
+          "lng": -73.9868596
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712404802915,
+            "lng": -73.9860036197085
+          },
+          "southwest": {
+            "lat": 40.7685425197085,
+            "lng": -73.9887015802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Deborah J. Schwartz, MD",
+      "place_id": "ChIJryA_SFlYwokRcApwiuEc3D0",
+      "plus_code": {
+        "compound_code": "Q297+V7 New York, NY, USA",
+        "global_code": "87G8Q297+V7"
+      },
+      "reference": "ChIJryA_SFlYwokRcApwiuEc3D0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7701781,
+          "lng": -73.98584720000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7716627802915,
+            "lng": -73.9843998697085
+          },
+          "southwest": {
+            "lat": 40.7689648197085,
+            "lng": -73.9870978302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Aruna Seneviratne, MD",
+      "photos": [
+        {
+          "height": 2096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115206320659313348251\">Dr. Aruna M. Seneviratne, MD</a>"
+          ],
+          "photo_reference": "AeJbb3fXD3I6wvJAvpcOaHukkKGWRG3GkZwWGcVn2AZ2F0jrV-up-0NOvorTztosbIgtf3DpTLrsXGHs2nrnkxt9vMVmdki44XOfors3PSnP0ZQn5tJ01xFB-n2Q7EmBQozIN_dCSZ8lJlGN8RtrO-iChPVEL_gSF-bmc1MrJh1XgoDBM9Kd",
+          "width": 2797
+        }
+      ],
+      "place_id": "ChIJ-TGctOpYwokRlGXjDCTRwkQ",
+      "plus_code": {
+        "compound_code": "Q2C7+3M New York, NY, USA",
+        "global_code": "87G8Q2C7+3M"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ-TGctOpYwokRlGXjDCTRwkQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "425 West 59th St 5th Fl, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7686973,
+          "lng": -73.9918181
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7698872802915,
+            "lng": -73.9909249697085
+          },
+          "southwest": {
+            "lat": 40.76718931970851,
+            "lng": -73.99362293029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Weinberger Media",
+      "photos": [
+        {
+          "height": 633,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102135287464968797975\">Weinberger Media</a>"
+          ],
+          "photo_reference": "AeJbb3eziQ0GoX2Zf2CJAKhC1XXJPy1UEEUzbdkTZw0Jc0zoun3d4wOELxmOAu8Qj6agIsQGWvp5YYWcIBHVzvt_AYZUxXrIOcnjDOTgWrUivuxEfolvfyf8ufrgiOSl0ziqKQlo-Q99BwFIwk6rC6pBmRH0_xscjFsRldEbWq-bu0r0nRk7",
+          "width": 1717
+        }
+      ],
+      "place_id": "ChIJMc-vVvdYwokR3yTlgk4ty_I",
+      "plus_code": {
+        "compound_code": "Q295+F7 New York, NY, USA",
+        "global_code": "87G8Q295+F7"
+      },
+      "rating": 2.3,
+      "reference": "ChIJMc-vVvdYwokR3yTlgk4ty_I",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7698066,
+          "lng": -73.9884622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7710453802915,
+            "lng": -73.9869929197085
+          },
+          "southwest": {
+            "lat": 40.7683474197085,
+            "lng": -73.9896908802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "The Greek Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110391852528960813387\">The Greek Kitchen</a>"
+          ],
+          "photo_reference": "AeJbb3eEiy3ZlAXNepb3jjdVGhC3GU1ZmgN4IgO7fk0klw3Bvwh_NpVDTYqjKjgliHJ7MV9KxTFYTHGdVL7hQ93FoKD2OVdXvnObDaj7Fy7UX5j-OI_B_1pqEYqyS1mSJLagDmx88wKyS7SlqZ8M9edwKwSRd0p_vbHFEfZSAzDIJHbt3lAQ",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJM_-wRFlYwokRGSmTD8TBKAs",
+      "plus_code": {
+        "compound_code": "Q296+WJ New York, NY, USA",
+        "global_code": "87G8Q296+WJ"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJM_-wRFlYwokRGSmTD8TBKAs",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1068,
+      "vicinity": "889 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7712684,
+          "lng": -73.98922999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7725569802915,
+            "lng": -73.98794171970849
+          },
+          "southwest": {
+            "lat": 40.76985901970851,
+            "lng": -73.9906396802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Manhattan Neighborhood Network (MNN)",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2002,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107813305432879434552\">Manhattan Neighborhood Network (MNN)</a>"
+          ],
+          "photo_reference": "AeJbb3cG7CiPMv4WKa2gO6cDh_lfEv0vAl5XyOVAeaw7Ol_yokTL5GsMcvIWYEZOQKwy_McbGAgo4MW8-7eV1h4fayUgpLgsoVo49ins0qMbyV63cWLZoMKeVBRBbnZBssop9uZU3RgT9M0s0Wp5rn_hRxsvhXVRImJckbCA6Xu0KpUNgnY",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ7_V2BFxYwokR3yIzpZgbWiE",
+      "plus_code": {
+        "compound_code": "Q2C6+G8 New York, NY, USA",
+        "global_code": "87G8Q2C6+G8"
+      },
+      "rating": 4.9,
+      "reference": "ChIJ7_V2BFxYwokR3yIzpZgbWiE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 40,
+      "vicinity": "537 West 59th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7674044,
+          "lng": -73.98942579999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7688090802915,
+            "lng": -73.98822426970848
+          },
+          "southwest": {
+            "lat": 40.7661111197085,
+            "lng": -73.99092223029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Inti",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115518428341561837203\">Inti</a>"
+          ],
+          "photo_reference": "AeJbb3eDg4uYyytf40dGznV-XQzpvnJ4b3e6ac0mQhcjH-nO0hsWPNh0hbvRpsz6qAqTlLQi1Ywo-4ABovIk6BS0JA9Qy3aqliT_rS7Zy4dZf2kesljaIAavRUTDbHteSacFQpNy0YHIYisA0jaNgzJZ4JTOk4T1LZu6eJLuvck_ioyoq45d",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJ__OiJFpYwokR6a1T6JuLpjI",
+      "plus_code": {
+        "compound_code": "Q286+X6 New York, NY, USA",
+        "global_code": "87G8Q286+X6"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJ__OiJFpYwokR6a1T6JuLpjI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 373,
+      "vicinity": "820 10th Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77415180000001,
+          "lng": -73.98928029999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7755935302915,
+            "lng": -73.98786311970849
+          },
+          "southwest": {
+            "lat": 40.7728955697085,
+            "lng": -73.99056108029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Famous French Cleaners",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100815884056162982758\">Franco Finstad</a>"
+          ],
+          "photo_reference": "AeJbb3dyUzupaHLGZG-MFc-t9Em-XHqCtPVrjBZ-xegOyfmZ4k6-ra0m5pgltxDmwVT37xOW9i4Re7KIlp-Kd6f-6qznp3oWSHMw5DEjpQVRV0FwWwDF911oMAZ_1Js2i5KbXvMs02ol2j8jkJtYLvnc4TD1y9_WK8ImLoCY2cIlonLm8BPP",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJwRoX111YwokRc3itLbwmn4Y",
+      "plus_code": {
+        "compound_code": "Q2F6+M7 New York, NY, USA",
+        "global_code": "87G8Q2F6+M7"
+      },
+      "rating": 4.1,
+      "reference": "ChIJwRoX111YwokRc3itLbwmn4Y",
+      "scope": "GOOGLE",
+      "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "75 W 63th St, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7697168,
+          "lng": -73.9868805
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7712532302915,
+            "lng": -73.98601406970849
+          },
+          "southwest": {
+            "lat": 40.7685552697085,
+            "lng": -73.9887120302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Varma Mala, MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 727,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100829680957356991744\">Mount Sinai St. Luke&#39;s - Varma Mala, MD</a>"
+          ],
+          "photo_reference": "AeJbb3eaAXRLcbQi2QJtlTmnmMmAxF20TrQE12DenMqZ4900fkP4VSxeRkSYIrzc2hSHofqXAjicYF6Hz8_8kYCC1_rT15pIsYi4hY4PUrnEcDolWYqKXR4mZoHFNynt28GU66wCY6BkhfauYKeL4Fc1dn0QeyFYi4jz2EHZuxJh24LReoI",
+          "width": 727
+        }
+      ],
+      "place_id": "ChIJryA_SFlYwokRlpAAZXybn4U",
+      "plus_code": {
+        "compound_code": "Q297+V6 New York, NY, USA",
+        "global_code": "87G8Q297+V6"
+      },
+      "reference": "ChIJryA_SFlYwokRlpAAZXybn4U",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue #11, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7708209,
+          "lng": -73.98897629999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7722380302915,
+            "lng": -73.98758206970848
+          },
+          "southwest": {
+            "lat": 40.7695400697085,
+            "lng": -73.99028003029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gerald W Lynch Theater",
+      "photos": [
+        {
+          "height": 6016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112981487183948571969\">Sumer</a>"
+          ],
+          "photo_reference": "AeJbb3eULUy3Z5p3GSJ5Kv0OTwzzEDJNRCc-iKgcnwy3FgGBlEInEo_XQaOjWnZNLymT33B_0p9UVxQt4JmRl4LRaRM09scj0iy99H6C8fUBc_CBxV2FKJbAB8Rf6tV7d_XYB7WoqfWDS57FXniVEL_rc7JejqtUSJXmvvbFDK2IGOzPmzwM",
+          "width": 8000
+        }
+      ],
+      "place_id": "ChIJiX0JS1lYwokRHct2eA3hmUk",
+      "plus_code": {
+        "compound_code": "Q2C6+8C New York, NY, USA",
+        "global_code": "87G8Q2C6+8C"
+      },
+      "rating": 4.5,
+      "reference": "ChIJiX0JS1lYwokRHct2eA3hmUk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 195,
+      "vicinity": "524 West 59th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77013619999999,
+          "lng": -73.9872122
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7713929302915,
+            "lng": -73.9861799197085
+          },
+          "southwest": {
+            "lat": 40.7686949697085,
+            "lng": -73.98887788029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Friedman Mark T DO",
+      "place_id": "ChIJryA_SFlYwokRQ58QX9XDO4o",
+      "plus_code": {
+        "compound_code": "Q2C7+34 New York, NY, USA",
+        "global_code": "87G8Q2C7+34"
+      },
+      "reference": "ChIJryA_SFlYwokRQ58QX9XDO4o",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1000 10th Avenue #6c, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7742409,
+          "lng": -73.98945990000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77567798029149,
+            "lng": -73.98799626970852
+          },
+          "southwest": {
+            "lat": 40.7729800197085,
+            "lng": -73.99069423029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Puppy's Pick",
+      "permanently_closed": true,
+      "place_id": "ChIJwRoX111YwokRpvWyaikTIiY",
+      "plus_code": {
+        "compound_code": "Q2F6+M6 New York, NY, USA",
+        "global_code": "87G8Q2F6+M6"
+      },
+      "reference": "ChIJwRoX111YwokRpvWyaikTIiY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "75 West End Avenue, New York"
+    }
+  ],
+  "status": "OK"
+}

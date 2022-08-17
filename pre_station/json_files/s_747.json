@@ -1,0 +1,2801 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fbpOpF1suzkKNcOt5QY2KMnvSiXP60Fp0szyAXDNV7C_4HGMBVk-zw7ExRFCNRvyGPZjJ4QknbixySaL2jIN7SND1gUK4h6W9VHBTqzGn-ulq1xaieBOd6Wd-FsSqhD9PftYZq9Lt3WtHA8URIwDOOVO4CMgY7RdRjkXM6CSgajCQU",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70315110000001,
+          "lng": -73.9146117
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7045732302915,
+            "lng": -73.9131873697085
+          },
+          "southwest": {
+            "lat": 40.7018752697085,
+            "lng": -73.9158853302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Himanshu A. Patel, MD",
+      "place_id": "ChIJ3fvDZB5cwokRDeSJpcYwNbQ",
+      "plus_code": {
+        "compound_code": "P33P+75 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P33P+75"
+      },
+      "rating": 3,
+      "reference": "ChIJ3fvDZB5cwokRDeSJpcYwNbQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "220a Saint Nicholas Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7051936,
+          "lng": -73.91514769999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7066078302915,
+            "lng": -73.91372761970848
+          },
+          "southwest": {
+            "lat": 40.7039098697085,
+            "lng": -73.9164255802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sicily's Best",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106356163267491088235\">Sicily&#39;s Best</a>"
+          ],
+          "photo_reference": "AeJbb3ebpVBZLeQ1rRrzqZkijXnfcRVoLDTjizH4ZbjHkWDdLZEUOr6-1ehaMDvmws8ZC2jGPIpBuoMfcu_pJgEa5P2hORyLcc653jhoOvJNL1oUgWB53mX9p82X2WG6zpy8eU56eoBkbYr-rAS4XEbT8k91vtc1w-rQM4GN93p9v7q7Ci4M",
+          "width": 1176
+        }
+      ],
+      "place_id": "ChIJpbn6zR9cwokRAmEalQw5jzs",
+      "plus_code": {
+        "compound_code": "P34M+3W \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P34M+3W"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJpbn6zR9cwokRAmEalQw5jzs",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 151,
+      "vicinity": "190 Cypress Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7045673,
+          "lng": -73.91085989999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7059459802915,
+            "lng": -73.9094640197085
+          },
+          "southwest": {
+            "lat": 40.7032480197085,
+            "lng": -73.91216198029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Guadalajara De Dia 2",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103678802746039124361\">Isabel Ponce</a>"
+          ],
+          "photo_reference": "AeJbb3c-AgUe8bovJkiYOGCwnjYm2wmZPzxKiubzeJrjGxMm1I0e6DXhvKKzm1yjHVg-PjGiftc6S9NAVViEO-poe7ueO6EzACxegzR-NDHnI1zh95KXwOL90NK7Nyx3g74e41pUnxKAr0_ZSDmJcW3tbEJGoycvtaJ0JD0CM5q6NLo6FcZ6",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJkdylciBcwokRB2XdJvDaRcU",
+      "plus_code": {
+        "compound_code": "P33Q+RM Ridgewood, \u7d10\u7d04\u7f8e\u570b",
+        "global_code": "87G8P33Q+RM"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJkdylciBcwokRB2XdJvDaRcU",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 156,
+      "vicinity": "566 Seneca Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7006812,
+          "lng": -73.9094303
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7019127802915,
+            "lng": -73.9082023197085
+          },
+          "southwest": {
+            "lat": 40.6992148197085,
+            "lng": -73.9109002802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "K&K Buffet & Cajun Seafood",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2025,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115669779561965803211\">Kin Tsui</a>"
+          ],
+          "photo_reference": "AeJbb3c4dWOEdKdfCQKzM9vuyRaCKFHRoDHfb6x27BMMHYI6s3hc2k3IXrG0rF_JPa1yQnIymhIdQjyTAY71lewLgUAuxY5ZPlh4Wsazh0L8SmJMAS-YW6juC925vly8Zpv3htWxU8oC8T_3whwtcfcN2mP0eBwzv_50OtEktNcVsYPPSQay",
+          "width": 3591
+        }
+      ],
+      "place_id": "ChIJs8E2cSFcwokRwt6W_ly2b7E",
+      "plus_code": {
+        "compound_code": "P32R+76 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P32R+76"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJs8E2cSFcwokRwt6W_ly2b7E",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1327,
+      "vicinity": "341 Saint Nicholas Avenue"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7058663,
+          "lng": -73.9077144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7072844802915,
+            "lng": -73.9062944697085
+          },
+          "southwest": {
+            "lat": 40.70458651970851,
+            "lng": -73.9089924302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "St Mary & St Antonios Coptic Orthodox Church",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1064,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101695790009051439180\">St Mary &amp; St Antonios Coptic Orthodox Church</a>"
+          ],
+          "photo_reference": "AeJbb3cWq1ha8ymiPnwksVu5iWq2tuVUe--wQ73CqrBxVQd9SsoSkGsQq6Hg7FqMVAEyu9S3NbbIFtBjYFFg9EZdt3kComalYNYWC8JkZoxc5JkwkqrSVjsnCBLjz86Fz2RIxMZXJvM1TsgSfaFPxKn6dnStMz-R7fiiatjtGmytCX8mZuoF",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJh_8PFJ5ewokRUbPsDDPeGCQ",
+      "plus_code": {
+        "compound_code": "P34R+8W \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P34R+8W"
+      },
+      "rating": 4.8,
+      "reference": "ChIJh_8PFJ5ewokRUbPsDDPeGCQ",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 102,
+      "vicinity": "606 Woodward Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7042882,
+          "lng": -73.9134582
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7056119802915,
+            "lng": -73.91206586970848
+          },
+          "southwest": {
+            "lat": 40.7029140197085,
+            "lng": -73.91476383029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Melinda's Halal Meat Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+          ],
+          "photo_reference": "AeJbb3fepOiI1xea9k0CmWCLH6c8w3HfKHalIBJ-VuUdit8FchPMGx4I5sKrmhtfS22NkLkPjASzrElK-j_aWr9FjS3bIiraCkSnfbbD8-INLeKFSXsieHAXwKjmgHuc_1u2gqYUtmo0DtpqIqn4GBArHDyRRe06kHwUlr79Y9UPl11V1Ax7",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJma2FlB9cwokRkQfYq8aM61s",
+      "plus_code": {
+        "compound_code": "P33P+PJ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P33P+PJ"
+      },
+      "rating": 4.8,
+      "reference": "ChIJma2FlB9cwokRkQfYq8aM61s",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 34,
+      "vicinity": "1535 Greene Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70683409999999,
+          "lng": -73.90549589999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7080802302915,
+            "lng": -73.90425266970848
+          },
+          "southwest": {
+            "lat": 40.7053822697085,
+            "lng": -73.90695063029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Community Advocacy Center",
+      "place_id": "ChIJ3UF7f55ewokRB1dTuad2eKc",
+      "plus_code": {
+        "compound_code": "P34V+PR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P34V+PR"
+      },
+      "reference": "ChIJ3UF7f55ewokRB1dTuad2eKc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "657 Fairview Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7072366,
+          "lng": -73.9147524
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7085074802915,
+            "lng": -73.91348341970848
+          },
+          "southwest": {
+            "lat": 40.7058095197085,
+            "lng": -73.9161813802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Bravo's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104821787665909649338\">Dennis Brewster</a>"
+          ],
+          "photo_reference": "AeJbb3cc0zkvKbbPztWibfPgwO4zK2IpdqjA6h6KEmtmcAKANrMh6w9VP10zJm8Y7PglHfUY70HTxrhn0_ywSiQHZ4UTbGOkm5ZNSMgA1uQxRzePZ5kiR71b9j4Z9chHBkPNiKasqJb0bT9NZj5FtHfqc9KGbsHlO4R6z4vrQbdUhxbIBQ0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_RdgZ6BewokRXirUH5UbOMs",
+      "plus_code": {
+        "compound_code": "P34P+V3 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P34P+V3"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJ_RdgZ6BewokRXirUH5UbOMs",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 115,
+      "vicinity": "377 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7054813,
+          "lng": -73.9123522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70685083029149,
+            "lng": -73.9109818697085
+          },
+          "southwest": {
+            "lat": 40.7041528697085,
+            "lng": -73.91367983029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seneca Chapels Ltd",
+      "place_id": "ChIJB67F-B9cwokR4UCN0rs5DRk",
+      "plus_code": {
+        "compound_code": "P34Q+53 Ridgewood, \u7d10\u7d04\u7f8e\u570b",
+        "global_code": "87G8P34Q+53"
+      },
+      "rating": 5,
+      "reference": "ChIJB67F-B9cwokR4UCN0rs5DRk",
+      "scope": "GOOGLE",
+      "types": [
+        "funeral_home",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "494 Seneca Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.706827,
+          "lng": -73.9054957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70808278029151,
+            "lng": -73.9042629197085
+          },
+          "southwest": {
+            "lat": 40.70538481970851,
+            "lng": -73.9069608802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Gottscheer Hall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101538223028218463022\">Doug Krebs</a>"
+          ],
+          "photo_reference": "AeJbb3e8_PKCDSzDYA3OriSGxuRbVVHf6Jfjpj7wq6j9Fbe8BQgPcLtwpfNHRClmMaFl-70ingT3r5XBoWhTV-B2GtQuv7bTYThAb7XxZyW3JE5zuP5aTnnDrY9NAUbKF0gfum2iQ4rQhwMwaQ3Y14CUf9NzNDJCKWIxVKT1CsDk8kiBdWvY",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJQbogzJ1ewokRUJAowaUOLnM",
+      "plus_code": {
+        "compound_code": "P34V+PR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P34V+PR"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJQbogzJ1ewokRUJAowaUOLnM",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 256,
+      "vicinity": "657 Fairview Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7044439,
+          "lng": -73.9092009
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7058732802915,
+            "lng": -73.90796591970849
+          },
+          "southwest": {
+            "lat": 40.7031753197085,
+            "lng": -73.91066388029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tannia's Natural Nutrition",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115223863160287193111\">Luz Palate</a>"
+          ],
+          "photo_reference": "AeJbb3fkeZHXNsYHSUFyBXDDlxW2kc8ayZwvHcsJvw4qwD6u4xbjiJQe3tsk-_AlLK6n-nRs4AqhWR3Lxeq41CYQI81sTNamR9qGT0Wb-VkX9Gtj7znNBwZ7-2dVUpTfxjj0akpxNBGbTXVepCHR1FdjKxnV2LM7o3hQ2pdblMh9X0UpJ5ZK",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJC7qpiCBcwokRzKt3hZdWdlg",
+      "plus_code": {
+        "compound_code": "P33R+Q8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P33R+Q8"
+      },
+      "rating": 4.5,
+      "reference": "ChIJC7qpiCBcwokRzKt3hZdWdlg",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 64,
+      "vicinity": "1820 Grove Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7063739,
+          "lng": -73.910876
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70765678029149,
+            "lng": -73.90960681970849
+          },
+          "southwest": {
+            "lat": 40.7049588197085,
+            "lng": -73.91230478029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ridgewood Volunteer Ambulance",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJm3vqKyFcwokRtqyWBT7_R3k",
+      "plus_code": {
+        "compound_code": "P34Q+GJ \u7f8e\u570b\u7d10\u7d04\u6cd5\u62c9\u76db",
+        "global_code": "87G8P34Q+GJ"
+      },
+      "rating": 5,
+      "reference": "ChIJm3vqKyFcwokRtqyWBT7_R3k",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "503 Onderdonk Avenue, Flushing"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7063892,
+          "lng": -73.9086147
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70779573029149,
+            "lng": -73.9071684197085
+          },
+          "southwest": {
+            "lat": 40.70509776970849,
+            "lng": -73.9098663802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New Force Construction",
+      "place_id": "ChIJE2U6RJ5ewokRaQ2NYy5AfE8",
+      "plus_code": {
+        "compound_code": "P34R+HH \u7f8e\u570b\u7d10\u7d04\u6cd5\u62c9\u76db",
+        "global_code": "87G8P34R+HH"
+      },
+      "rating": 4.4,
+      "reference": "ChIJE2U6RJ5ewokRaQ2NYy5AfE8",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "576 Woodward Avenue, Flushing"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7043335,
+          "lng": -73.9104782
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7057231302915,
+            "lng": -73.9090927697085
+          },
+          "southwest": {
+            "lat": 40.7030251697085,
+            "lng": -73.9117907302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "El Sabor Del Austro",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116448612019838150952\">J Tv</a>"
+          ],
+          "photo_reference": "AeJbb3ef2NQ8RrVXG5x7VPKX5D6KGOCYHKDSrny5FkjG8TW1NH4sTv1T8ooYucJv4BZ_Cyd_S-JBSxrpFMDa263HG5xAK-6XAg87iRxMzw_diClo_4h-GtKcwM7EaRjyK1RbYAQnCkCdTQWt27YMPAKYsrehfcwVCicTHmP_8FCwB20BgtBs",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJaa90aSBcwokReJu3UL1jLig",
+      "plus_code": {
+        "compound_code": "P33Q+PR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P33Q+PR"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJaa90aSBcwokReJu3UL1jLig",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "580 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7049444,
+          "lng": -73.9084944
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7062305302915,
+            "lng": -73.9072107197085
+          },
+          "southwest": {
+            "lat": 40.7035325697085,
+            "lng": -73.90990868029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "pnsgifts",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJDZsBniBcwokRfoVtwENmsI4",
+      "plus_code": {
+        "compound_code": "P33R+XJ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P33R+XJ"
+      },
+      "rating": 1,
+      "reference": "ChIJDZsBniBcwokRfoVtwENmsI4",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "park",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "609 Onderdonk Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7030501,
+          "lng": -73.90766769999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7043210302915,
+            "lng": -73.90639871970849
+          },
+          "southwest": {
+            "lat": 40.7016230697085,
+            "lng": -73.90909668029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "El Castillo De Jagua",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJuxPKxCBcwokRGl852pzx3eI",
+      "plus_code": {
+        "compound_code": "P33R+6W \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P33R+6W"
+      },
+      "rating": 3.6,
+      "reference": "ChIJuxPKxCBcwokRGl852pzx3eI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "689 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7032136,
+          "lng": -73.9079847
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70449188029149,
+            "lng": -73.90670801970849
+          },
+          "southwest": {
+            "lat": 40.70179391970849,
+            "lng": -73.9094059802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dental Artes LLC. Waldo Cubero DDS",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 880,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103852148246969817961\">Waldo Cubero</a>"
+          ],
+          "photo_reference": "AeJbb3dWaVzxrivo7C6StgKbYZZVoxfWU8AKNNa1Io8Nff7CFeV2ZzVZwhpXWroWD2qT1Q8G2GR4uOsUwA_47u5AFdC8wv9c2RsV1nyWoOm2QJ6ZtmMTVLefjKjVezDEMe0PU68in5Md1lb68gf4PiCSs72hzXgM68PHBKpm-pW8Cw88xSoI",
+          "width": 1085
+        }
+      ],
+      "place_id": "ChIJtZLdH3pZwokRHruaDHZlXoE",
+      "plus_code": {
+        "compound_code": "P33R+7R \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P33R+7R"
+      },
+      "rating": 4.5,
+      "reference": "ChIJtZLdH3pZwokRHruaDHZlXoE",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "681 Seneca Avenue ste a, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70680749999999,
+          "lng": -73.9117289
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70821488029149,
+            "lng": -73.91041986970849
+          },
+          "southwest": {
+            "lat": 40.70551691970849,
+            "lng": -73.9131178302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Martha's Dance Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111968045293981154100\">Milton Morocho</a>"
+          ],
+          "photo_reference": "AeJbb3cgjm2p7kaqHkecbkngfamLZQ7MR6XI7tb52rJL7VSCMc36SoDmeCEbOyMiEo6pnFY1hvbyVfQE4XGy0FTOoDuB5Hvwd-CLsuqKAbyz4kA4ng7K0G5sNAle3sVdsGXF0fa-3O9Ob_hP2ZsO46ANV0gHSNDPi71ihMsL_oS7YPxt06Md",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJiZVvjZ9ewokRhgQkicZKqeU",
+      "plus_code": {
+        "compound_code": "P34Q+P8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P34Q+P8"
+      },
+      "rating": 4.7,
+      "reference": "ChIJiZVvjZ9ewokRhgQkicZKqeU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "475 Onderdonk Avenue, Queens"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.6781784,
+          "lng": -73.9441579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73944597129348,
+            "lng": -73.83336505117123
+          },
+          "southwest": {
+            "lat": 40.55104197967331,
+            "lng": -74.05662998413648
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u5e03\u9c81\u514b\u6797",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114417859579881743500\">Chengxiang Yuan</a>"
+          ],
+          "photo_reference": "AeJbb3dq0ZU_R2IK-q-ot9HNKdOmnTn3ww5nfpAxPecer1ygI5ZCfzVJCJ8dmHD8poLMYRX6Jb1T3oQ6fwNDdMI_RBGE5QYSIIgJwJLOQ6jzjfcZteGglVUWY8TQnvtpOFis2f-mTPI66U3FmlfY3MOyN6UPXEDHvPnbkT6bdxEt5HXhC29m",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "reference": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "\u5e03\u9c81\u514b\u6797"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7049691,
+          "lng": -73.9123528
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7063673802915,
+            "lng": -73.91108726970849
+          },
+          "southwest": {
+            "lat": 40.7036694197085,
+            "lng": -73.9137852302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mickael Pelow Gardens",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 426,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111324637579383700108\">Bob Wilson</a>"
+          ],
+          "photo_reference": "AeJbb3dFXurxnrfGvf_ABmO4NYxnytfy54_hd2d5pTaBeA0Kp-7u-ZztbJGX9W_0c1vKL7bd_vr3SIobnkWQUVmRILwCkfkngVTjpcri21BDCJr1YWQe1w9uao4pfjF26nIKrLDyhhM9WQWQQcI66EZygci7r8Cx_foJRvdxzJgZ_CZcMpES",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJ4akuAyBcwokR_I2wN_CYlTY",
+      "plus_code": {
+        "compound_code": "P33Q+X3 New York, NY, USA",
+        "global_code": "87G8P33Q+X3"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ4akuAyBcwokR_I2wN_CYlTY",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "17-36 Greene Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7034481,
+          "lng": -73.90896470000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7048333802915,
+            "lng": -73.9075783697085
+          },
+          "southwest": {
+            "lat": 40.7021354197085,
+            "lng": -73.91027633029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jocelyne E. Pierre CPA, P.C. & Accounting Taxes and Management LLC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 857,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113390025980668824008\">Jocelyne E. Pierre CPA, P.C. &amp; Accounting Taxes and Management LLC</a>"
+          ],
+          "photo_reference": "AeJbb3ebIGlS4MKIQiexCP22o_FHUlMkHEebauQXfTD5zkAcnJo5uJUSB4MV0Ju8Pk8h_2s8LWM6L_rvsDmICmfZKmT_bsUl9Ch9JU0UolJOHbLYheP05lYkbvG2HOQKK8cXA5QGWTb4N_Hjx_yywlPNMvYchjvDTuLLMEGoUZahDO6HxiKF",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJtXbm8CBcwokRToQbZB0LgDA",
+      "plus_code": {
+        "compound_code": "P33R+9C Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P33R+9C"
+      },
+      "reference": "ChIJtXbm8CBcwokRToQbZB0LgDA",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "656 Seneca Avenue Ste 1, Ridgewood"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.70665090000001,
+          "lng": -73.9074866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7079731802915,
+            "lng": -73.9060916197085
+          },
+          "southwest": {
+            "lat": 40.7052752197085,
+            "lng": -73.90878958029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Art Leather Productions LLC",
+      "permanently_closed": true,
+      "place_id": "ChIJqzZaSGtewokRaPOpIAqmaUc",
+      "plus_code": {
+        "compound_code": "P34V+M2 Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P34V+M2"
+      },
+      "reference": "ChIJqzZaSGtewokRaPOpIAqmaUc",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Ridgewood"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7030632,
+          "lng": -73.9077595
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7043480802915,
+            "lng": -73.90647936970849
+          },
+          "southwest": {
+            "lat": 40.7016501197085,
+            "lng": -73.9091773302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "International Hair Products",
+      "permanently_closed": true,
+      "place_id": "ChIJoSTg3CBcwokRzJx_hvZFO9M",
+      "plus_code": {
+        "compound_code": "P33R+6V New York, NY, USA",
+        "global_code": "87G8P33R+6V"
+      },
+      "rating": 5,
+      "reference": "ChIJoSTg3CBcwokRzJx_hvZFO9M",
+      "scope": "GOOGLE",
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "687 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7053532,
+          "lng": -73.91244449999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70666208029151,
+            "lng": -73.91102761970848
+          },
+          "southwest": {
+            "lat": 40.70396411970851,
+            "lng": -73.9137255802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "panic away",
+      "permanently_closed": true,
+      "place_id": "ChIJd9OnASBcwokRiI7nSk2QuGE",
+      "plus_code": {
+        "compound_code": "P34Q+42 Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P34Q+42"
+      },
+      "reference": "ChIJd9OnASBcwokRiI7nSk2QuGE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "17-85 Greene Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7041476,
+          "lng": -73.9103263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7055643802915,
+            "lng": -73.90890681970849
+          },
+          "southwest": {
+            "lat": 40.7028664197085,
+            "lng": -73.9116047802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Fenix XL Car & Limo Service Corp.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+          ],
+          "photo_reference": "AeJbb3fcgtKR6Y52u4AgR0ty_-ACcXt71sRHvPMDD7SQEwT0k49zsMyJgmEqvr3JXZEFj-LdEGpoTEWLGOO_dvvuFG8-HRWfcE7tFpdPV8FCVc8MfJQI3cRCp7uS4PTnwocz80BJfhDU6AsTMJWNu9lzQPw9FLqTXdKFF2ziyAJtG38LDDYt",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJ2zMTaCBcwokRjEJnOCR_WIc",
+      "plus_code": {
+        "compound_code": "P33Q+MV New York, NY, USA",
+        "global_code": "87G8P33Q+MV"
+      },
+      "rating": 3.4,
+      "reference": "ChIJ2zMTaCBcwokRjEJnOCR_WIc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 209,
+      "vicinity": "586 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70556859999999,
+          "lng": -73.9094689
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70683928029149,
+            "lng": -73.9082006697085
+          },
+          "southwest": {
+            "lat": 40.70414131970849,
+            "lng": -73.91089863029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Classy Screens NYC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113260801941535899714\">Classy Screens NYC</a>"
+          ],
+          "photo_reference": "AeJbb3cteJUxZ4i69PGcwBOc0pZZjPHN5uEgEa64u01_XL-HnDEqt3r3pfhf-H_iuffn6fggZUaOHvU5LHCkT_LLBeOC_vXuxrMcWQH8rntLRqi-lMfHQ6Wc0yaYI6Jw4xjXzmxx4aJpSmVgktqAaM1tbHdui52k2aMBcq5C52HMDvm-poHC",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQWatcAtcwokR0QUXmty7sxQ",
+      "plus_code": {
+        "compound_code": "P34R+66 New York, NY, USA",
+        "global_code": "87G8P34R+66"
+      },
+      "rating": 5,
+      "reference": "ChIJQWatcAtcwokR0QUXmty7sxQ",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 53,
+      "vicinity": "575 Onderdonk Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7035037,
+          "lng": -73.909652
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7048036302915,
+            "lng": -73.9082205197085
+          },
+          "southwest": {
+            "lat": 40.7021056697085,
+            "lng": -73.9109184802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "St. John's United Methodist Church",
+      "place_id": "ChIJe9LVXiBcwokRNkoR8PDd4Ac",
+      "plus_code": {
+        "compound_code": "P33R+C4 Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P33R+C4"
+      },
+      "rating": 5,
+      "reference": "ChIJe9LVXiBcwokRNkoR8PDd4Ac",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "17-37 Linden Street, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7058218,
+          "lng": -73.911475
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7072207302915,
+            "lng": -73.91021041970849
+          },
+          "southwest": {
+            "lat": 40.7045227697085,
+            "lng": -73.9129083802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Noble Web Marketing",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103483163004189340348\">Noble Web Marketing</a>"
+          ],
+          "photo_reference": "AeJbb3fN5tH1RF6uO49vPvYpPShrc7oXLsD31EhjQCI6tvh8oRvhzr3xI1xbePeBy6_p0e6pG0pLfLusxdygxFAs_ztjRYXRLp7Zp6JfFQTAX85pfpNYC_PrBooxqoSIB5QE9hJocoRkNr366oORA_EenRT7hVbzB8bAbVHPXj2DNC0R_wsL",
+          "width": 1638
+        }
+      ],
+      "place_id": "ChIJJ-Qp5J9ewokRHcX2fTip0qQ",
+      "plus_code": {
+        "compound_code": "P34Q+8C Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P34Q+8C"
+      },
+      "reference": "ChIJJ-Qp5J9ewokRHcX2fTip0qQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1820 Greene Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.704062,
+          "lng": -73.91262499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7053693802915,
+            "lng": -73.91132781970849
+          },
+          "southwest": {
+            "lat": 40.7026714197085,
+            "lng": -73.91402578029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Stanley Hardware Store",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109168841672236278110\">Estefania Guzman</a>"
+          ],
+          "photo_reference": "AeJbb3eiTmsi65zjFjORM_tvmh86LPecJQf3PRXFMo8eWrN_iVPex3DUy6oXC5N9QGfuFaFdNShMW3lHJ8bzMXu-wAMl5MYoV8b2w46mbz-JYdbyNLIwJSRaNpEx0pikAP4xhj26chNJSka0JTyNMdCMRuQlEIckDVW1HqWUjxHju5lpmawh",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJP0Mxih9cwokRXkUws3Z5_GA",
+      "plus_code": {
+        "compound_code": "P33P+JX Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P33P+JX"
+      },
+      "rating": 3.7,
+      "reference": "ChIJP0Mxih9cwokRXkUws3Z5_GA",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "plumber",
+        "locksmith",
+        "home_goods_store",
+        "general_contractor",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "17-11 Bleecker Street, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7033969,
+          "lng": -73.9090556
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70481738029149,
+            "lng": -73.90764001970848
+          },
+          "southwest": {
+            "lat": 40.7021194197085,
+            "lng": -73.9103379802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Accounting Taxes & Management, LLC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1236,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104578114555434231443\">Jose R Lopez</a>"
+          ],
+          "photo_reference": "AeJbb3fAUGl8Dxe7MVwdiIMDnSwVpEcMconsnaaCC2XuTSzK-otiP7_OAv3l9Ue3Jj1FyLerOQOyzWlkIBUd08UWb669TMAQjG4bQBVssMHOQg_GEg63DlVbt-nLX2ARrVvb1uMR-oZZgTClazPLuc_CwTQl04XEvSrSCHgRheGxvhyUtMn5",
+          "width": 2543
+        }
+      ],
+      "place_id": "ChIJtXbm8CBcwokRKekHKJp_SfU",
+      "plus_code": {
+        "compound_code": "P33R+99 Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P33R+99"
+      },
+      "rating": 3,
+      "reference": "ChIJtXbm8CBcwokRKekHKJp_SfU",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "6-56 Seneca Avenue #1, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70290689999999,
+          "lng": -73.9102669
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7042052802915,
+            "lng": -73.90883401970851
+          },
+          "southwest": {
+            "lat": 40.7015073197085,
+            "lng": -73.91153198029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wow NYC Painting & Handymen Services",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 534,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117429785753966361626\">Wow NYC Handymen</a>"
+          ],
+          "photo_reference": "AeJbb3cVVovYBzdNSZ4XSatmdQ4X9zitJsmJorosQSHOtCWhlhK2tcrwPfkVuLAGGB67yJebKNU46qDZx3_H5erXhvQCB82SUOhX4R1JZbtsdtROjq6AEFWfUhqEvrjlkNX9v6UlU7qO9RHo5qUy6eiekXKVgyJkwji-dR47pBuBj575S7Tz",
+          "width": 949
+        }
+      ],
+      "place_id": "ChIJpxVn84pbwokRU7gDId7-hTA",
+      "plus_code": {
+        "compound_code": "P33Q+5V Flushing, Queens, NY, USA",
+        "global_code": "87G8P33Q+5V"
+      },
+      "rating": 5,
+      "reference": "ChIJpxVn84pbwokRU7gDId7-hTA",
+      "scope": "GOOGLE",
+      "types": [
+        "painter",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "17-17 Linden Street, Flushing"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70586729999999,
+          "lng": -73.9125948
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70716523029149,
+            "lng": -73.9112992697085
+          },
+          "southwest": {
+            "lat": 40.70446726970849,
+            "lng": -73.91399723029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NYS Inspection",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 939,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118443202366623238019\">NYS Inspection</a>"
+          ],
+          "photo_reference": "AeJbb3ctcNbt0S_iHpA8245qIa0iiEeIHMFP3ZDyx9GeGaUawtBeMCqpIZq8jdnkV_b-tUvRmIh3ODFevQSlvrdpytispqy3LPR3FtTYFZESj1nKDUAjOAH4MJjmLlTLBbFfpiMIHMdXhGaV3JN-hTnvFfgHptAC2XxwVIyow489UkmlgJBr",
+          "width": 1668
+        }
+      ],
+      "place_id": "ChIJn03tAaBewokRJjW6At_V0UM",
+      "plus_code": {
+        "compound_code": "P34P+8X New York, NY, USA",
+        "global_code": "87G8P34P+8X"
+      },
+      "rating": 4.4,
+      "reference": "ChIJn03tAaBewokRJjW6At_V0UM",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 105,
+      "vicinity": "475 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.703724,
+          "lng": -73.9081959
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70507738029151,
+            "lng": -73.9067356697085
+          },
+          "southwest": {
+            "lat": 40.70237941970851,
+            "lng": -73.9094336302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Dollar General",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108608859908796370057\">Dollar General</a>"
+          ],
+          "photo_reference": "AeJbb3fboZ9T1aLj560P-oSrSAw3VhhAyjlq4YHjR4x8mkTEgMiU7jj7vo_QzF3OsHw89xefdbFUxAgZenD1Abdjq3SYRytAIqhk2bM6OyH3jtbr-renHyoUp1F79BQrp7xuuvfXeQsvPu1SzRE0tSlnAplh1dIdKJY8Ufn2K7Xd7Odu_ADj",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJ6ecglSBcwokRmv2m4eEklcI",
+      "plus_code": {
+        "compound_code": "P33R+FP New York, NY, USA",
+        "global_code": "87G8P33R+FP"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJ6ecglSBcwokRmv2m4eEklcI",
+      "scope": "GOOGLE",
+      "types": [
+        "drugstore",
+        "convenience_store",
+        "home_goods_store",
+        "store",
+        "health",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 463,
+      "vicinity": "1815 Gates Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7066122,
+          "lng": -73.9112622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7078859302915,
+            "lng": -73.9099858197085
+          },
+          "southwest": {
+            "lat": 40.7051879697085,
+            "lng": -73.9126837802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beyond Basic Bookkeeping Services",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ11YR659ewokRzgfIDiQM3II",
+      "plus_code": {
+        "compound_code": "P34Q+JF Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P34Q+JF"
+      },
+      "reference": "ChIJ11YR659ewokRzgfIDiQM3II",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "489 Onderdonk Avenue 1st floor, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70409579999999,
+          "lng": -73.9077339
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70550523029149,
+            "lng": -73.90632281970849
+          },
+          "southwest": {
+            "lat": 40.7028072697085,
+            "lng": -73.9090207802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "MyChatTherapist",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5952,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111548404398039131347\">James Hampton</a>"
+          ],
+          "photo_reference": "AeJbb3f89HeFYSMeOIdRQmSjM2dSBWTesg-eEALLIb_oFSFM3awJ4iL9lKZ2QtKKRxgZrg7sDEwbAzt_GuU8XDB5k3plD2ZsR0WWAGYozAlh_cHOS_g0xmCKpIUSQXPszhz66fiA2dte0h0MxhZHwUDGaH3T79Faf0yBnOliC_YYKH6JHaxW",
+          "width": 3348
+        }
+      ],
+      "place_id": "ChIJacKevCBcwokR7RoKsqaV_-g",
+      "plus_code": {
+        "compound_code": "P33R+JW Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P33R+JW"
+      },
+      "rating": 2.6,
+      "reference": "ChIJacKevCBcwokR7RoKsqaV_-g",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "666 Onderdonk Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70305559999999,
+          "lng": -73.9083333
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70444483029149,
+            "lng": -73.90693671970848
+          },
+          "southwest": {
+            "lat": 40.70174686970849,
+            "lng": -73.9096346802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Cachapas y Mas",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108749968620495908982\">Cachapas y Mas</a>"
+          ],
+          "photo_reference": "AeJbb3djAYd3Obasqy8yy0_iHBDZci0Ad73rsVSCQQ6gb5iaWJfw5or7qvPvESv16jk6nj0YvlDjnzscGhjmOCRhFcOQXkCs188e3SixX_AoOx8yhpcAxQEpsgNKu-m1tMzzS_XR4wCmBLj522RIjwW1EaCHMuUBj7TZ7BoC7pPOf_IsAJvY",
+          "width": 3472
+        }
+      ],
+      "place_id": "ChIJ5Qpq5iBcwokRXAiqaAUuS_A",
+      "plus_code": {
+        "compound_code": "P33R+6M Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P33R+6M"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJ5Qpq5iBcwokRXAiqaAUuS_A",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 678,
+      "vicinity": "678 Seneca Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7066801,
+          "lng": -73.9090427
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7080890802915,
+            "lng": -73.9076328197085
+          },
+          "southwest": {
+            "lat": 40.7053911197085,
+            "lng": -73.91033078029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "FTW World Wrestling Academy 2",
+      "place_id": "ChIJn2HnTp5ewokRSB5mMmjceDo",
+      "plus_code": {
+        "compound_code": "P34R+M9 New York, NY, USA",
+        "global_code": "87G8P34R+M9"
+      },
+      "rating": 1.6,
+      "reference": "ChIJn2HnTp5ewokRSB5mMmjceDo",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "564 Woodward Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7029187,
+          "lng": -73.9082435
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7043365802915,
+            "lng": -73.90682406970849
+          },
+          "southwest": {
+            "lat": 40.7016386197085,
+            "lng": -73.9095220302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lc Motions",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJEX8Y4CFcwokRlEGafvA-zQg",
+      "plus_code": {
+        "compound_code": "P33R+5P New York, NY, USA",
+        "global_code": "87G8P33R+5P"
+      },
+      "reference": "ChIJEX8Y4CFcwokRlEGafvA-zQg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "682 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7058175,
+          "lng": -73.9074418
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7072076302915,
+            "lng": -73.90607701970849
+          },
+          "southwest": {
+            "lat": 40.7045096697085,
+            "lng": -73.9087749802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "House of Worship Christian Church",
+      "place_id": "ChIJgUNBE55ewokRZeTyS2YRw7s",
+      "plus_code": {
+        "compound_code": "P34V+82 Flushing, Queens, NY, USA",
+        "global_code": "87G8P34V+82"
+      },
+      "rating": 4.3,
+      "reference": "ChIJgUNBE55ewokRZeTyS2YRw7s",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "612 Woodward Avenue, Flushing"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7031673,
+          "lng": -73.907889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7044508802915,
+            "lng": -73.9066298697085
+          },
+          "southwest": {
+            "lat": 40.7017529197085,
+            "lng": -73.9093278302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Metro by T-Mobile",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101268116529997303390\">Metro by T-Mobile</a>"
+          ],
+          "photo_reference": "AeJbb3fjPX2_80FXYDI1lGsGVVX9C3UJiMXv9e1MsFNDTG6LhMC2m8DKuA67GcY0BRnmYzsaDu2eeMJPuMkvoYR8I-b1oR9BG5yrDYnOV7MGYesIB5Ltt5MV0V18HdqHM23LvF9eJOPVBBHS92KCA1ZbNWFrcDLDWdHmKpDNt0ZuFWvV0aMf",
+          "width": 2500
+        }
+      ],
+      "place_id": "ChIJG1rr3SBcwokRo-nit7waonQ",
+      "plus_code": {
+        "compound_code": "P33R+7R New York, NY, USA",
+        "global_code": "87G8P33R+7R"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJG1rr3SBcwokRo-nit7waonQ",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "683 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7031582,
+          "lng": -73.907817
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7044228802915,
+            "lng": -73.90655441970848
+          },
+          "southwest": {
+            "lat": 40.7017249197085,
+            "lng": -73.90925238029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SiempreTax+",
+      "place_id": "ChIJB73GwiBcwokRnHeuG_WBvTY",
+      "plus_code": {
+        "compound_code": "P33R+7V Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P33R+7V"
+      },
+      "rating": 4,
+      "reference": "ChIJB73GwiBcwokRnHeuG_WBvTY",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "683 Seneca Avenue #1r, Ridgewood"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.702113,
+          "lng": -73.90988399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7034093802915,
+            "lng": -73.90844481970849
+          },
+          "southwest": {
+            "lat": 40.7007114197085,
+            "lng": -73.9111427802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Un Lugar Deseable",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113823742439763110958\">Jacqueline Ortiz</a>"
+          ],
+          "photo_reference": "AeJbb3ebdmQ36i3ImlLo_1_kJskvd6X9jasuCLOyMxfkOC_2eIiOMV-Z1-gUUh5x0WvsX5yymM8CGQtlm6JCRquFKmPn6PxIIkuhWHqY-s6sCtv1zrhfanUE6L3MLJwjqIN2AAhwCmIJvUY2AKrkvaWZH-AxduXLbxC5mNvtATl6-iIcSqA",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJj4eyqCFcwokRr-U8dwj9FiA",
+      "plus_code": {
+        "compound_code": "P32R+R2 Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P32R+R2"
+      },
+      "reference": "ChIJj4eyqCFcwokRr-U8dwj9FiA",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1693 Gates Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7042203,
+          "lng": -73.9072084
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7055790802915,
+            "lng": -73.9059589197085
+          },
+          "southwest": {
+            "lat": 40.7028811197085,
+            "lng": -73.9086568802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Julie\u2019s Pizzer\u00eda & Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111875901261490769184\">Julie\u2019s Pizzer\u00eda &amp; Restaurant</a>"
+          ],
+          "photo_reference": "AeJbb3fdN3nGK6kT9j7Hfovfd9siToKz-ZJyEmKyLmQ1mDVZMQthXG7x-9PKE3OpIaLS2rziZpz4ayNYOJecdQxOPs9XFDT1XC-f2SM6dKjRpa8IZ7B-K998vmAifdVIZq-xGD_F4-Wc_M1w3MuZbPrKrABwG6RnDYMrQvxXKvFPtmMzhqE",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJaX35ryBcwokRfFP_V4XNXK4",
+      "plus_code": {
+        "compound_code": "P33V+M4 New York, NY, USA",
+        "global_code": "87G8P33V+M4"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJaX35ryBcwokRfFP_V4XNXK4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 265,
+      "vicinity": "675 Onderdonk Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7022013,
+          "lng": -73.9093776
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70357148029149,
+            "lng": -73.90806861970849
+          },
+          "southwest": {
+            "lat": 40.70087351970849,
+            "lng": -73.9107665802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "J.C Electric Bikes",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111016758711277922346\">Nazar Hnatko</a>"
+          ],
+          "photo_reference": "AeJbb3dLzshXWNO263FCZINcD7gcI3NO_B1IBPXxccSKbnfguzGK8BudjG2gWt3BxP2dKxiyIvxsCuVBPmVXXyKl72sBWYuWSMIIqKCJ3iACa4vZt5tFp9G7fzGEi-6DznCv6xAf3u6p-ZkA9PVxNQ7wU_fcasaedIHPx_cVbZWVtgNj9Ffu",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJv3hY8BhcwokRgZ_xmza78q4",
+      "plus_code": {
+        "compound_code": "P32R+V6 New York, NY, USA",
+        "global_code": "87G8P32R+V6"
+      },
+      "rating": 4.4,
+      "reference": "ChIJv3hY8BhcwokRgZ_xmza78q4",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "17-02 Gates Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7027894,
+          "lng": -73.90810669999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7042225302915,
+            "lng": -73.9066603197085
+          },
+          "southwest": {
+            "lat": 40.7015245697085,
+            "lng": -73.90935828029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Jorge's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112303778047205825807\">Jorge Alberto Rodriguez</a>"
+          ],
+          "photo_reference": "AeJbb3cCXcrLLZocBb9bqdsxbOUuwhQ_hhVWT7Zs-Aww-xHB3bjwp_Gsza9Jih63hOWOsNf-ouvWR4jcC8Ca4_MlkNPbmVHEsiz3j0Klap9fE4AbPhqvZh_L0CKAwnpUHfvvhW2bxkvGz-VaniB7l8uIUAwIN0QhKf0Bkbn9bG053PnFJhyf",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlTfg3CBcwokR_d4BmBgZMMw",
+      "plus_code": {
+        "compound_code": "P33R+4Q New York, NY, USA",
+        "global_code": "87G8P33R+4Q"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJlTfg3CBcwokR_d4BmBgZMMw",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 441,
+      "vicinity": "688 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7018437,
+          "lng": -73.9123936
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7032645302915,
+            "lng": -73.9109694197085
+          },
+          "southwest": {
+            "lat": 40.7005665697085,
+            "lng": -73.9136673802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "On Homes NYC Realty Corporation",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ88rU4SFcwokRHP7M4HCWnpY",
+      "plus_code": {
+        "compound_code": "P32Q+P2 New York, NY, USA",
+        "global_code": "87G8P32Q+P2"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ88rU4SFcwokRHP7M4HCWnpY",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "280 Saint Nicholas Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7021414,
+          "lng": -73.9120868
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70347623029149,
+            "lng": -73.91069836970848
+          },
+          "southwest": {
+            "lat": 40.70077826970849,
+            "lng": -73.91339633029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "OpenPort Consulting, LLC.",
+      "place_id": "ChIJkTLk2yFcwokRkxf5n5x-W_s",
+      "plus_code": {
+        "compound_code": "P32Q+V5 Flushing, Queens, NY, USA",
+        "global_code": "87G8P32Q+V5"
+      },
+      "reference": "ChIJkTLk2yFcwokRkxf5n5x-W_s",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "279 Saint Nicholas Avenue, Flushing"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7054984,
+          "lng": -73.907142
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70692598029149,
+            "lng": -73.90571291970849
+          },
+          "southwest": {
+            "lat": 40.7042280197085,
+            "lng": -73.9084108802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Aunt Ginny's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101716971096802003209\">Aunt Ginny&#39;s</a>"
+          ],
+          "photo_reference": "AeJbb3fada4U-6H7y4OifwztXJ3AzBck77UGCXwlaY2ndFbE2iGhPPu5GBvoTJfXurWbamWirDquFaCzHf9LlZaSeuQnrdbpta9XFlF42Rn3eaovYnB8WBdISo9rPxsEgZE0eRKlbr5gw4jdhoFQg1bZLjAGnL0d5uN6gBB0hhBQAGKnYzcT",
+          "width": 810
+        }
+      ],
+      "place_id": "ChIJGcruDp5ewokRJvxMEhBZw-k",
+      "plus_code": {
+        "compound_code": "P34V+54 Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P34V+54"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJGcruDp5ewokRJvxMEhBZw-k",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 242,
+      "vicinity": "652 Woodward Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7073217,
+          "lng": -73.9112593
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70869723029151,
+            "lng": -73.9099552197085
+          },
+          "southwest": {
+            "lat": 40.70599926970851,
+            "lng": -73.9126531802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Zych Construction",
+      "place_id": "ChIJSdENmp9ewokRVt-Sxb4-ERQ",
+      "plus_code": {
+        "compound_code": "P34Q+WF New York, NY, USA",
+        "global_code": "87G8P34Q+WF"
+      },
+      "rating": 5,
+      "reference": "ChIJSdENmp9ewokRVt-Sxb4-ERQ",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1872 Harman Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7061483,
+          "lng": -73.9074388
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7074279802915,
+            "lng": -73.9061609197085
+          },
+          "southwest": {
+            "lat": 40.7047300197085,
+            "lng": -73.9088588802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "GUIRGUIS ACCOUNTING SERVICES",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107359519480624015508\">GUIRGUIS ACCOUNTING SERVICES</a>"
+          ],
+          "photo_reference": "AeJbb3egih2pr5c0_7MpN8cBq5aH5jnfXFJvrmTMXHq4ZiBgy_a6zT0_xhYXJwz7rt8XCf_DAJu2Owpg8JycNpz-PjcvcqduBXe6QxXVgl7K06y0MeBUaS88PTk85qU8eQoCvyIlAr6QjiJOja6xs-lkxKXnFppi-DdYfjcY68gJ5JiLHNST",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJgQ1YBptewokRXQQ-QUXmSiM",
+      "plus_code": {
+        "compound_code": "P34V+F2 New York, NY, USA",
+        "global_code": "87G8P34V+F2"
+      },
+      "rating": 5,
+      "reference": "ChIJgQ1YBptewokRXQQ-QUXmSiM",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 107,
+      "vicinity": "607 Woodward Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7018575,
+          "lng": -73.91180419999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7031670802915,
+            "lng": -73.9104966697085
+          },
+          "southwest": {
+            "lat": 40.7004691197085,
+            "lng": -73.9131946302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "BAS Brooklyn Artists Studios",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113448374421932234721\">Luchia Meihua Lee</a>"
+          ],
+          "photo_reference": "AeJbb3eeNnME6SdvYNZrLdmfPOY_rh1Bo2i36xUjsupmQ-O_n7ow0k7NbRPVSwZ7ajIylxgFAPHXr5WLpmlr8N7iUOOt8_gvb0g8NXG1SMbw_-aIdCoNWoFJnYn-4bdlxBlu_L8OUGMF1aZD4jdVlWpqYlB_gzGPby07AEqm1DFAfXJjdBl3",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJceAiTB9cwokRpS6PSqLPUhk",
+      "plus_code": {
+        "compound_code": "P32Q+P7 Brooklyn, NY, USA",
+        "global_code": "87G8P32Q+P7"
+      },
+      "rating": 5,
+      "reference": "ChIJceAiTB9cwokRpS6PSqLPUhk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "275 Wyckoff Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7029176,
+          "lng": -73.9074112
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7042441802915,
+            "lng": -73.90614221970849
+          },
+          "southwest": {
+            "lat": 40.7015462197085,
+            "lng": -73.9088401802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Crown Fried Chicken & Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115722463861975085673\">Robert Diaz</a>"
+          ],
+          "photo_reference": "AeJbb3fhyees7VtrKo93sNO3se2fKy3bL5oj3cAhUA9jeLxlVQrez0KwI6L8qP8Pk3J5sfkpnDXnyqkYb04YEOfGx_DeWAhvLVmetb3pWxWEozL2m7ecpxYwttFLmjbH6PMik6iETUuR7WqCxexc9dYbR4PE5lgf8NCJOE1d5dyzekouiax7",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJH3ua2yBcwokRv09INC-084w",
+      "plus_code": {
+        "compound_code": "P33V+52 New York, NY, USA",
+        "global_code": "87G8P33V+52"
+      },
+      "price_level": 1,
+      "rating": 3.3,
+      "reference": "ChIJH3ua2yBcwokRv09INC-084w",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 123,
+      "vicinity": "701 Seneca Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70767010000001,
+          "lng": -73.9107545
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70908403029151,
+            "lng": -73.90933896970849
+          },
+          "southwest": {
+            "lat": 40.70638606970851,
+            "lng": -73.9120369302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "S&P INTERIORS INC.",
+      "place_id": "ChIJm6i8c59ewokRc9az7eZcVtA",
+      "plus_code": {
+        "compound_code": "P35Q+3M New York, NY, USA",
+        "global_code": "87G8P35Q+3M"
+      },
+      "rating": 2,
+      "reference": "ChIJm6i8c59ewokRc9az7eZcVtA",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "478 Woodward Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7018271,
+          "lng": -73.9088787
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7031425802915,
+            "lng": -73.9074723697085
+          },
+          "southwest": {
+            "lat": 40.7004446197085,
+            "lng": -73.9101703302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "El Fogon Costeno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116508373142164020095\">EL FOGON RESTAURANT</a>"
+          ],
+          "photo_reference": "AeJbb3fdateax6c3XmLlo3vSH5nISXv1RtuvUXGjL4QyHauZABC7Z6gnFYaM9eOp8sjlseS-6z4fwQ0B4sS9GPs1LS_9MTy1EQjqjqIMIm5Vor2nxr5vcRtfeohXLcjTXhd4eZi-Rk1-3_9Q4C-D4b9nNV0uRjhcyzMHiGafGNDG02aoSxSG",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ-8QsECFcwokRg9QL_YEvdaw",
+      "plus_code": {
+        "compound_code": "P32R+PC New York, NY, USA",
+        "global_code": "87G8P32R+PC"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJ-8QsECFcwokRg9QL_YEvdaw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 131,
+      "vicinity": "1701 Palmetto Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7055952,
+          "lng": -73.90668579999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70690828029149,
+            "lng": -73.90537411970848
+          },
+          "southwest": {
+            "lat": 40.70421031970849,
+            "lng": -73.90807208029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Left Field NYC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111128937029509020263\">Sunny Lee</a>"
+          ],
+          "photo_reference": "AeJbb3eI_xcBftKln7lmXWMAMeu0M0jvJtc7-wSiHpwFMKJAv1LRdQrOpiBILJ6P-1XLIoTRoAnatx3LwJciydWaLbAXKcUnwbmDGpeiyNnGvCy9B5f6kvwqVi4eeD2MEsqKXoFgBxiIGjx02mylQa2Voeg9U0yb349pl0mxT9TLNPpwNMsT",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJYcabNydcwokRwjT8ujiD_9s",
+      "plus_code": {
+        "compound_code": "P34V+68 Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P34V+68"
+      },
+      "rating": 4.5,
+      "reference": "ChIJYcabNydcwokRwjT8ujiD_9s",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 52,
+      "vicinity": "657 Woodward Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70278450000001,
+          "lng": -73.9138883
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7040180302915,
+            "lng": -73.91257886970848
+          },
+          "southwest": {
+            "lat": 40.7013200697085,
+            "lng": -73.91527683029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Future Analog",
+      "place_id": "ChIJtRKF1KpewokRIkXvq6Dem08",
+      "plus_code": {
+        "compound_code": "P33P+4C New York, NY, USA",
+        "global_code": "87G8P33P+4C"
+      },
+      "rating": 5,
+      "reference": "ChIJtRKF1KpewokRIkXvq6Dem08",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "240 Saint Nicholas Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7070731,
+          "lng": -73.9143505
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7083211802915,
+            "lng": -73.91310486970849
+          },
+          "southwest": {
+            "lat": 40.7056232197085,
+            "lng": -73.91580283029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Sameer B. Shetty, MD",
+      "place_id": "ChIJbcoPQqBewokRqJzddI4hK9A",
+      "plus_code": {
+        "compound_code": "P34P+R7 Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P34P+R7"
+      },
+      "reference": "ChIJbcoPQqBewokRqJzddI4hK9A",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "385 Seneca Avenue, Ridgewood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.70542579999999,
+          "lng": -73.90639929999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7067399302915,
+            "lng": -73.90509066970849
+          },
+          "southwest": {
+            "lat": 40.7040419697085,
+            "lng": -73.9077886302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Get Nellafyd Hair & Makeup Studio",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104828311734508991498\">Emily Domena-Sanabria</a>"
+          ],
+          "photo_reference": "AeJbb3frA1B9YoJ2HGThBG1kBjGjDVV7fQEngVsE1PpfsR8Afo9uyYYWwJhH_RHaS2kkgFMSOfdwxwO1_5QG4SigjKA1cUUlyB9yYYdkKgLMtiXqSvWWwzvYon-L1nI3041-hg31p0Fh6kgQT-yijbGk2oP8wRY-yA7hhkNwTAKIs-sR9BYp",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJs8kB451ewokRCxSa2NpqXSg",
+      "plus_code": {
+        "compound_code": "P34V+5C Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P34V+5C"
+      },
+      "rating": 4.2,
+      "reference": "ChIJs8kB451ewokRCxSa2NpqXSg",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "665 Woodward Avenue, Ridgewood"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.70411900000001,
+          "lng": -73.9063064
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70546293029149,
+            "lng": -73.90494891970849
+          },
+          "southwest": {
+            "lat": 40.70276496970849,
+            "lng": -73.9076468802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Virgin Pacific",
+      "permanently_closed": true,
+      "place_id": "ChIJT6I_UidcwokRxLq0wn6Af-s",
+      "plus_code": {
+        "compound_code": "P33V+JF Ridgewood, Queens, NY, USA",
+        "global_code": "87G8P33V+JF"
+      },
+      "reference": "ChIJT6I_UidcwokRxLq0wn6Af-s",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1868 Palmetto Street #2L, Ridgewood"
+    }
+  ],
+  "status": "OK"
+}

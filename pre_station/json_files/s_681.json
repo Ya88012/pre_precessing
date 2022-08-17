@@ -1,0 +1,2516 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fWpsStoZaJ6UMUFoh2bJwmmOQdPWNYiS93wgYZPyuHNpdQ3Xje9eMt3ReJt4oHnp7c0qZpYlWZgzbihdJVA0SJ62YyHdPTWX0w2mCNcFms9n0lXsGq2ibCLEmuXULeIoaICrslaXvedLi-RifuRMW9LPSGSS22ck8GKwj3Lryl2fJF",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.775879,
+          "lng": -73.9290725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77722038029149,
+            "lng": -73.92771821970848
+          },
+          "southwest": {
+            "lat": 40.77452241970849,
+            "lng": -73.9304161802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Shore Towers Condominium",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116739688413242909306\">Brandon Johnson</a>"
+          ],
+          "photo_reference": "AeJbb3fvKQlB8VnobzstE14Ua-EijtF5WEKQaQe9UcasQk7OrTSZ33OnEDMZUjJq-lDOlrDAqHEEacUTjwI0dNlX5khshvB-91RV2URbe1SbrmU5HLyXsrXwi2l6zk5Qgi5bSwqteHHRemLgkZiYUFKbonefvuTabsGULsIbqSzHki8TcsW0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHfuXE05fwokRgEyZTu_aiNY",
+      "plus_code": {
+        "compound_code": "Q3GC+99 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3GC+99"
+      },
+      "rating": 4.3,
+      "reference": "ChIJHfuXE05fwokRgEyZTu_aiNY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 98,
+      "vicinity": "25-40 Shore Boulevard, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7760224,
+          "lng": -73.9291566
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7772952802915,
+            "lng": -73.9277660197085
+          },
+          "southwest": {
+            "lat": 40.7745973197085,
+            "lng": -73.9304639802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Quail Run Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJHfuXE05fwokR3I0hQ5zjy_k",
+      "plus_code": {
+        "compound_code": "Q3GC+C8 \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q3GC+C8"
+      },
+      "reference": "ChIJHfuXE05fwokR3I0hQ5zjy_k",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2540 Shore Boulevard # 19G, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7760224,
+          "lng": -73.9291566
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7772952802915,
+            "lng": -73.9277660197085
+          },
+          "southwest": {
+            "lat": 40.7745973197085,
+            "lng": -73.9304639802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Mridula G. Noori, MD",
+      "place_id": "ChIJHfuXE05fwokRETAo9qi9w3c",
+      "plus_code": {
+        "compound_code": "Q3GC+C8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3GC+C8"
+      },
+      "reference": "ChIJHfuXE05fwokRETAo9qi9w3c",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "25-40 Shore Boulevard, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7756108,
+          "lng": -73.9361401
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7769823802915,
+            "lng": -73.9347784697085
+          },
+          "southwest": {
+            "lat": 40.7742844197085,
+            "lng": -73.93747643029153
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Nagel Joy L",
+      "place_id": "ChIJSSN81bJYwokRFgrSOnYg1RM",
+      "plus_code": {
+        "compound_code": "Q3G7+6G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3G7+6G"
+      },
+      "reference": "ChIJSSN81bJYwokRFgrSOnYg1RM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1st Avenue"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7728376,
+          "lng": -73.93242980000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77417618029151,
+            "lng": -73.9311452197085
+          },
+          "southwest": {
+            "lat": 40.77147821970851,
+            "lng": -73.9338431802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Astoria",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118400429071444396576\">Shams Chowdhury</a>"
+          ],
+          "photo_reference": "AeJbb3f30kRzNEi1ZZLUpppfMfl7T0ASrq2hv7PiQgIMzyH05-v72vs2VyHu5o1nYQ-oEMVzJmn2z9dSZH2bOL5w7XLxZQrWgbHILIEAsLIzNvd3i-hKX4zYW_xgP3sxDMi37CL08eb0oHTtis9Y5va8tUFMQRWuU5qKZDSil7wVnVPmaiRd",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ62q5hExfwokRsJ9-36MfqKo",
+      "plus_code": {
+        "compound_code": "Q3F9+42 \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q3F9+42"
+      },
+      "rating": 3.5,
+      "reference": "ChIJ62q5hExfwokRsJ9-36MfqKo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "4-05 Astoria Boulevard, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7726914,
+          "lng": -73.9332652
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77407313029151,
+            "lng": -73.93180806970851
+          },
+          "southwest": {
+            "lat": 40.77137516970851,
+            "lng": -73.93450603029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Astoria Houses",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116882937263130282699\">TheMrscarface2009</a>"
+          ],
+          "photo_reference": "AeJbb3ekQmMavCSOyPbVrp06-gyGh2kTwglyWFNUdEoSe6JU94o0WeUOqhKSMvi8DvKmMoJnrCxUBD_uU7-QcUxBU2WXbkP9ByFgsjaKTDfTT9MS97qa7ZW79IvGuJCgrth7b30OfJIofRe33648I7okL_xZlo0JpXYQgdPxA8TiiGucSTET",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJV5s6ZkFfwokRZEcSoH4MRc4",
+      "plus_code": {
+        "compound_code": "Q3F8+3M \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q3F8+3M"
+      },
+      "rating": 3.5,
+      "reference": "ChIJV5s6ZkFfwokRZEcSoH4MRc4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 37,
+      "vicinity": "4-25 Astoria Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.776219,
+          "lng": -73.9349733
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7776765802915,
+            "lng": -73.9340061697085
+          },
+          "southwest": {
+            "lat": 40.7749786197085,
+            "lng": -73.9367041302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Terra Medi LLC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 614,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111741546740656645538\">Terra Medi LLC</a>"
+          ],
+          "photo_reference": "AeJbb3ewZegLqrQtByaBP45N-eKJ_u8fAXCW2BgV0kLfd5OOBSKMfN-wWf0wEXMkl26BGZGHywP3lmeuZudJClBelUknsRDOyv666WCSLT2Ro72OBmUxPOcchGLFHYNXJJ-e1KvRTJHs7VCkp0tV3GZBrjKaF8bsfE7QVqOwk7LC-ePmdUUV",
+          "width": 940
+        }
+      ],
+      "place_id": "ChIJPQshr2dfwokR1vkyFAX4Y0U",
+      "plus_code": {
+        "compound_code": "Q3G8+F2 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3G8+F2"
+      },
+      "rating": 5,
+      "reference": "ChIJPQshr2dfwokR1vkyFAX4Y0U",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "26-32 2nd Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7737019,
+          "lng": -73.9317118
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7750016802915,
+            "lng": -73.9301782197085
+          },
+          "southwest": {
+            "lat": 40.7723037197085,
+            "lng": -73.9328761802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "AHRC-Astoria Blue Feather",
+      "place_id": "ChIJg8xNQUxfwokROIj7R_KTVn4",
+      "plus_code": {
+        "compound_code": "Q3F9+F8 \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q3F9+F8"
+      },
+      "rating": 5,
+      "reference": "ChIJg8xNQUxfwokROIj7R_KTVn4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "27-07 8th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7769012,
+          "lng": -73.93149559999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7777839302915,
+            "lng": -73.93040486970848
+          },
+          "southwest": {
+            "lat": 40.7750859697085,
+            "lng": -73.93310283029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "U.L. Lighting Fixtures Corp.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108679619718219291705\">U.L. Lighting Fixtures Corp.</a>"
+          ],
+          "photo_reference": "AeJbb3fxqgtHDRMq8tzoKMsZ1rzpOv80mjUYhREZAmptCfO46LMs5O-NF9xEvgXORmIPGs1MQmeCmBQ6oiYfdmLC681eK7xpUwEA6B1xtwN88ndEHgqn9Tfe1UHukjeBRcJMLoSoTmVGiwwIV7yHgxG8wSyGlM-LEvVmaSJX1xItzeI7Wvc1",
+          "width": 820
+        }
+      ],
+      "place_id": "ChIJpyvPl01fwokR1YVQPk3Fbjw",
+      "plus_code": {
+        "compound_code": "Q3G9+QC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3G9+QC"
+      },
+      "rating": 4,
+      "reference": "ChIJpyvPl01fwokR1YVQPk3Fbjw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "4-05 26th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7760534,
+          "lng": -73.9357838
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7774217302915,
+            "lng": -73.9344997197085
+          },
+          "southwest": {
+            "lat": 40.7747237697085,
+            "lng": -73.9371976802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Custom Cas Inc",
+      "place_id": "ChIJh9-HLU1fwokROENAnbyUBWs",
+      "plus_code": {
+        "compound_code": "Q3G7+CM \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3G7+CM"
+      },
+      "rating": 4.5,
+      "reference": "ChIJh9-HLU1fwokROENAnbyUBWs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "2631 1st Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7774225,
+          "lng": -73.93464209999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7787134802915,
+            "lng": -73.93309306970849
+          },
+          "southwest": {
+            "lat": 40.7760155197085,
+            "lng": -73.93579103029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Whitey Ford Field",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116675443128180225956\">Whitey Ford Field</a>"
+          ],
+          "photo_reference": "AeJbb3e8WU6xA_bZvvfMKRc3LzYbYF1cxtxnZOq0XSKu9aEezwCAPu43aDMPyjjWQ6ZIQCWHHWHHDa3ht9xDejR-ZrTpF1IZZcz72a67museSHi6TvZhC_y8csOYRC15hY09N1qIKGdsSWskapq9Z-gyourV465S9FfDiLNij_7y98HAz1E8",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJxzmEW01fwokRmLkltG3tTQ8",
+      "plus_code": {
+        "compound_code": "Q3G8+X4 \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q3G8+X4"
+      },
+      "rating": 3.9,
+      "reference": "ChIJxzmEW01fwokRmLkltG3tTQ8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 71,
+      "vicinity": "26th Avenue Between 1st Street &, 2nd Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.776755,
+          "lng": -73.931748
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77773398029151,
+            "lng": -73.93060391970849
+          },
+          "southwest": {
+            "lat": 40.77503601970851,
+            "lng": -73.9333018802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pancyprian Association Inc, Dance Division",
+      "place_id": "ChIJt_mKkk1fwokR1R-ToAoA3KE",
+      "plus_code": {
+        "compound_code": "Q3G9+P8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3G9+P8"
+      },
+      "reference": "ChIJt_mKkk1fwokR1R-ToAoA3KE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "405 26th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7748733,
+          "lng": -73.93277420000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77606938029149,
+            "lng": -73.93150931970851
+          },
+          "southwest": {
+            "lat": 40.7733714197085,
+            "lng": -73.93420728029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Martin De Porres Clinic",
+      "place_id": "ChIJK6viWExfwokRkKAzOYABXF4",
+      "plus_code": {
+        "compound_code": "Q3F8+WV \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q3F8+WV"
+      },
+      "reference": "ChIJK6viWExfwokRkKAzOYABXF4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4-21 27th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7760813,
+          "lng": -73.9319586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7773751802915,
+            "lng": -73.93064011970849
+          },
+          "southwest": {
+            "lat": 40.7746772197085,
+            "lng": -73.9333380802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ivy Square Woodworking",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJw8Qx8klfwokRg5Bp0FPQ1qg",
+      "plus_code": {
+        "compound_code": "Q3G9+C6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3G9+C6"
+      },
+      "reference": "ChIJw8Qx8klfwokRg5Bp0FPQ1qg",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4-11 26th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77568239999999,
+          "lng": -73.93496110000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7770504302915,
+            "lng": -73.93367346970851
+          },
+          "southwest": {
+            "lat": 40.7743524697085,
+            "lng": -73.93637143029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NewYorkMADE Films",
+      "photos": [
+        {
+          "height": 657,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103080983851987970454\">NewYorkMADE Films</a>"
+          ],
+          "photo_reference": "AeJbb3c8rc5ugCOdT4nMPrYxvdPC4wGCDfe4kiSI20CM6OKvooPDgHyOWiGHrm55jSTKs1FKhRW6AvOj7WKrl7rnCXlIoDXeaEiLEaVeePdeP_5_A6i2ioiY23ud0OujAm4aKe2cqa4s-3nQo6cMgYHOxJlgAwE-CQq34bHjXH2oYwy8zHpw",
+          "width": 1269
+        }
+      ],
+      "place_id": "ChIJhZeIJk1fwokRPgSu0UMlabI",
+      "plus_code": {
+        "compound_code": "Q3G8+72 \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q3G8+72"
+      },
+      "reference": "ChIJhZeIJk1fwokRPgSu0UMlabI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "26-37 2nd Street #4, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77561850000001,
+          "lng": -73.9354769
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77692253029151,
+            "lng": -73.9339833697085
+          },
+          "southwest": {
+            "lat": 40.77422456970851,
+            "lng": -73.9366813302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Urban Pathways",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110649265608210597084\">Warren Lane</a>"
+          ],
+          "photo_reference": "AeJbb3daC5vxadgE83MUfaG7uoD50A8XST-xWz4bnncjcBT0MxZbQPAlTyUPKvdP0OnXttAdF20kqWxuL1cCqWpDySRvnxwz3s_UUK9l5XxKfm9JvmM0tfKPZ-iyixjv2FFj08S4PTGbTMwGoEKFkXq1o8_QdmYkwE_eKJT6tgnKyGJ--lAm",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJJV0xJE1fwokRbLSTTXJB3to",
+      "plus_code": {
+        "compound_code": "Q3G7+6R \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q3G7+6R"
+      },
+      "rating": 3.7,
+      "reference": "ChIJJV0xJE1fwokRbLSTTXJB3to",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "2646 2nd Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.775703,
+          "lng": -73.935639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7769414802915,
+            "lng": -73.93435191970849
+          },
+          "southwest": {
+            "lat": 40.7742435197085,
+            "lng": -73.9370498802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cove Auto Care",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 811,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100076883233270247285\">Cove Auto Care</a>"
+          ],
+          "photo_reference": "AeJbb3eMevDsQhw1pXm_V9wpsLvA9njsqQC-QcQRnwQdeUM9Vcj6cR9xGwzWAeawBWOgGo5SfVJUhTadQrPOO1OBCYEWcumR6em06ueA7dcdTlDAr5Jn1Kx0y3wQSzP8YL7XEJnFHh-VFnnKgfUD4GQAq32AZZDdL-WqLDXXocgQr2ubdGMQ",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJBUzRK01fwokRG0a4_kTA5HA",
+      "plus_code": {
+        "compound_code": "Q3G7+7P \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q3G7+7P"
+      },
+      "rating": 4.3,
+      "reference": "ChIJBUzRK01fwokRG0a4_kTA5HA",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 44,
+      "vicinity": "1-09 27th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.776052,
+          "lng": -73.931969
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77735973029149,
+            "lng": -73.9306428697085
+          },
+          "southwest": {
+            "lat": 40.7746617697085,
+            "lng": -73.93334083029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Exterior Wall Systems Supply",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 581,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109206970167224757434\">Exterior Wall Systems Supply</a>"
+          ],
+          "photo_reference": "AeJbb3fONqpHRCATlsFzUzAzI6_gl14eULHNVuP85woPQyhS1D5KJb86yzdXn1A9mDxPA25MAZXmCU1Pjpzn_bnRSIUon8Ix7PvIMReQW2AUv8ZZ5TM3QUyn9K0j3nFq_nIjCOYXUslEpQfC0-0GR4L-I98_fwWM5ePnYd3tbSoFKOMIebBr",
+          "width": 1032
+        }
+      ],
+      "place_id": "ChIJhwjxZU5fwokRzkIGO-VDH-M",
+      "plus_code": {
+        "compound_code": "Q3G9+C6 \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q3G9+C6"
+      },
+      "rating": 4.3,
+      "reference": "ChIJhwjxZU5fwokRzkIGO-VDH-M",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "4-11 26th Avenue, Astoria"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7830603,
+          "lng": -73.9712488
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.820045,
+            "lng": -73.90331300000001
+          },
+          "southwest": {
+            "lat": 40.698078,
+            "lng": -74.03514899999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813",
+      "photos": [
+        {
+          "height": 1199,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108803842220307386999\">Debeli Atleti\u010dar</a>"
+          ],
+          "photo_reference": "AeJbb3fe9T_SXzDK3t7BtNKzJqZv9PYTYcPbOKOmPIbCtPJaCITaXAFIfLsLWZY8PvpdZ1KTKYBP-MYNGPsUE_Ox1WJ7FhOQ4wmF3Fi3x75axMef6oe86wNaE-g4YBfjPhX4_ALcjw6z6HMEO4Vkho_gdsnwo7NxNtlrRWiMhoj3pYPb9SVp",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+      "reference": "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7730746,
+          "lng": -73.9329338
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7742971802915,
+            "lng": -73.9316518197085
+          },
+          "southwest": {
+            "lat": 40.7715992197085,
+            "lng": -73.93434978029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "East River Development",
+      "place_id": "ChIJV5s6ZkFfwokRC1ksVP0AsjE",
+      "plus_code": {
+        "compound_code": "Q3F8+6R Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F8+6R"
+      },
+      "reference": "ChIJV5s6ZkFfwokRC1ksVP0AsjE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "425 Astoria Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7737019,
+          "lng": -73.9317118
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7750016802915,
+            "lng": -73.9301782197085
+          },
+          "southwest": {
+            "lat": 40.7723037197085,
+            "lng": -73.9328761802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Astoria Blue Feather Early Learning Center",
+      "place_id": "ChIJhyyFakxfwokR3We1fMQ0KN8",
+      "plus_code": {
+        "compound_code": "Q3F9+F8 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F9+F8"
+      },
+      "rating": 3.8,
+      "reference": "ChIJhyyFakxfwokR3We1fMQ0KN8",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "27-07 8th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.776755,
+          "lng": -73.93174789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77773398029151,
+            "lng": -73.93060386970848
+          },
+          "southwest": {
+            "lat": 40.77503601970851,
+            "lng": -73.93330183029148
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Core Mechanical",
+      "place_id": "ChIJs_mKkk1fwokREzj09uIuJ3s",
+      "plus_code": {
+        "compound_code": "Q3G9+P8 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3G9+P8"
+      },
+      "rating": 5,
+      "reference": "ChIJs_mKkk1fwokREzj09uIuJ3s",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "4-05 26th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7727467,
+          "lng": -73.93184049999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77396908029149,
+            "lng": -73.93055716970849
+          },
+          "southwest": {
+            "lat": 40.7712711197085,
+            "lng": -73.9332551302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Floating Hospital: Astoria Health Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJOyZAdExfwokRk8c2bzslfAA",
+      "plus_code": {
+        "compound_code": "Q3F9+37 New York, NY, USA",
+        "global_code": "87G8Q3F9+37"
+      },
+      "rating": 5,
+      "reference": "ChIJOyZAdExfwokRk8c2bzslfAA",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "8-13 Astoria Boulevard, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.772531,
+          "lng": -73.931725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7738319302915,
+            "lng": -73.9304009197085
+          },
+          "southwest": {
+            "lat": 40.7711339697085,
+            "lng": -73.93309888029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mecca Contracting Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJ20t_dUxfwokRHCDqr7a6haI",
+      "plus_code": {
+        "compound_code": "Q3F9+28 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F9+28"
+      },
+      "reference": "ChIJ20t_dUxfwokRHCDqr7a6haI",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "823 Astoria Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77241509999999,
+          "lng": -73.9313368
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77371698029149,
+            "lng": -73.93001031970849
+          },
+          "southwest": {
+            "lat": 40.77101901970849,
+            "lng": -73.9327082802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Harold H Anthony Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110618203458619055065\">Michael Prezioso</a>"
+          ],
+          "photo_reference": "AeJbb3cIpDQ_EQW3dD4M_ZrC0VXuM5qqy8g99HdFAek5eVj1D-3XLG4uLKukasPrMgCHC8f0MAnsne4jaLJlFkWDaZEvuT0qSWzVzHQN4-b3ZWkiymRRQihjcG6c_ITinijEsM3eOEhRUGeMJn1KziQFqn0kj6moDccFFf5A9Lh6EEUpOZ23",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ_bGkqUpfwokRR8J3VltyzN4",
+      "plus_code": {
+        "compound_code": "Q3C9+XF Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3C9+XF"
+      },
+      "rating": 5,
+      "reference": "ChIJ_bGkqUpfwokRR8J3VltyzN4",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "8-31 Astoria Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7718116,
+          "lng": -73.93221799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7732246802915,
+            "lng": -73.9308068197085
+          },
+          "southwest": {
+            "lat": 40.77052671970851,
+            "lng": -73.9335047802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "All American School Bus Corporation",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114879621975152648588\">grace brooklyn</a>"
+          ],
+          "photo_reference": "AeJbb3dfQe6cr_AZ9QowPuuk9gVnrz-lwaDbQ7YnvQDET2R4-RD8NhkZS_S49BeRhervdlfaRhtTvN2JYjmOAJk_dwOk5q9Pn2X6IHGg7dGA1NYDNXW8Y_g4cr5KA4IlTXWIxtUbAPDK8qqW6mogrxN0oLPr9ILp9AP2BA2TGFr-H9xeTz24",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJ5Sd8kEtfwokRUboPin2N3iM",
+      "plus_code": {
+        "compound_code": "Q3C9+P4 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3C9+P4"
+      },
+      "rating": 2.1,
+      "reference": "ChIJ5Sd8kEtfwokRUboPin2N3iM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 66,
+      "vicinity": "1108 30th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7729578,
+          "lng": -73.9302206
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7742979302915,
+            "lng": -73.9287641197085
+          },
+          "southwest": {
+            "lat": 40.7715999697085,
+            "lng": -73.93146208029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "The First Reformed Church of Astoria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111775020822314570786\">Memet Emin</a>"
+          ],
+          "photo_reference": "AeJbb3cEWLPF9SIlWDuT34uapM1Rsb_mwgeI56BiM1B9BynQXfKOXCU4CUwCrziCSAfKHSkBsNckE__xeUneS8GhoKX-21umNf1BuSdfv-krdXQmm93eAesGK1kM6Zq0HnPQgGWkIes3ftH5c23_UUxoRWs1EeQvSyrAC__rqaOy3m22_F5W",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJNXuqoE5fwokRQYFdFvAi5xc",
+      "plus_code": {
+        "compound_code": "Q3F9+5W Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F9+5W"
+      },
+      "rating": 4.9,
+      "reference": "ChIJNXuqoE5fwokRQYFdFvAi5xc",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "2726 12th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77122199999999,
+          "lng": -73.933831
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77244343029149,
+            "lng": -73.9325315197085
+          },
+          "southwest": {
+            "lat": 40.7697454697085,
+            "lng": -73.93522948029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Pillar Astoria",
+      "photos": [
+        {
+          "height": 2616,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105390314484418056092\">Theo Neocli</a>"
+          ],
+          "photo_reference": "AeJbb3f3XISN6a1Wmde_IWKUkhwYxyNN4b8TMVxD3sfEC1mLXqsjmaOowFeqa1n1iXPATuv1Vo7cf5c5ZOqA-AMNqIF4IX-g7WK0GRpiM8yoMVclmZD7f_LWV2mpM7fq2gMz_lp1KsTurwnfk0Cfxf5rGATXjhPx3dK8Sqv2O87HhaMYU3M",
+          "width": 3379
+        }
+      ],
+      "place_id": "ChIJMTnwEUtfwokRc4OzRDTr_nc",
+      "plus_code": {
+        "compound_code": "Q3C8+FF New York, NY, USA",
+        "global_code": "87G8Q3C8+FF"
+      },
+      "rating": 3.1,
+      "reference": "ChIJMTnwEUtfwokRc4OzRDTr_nc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "11-05 30th Road, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7709543,
+          "lng": -73.9329281
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7722070302915,
+            "lng": -73.9316156197085
+          },
+          "southwest": {
+            "lat": 40.7695090697085,
+            "lng": -73.9343135802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Alpha Craft Inc",
+      "place_id": "ChIJk3uup0tfwokRBYdm9_WKvRk",
+      "plus_code": {
+        "compound_code": "Q3C8+9R Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3C8+9R"
+      },
+      "reference": "ChIJk3uup0tfwokRBYdm9_WKvRk",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1131 30th Road, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.771529,
+          "lng": -73.9314097
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7728722302915,
+            "lng": -73.93005891970849
+          },
+          "southwest": {
+            "lat": 40.77017426970851,
+            "lng": -73.93275688029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Welling Court Mural Project",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110620278818148917280\">Gustav R</a>"
+          ],
+          "photo_reference": "AeJbb3caRtq_Q1Gjq86nA_8zWal4oRPYNrMRR5UQgBxuY68qNDUIbNi1XmG0RZngfQwWU0G4gWFkBXQpauQPbtoQep3pZGXlHvbXTn25iV_9o-eY-qlmKblGSLj6BplKh3_QaeCDsiKAgPgRdISxAni59LecCLL30bbDzE60Vtd5rV1PpK5k",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJreKB7EtfwokRwMULUC5mTmY",
+      "plus_code": {
+        "compound_code": "Q3C9+JC New York, NY, USA",
+        "global_code": "87G8Q3C9+JC"
+      },
+      "rating": 4.7,
+      "reference": "ChIJreKB7EtfwokRwMULUC5mTmY",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 219,
+      "vicinity": "11-98 Welling Court, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7776809,
+          "lng": -73.9378991
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77873858029151,
+            "lng": -73.93464995000001
+          },
+          "southwest": {
+            "lat": 40.77604061970851,
+            "lng": -73.93898214999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Children's Choir",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJK97EnL1YwokRz8Gj_VEAH2Y",
+      "plus_code": {
+        "compound_code": "Q3H6+3R New York, NY, USA",
+        "global_code": "87G8Q3H6+3R"
+      },
+      "rating": 5,
+      "reference": "ChIJK97EnL1YwokRz8Gj_VEAH2Y",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "none, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7759477,
+          "lng": -73.9290692
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77726973029149,
+            "lng": -73.9277171697085
+          },
+          "southwest": {
+            "lat": 40.7745717697085,
+            "lng": -73.93041513029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Socialminded Media Group",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101977203418456823682\">Socialminded Media Group</a>"
+          ],
+          "photo_reference": "AeJbb3cglXEfvE3I-gfbqce-R6sb9BOPGBA6nw_udjZo4YHWUb_qiLdhbtQIONpEqcpUkrfqocHR_tl5g2Nckjh1PcrR70uKwuiHTW8AzEz5-rVxKVihlV-OKaDFAvU7-5owFcYMOTYxad2kNXGX6sbmaAulXQsyqV8HZ8VCIGZRw91OGeug",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJHfuXE05fwokRJp_hzFxLZnI",
+      "plus_code": {
+        "compound_code": "Q3GC+99 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GC+99"
+      },
+      "reference": "ChIJHfuXE05fwokRJp_hzFxLZnI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "25-40 Shore Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77594800000001,
+          "lng": -73.929069
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7772697802915,
+            "lng": -73.92771686970849
+          },
+          "southwest": {
+            "lat": 40.7745718197085,
+            "lng": -73.9304148302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Assembly Simplified",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJg4ZxE05fwokRnr_DblLD24k",
+      "plus_code": {
+        "compound_code": "Q3GC+99 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GC+99"
+      },
+      "rating": 2.5,
+      "reference": "ChIJg4ZxE05fwokRnr_DblLD24k",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "25-40 Shore Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7750299,
+          "lng": -73.93337660000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7763569302915,
+            "lng": -73.93195481970851
+          },
+          "southwest": {
+            "lat": 40.77365896970851,
+            "lng": -73.93465278029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "4th St Plumbing and Heating .",
+      "place_id": "ChIJiSqE_kxfwokRoEo0EVgLXP0",
+      "plus_code": {
+        "compound_code": "Q3G8+2J Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3G8+2J"
+      },
+      "reference": "ChIJiSqE_kxfwokRoEo0EVgLXP0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2650 4th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77546979999999,
+          "lng": -73.9350611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77672823029149,
+            "lng": -73.93376621970849
+          },
+          "southwest": {
+            "lat": 40.7740302697085,
+            "lng": -73.93646418029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Protec Merchant Solutions",
+      "place_id": "ChIJxZ3J2UxfwokRPq-v608OeyU",
+      "plus_code": {
+        "compound_code": "Q3G7+5X Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3G7+5X"
+      },
+      "rating": 1,
+      "reference": "ChIJxZ3J2UxfwokRPq-v608OeyU",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "207 27th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77546979999999,
+          "lng": -73.9350611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77672823029149,
+            "lng": -73.93376621970849
+          },
+          "southwest": {
+            "lat": 40.7740302697085,
+            "lng": -73.93646418029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Payless Staffing and Consultants, Inc.",
+      "place_id": "ChIJxZ3J2UxfwokRrl9MApI7ssc",
+      "plus_code": {
+        "compound_code": "Q3G7+5X Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3G7+5X"
+      },
+      "rating": 5,
+      "reference": "ChIJxZ3J2UxfwokRrl9MApI7ssc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "207 27th Avenue, Astoria"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.77292500000001,
+          "lng": -73.93225869999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77431178029151,
+            "lng": -73.93102526970848
+          },
+          "southwest": {
+            "lat": 40.77161381970851,
+            "lng": -73.93372323029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "8th St Plumbing and Heating",
+      "permanently_closed": true,
+      "place_id": "ChIJ3Za3cExfwokRljcm04CEkV0",
+      "plus_code": {
+        "compound_code": "Q3F9+53 New York, NY, USA",
+        "global_code": "87G8Q3F9+53"
+      },
+      "reference": "ChIJ3Za3cExfwokRljcm04CEkV0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2809 8th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7742624,
+          "lng": -73.932997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7757484802915,
+            "lng": -73.93157196970849
+          },
+          "southwest": {
+            "lat": 40.7730505197085,
+            "lng": -73.93426993029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Employer Assistance Center",
+      "place_id": "ChIJK6viWExfwokRh3ASEWIH98M",
+      "plus_code": {
+        "compound_code": "Q3F8+PR Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F8+PR"
+      },
+      "rating": 5,
+      "reference": "ChIJK6viWExfwokRh3ASEWIH98M",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "421 27th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7748733,
+          "lng": -73.93277420000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77606938029149,
+            "lng": -73.93150931970851
+          },
+          "southwest": {
+            "lat": 40.7733714197085,
+            "lng": -73.93420728029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Allison B. Slater, LMSW",
+      "place_id": "ChIJK6viWExfwokRIKJe2EmFAps",
+      "plus_code": {
+        "compound_code": "Q3F8+WV Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F8+WV"
+      },
+      "reference": "ChIJK6viWExfwokRIKJe2EmFAps",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4-21 27th Avenue, Astoria"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7722139,
+          "lng": -73.9298292
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77351658029149,
+            "lng": -73.9284774697085
+          },
+          "southwest": {
+            "lat": 40.7708186197085,
+            "lng": -73.93117543029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PRP Glass Inc",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114685066074909480445\">Paris Roussopoulos</a>"
+          ],
+          "photo_reference": "AeJbb3eEhkpz1S_xS2hQqO0wvrpwlsL-U85OzP3LtQzqMiYAxSvp62eIHdV9oS_iXIJz6baDMlEY4F-t3m1rM429J0iN_bcAyqG7XI8q0itjtA8Qmn3yA2jX3asv4HsGBiLciuAc8ud9SciOCmy6fccPEIhP_jZcXyg75ukdSNNuYYTtpkdf",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ8QRUVUlfwokRaXFNNk_iELk",
+      "plus_code": {
+        "compound_code": "Q3CC+V3 New York, NY, USA",
+        "global_code": "87G8Q3CC+V3"
+      },
+      "rating": 3.3,
+      "reference": "ChIJ8QRUVUlfwokRaXFNNk_iELk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "12-07 Astoria Boulevard, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7716909,
+          "lng": -73.932913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7730095802915,
+            "lng": -73.9316959697085
+          },
+          "southwest": {
+            "lat": 40.7703116197085,
+            "lng": -73.9343939302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Graffiti House",
+      "place_id": "ChIJ3xZvnktfwokR8Bu2por3hsQ",
+      "plus_code": {
+        "compound_code": "Q3C8+MR New York, NY, USA",
+        "global_code": "87G8Q3C8+MR"
+      },
+      "rating": 1,
+      "reference": "ChIJ3xZvnktfwokR8Bu2por3hsQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "11-07 Welling Court, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.772294,
+          "lng": -73.9294855
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77356253029149,
+            "lng": -73.92813171970849
+          },
+          "southwest": {
+            "lat": 40.77086456970849,
+            "lng": -73.9308296802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Custom Cabinets | Tocaj Concepts",
+      "photos": [
+        {
+          "height": 591,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110802630258344928350\">Custom Cabinets | Tocaj Concepts</a>"
+          ],
+          "photo_reference": "AeJbb3dZ79FzwKBNCX2OAGTQzcZX3AwyU6sOw-FPgMOv-_ObXhZT34qPGRC8g_Aw95SOXSL7gL7E_aA6TkEdJP8a0qb7T2CJSjgy6dk8rOcMANGf2ybsfV4rPcVJNF_-usrcPtMSfwVO5I3ncMO1Y12xe9fchQW5faKZcl76NWmJqXGoyAuF",
+          "width": 1098
+        }
+      ],
+      "place_id": "ChIJDfoRrU5fwokRkrOZVKatTmA",
+      "plus_code": {
+        "compound_code": "Q3CC+W6 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3CC+W6"
+      },
+      "reference": "ChIJDfoRrU5fwokRkrOZVKatTmA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "12-15 Astoria Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77199829999999,
+          "lng": -73.9297158
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7734104802915,
+            "lng": -73.92837056970849
+          },
+          "southwest": {
+            "lat": 40.7707125197085,
+            "lng": -73.93106853029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Y & C Upholstery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 818,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114550390209350145444\">Y &amp; C Upholstery</a>"
+          ],
+          "photo_reference": "AeJbb3cxBEESZ6M4AYmRfITyVMf8TLtjzpdCDlvlPZ_SI0MzbM800f1YIYdesnUsirErxeHPwgMgpJ32xUNx52bZy1ZoJ_n1flDONMFJgwcbcKf7eqEQM1kjXulqDtk8u7mqdz92Kh9gJZ9m3KsgIa0-Z0vc2D5gqyXUoD2jW0irYdQJHezq",
+          "width": 1450
+        }
+      ],
+      "place_id": "ChIJr9yIbB5fwokRdxJCEmB54Ic",
+      "plus_code": {
+        "compound_code": "Q3CC+Q4 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3CC+Q4"
+      },
+      "rating": 1,
+      "reference": "ChIJr9yIbB5fwokRdxJCEmB54Ic",
+      "scope": "GOOGLE",
+      "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1210 Astoria Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.771766,
+          "lng": -73.9322622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77320183029149,
+            "lng": -73.9308289197085
+          },
+          "southwest": {
+            "lat": 40.77050386970849,
+            "lng": -73.93352688029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rainbow Transit",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100592765286322792987\">Al Bezner</a>"
+          ],
+          "photo_reference": "AeJbb3dZhaPUSY_XkAL06fDGi-2wLPSX7VPBb0367MDp424v011PBggUJFHtQiTwGBRo4SLQ3Biti6S5qg0sNBrFC6su6tLLKQygwVkn1UISOcKWAi5ZNkjIcmGxEn2EPa7T7923nDT7K8DnNu8nL19RiF0kUlhri-UK9nhhHe1wbk0iw3qq",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ5Sd8kEtfwokRhX6QNEOXPSs",
+      "plus_code": {
+        "compound_code": "Q3C9+P3 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q3C9+P3"
+      },
+      "rating": 2.3,
+      "reference": "ChIJ5Sd8kEtfwokRhX6QNEOXPSs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "1108 30th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7736955,
+          "lng": -73.9305497
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77509373029149,
+            "lng": -73.92917251970849
+          },
+          "southwest": {
+            "lat": 40.7723957697085,
+            "lng": -73.9318704802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "St Margaret Mary Head Start",
+      "place_id": "ChIJFQorGkxfwokRWsXX3jem5PU",
+      "plus_code": {
+        "compound_code": "Q3F9+FQ New York, NY, USA",
+        "global_code": "87G8Q3F9+FQ"
+      },
+      "reference": "ChIJFQorGkxfwokRWsXX3jem5PU",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "916 27th Avenue #2, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7748733,
+          "lng": -73.93277420000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77606938029149,
+            "lng": -73.93150931970851
+          },
+          "southwest": {
+            "lat": 40.7733714197085,
+            "lng": -73.93420728029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Laura J. Brown, LMSW",
+      "place_id": "ChIJK6viWExfwokRfeK8i51x6Xo",
+      "plus_code": {
+        "compound_code": "Q3F8+WV Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F8+WV"
+      },
+      "reference": "ChIJK6viWExfwokRfeK8i51x6Xo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4-21 27th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7747934,
+          "lng": -73.93621639999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77618698029151,
+            "lng": -73.93501621970849
+          },
+          "southwest": {
+            "lat": 40.77348901970851,
+            "lng": -73.9377141802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Graham Associates",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ1QMkLLNYwokRLGAnD4qcdCs",
+      "plus_code": {
+        "compound_code": "Q3F7+WG New York, NY, USA",
+        "global_code": "87G8Q3F7+WG"
+      },
+      "reference": "ChIJ1QMkLLNYwokRLGAnD4qcdCs",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2725 1st Street #2G, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7722615,
+          "lng": -73.9321441
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7735304302915,
+            "lng": -73.9309087197085
+          },
+          "southwest": {
+            "lat": 40.7708324697085,
+            "lng": -73.9336066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Two Coves",
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108963124072673819564\">ano nymous</a>"
+          ],
+          "photo_reference": "AeJbb3cJWRq-P_XokQbvob0U77BHZcAs4jynOx1pyRM6-SPfsjx2fnkUF9E3nPlOVcFfeMTQP0ElOllUTNWXtp0T7wyX7TqnCw73PA1SIsSsGhbklpuQQFUXWt3_yBxNBXl0W69aquBZ22jhiUyFJe9fm9wu2oGlFTbbdAVwse-SBII-qkw",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJ87Kyi0tfwokRnWfveiSdAJw",
+      "plus_code": {
+        "compound_code": "Q3C9+W4 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3C9+W4"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ87Kyi0tfwokRnWfveiSdAJw",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 37,
+      "vicinity": "11-01 30th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7748733,
+          "lng": -73.93277420000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77606938029149,
+            "lng": -73.93150931970851
+          },
+          "southwest": {
+            "lat": 40.7733714197085,
+            "lng": -73.93420728029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Amanda Saake, LMSW",
+      "place_id": "ChIJK6viWExfwokRXLgcYum27wY",
+      "plus_code": {
+        "compound_code": "Q3F8+WV Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F8+WV"
+      },
+      "reference": "ChIJK6viWExfwokRXLgcYum27wY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4-21 27th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.774791,
+          "lng": -73.9362242
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7761837302915,
+            "lng": -73.93502116970848
+          },
+          "southwest": {
+            "lat": 40.77348576970851,
+            "lng": -73.9377191302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Anthony Graham Enterprises Inc",
+      "place_id": "ChIJ1QMkLLNYwokR6Pq2AkWwcvI",
+      "plus_code": {
+        "compound_code": "Q3F7+WG Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F7+WG"
+      },
+      "rating": 5,
+      "reference": "ChIJ1QMkLLNYwokR6Pq2AkWwcvI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "2725 1st Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7726688,
+          "lng": -73.9318572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77393468029149,
+            "lng": -73.93058086970849
+          },
+          "southwest": {
+            "lat": 40.77123671970849,
+            "lng": -73.9332788302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Reality House, Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJrXkk8ctYwokR8UkvEwg6kWE",
+      "plus_code": {
+        "compound_code": "Q3F9+37 New York, NY, USA",
+        "global_code": "87G8Q3F9+37"
+      },
+      "rating": 4.3,
+      "reference": "ChIJrXkk8ctYwokR8UkvEwg6kWE",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "8-13 Astoria Boulevard, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7726797,
+          "lng": -73.9332646
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77411563029151,
+            "lng": -73.9318695197085
+          },
+          "southwest": {
+            "lat": 40.77141766970851,
+            "lng": -73.93456748029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Ny City Housing Authority",
+      "place_id": "ChIJ1SWG1k5fwokRdqKHxlXeDTM",
+      "plus_code": {
+        "compound_code": "Q3F8+3M New York, NY, USA",
+        "global_code": "87G8Q3F8+3M"
+      },
+      "reference": "ChIJ1SWG1k5fwokRdqKHxlXeDTM",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4-25 Astoria Boulevard, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7736756,
+          "lng": -73.9305205
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77508303029149,
+            "lng": -73.92916316970849
+          },
+          "southwest": {
+            "lat": 40.7723850697085,
+            "lng": -73.9318611302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "St. Margaret Mary Roman Catholic Church",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114414750308353151318\">Reyna Cortes</a>"
+          ],
+          "photo_reference": "AeJbb3c_ykHbEhBdFZGUDoJrvaPCNLooXt6D9wrYnaTREocpN-F9oyY0KqrbIIuPXUAaGbzZG5EVSZMtVQyfmn80JlqCW_7IWYduo1Rc7FkPlra29qjli8NZCMJ4b_0iWM-k0bkdtOwijfgJh1CTsH3rgPdXrb8kBLZDUt7nOvfV7HwBDaU",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJCRgoIkxfwokRmbT08cSgQyQ",
+      "plus_code": {
+        "compound_code": "Q3F9+FQ Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3F9+FQ"
+      },
+      "rating": 4.2,
+      "reference": "ChIJCRgoIkxfwokRmbT08cSgQyQ",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "918 27th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77235099999999,
+          "lng": -73.929649
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7735883302915,
+            "lng": -73.92829336970848
+          },
+          "southwest": {
+            "lat": 40.7708903697085,
+            "lng": -73.9309913302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Astoria Boiler",
+      "place_id": "ChIJT8OKrE5fwokR3ZJHmGOpYHM",
+      "plus_code": {
+        "compound_code": "Q3CC+W4 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3CC+W4"
+      },
+      "reference": "ChIJT8OKrE5fwokR3ZJHmGOpYHM",
+      "scope": "GOOGLE",
+      "types": [
+        "plumber",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "12-11 Astoria Boulevard, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77531279999999,
+          "lng": -73.9339404
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77668273029149,
+            "lng": -73.9326606697085
+          },
+          "southwest": {
+            "lat": 40.77398476970849,
+            "lng": -73.93535863029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Oscar Katz Agency Inc",
+      "place_id": "ChIJ6_tfAURfwokRiOVOOTbZCLk",
+      "plus_code": {
+        "compound_code": "Q3G8+4C New York, NY, USA",
+        "global_code": "87G8Q3G8+4C"
+      },
+      "reference": "ChIJ6_tfAURfwokRiOVOOTbZCLk",
+      "scope": "GOOGLE",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "301 27th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77525199999999,
+          "lng": -73.935029
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7766202802915,
+            "lng": -73.9336684697085
+          },
+          "southwest": {
+            "lat": 40.7739223197085,
+            "lng": -73.9363664302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "27 Av/2 St",
+      "place_id": "ChIJEQoF2UxfwokREMnJRSkzrM0",
+      "plus_code": {
+        "compound_code": "Q3G7+4X New York, NY, USA",
+        "global_code": "87G8Q3G7+4X"
+      },
+      "reference": "ChIJEQoF2UxfwokREMnJRSkzrM0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7746332,
+          "lng": -73.9330994
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7759974302915,
+            "lng": -73.9317420197085
+          },
+          "southwest": {
+            "lat": 40.7732994697085,
+            "lng": -73.93443998029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "27 Av/4 St",
+      "place_id": "ChIJ4wBt-ExfwokRwItVyXL0qlg",
+      "plus_code": {
+        "compound_code": "Q3F8+VQ New York, NY, USA",
+        "global_code": "87G8Q3F8+VQ"
+      },
+      "rating": 3,
+      "reference": "ChIJ4wBt-ExfwokRwItVyXL0qlg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.774126,
+          "lng": -73.9319355
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7754709802915,
+            "lng": -73.9305716697085
+          },
+          "southwest": {
+            "lat": 40.7727730197085,
+            "lng": -73.9332696302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "8 St/27 Av",
+      "place_id": "ChIJR0CnRkxfwokRpiXsw4ALsic",
+      "plus_code": {
+        "compound_code": "Q3F9+M6 New York, NY, USA",
+        "global_code": "87G8Q3F9+M6"
+      },
+      "reference": "ChIJR0CnRkxfwokRpiXsw4ALsic",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77179040000001,
+          "lng": -73.9343288
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77327728029151,
+            "lng": -73.93252371970848
+          },
+          "southwest": {
+            "lat": 40.77057931970851,
+            "lng": -73.9352216802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Hallets Cove Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117196689979564255420\">Hallets Cove Playground</a>"
+          ],
+          "photo_reference": "AeJbb3e_8cMLT_s9kPEJmK0QClEXM4efftJzIv5cHaXu_dqqlMyPr5ug91R9ucQlgkHTqJG_eMd7aXhYFdvLrbaMXKInYPJvHtcZInwkhP0VsODt1c3F10QxkavdkqaaZYL1BEgloYZQILDY9usdX9_qUPlOVTOSEl1dnDRnQ2tN5QpmPF5V",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJaXQybktfwokRlm0TIT_t1bM",
+      "plus_code": {
+        "compound_code": "Q3C8+P7 New York, NY, USA",
+        "global_code": "87G8Q3C8+P7"
+      },
+      "rating": 4.3,
+      "reference": "ChIJaXQybktfwokRlm0TIT_t1bM",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 78,
+      "vicinity": "30-02 Vernon Boulevard, Queens"
+    }
+  ],
+  "status": "OK"
+}

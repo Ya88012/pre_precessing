@@ -1,0 +1,2690 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fVz459-M7sPP5td7T0zYWUOxfaSVRib0KuCrTDMx3k_vh8VlU6RAbelSw85uR2f7_0Fz6eRT52O2gIuexxsgJbLO1t53R7uJVQUsdY4s5N10UkLjezl79hLefu6nB-fM5THgnJrCvPNOO_ATer16zjY-7bI92DXgrIQO-u6TfW_jYr",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8224331,
+          "lng": -73.90074899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8237585802915,
+            "lng": -73.89930056970849
+          },
+          "southwest": {
+            "lat": 40.8210606197085,
+            "lng": -73.9019985302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "PSSWSF Housing Co LLP",
+      "place_id": "ChIJtU2PVE30wokRQnusks15qbc",
+      "plus_code": {
+        "compound_code": "R3CX+XP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CX+XP"
+      },
+      "rating": 5,
+      "reference": "ChIJtU2PVE30wokRQnusks15qbc",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "951 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8192755,
+          "lng": -73.90317399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82050868029149,
+            "lng": -73.90165031970848
+          },
+          "southwest": {
+            "lat": 40.81781071970849,
+            "lng": -73.9043482802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Osborne Association",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105222855590764252220\">Floyd Spruill</a>"
+          ],
+          "photo_reference": "AeJbb3dDmYZ_wW1-oHLdVL1ca71Tpdq8mSXC2KOBlnXuK1-tIbkbaintI5s8ZOWnpFXE_C7KyhcABWQACJZU8j95e5P8wqLS_FediZYgDiubvZqrqWLHZg7gqQ07mw5aBwYp8qMwxKeDnECeuD3vIAsBPEcEXM-HIK_xRHY-5bGu1yDRbLSC",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJF27JN7L1wokRrjwoZDIQQ1w",
+      "plus_code": {
+        "compound_code": "R39W+PP \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R39W+PP"
+      },
+      "rating": 4.5,
+      "reference": "ChIJF27JN7L1wokRrjwoZDIQQ1w",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 94,
+      "vicinity": "809 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8216951,
+          "lng": -73.9053381
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8229525302915,
+            "lng": -73.90402616970849
+          },
+          "southwest": {
+            "lat": 40.8202545697085,
+            "lng": -73.90672413029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "William McKinley",
+      "place_id": "ChIJ_TGH9Ez0wokRLiAGC38oWKk",
+      "plus_code": {
+        "compound_code": "R3CV+MV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CV+MV"
+      },
+      "rating": 2,
+      "reference": "ChIJ_TGH9Ez0wokRLiAGC38oWKk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "731 East 161 Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81627149999999,
+          "lng": -73.90021310000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8176672302915,
+            "lng": -73.8988184197085
+          },
+          "southwest": {
+            "lat": 40.8149692697085,
+            "lng": -73.90151638029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Bautista San J",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116761341600042801241\">Rose Phoenix</a>"
+          ],
+          "photo_reference": "AeJbb3e38Dr7FNzWU8GRQbTHqjghxqFtlYbDr4mFCyxtwxTr8rNa6rM3jJ92Lz88bm1-6mdO8TR-A2lWdrnVpe-tP8jC3C_wwvNU3oQsymHP9UYD72OSkCcMmc5OwiiRTpVetX5k1n9a8hmo82kFoOjqnpE3ylfjMILfVNlrApFWdmRSVogm",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJyfOoGa71wokRHOyx6rL2dSI",
+      "plus_code": {
+        "compound_code": "R38X+GW \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38X+GW"
+      },
+      "rating": 5,
+      "reference": "ChIJyfOoGa71wokRHOyx6rL2dSI",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "948 East 156th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81903330000001,
+          "lng": -73.9056372
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8204075302915,
+            "lng": -73.90439516970851
+          },
+          "southwest": {
+            "lat": 40.81770956970851,
+            "lng": -73.90709313029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "X379 Jill Chaifetz Transfer High School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3d-c2c9Tl3t5cW4R6cOJUgg7L6KCg5zTOtwoQhyMK6R88WjhukWcKaW6C1FYccW99DR1Y1p0ja2aUYCqSBS6fP01F-pbnNgplU3isnK2a84mK7TV7YkE2XZyJmNNOtaF0UKRfbe5cPDrd4A1_34b9SPwMlLPwmt97NFyvrh5yTYbm_k",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJx4s88LP1wokRK-HhJugXA_s",
+      "plus_code": {
+        "compound_code": "R39V+JP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39V+JP"
+      },
+      "rating": 4.3,
+      "reference": "ChIJx4s88LP1wokRK-HhJugXA_s",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "778 Forest Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8163613,
+          "lng": -73.899644
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8177549802915,
+            "lng": -73.8983711197085
+          },
+          "southwest": {
+            "lat": 40.8150570197085,
+            "lng": -73.9010690802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Prospect Family Residence",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3cZMYjzD4tdRpWRfuT4nSJW1_wyG-du_YmDs8QAI57yMTePlSBpDfQtBBkZgQr6Nzv8jkHwc3Gfv_lIDugcpa4o6UWnOtcAuWx-n0XKMqQjiat0-bUGtms11SLdxnn6RS30z3k66lj1nvMuiqxEc8w-yI1W4FVICGO3bI_A83BJBGqZ",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJV1ToFq71wokRq35aBviDO2I",
+      "plus_code": {
+        "compound_code": "R482+G4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R482+G4"
+      },
+      "rating": 2.9,
+      "reference": "ChIJV1ToFq71wokRq35aBviDO2I",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "730 Kelly Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81901279999999,
+          "lng": -73.9056458
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8203790302915,
+            "lng": -73.9044036697085
+          },
+          "southwest": {
+            "lat": 40.8176810697085,
+            "lng": -73.9071016302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "South Bronx Academy for Applied Media",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3fOuITTltNcX9nyWpasjj5FhAKpZnShu8-d5EA9_ZFKghUn_s6hyMOzb5_RFXV94SO6wAdB7peQV5r3SPR_Soc4BYgjnYtXAkBFAocRCNJsCaGqDWCWMXu0hKRCQDN0-h3TPc_gR_BkZofW1laIE1Ab2_EQYJVkdp9AXAUrCZ83NR5z",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJx4s88LP1wokRriX_DsPYtzI",
+      "plus_code": {
+        "compound_code": "R39V+JP \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39V+JP"
+      },
+      "rating": 3.2,
+      "reference": "ChIJx4s88LP1wokRriX_DsPYtzI",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "778 Forest Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.820257,
+          "lng": -73.90484289999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8217005302915,
+            "lng": -73.90343536970849
+          },
+          "southwest": {
+            "lat": 40.8190025697085,
+            "lng": -73.90613333029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Argus Community Inc",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112130132084772738527\">King Yatta</a>"
+          ],
+          "photo_reference": "AeJbb3fjGdZYogkz2KECW1r9XW4lxFqp6zwMZncy2fLstIhZL9UGMCz8FlNlqwnWVzURFW1r6hSomQDkKBPW9-gsSR0fSfrOX8e8iiAXb1pg92wT5_LQB9UAoMW7R6QzgiQaE2WHCRqq5fSBpETeWxVvuVuOopqF5CIvdFRU9R8BSNgKQNoc",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJkeyyoLP1wokRRjIU_pxU92Y",
+      "plus_code": {
+        "compound_code": "R3CW+43 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CW+43"
+      },
+      "rating": 3.8,
+      "reference": "ChIJkeyyoLP1wokRRjIU_pxU92Y",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 158,
+      "vicinity": "760 East 160th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8156243,
+          "lng": -73.90357589999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81697493029149,
+            "lng": -73.90209956970848
+          },
+          "southwest": {
+            "lat": 40.81427696970849,
+            "lng": -73.9047975302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Cornerstone Assembly Church",
+      "place_id": "ChIJqVnLq7H1wokRF1RUaDKbpq8",
+      "plus_code": {
+        "compound_code": "R38W+6H \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38W+6H"
+      },
+      "rating": 5,
+      "reference": "ChIJqVnLq7H1wokRF1RUaDKbpq8",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "671 Prospect Avenue # 1, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8157769,
+          "lng": -73.9015743
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81702953029149,
+            "lng": -73.90024816970849
+          },
+          "southwest": {
+            "lat": 40.81433156970849,
+            "lng": -73.9029461302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Girls Prep Bronx Elementary Charter School",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117023985639303798706\">Monica Saenz De Viteri</a>"
+          ],
+          "photo_reference": "AeJbb3dfIyjo3KdwUD_ptOnD5pHe17ZnTPRTbGxyUI1x3fCXmj3NgGoqwWG0gxLWei6bC7ffGb-zvMh0B6hPP9FfmgUeH4DGWZORpkcO2YUxvn2DFcMZy5Z8jL0ZlNI2wiCk8N6es5p3MsNhSS3h18kAAGITXe3GL4aKcRw_CY_c51Lw4kXa",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJX22AxbH1wokR8KxzC2RcMMc",
+      "plus_code": {
+        "compound_code": "R38X+89 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38X+89"
+      },
+      "rating": 4.2,
+      "reference": "ChIJX22AxbH1wokR8KxzC2RcMMc",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "681 Kelly Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8195557,
+          "lng": -73.9011968
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8208482302915,
+            "lng": -73.89994456970851
+          },
+          "southwest": {
+            "lat": 40.8181502697085,
+            "lng": -73.90264253029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Cardtronics ATM",
+      "place_id": "ChIJnUkOe7L1wokRxMTVo_Ii4Xw",
+      "plus_code": {
+        "compound_code": "R39X+RG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39X+RG"
+      },
+      "reference": "ChIJnUkOe7L1wokRxMTVo_Ii4Xw",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "840 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8213458,
+          "lng": -73.9004564
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82274513029149,
+            "lng": -73.8992134197085
+          },
+          "southwest": {
+            "lat": 40.8200471697085,
+            "lng": -73.90191138029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Team Prospect Martial Arts Academy",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104293982321588310247\">Team Prospect Martial Arts Academy</a>"
+          ],
+          "photo_reference": "AeJbb3ckNG7fZpxn0ACIWVfmnGfLigsCsiNSQODmbqj59uYD9GRmhUKH5TDkeKgVmRDVofBzpVueZ6NjVFvr98dlBGx5X-3uvcU4VGPBkBqWKljQmA5xWlWxdN5gJDLerYqx0LwFtgqThN27K1UA_1byNyoINgxsFHY0WvnP9qJnMfRsyrWr",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJF047X631wokRu1h6cyG7W3w",
+      "plus_code": {
+        "compound_code": "R3CX+GR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CX+GR"
+      },
+      "rating": 4.9,
+      "reference": "ChIJF047X631wokRu1h6cyG7W3w",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 121,
+      "vicinity": "914 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8199389,
+          "lng": -73.9018567
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8212495302915,
+            "lng": -73.90038446970848
+          },
+          "southwest": {
+            "lat": 40.8185515697085,
+            "lng": -73.9030824302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 766,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102478708831348482659\">Subway</a>"
+          ],
+          "photo_reference": "AeJbb3ei0lmihpjofx9oIyrc_AO-x_ykSilxsn4-73-4CbOwTj5ZWGWESw8AiRo_pJXGh0fG2QK0jco67lwynU7VRFcTzOER-yX2L5ZVtk2r149T2GmcN5chMsQ1DDa-SFJA3sKmpdLqv4efdGvKMMOqtkov9aH1lR4Q2rLIkT-ZDw_A0an1",
+          "width": 766
+        }
+      ],
+      "place_id": "ChIJgQ19JMj0wokRqxPq8ZLBcY4",
+      "plus_code": {
+        "compound_code": "R39X+X7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39X+X7"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJgQ19JMj0wokRqxPq8ZLBcY4",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 70,
+      "vicinity": "839 D Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8206509,
+          "lng": -73.9015154
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8219848302915,
+            "lng": -73.90005641970849
+          },
+          "southwest": {
+            "lat": 40.8192868697085,
+            "lng": -73.9027543802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "YORUBA CHILDREN IN NORTH AMERICA LANGUAGE LEARNING CENTER",
+      "permanently_closed": true,
+      "place_id": "ChIJV0ObYq31wokRUlT60y-Gbns",
+      "plus_code": {
+        "compound_code": "R3CX+79 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3CX+79"
+      },
+      "reference": "ChIJV0ObYq31wokRUlT60y-Gbns",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "890 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8151541,
+          "lng": -73.89900899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8164549802915,
+            "lng": -73.8975796197085
+          },
+          "southwest": {
+            "lat": 40.8137570197085,
+            "lng": -73.9002775802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Fox Street Apartments LP",
+      "place_id": "ChIJbYy5Sa71wokRery-QZuQJiQ",
+      "plus_code": {
+        "compound_code": "R482+39 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R482+39"
+      },
+      "rating": 3.7,
+      "reference": "ChIJbYy5Sa71wokRery-QZuQJiQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "737 Fox Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8201702,
+          "lng": -73.9011661
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8215407802915,
+            "lng": -73.89990991970848
+          },
+          "southwest": {
+            "lat": 40.8188428197085,
+            "lng": -73.9026078802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "David's Check Cashing",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJJcoShrL1wokRzwPrahgx-GA",
+      "plus_code": {
+        "compound_code": "R3CX+3G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CX+3G"
+      },
+      "rating": 2.5,
+      "reference": "ChIJJcoShrL1wokRzwPrahgx-GA",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "868 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8193387,
+          "lng": -73.9008921
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82062783029149,
+            "lng": -73.89960486970848
+          },
+          "southwest": {
+            "lat": 40.81792986970849,
+            "lng": -73.9023028302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "M&J Property Transfer Corporation.",
+      "permanently_closed": true,
+      "place_id": "ChIJhY2JebL1wokRlIBLIXBz5_Y",
+      "plus_code": {
+        "compound_code": "R39X+PJ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R39X+PJ"
+      },
+      "reference": "ChIJhY2JebL1wokRlIBLIXBz5_Y",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "853 Longwood Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8211845,
+          "lng": -73.9035109
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8225554302915,
+            "lng": -73.90225796970849
+          },
+          "southwest": {
+            "lat": 40.8198574697085,
+            "lng": -73.90495593029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lettire Construction",
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115247057212779070667\">The Ortiz Family</a>"
+          ],
+          "photo_reference": "AeJbb3ehUiwsJg7ae4VOSgvfvl71OPRE42CCfTZ4cY_0wtxDhevMs2GK72ZhlMSt8GJ98OzF_bgRrZqAfiu-mbVsKSHooXKNJvyd2mk-6gG1e6Smreisz1JJNgxJUrcysP3g_03UOsc6f52UfUEUfzP95TWZ_B8L36wfXJ6y0gn42yLkaD2y",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJyy2fHbP1wokR6Km27xldSSY",
+      "plus_code": {
+        "compound_code": "R3CW+FH \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3CW+FH"
+      },
+      "rating": 3,
+      "reference": "ChIJyy2fHbP1wokR6Km27xldSSY",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "880 Tinton Avenue, The Bronx"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8519547,
+          "lng": -73.90070899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91527805889627,
+            "lng": -73.86840408623851
+          },
+          "southwest": {
+            "lat": 40.79678004393696,
+            "lng": -73.93340593816593
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West Bronx",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113738462812435835913\">Alex Lin</a>"
+          ],
+          "photo_reference": "AeJbb3ddf0wOhfpiGuYgqUdCplv0kwkvfGEuMHKoPj6b9ri_bVYbpUr4yoWzJV0aUkDfwMm1w90ZLGPRJnlG3Dd8x2RXbJIOKWJFbJswC7CuubfHiJ63y_mTsawtQrlb1xu_5vl13FJfVAq3VRogNaA8WLC4TaUAQOUK-FgNhMNbDq3PTRac",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "reference": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8192325,
+          "lng": -73.89839409999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82053103029149,
+            "lng": -73.89698201970849
+          },
+          "southwest": {
+            "lat": 40.8178330697085,
+            "lng": -73.8996799802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "United Hispanic Construction",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJP2Yzr631wokRAg-8IITcQpU",
+      "plus_code": {
+        "compound_code": "R492+MJ New York, NY, USA",
+        "global_code": "87G8R492+MJ"
+      },
+      "rating": 4.1,
+      "reference": "ChIJP2Yzr631wokRAg-8IITcQpU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "843 Dawson Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8194284,
+          "lng": -73.9010945
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8207268302915,
+            "lng": -73.8997976697085
+          },
+          "southwest": {
+            "lat": 40.8180288697085,
+            "lng": -73.90249563029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York Children's Health",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112303778047205825807\">Jorge Alberto Rodriguez</a>"
+          ],
+          "photo_reference": "AeJbb3cN7wZbDgONv3FCzLfh3TqDpwoXcPs9km5m8sQeXtXGRxh4twXhFaxAIEKPQNifBHGqSouJSqoQMpFphKi3sqt2vBAzog0fJBGUI0fqePO8mTZeRusFAPyy0WlYpNtFzwfqI7cZn5-A0fVPms4pvTN_BNBBW28mqFt3T8Xb5ENz1RXF",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJDacnd7L1wokRkkPubc17mh4",
+      "plus_code": {
+        "compound_code": "R39X+QH The Bronx, NY, USA",
+        "global_code": "87G8R39X+QH"
+      },
+      "rating": 4.9,
+      "reference": "ChIJDacnd7L1wokRkkPubc17mh4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "853 Longwood Avenue # 201, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82064809999999,
+          "lng": -73.9046132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8219004802915,
+            "lng": -73.90333861970849
+          },
+          "southwest": {
+            "lat": 40.8192025197085,
+            "lng": -73.9060365802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Woodstock Library",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114414027487377512373\">Vlad Voloshin</a>"
+          ],
+          "photo_reference": "AeJbb3fhbSm3RBzVD0LK5yts6mj3aV-FuYnCfWV1D4bKRYEVbHeUqOFJq4K7PbLVOye_CeS7Ry_NHLxy6phjhSsOYEbnRgou7IP-0qBMuIUPU8mg6ivTV-u1I-q7yQt30JrGdzEQjZyf-5zWlpzCm-0BI4jTQDwrEbk-2fLYNTF37sHqyxBM",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJY1cdCrP1wokRkFVnyHRf9xc",
+      "plus_code": {
+        "compound_code": "R3CW+75 The Bronx, NY, USA",
+        "global_code": "87G8R3CW+75"
+      },
+      "rating": 4.5,
+      "reference": "ChIJY1cdCrP1wokRkFVnyHRf9xc",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 57,
+      "vicinity": "761 East 160th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.817634,
+          "lng": -73.900628
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8190594302915,
+            "lng": -73.89941291970851
+          },
+          "southwest": {
+            "lat": 40.8163614697085,
+            "lng": -73.90211088029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "United Church",
+      "photos": [
+        {
+          "height": 3768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3d6bUGKgIBXH0wGJN95ShUTR08YIES3YyjizccnEB4zFbCwqZ5R5xD5LGE6Pve0oBOzyDrEetG-LClbLW9et1-2Wv4eWm2KGplwq03NO89lDoiyA6ljvmCuM6MWgmFLdT58GYjIzm54mu4mK16002YJMa1Kyb3oD95ZdRMb1HGz09Fg",
+          "width": 3229
+        }
+      ],
+      "place_id": "ChIJN3hr_631wokRPEBqJ7dy33I",
+      "plus_code": {
+        "compound_code": "R39X+3P New York, NY, USA",
+        "global_code": "87G8R39X+3P"
+      },
+      "rating": 5,
+      "reference": "ChIJN3hr_631wokRPEBqJ7dy33I",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "764 Hewitt Place, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8191166,
+          "lng": -73.9023818
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8205190802915,
+            "lng": -73.9010240697085
+          },
+          "southwest": {
+            "lat": 40.8178211197085,
+            "lng": -73.9037220302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "International Development Institute-IDI",
+      "permanently_closed": true,
+      "place_id": "ChIJo3DaQ7L1wokRDtuspDTRVPo",
+      "plus_code": {
+        "compound_code": "R39X+J2 New York, NY, USA",
+        "global_code": "87G8R39X+J2"
+      },
+      "rating": 5,
+      "reference": "ChIJo3DaQ7L1wokRDtuspDTRVPo",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "828 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8202366,
+          "lng": -73.9011089
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8216100802915,
+            "lng": -73.89986661970849
+          },
+          "southwest": {
+            "lat": 40.8189121197085,
+            "lng": -73.9025645802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hondurans Against Aids Inc",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107494470379783046745\">Thurito Martinez</a>"
+          ],
+          "photo_reference": "AeJbb3fb5Ib54XgqhgMQtGE6pNUCEZXKVHWeq4wSvR4fxH3ekf4Cfi7uRnP_4SmJnY4DKrty94gS1ejokJgn7rhgHVXZ6ChEyaCgxo1nErjaKMhUMG1WSxaT5JnelFJbLV17KbF05jnYUXpimBHVs-4HxWkN7QpQI9EayN8x7Y_vLnNxJXr0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJK5Th5U70wokR4f9QnHUv4L8",
+      "plus_code": {
+        "compound_code": "R3CX+3H New York, NY, USA",
+        "global_code": "87G8R3CX+3H"
+      },
+      "rating": 4,
+      "reference": "ChIJK5Th5U70wokR4f9QnHUv4L8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "864 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8166755,
+          "lng": -73.90366139999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8180414802915,
+            "lng": -73.9024289197085
+          },
+          "southwest": {
+            "lat": 40.8153435197085,
+            "lng": -73.9051268802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Geel Community Services Inc",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114666309291349661431\">naty</a>"
+          ],
+          "photo_reference": "AeJbb3dQw2QQPVwjZjHkZaimklxFDcgUFmUspT86Aq_qqBN-vCOz8PQ7hjPRT3oANS7Pe8mtaziPh6V9ZrdYd3MeJThGim0yD9CxftX2jv2Wq59A1Sjks9WV-Y2sXD9uiKqma9Lk1ivYfQkl9nO7qu831yMe-QvTP3D1NrNdp_Edvks4qMqr",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJx8MwdbH1wokRA4R7tJ5P3xk",
+      "plus_code": {
+        "compound_code": "R38W+MG New York, NY, USA",
+        "global_code": "87G8R38W+MG"
+      },
+      "reference": "ChIJx8MwdbH1wokRA4R7tJ5P3xk",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "706 Union Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8195152,
+          "lng": -73.90241309999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8207767802915,
+            "lng": -73.90098476970849
+          },
+          "southwest": {
+            "lat": 40.8180788197085,
+            "lng": -73.9036827302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Metro by T-Mobile",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1730,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108842038595027036191\">Anubhav Wadhera</a>"
+          ],
+          "photo_reference": "AeJbb3f8qRVGuBqauRQPTJWlCMJGmvqOOHI364tLD8g4U02JMs_j6OfpXwDBuiZDrRnU1V--zCeYJq_SOyl_UxSfwItGskSkNKcE3Bqjq2lEf-wgRYJUD7nLoGkoRpUlkUIZRsgRIPs7zBOswOXh2JmvuwBcoD44w-BszgXlT6IHH1Sw_GW1",
+          "width": 2310
+        }
+      ],
+      "place_id": "ChIJk-AaQ7L1wokR7RWe_yjcylQ",
+      "plus_code": {
+        "compound_code": "R39X+R2 New York, NY, USA",
+        "global_code": "87G8R39X+R2"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJk-AaQ7L1wokR7RWe_yjcylQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "827 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82180839999999,
+          "lng": -73.900954
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82314083029149,
+            "lng": -73.89953651970849
+          },
+          "southwest": {
+            "lat": 40.82044286970849,
+            "lng": -73.9022344802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grandparent Family Apartments",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJtU2PVE30wokRlaH8iXV5VdI",
+      "plus_code": {
+        "compound_code": "R3CX+PJ New York, NY, USA",
+        "global_code": "87G8R3CX+PJ"
+      },
+      "rating": 4.8,
+      "reference": "ChIJtU2PVE30wokRlaH8iXV5VdI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "951 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81880210000001,
+          "lng": -73.8988088
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82013078029149,
+            "lng": -73.8973945197085
+          },
+          "southwest": {
+            "lat": 40.8174328197085,
+            "lng": -73.9000924802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Cardtronics ATM",
+      "place_id": "ChIJ-aYNu631wokRrtIm4f_R9PI",
+      "plus_code": {
+        "compound_code": "R492+GF New York, NY, USA",
+        "global_code": "87G8R492+GF"
+      },
+      "reference": "ChIJ-aYNu631wokRrtIm4f_R9PI",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "831 Dawson Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8197526,
+          "lng": -73.9006319
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82115783029151,
+            "lng": -73.8992236197085
+          },
+          "southwest": {
+            "lat": 40.81845986970851,
+            "lng": -73.9019215802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Great American Construction",
+      "permanently_closed": true,
+      "place_id": "ChIJrwfxf631wokRrHTAms270NM",
+      "plus_code": {
+        "compound_code": "R39X+WP The Bronx, NY, USA",
+        "global_code": "87G8R39X+WP"
+      },
+      "reference": "ChIJrwfxf631wokRrHTAms270NM",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "860 East 161 Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81987669999999,
+          "lng": -73.8991547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82110598029149,
+            "lng": -73.89769276970848
+          },
+          "southwest": {
+            "lat": 40.81840801970849,
+            "lng": -73.90039073029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Union Bronx Housing Authority",
+      "place_id": "ChIJF6dn7VH0wokRQ-U6GTO766g",
+      "plus_code": {
+        "compound_code": "R492+X8 The Bronx, NY, USA",
+        "global_code": "87G8R492+X8"
+      },
+      "rating": 3.3,
+      "reference": "ChIJF6dn7VH0wokRQ-U6GTO766g",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "881 Rev James A Polite Avenue #1, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.821851,
+          "lng": -73.9009287
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82318498029149,
+            "lng": -73.8995146197085
+          },
+          "southwest": {
+            "lat": 40.82048701970849,
+            "lng": -73.9022125802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Crown Fried Chicken",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108942421638493344932\">Raydy J</a>"
+          ],
+          "photo_reference": "AeJbb3d8be3ASbttK5ng9E2qtlqZp463XNbm5GjHZEN9JQUUjYGRH8fn2BApzRzIK_uLu5t2_k5pb7jaRXaHDXksiL7m_DC14WAICFRIslw6LVbQzXZSWq6Gn_pKin-BfgD3jVxjdv37gGGgOV_TTT3lJZDcgkBqQRHlgyMcJGsh7ao8uekw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJNcQOqLL1wokRt7kicSm16Q0",
+      "plus_code": {
+        "compound_code": "R3CX+PJ The Bronx, NY, USA",
+        "global_code": "87G8R3CX+PJ"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJNcQOqLL1wokRt7kicSm16Q0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 114,
+      "vicinity": "921 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8193387,
+          "lng": -73.9008921
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82062783029149,
+            "lng": -73.89960486970848
+          },
+          "southwest": {
+            "lat": 40.81792986970849,
+            "lng": -73.9023028302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wendy V. Quinones, NP",
+      "place_id": "ChIJhY2JebL1wokR30dn2iyyqBo",
+      "plus_code": {
+        "compound_code": "R39X+PJ New York, NY, USA",
+        "global_code": "87G8R39X+PJ"
+      },
+      "rating": 1,
+      "reference": "ChIJhY2JebL1wokR30dn2iyyqBo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "853 Longwood Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8189865,
+          "lng": -73.9015988
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8203661802915,
+            "lng": -73.90037036970848
+          },
+          "southwest": {
+            "lat": 40.8176682197085,
+            "lng": -73.9030683302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Prospect House",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJZd2xbbL1wokRZGYnm4B8OlE",
+      "plus_code": {
+        "compound_code": "R39X+H9 The Bronx, NY, USA",
+        "global_code": "87G8R39X+H9"
+      },
+      "reference": "ChIJZd2xbbL1wokRZGYnm4B8OlE",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "780 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8193635,
+          "lng": -73.9025415
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8206539302915,
+            "lng": -73.9011393697085
+          },
+          "southwest": {
+            "lat": 40.8179559697085,
+            "lng": -73.90383733029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cohen & Cohen Consulting Realty Inc.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111324563809284361470\">Cohen &amp; Cohen Consulting Realty Inc.</a>"
+          ],
+          "photo_reference": "AeJbb3cW0GOviNChqvZsq7scjxRSgYN90Falx-N6VYiHkK2J80usLv2tKoa2ANyPxOOpJOembo6QHuiWHkV6St9nR0CeYCewSrJ9TeET9UgkmC-HqmLYB5Fmw2bAUC_E_FW2jbt1K-ZhKfUGIWXk9eJI0ucx8WBxPp08BBaJfWRXxZWz3htO",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJYU31QrL1wokRk6WlBDg3EKs",
+      "plus_code": {
+        "compound_code": "R39W+PX The Bronx, NY, USA",
+        "global_code": "87G8R39W+PX"
+      },
+      "rating": 4,
+      "reference": "ChIJYU31QrL1wokRk6WlBDg3EKs",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "817 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8195557,
+          "lng": -73.9011968
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8208482302915,
+            "lng": -73.89994456970851
+          },
+          "southwest": {
+            "lat": 40.8181502697085,
+            "lng": -73.90264253029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Western Union",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106069738887817127050\">Western Union</a>"
+          ],
+          "photo_reference": "AeJbb3cCYce1ugXktcFkPj3hoSKVDULN_7BEvbHXQ2CGgrLmir9aACHGpgt4M512U8YtbmWGi_ZSQWn5dekfmglxH-M4bZng4_yjJSV-vRHVJR7yQdO1AQJtnB94eUYGGi0htMqXEhtgol3g7R_XdAoTus0WWBR9FBhNzinuvQ9VmP95nt34",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJaQB-ebL1wokRBFzgsgNR5GQ",
+      "plus_code": {
+        "compound_code": "R39X+RG New York, NY, USA",
+        "global_code": "87G8R39X+RG"
+      },
+      "reference": "ChIJaQB-ebL1wokRBFzgsgNR5GQ",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Rite Aid, 840 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8193387,
+          "lng": -73.9008921
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82062783029149,
+            "lng": -73.89960486970848
+          },
+          "southwest": {
+            "lat": 40.81792986970849,
+            "lng": -73.9023028302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "St. Dominic's",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJawnAebL1wokR13vpjDr60yc",
+      "plus_code": {
+        "compound_code": "R39X+PJ New York, NY, USA",
+        "global_code": "87G8R39X+PJ"
+      },
+      "rating": 2.8,
+      "reference": "ChIJawnAebL1wokR13vpjDr60yc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 37,
+      "vicinity": "853 Longwood Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8193387,
+          "lng": -73.9008921
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82062783029149,
+            "lng": -73.89960486970848
+          },
+          "southwest": {
+            "lat": 40.81792986970849,
+            "lng": -73.9023028302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Ruth Christoforetti",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJh-6JebL1wokRrON3I508TiE",
+      "plus_code": {
+        "compound_code": "R39X+PJ New York, NY, USA",
+        "global_code": "87G8R39X+PJ"
+      },
+      "reference": "ChIJh-6JebL1wokRrON3I508TiE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "853 Longwood Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8195997,
+          "lng": -73.9030246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8209656302915,
+            "lng": -73.90174671970848
+          },
+          "southwest": {
+            "lat": 40.8182676697085,
+            "lng": -73.9044446802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Word of Life Christian Fellowship International",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115507086426616989939\">Word of Life Christian Fellowship International</a>"
+          ],
+          "photo_reference": "AeJbb3eY6dE4lc0ttvqU6Mk0IG9ieGpbUUoungtqv4kqQ8UxAUltmhRqJSmVcb0eNZo6YMWqfG8Qrux5BNFp_yz7H9p6O1APgCWOCmKwgzhPuwEI8VU20QObBMftZ0RX3v7BvXwTjXn_ITIvICoeoMC6iFLpyQvGtYBEUtY-zxcyuoc6NXKH",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJbbvaXq31wokRLqlP7DZ_CXA",
+      "plus_code": {
+        "compound_code": "R39W+RQ New York, NY, USA",
+        "global_code": "87G8R39W+RQ"
+      },
+      "rating": 4.8,
+      "reference": "ChIJbbvaXq31wokRLqlP7DZ_CXA",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "830 Union Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81997529999999,
+          "lng": -73.9018064
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82129003029149,
+            "lng": -73.90034721970851
+          },
+          "southwest": {
+            "lat": 40.81859206970849,
+            "lng": -73.90304518029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103967037306575753776\">Dunkin&#39;</a>"
+          ],
+          "photo_reference": "AeJbb3fUsgspXFCaJ71wvaRV55IpdgIxNyWtJWS0sh47Y-3-YL18OsCQtfbkDz63ZqhaRRrgHsSxUpuNfVW5GELyW2xl1oN0uciyyYWRW9YRVL3Eso23TYePNY2-3qpQplLODXUzCHglD72DxmqugtuQoT1V9bsWjjzRf7j589Kg0WDFHQOR",
+          "width": 1143
+        }
+      ],
+      "place_id": "ChIJVYv4YrL1wokRmA-7TmhR6JE",
+      "plus_code": {
+        "compound_code": "R39X+X7 New York, NY, USA",
+        "global_code": "87G8R39X+X7"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJVYv4YrL1wokRmA-7TmhR6JE",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 123,
+      "vicinity": "839 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8191186,
+          "lng": -73.9005419
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82041813029149,
+            "lng": -73.8992616697085
+          },
+          "southwest": {
+            "lat": 40.81772016970849,
+            "lng": -73.90195963029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "DOMINICAN SERVICES INC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116741100324785368563\">DOMINICAN SERVICES INC</a>"
+          ],
+          "photo_reference": "AeJbb3egTwGJUR3smsw5MN8d-tgnNxSGSK4BIEcmBY-IRJuPTmHWXOuLz6a5ify7MqnFQVdSILcxgkYlBIMFk4KgYhs1VEcdenF6HMFnd_CTPqDuIDSOF15a9hprN4cvPkkJX4E60OTP30l94vW9Nn7xmbEvu_mPuyumnQ0fCa0UMl2Ry4FP",
+          "width": 4896
+        }
+      ],
+      "place_id": "ChIJKyF-iK31wokRMxjtytgnzFY",
+      "plus_code": {
+        "compound_code": "R39X+JQ The Bronx, NY, USA",
+        "global_code": "87G8R39X+JQ"
+      },
+      "rating": 5,
+      "reference": "ChIJKyF-iK31wokRMxjtytgnzFY",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "871 Longwood Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8177981,
+          "lng": -73.90210859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8191732802915,
+            "lng": -73.90087116970848
+          },
+          "southwest": {
+            "lat": 40.8164753197085,
+            "lng": -73.9035691302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Elementary School 130",
+      "place_id": "ChIJRW6DHrL1wokRRSmHGeJ2Lso",
+      "plus_code": {
+        "compound_code": "R39X+45 New York, NY, USA",
+        "global_code": "87G8R39X+45"
+      },
+      "reference": "ChIJRW6DHrL1wokRRSmHGeJ2Lso",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "750 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81777750000001,
+          "lng": -73.9018306
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8190640802915,
+            "lng": -73.9007640197085
+          },
+          "southwest": {
+            "lat": 40.81636611970851,
+            "lng": -73.90346198029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "BronxWorks, Inc.@ PS 130",
+      "place_id": "ChIJpd8LILL1wokRvgrvhgRTXpI",
+      "plus_code": {
+        "compound_code": "R39X+47 New York, NY, USA",
+        "global_code": "87G8R39X+47"
+      },
+      "rating": 5,
+      "reference": "ChIJpd8LILL1wokRvgrvhgRTXpI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "750 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8218507,
+          "lng": -73.9028489
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8234000802915,
+            "lng": -73.9016158697085
+          },
+          "southwest": {
+            "lat": 40.82070211970851,
+            "lng": -73.9043138302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Urban Health Plan",
+      "place_id": "ChIJK8gn2bL1wokRNgNSE0SSrag",
+      "plus_code": {
+        "compound_code": "R3CW+PV The Bronx, NY, USA",
+        "global_code": "87G8R3CW+PV"
+      },
+      "rating": 3.3,
+      "reference": "ChIJK8gn2bL1wokRNgNSE0SSrag",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "900 Tinton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81983889999999,
+          "lng": -73.9007194
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82123388029149,
+            "lng": -73.8993219197085
+          },
+          "southwest": {
+            "lat": 40.81853591970849,
+            "lng": -73.9020198802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Open Arms Circle Adult Social Day Care",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105779922990779197932\">Open Arms Circle Adult Social Day Care</a>"
+          ],
+          "photo_reference": "AeJbb3cidqp13YlhwFV8BIS7Ocmu6Hw5JoEWG9OgqWOtYnUT9apI73AadT_p7muOX0nKbLVsP6qHNC5z2T3OAjDiy_c5oCtznAWYN5UgOXs6Ar7zTawtLQ9vTyUcx6ZIgtRipuceGbv_mRuL5LyLEJbOROmzRSKKPxrLxoLNziuZXUlP_HRP",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJWz1agLL1wokRLRu0NQv26PU",
+      "plus_code": {
+        "compound_code": "R39X+WP The Bronx, NY, USA",
+        "global_code": "87G8R39X+WP"
+      },
+      "rating": 4.4,
+      "reference": "ChIJWz1agLL1wokRLRu0NQv26PU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "860 East 161 Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82016579999999,
+          "lng": -73.90109939999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82154368029148,
+            "lng": -73.89987451970848
+          },
+          "southwest": {
+            "lat": 40.81884571970849,
+            "lng": -73.9025724802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Western Union",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117697074599107156739\">Western Union</a>"
+          ],
+          "photo_reference": "AeJbb3fCbz7bC_tbSl4-JFY1QxmKeBMZ5YA5ec3SAW5bNhfuetBuY-zQVCf1KZbWqbb3og9rJ_4KdRn4NoOdPdFCwnBP6njDalP3DQgCWqhYcTsVvlHm9jupx-zOhJMkl2PHI8hDUbuJjUtbRnih0teDoMtt6_IxoPoTJs7v0UgtwbUe8qLq",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJqeNxhrL1wokRGukL3UnG0Us",
+      "plus_code": {
+        "compound_code": "R3CX+3H The Bronx, NY, USA",
+        "global_code": "87G8R3CX+3H"
+      },
+      "rating": 3,
+      "reference": "ChIJqeNxhrL1wokRGukL3UnG0Us",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Davids Check Cashing Dcc, 868 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81846619999999,
+          "lng": -73.9037094
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81987553029149,
+            "lng": -73.9024067197085
+          },
+          "southwest": {
+            "lat": 40.81717756970849,
+            "lng": -73.9051046802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Innovative Property Management & Development, Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108890795343639171943\">Jose Colon</a>"
+          ],
+          "photo_reference": "AeJbb3egMSQfwk-DQfl_6nqniV84en3UcHaXZ9RgR6zxR7iRXom8_YECN8PtEKR2CfUM7il_zfDQb9c7YOKJw5SonfxzESja5JRbyjYOvQWBOdEqkgH6lNe1Qzb8dc2huzYd-mYFHzJDdC5AGPNynZcr8qN01l-PYDXJ1htCybATl05375Hk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQwhxM7L1wokRUc_G3yzu01w",
+      "plus_code": {
+        "compound_code": "R39W+9G New York, NY, USA",
+        "global_code": "87G8R39W+9G"
+      },
+      "rating": 2.7,
+      "reference": "ChIJQwhxM7L1wokRUc_G3yzu01w",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "796-798 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8176378,
+          "lng": -73.9028057
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81895558029149,
+            "lng": -73.9013265697085
+          },
+          "southwest": {
+            "lat": 40.8162576197085,
+            "lng": -73.90402453029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Transfiguration Lutheran Church",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115574945933383276850\">Diana Bermudez</a>"
+          ],
+          "photo_reference": "AeJbb3d_xksvbtaOmWhA9Y9B6LMHZCont7QoulD2oqiK6j3NbqVzW7WrsdK8nnvvWFsRyNEe2bvx6F8Gw03QzPT-m0lIXjlc_mqvQPoSsX0H1eJ5JytmWH7e52yMgZJunCyITh8_sAYBlOijgKzR8qq7y0_xMlv0dKPAO-hFKmcA40OH4AWS",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJa2lBiLH1wokRhL6tcavlmD4",
+      "plus_code": {
+        "compound_code": "R39W+3V The Bronx, NY, USA",
+        "global_code": "87G8R39W+3V"
+      },
+      "rating": 4.4,
+      "reference": "ChIJa2lBiLH1wokRhL6tcavlmD4",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "763 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8203806,
+          "lng": -73.9011275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8218168302915,
+            "lng": -73.89982596970849
+          },
+          "southwest": {
+            "lat": 40.8191188697085,
+            "lng": -73.90252393029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Forward South Bronx Coalition",
+      "place_id": "ChIJp4RFY631wokR_2WzsD0_Gw8",
+      "plus_code": {
+        "compound_code": "R3CX+5G New York, NY, USA",
+        "global_code": "87G8R3CX+5G"
+      },
+      "reference": "ChIJp4RFY631wokR_2WzsD0_Gw8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "871 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.82066469999999,
+          "lng": -73.9014899
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82199388029149,
+            "lng": -73.90003991970849
+          },
+          "southwest": {
+            "lat": 40.81929591970849,
+            "lng": -73.9027378802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Shuchin J. Shukla",
+      "place_id": "ChIJab0wkLL1wokRDUqMYzt6dvQ",
+      "plus_code": {
+        "compound_code": "R3CX+7C The Bronx, NY, USA",
+        "global_code": "87G8R3CX+7C"
+      },
+      "reference": "ChIJab0wkLL1wokRDUqMYzt6dvQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "871 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8220203,
+          "lng": -73.90086579999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8233517802915,
+            "lng": -73.89944951970848
+          },
+          "southwest": {
+            "lat": 40.8206538197085,
+            "lng": -73.90214748029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Amor Bakery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107520416555168297995\">Erickson Reyes07</a>"
+          ],
+          "photo_reference": "AeJbb3cbn9o_bVc8K9A4g2cIFpR6ozXLcRGWlQeiRH8F1O2dpH8JaU77gGnJb7GYEfMbboLX9BoNmu-c84CVp3Yvf9lbvfwcL-LpJM4opKiCyKucHvzJFj7QYeoVxzMmwJHWdxQb4t2wWQ1Im8bNFKNJoTXZQ5Q7Zci2eGDrZqUwq69VrCK3",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJB1IvqLL1wokRuUVoLGvgHnY",
+      "plus_code": {
+        "compound_code": "R3CX+RM New York, NY, USA",
+        "global_code": "87G8R3CX+RM"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJB1IvqLL1wokRuUVoLGvgHnY",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 229,
+      "vicinity": "929 Prospect Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8163932,
+          "lng": -73.8995753
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8177934802915,
+            "lng": -73.89831366970849
+          },
+          "southwest": {
+            "lat": 40.8150955197085,
+            "lng": -73.9010116302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ambassador Food Services",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJV1ToFq71wokRuaCBMMr6hUg",
+      "plus_code": {
+        "compound_code": "R482+H5 The Bronx, NY, USA",
+        "global_code": "87G8R482+H5"
+      },
+      "rating": 5,
+      "reference": "ChIJV1ToFq71wokRuaCBMMr6hUg",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "730 Kelly Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81699830000001,
+          "lng": -73.900699
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8183202802915,
+            "lng": -73.8992887697085
+          },
+          "southwest": {
+            "lat": 40.8156223197085,
+            "lng": -73.90198673029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Housing Options & Geritriatics",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJWV9k_bH1wokRwpFNVP0vnVA",
+      "plus_code": {
+        "compound_code": "R38X+QP New York, NY, USA",
+        "global_code": "87G8R38X+QP"
+      },
+      "rating": 5,
+      "reference": "ChIJWV9k_bH1wokRwpFNVP0vnVA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "751 Dawson Street, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.816734,
+          "lng": -73.9002974
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81799813029149,
+            "lng": -73.89903401970851
+          },
+          "southwest": {
+            "lat": 40.8153001697085,
+            "lng": -73.90173198029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Source International Tech",
+      "permanently_closed": true,
+      "place_id": "ChIJE5MyG671wokRWZxkWydYY98",
+      "plus_code": {
+        "compound_code": "R38X+MV The Bronx, NY, USA",
+        "global_code": "87G8R38X+MV"
+      },
+      "reference": "ChIJE5MyG671wokRWZxkWydYY98",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "939 East 156th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81951110000001,
+          "lng": -73.8982055
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8208594802915,
+            "lng": -73.8966981197085
+          },
+          "southwest": {
+            "lat": 40.8181615197085,
+            "lng": -73.89939608029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Dawson Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109998452422889621384\">Dawson Playground</a>"
+          ],
+          "photo_reference": "AeJbb3cSmihQZZT7smsolKvuI9YfwcIHn5Z7nqr0g1j0so2p9tx7QaeWJ2yXmVGdr6bHiLEmPOiTGOEX3bd_S5DVKjjlWLLK5YOQ7LvoRrKFeXIjsPOBnQ3HEbyHkSEMCCTLdVlhiJ6DErgdB4gf04ZnHMcckqhDlmb3EBmkC162Cpu7QdvK",
+          "width": 1259
+        }
+      ],
+      "place_id": "ChIJ9_4fqq31wokR42sTVBuRreA",
+      "plus_code": {
+        "compound_code": "R492+RP The Bronx, NY, USA",
+        "global_code": "87G8R492+RP"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ9_4fqq31wokR42sTVBuRreA",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "Dawson St &, Rogers Place, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8173278,
+          "lng": -73.90484289999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8186820302915,
+            "lng": -73.90359686970848
+          },
+          "southwest": {
+            "lat": 40.8159840697085,
+            "lng": -73.9062948302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Abigail Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114456078900233893149\">Abigail Playground</a>"
+          ],
+          "photo_reference": "AeJbb3dnUt3j0FDklIMzYvVuTbWtQE1l0xY9AWWDeLOgt3GvTVAFENQBVzawe-66AQhbiEuNhv85cu8iCXT2By9fLFmZar0rVQ3Qei7H2m_H6vifDnWLifqTC-RI5N5LxDGWt-OA_AxdkrLz6QlYhm16e3O88OicDTEEOcsRl8tCiEOMvT5c",
+          "width": 1798
+        }
+      ],
+      "place_id": "ChIJWSqXZbH1wokRaw3IAQd1Jj8",
+      "plus_code": {
+        "compound_code": "R38W+W3 The Bronx, NY, USA",
+        "global_code": "87G8R38W+W3"
+      },
+      "rating": 4,
+      "reference": "ChIJWSqXZbH1wokRaw3IAQd1Jj8",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 63,
+      "vicinity": "E 156 St bet. Tinton Av and Union Av Bronx, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8207749,
+          "lng": -73.90000549999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8220818802915,
+            "lng": -73.8984713697085
+          },
+          "southwest": {
+            "lat": 40.8193839197085,
+            "lng": -73.90116933029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Westchester Point",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111628401871959053274\">Clara Francisco</a>"
+          ],
+          "photo_reference": "AeJbb3fyj9FDPgtvP52evaEL3_qE10DMyb_OqCV53TJhk0LB1L-Q9lGpHQe2ypJH17bkYxGv61QF7jEj56lN8z56jsMDZG0u8kylEO8JeeDUa4JFk10pjWD9mQr36g31TBpA2iIv4mPKEWX6UMd30XFLKV0lPIHa11qAi9DlOe-l28tcrBJD",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJW93kQa31wokROu6_EHFPYZg",
+      "plus_code": {
+        "compound_code": "R3CX+8X The Bronx, NY, USA",
+        "global_code": "87G8R3CX+8X"
+      },
+      "rating": 3.6,
+      "reference": "ChIJW93kQa31wokROu6_EHFPYZg",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "899 Westchester Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8203444,
+          "lng": -73.9055841
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.82166103029149,
+            "lng": -73.90412261970849
+          },
+          "southwest": {
+            "lat": 40.8189630697085,
+            "lng": -73.90682058029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Sharon Baptist Church",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3d2UR6jm6wOWwD-rIvmnGLToqPZ-OXVFEGEFxNgaBOCjDIoSDrbiZP2POoFTFLHDI9lRu8UFmxY3zT4D60Lr4E7_g7MFjL-q6IzMCDYEQR6tGKzCXtFeTVg2qg_OOCb1wA4cW1orTXmvgOdsFPBekmDSdrFhzrRmG38It6nUEBmiJPl",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ3zq4nrP1wokR74xX0R1nIcI",
+      "plus_code": {
+        "compound_code": "R3CV+4Q New York, NY, USA",
+        "global_code": "87G8R3CV+4Q"
+      },
+      "rating": 5,
+      "reference": "ChIJ3zq4nrP1wokR74xX0R1nIcI",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "827 Forest Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8165334,
+          "lng": -73.9027168
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8178052802915,
+            "lng": -73.90125506970848
+          },
+          "southwest": {
+            "lat": 40.8151073197085,
+            "lng": -73.90395303029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "AG Printing Solutions",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116363384459368183433\">AG Printing Solutions</a>"
+          ],
+          "photo_reference": "AeJbb3cFQSn5zRTnjbOS1N-lC_hStkbdYYvN3e1DVoSGDcMTbCxy0NtD57-mtj7PVJDTBLo1OTIXMVpcjdWwTckQjbqqlrigSnQihI-eqFx5DnfT8QJeqnT-EjpOvCxTzqWsQIily644IwOIdgbsTltZWY22CXcf50bte-6gXfJRCX8mu3ci",
+          "width": 1120
+        }
+      ],
+      "place_id": "ChIJjawzlrH1wokRBgpnotjDZlA",
+      "plus_code": {
+        "compound_code": "R38W+JW New York, NY, USA",
+        "global_code": "87G8R38W+JW"
+      },
+      "rating": 4.2,
+      "reference": "ChIJjawzlrH1wokRBgpnotjDZlA",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "720 Prospect Avenue, The Bronx"
+    }
+  ],
+  "status": "OK"
+}

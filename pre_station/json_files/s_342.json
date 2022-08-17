@@ -1,0 +1,2393 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3es5oDV2gtxTIUnUUyPt2n6wkUvm_U1ZjAqYqHGJI7ig8yimffvQLhhAtELfNOoSEKQgJVOlvTMtpnxVx6e7p6b8coLUkuxGGwZ3lQasubVROCYF4iP91B9r57HBYksGIK8-V1VX7Ynxz8a4epRlVCTg3xH63Y3v_2cEDVawGq4P4_M",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6687671,
+          "lng": -73.979766
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6700932802915,
+            "lng": -73.97853626970848
+          },
+          "southwest": {
+            "lat": 40.6673953197085,
+            "lng": -73.98123423029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Barnes & Noble",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101082820069913932567\">Kartar Singh</a>"
+          ],
+          "photo_reference": "AeJbb3e5s6ZCmRGwGemfx9zlNaJRfbGZqNcQDRJa2aMWm3rm4kYgAbpNvoQ6IlH_r7lZwqdBxxEI_UmNCnyfb_Bc14np2ORXOL6LAQ_DVJAm9F-83uw8t0LkFSiZ7hK-gDFGgQlhYPpHj1K1wpxqoIp3Hw41x4lxdMV2xP0UW6GzfuUQAXrU",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5VuisgNbwokRdmV4nsdnrvU",
+      "plus_code": {
+        "compound_code": "M29C+G3 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+G3"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ5VuisgNbwokRdmV4nsdnrvU",
+      "scope": "GOOGLE",
+      "types": [
+        "book_store",
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2283,
+      "vicinity": "267 7th Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.66783819999999,
+          "lng": -73.9779976
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66914373029149,
+            "lng": -73.9766852197085
+          },
+          "southwest": {
+            "lat": 40.6664457697085,
+            "lng": -73.9793831802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Park Slope Anesthesia Associates",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJk7pgcwNbwokRn9sSp0y0iaA",
+      "plus_code": {
+        "compound_code": "M29C+4R \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+4R"
+      },
+      "rating": 1,
+      "reference": "ChIJk7pgcwNbwokRn9sSp0y0iaA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6679815,
+          "lng": -73.97941759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66946113029151,
+            "lng": -73.97790196970848
+          },
+          "southwest": {
+            "lat": 40.66676316970851,
+            "lng": -73.9805999302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jeremy Weingarten, M.D.",
+      "place_id": "ChIJk7pgcwNbwokRexvw-IZGesk",
+      "plus_code": {
+        "compound_code": "M29C+56 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+56"
+      },
+      "rating": 4.5,
+      "reference": "ChIJk7pgcwNbwokRexvw-IZGesk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6678362,
+          "lng": -73.97912989999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6693884802915,
+            "lng": -73.97779386970848
+          },
+          "southwest": {
+            "lat": 40.6666905197085,
+            "lng": -73.9804918302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "NewYork-Presbyterian Brooklyn Methodist Hospital - Health Library",
+      "place_id": "ChIJk7pgcwNbwokRQFHuQ1UgJY8",
+      "plus_code": {
+        "compound_code": "M29C+48 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M29C+48"
+      },
+      "rating": 4.6,
+      "reference": "ChIJk7pgcwNbwokRQFHuQ1UgJY8",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6679815,
+          "lng": -73.97941759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66946113029151,
+            "lng": -73.97790196970848
+          },
+          "southwest": {
+            "lat": 40.66676316970851,
+            "lng": -73.9805999302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Michael Cabezon, M.D., F.A.C.E.P.",
+      "place_id": "ChIJk7pgcwNbwokRT5ZX5OcXgxc",
+      "plus_code": {
+        "compound_code": "M29C+56 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+56"
+      },
+      "reference": "ChIJk7pgcwNbwokRT5ZX5OcXgxc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Jonathan D. Weinberg, MD",
+      "place_id": "ChIJk7pgcwNbwokR58U_IcsFoVI",
+      "plus_code": {
+        "compound_code": "M29C+3F \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokR58U_IcsFoVI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.66782099999999,
+          "lng": -73.9779595
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66912608029149,
+            "lng": -73.9766475197085
+          },
+          "southwest": {
+            "lat": 40.6664281197085,
+            "lng": -73.9793454802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Eric L. Keller, DO",
+      "place_id": "ChIJk7pgcwNbwokRoc7OdyPRzQY",
+      "plus_code": {
+        "compound_code": "M29C+4R \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+4R"
+      },
+      "rating": 4,
+      "reference": "ChIJk7pgcwNbwokRoc7OdyPRzQY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Economos Katherine MD",
+      "place_id": "ChIJk7pgcwNbwokRNjegjGeYTFA",
+      "plus_code": {
+        "compound_code": "M29C+83 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+83"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRNjegjGeYTFA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kofinas Perinatal",
+      "place_id": "ChIJk7pgcwNbwokRnm7CXMCetGs",
+      "plus_code": {
+        "compound_code": "M29C+83 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+83"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRnm7CXMCetGs",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Vaccari Nicholas J MD",
+      "place_id": "ChIJk7pgcwNbwokRuVxUterDRmE",
+      "plus_code": {
+        "compound_code": "M29C+3F \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+3F"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRuVxUterDRmE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York Methodist Hospital: Moktan Sabita MD",
+      "place_id": "ChIJk7pgcwNbwokRWyfPkA62zGk",
+      "plus_code": {
+        "compound_code": "M29C+3F \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+3F"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRWyfPkA62zGk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jacqueline Bush, MD",
+      "photos": [
+        {
+          "height": 1668,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112485354802211367478\">Jacqueline Bush, MD</a>"
+          ],
+          "photo_reference": "AeJbb3ef_rijTA2cY2w8GHcluSJRPDk5AUHdeVCkutsGk7YrXVi89N5DUOb1jHTdavW3nEDnPKkmO-u_79dVfY1Ps5xRmxqoj6dNyO39FXXcMvLlNPUtm87oZrRtHOpz-9dnobfCPGYdikEK4-uqxIdekpWZA_D3L7nr60nU2XG4tTaZjEwo",
+          "width": 1668
+        }
+      ],
+      "place_id": "ChIJk7pgcwNbwokRBkISbLDNiDQ",
+      "plus_code": {
+        "compound_code": "M29C+83 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M29C+83"
+      },
+      "rating": 4.4,
+      "reference": "ChIJk7pgcwNbwokRBkISbLDNiDQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York Methodist Hospital: Parul Jain DDS",
+      "place_id": "ChIJk7pgcwNbwokRjOHJX_jANlY",
+      "plus_code": {
+        "compound_code": "M29C+3F \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+3F"
+      },
+      "rating": 1,
+      "reference": "ChIJk7pgcwNbwokRjOHJX_jANlY",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Chhabra Manoj MD",
+      "place_id": "ChIJk7pgcwNbwokRjDkLWlt6gsk",
+      "plus_code": {
+        "compound_code": "M29C+3F \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+3F"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRjDkLWlt6gsk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6679815,
+          "lng": -73.97941759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66946113029151,
+            "lng": -73.97790196970848
+          },
+          "southwest": {
+            "lat": 40.66676316970851,
+            "lng": -73.9805999302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Baratti Corrado MD",
+      "place_id": "ChIJk7pgcwNbwokRgQvityAAOsE",
+      "plus_code": {
+        "compound_code": "M29C+56 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+56"
+      },
+      "rating": 4,
+      "reference": "ChIJk7pgcwNbwokRgQvityAAOsE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Anthony Moretta, MD",
+      "place_id": "ChIJk7pgcwNbwokRQM0vzVJr9IQ",
+      "plus_code": {
+        "compound_code": "M29C+83 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+83"
+      },
+      "reference": "ChIJk7pgcwNbwokRQM0vzVJr9IQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.66893749999999,
+          "lng": -73.9795619
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.67033483029149,
+            "lng": -73.97831551970849
+          },
+          "southwest": {
+            "lat": 40.6676368697085,
+            "lng": -73.98101348029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Buckner Cary MD",
+      "place_id": "ChIJK9jQswNbwokRhXzYztQVtLw",
+      "plus_code": {
+        "compound_code": "M29C+H5 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8M29C+H5"
+      },
+      "rating": 4.5,
+      "reference": "ChIJK9jQswNbwokRhXzYztQVtLw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "263 7th Avenue # 5C, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6709136,
+          "lng": -73.9746258
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6722991802915,
+            "lng": -73.9733930197085
+          },
+          "southwest": {
+            "lat": 40.6696012197085,
+            "lng": -73.9760909802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_jewish-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_jewish_pinlet",
+      "name": "\u4ee5\u7f85\u6b23\u4e4b\u6bbf\u6703\u5802",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3ex1GlYk-ICSoMcOmYPJiCdEciEqX4ZulGjLZegzmyMM3SKot8LGTsH6znGaXWZJItF2xy9GnrfsGwwoYCaClgC7MFRIJkmUtpy71Prx_p9T47RA2_Nl5rZJwHa7PppRUVUAAy9mrOwac1ILS_Yuvcu8beaK9EjCTQVzgse8pGejSvq",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJKzWQ4vtawokRCU5SOqu080U",
+      "plus_code": {
+        "compound_code": "M2CG+94 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8M2CG+94"
+      },
+      "rating": 4.4,
+      "reference": "ChIJKzWQ4vtawokRCU5SOqu080U",
+      "scope": "GOOGLE",
+      "types": [
+        "synagogue",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 34,
+      "vicinity": "274 Garfield Place, Brooklyn"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.6781784,
+          "lng": -73.9441579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73944597129348,
+            "lng": -73.83336505117123
+          },
+          "southwest": {
+            "lat": 40.55104197967331,
+            "lng": -74.05662998413648
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u5e03\u9c81\u514b\u6797",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114417859579881743500\">Chengxiang Yuan</a>"
+          ],
+          "photo_reference": "AeJbb3dlTdr0bb74fAkyG6lGEFrLj--1wfwegL9NG3ofeL-aK3rrSUVGSYyU1nNdriVgBbRtq9QihdTKf-bw539BDwaoALARM4OYbCcNkRSvjgCz0je-hYLOW61tnfSdxuBP_pQYZBz54QFScI0GHClNqROSgTTmt7_5OJ4tXjQ-iW9kk7e4",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "reference": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "\u5e03\u9c81\u514b\u6797"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Gioia Turitto, MD",
+      "place_id": "ChIJk7pgcwNbwokRtw1096vc87g",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "rating": 4,
+      "reference": "ChIJk7pgcwNbwokRtw1096vc87g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6700459,
+          "lng": -73.9780554
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6714692802915,
+            "lng": -73.97662616970851
+          },
+          "southwest": {
+            "lat": 40.6687713197085,
+            "lng": -73.97932413029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jill-Ann Swenson, MD, FACOG",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 700,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106019814146699754811\">Jill-Ann Swenson, MD, FACOG</a>"
+          ],
+          "photo_reference": "AeJbb3frqgeAcEP3P3jIChExpdv5BiER7pi9Fg2mKxBFhUwnxaCl7z8TvB1UqcoXcInKS7Fwf-Uyz0wFxiMyHIMCNmUuos9kW5ui8y2z7d8rsWTzz7YS3_Qhk90JacBJu1qVWMJDzNLbAlrvd2yffsSOj3Cx7tQO_FTM-9uWgrneasCBKoj0",
+          "width": 1420
+        }
+      ],
+      "place_id": "ChIJk7pgcwNbwokRHL-pidWPsBM",
+      "plus_code": {
+        "compound_code": "M2CC+2Q Brooklyn, NY, USA",
+        "global_code": "87G8M2CC+2Q"
+      },
+      "rating": 3.7,
+      "reference": "ChIJk7pgcwNbwokRHL-pidWPsBM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "522 3rd Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.66834670000001,
+          "lng": -73.9789686
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6696781802915,
+            "lng": -73.97772376970849
+          },
+          "southwest": {
+            "lat": 40.6669802197085,
+            "lng": -73.9804217302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Barbara J. Gatton, MD",
+      "place_id": "ChIJk7pgcwNbwokRQPDHEi6bdig",
+      "plus_code": {
+        "compound_code": "M29C+8C New York, NY, USA",
+        "global_code": "87G8M29C+8C"
+      },
+      "reference": "ChIJk7pgcwNbwokRQPDHEi6bdig",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Terrence J. Sacchi, MD",
+      "photos": [
+        {
+          "height": 2731,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116665888024994338862\">Terrence J. Sacchi, MD</a>"
+          ],
+          "photo_reference": "AeJbb3ecualqYDMIi_kmVJv9UeRjSUV4fA5Ah98ZwsiDyYvEt0qhc4W9BaH9-ML-IME9JpK_EvPXY_L-r-SzcSjzGRtcpT5CnFaLHo3M7eOOeouKgCTM7RabTW7u6_03CUHLNEpH8cNN845Xv-fzwZQCxR7zegQgnWgCCrmVnBp5nhCdn-ZN",
+          "width": 2731
+        }
+      ],
+      "place_id": "ChIJk7pgcwNbwokReeeakAeL5gQ",
+      "plus_code": {
+        "compound_code": "M29C+83 New York, NY, USA",
+        "global_code": "87G8M29C+83"
+      },
+      "rating": 4.2,
+      "reference": "ChIJk7pgcwNbwokReeeakAeL5gQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Olivia Lopez, MD",
+      "place_id": "ChIJk7pgcwNbwokRPBEqmndX_Do",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "reference": "ChIJk7pgcwNbwokRPBEqmndX_Do",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hajir Dilmanian, MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 684,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100054465934580349159\">Hajir Dilmanian, MD</a>"
+          ],
+          "photo_reference": "AeJbb3dzQSu8-Ga7v2FNxATrXwIHVbKw2loBF2li0fesMXHV0BFZLxg7L9eRx87eigczx5B7KHi-HWMo9g08ZIj0NEMgmhOteyyHtvLqHK5J_bPZvH1DnUJ8NhnUMhjzMXDUYk_QQd7N7Lit_Igfx6ThYc-KMRif-YdKQYw7PbiO_irmHvZU",
+          "width": 684
+        }
+      ],
+      "place_id": "ChIJk7pgcwNbwokRyY9ug3u5uVo",
+      "plus_code": {
+        "compound_code": "M29C+83 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+83"
+      },
+      "rating": 1.5,
+      "reference": "ChIJk7pgcwNbwokRyY9ug3u5uVo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "506 6th Street Suite Newyork-Presbyterian Medical Group, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Leo Paul J MD",
+      "place_id": "ChIJk7pgcwNbwokRKX_7BUJznyM",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "reference": "ChIJk7pgcwNbwokRKX_7BUJznyM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6679815,
+          "lng": -73.97941759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66946113029151,
+            "lng": -73.97790196970848
+          },
+          "southwest": {
+            "lat": 40.66676316970851,
+            "lng": -73.9805999302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Patel Vishal K MD",
+      "place_id": "ChIJk7pgcwNbwokRFhoVSpBk5XE",
+      "plus_code": {
+        "compound_code": "M29C+56 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+56"
+      },
+      "reference": "ChIJk7pgcwNbwokRFhoVSpBk5XE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gillego Virgilio P MD",
+      "place_id": "ChIJk7pgcwNbwokRpYBM0hFPEkE",
+      "plus_code": {
+        "compound_code": "M29C+83 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+83"
+      },
+      "reference": "ChIJk7pgcwNbwokRpYBM0hFPEkE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Holly Thompson, MD",
+      "place_id": "ChIJk7pgcwNbwokRgmQQzZ_MMKM",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "rating": 3.7,
+      "reference": "ChIJk7pgcwNbwokRgmQQzZ_MMKM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annette M. Visconti, M.D.",
+      "place_id": "ChIJk7pgcwNbwokRVX_cZgMhaCI",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "reference": "ChIJk7pgcwNbwokRVX_cZgMhaCI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Akram Ahmed Chowdhury, MD",
+      "photos": [
+        {
+          "height": 1191,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117213551585622359445\">Akram Ahmed Chowdhury, MD</a>"
+          ],
+          "photo_reference": "AeJbb3f3tiNgKj9RbVEphE7yr064EeGQAyLtONPiLaLuEQzdF1trxLgojTOWWT4hQgg6zU3D4haGK387UPc3D6PYELON-65boaVmpk7pE3h4dCBTJjaAksW3WbeQ6lzR3zF_QsUoDDPttSpaGYOAD78Dqf-XhSFED7NjE-yR-GfZoWTLME8v",
+          "width": 1191
+        }
+      ],
+      "place_id": "ChIJk7pgcwNbwokRXkK1stqdHLo",
+      "plus_code": {
+        "compound_code": "M29C+83 New York, NY, USA",
+        "global_code": "87G8M29C+83"
+      },
+      "rating": 1,
+      "reference": "ChIJk7pgcwNbwokRXkK1stqdHLo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Joshua A. Socolow, MD",
+      "place_id": "ChIJk7pgcwNbwokRL-lWMpkg67s",
+      "plus_code": {
+        "compound_code": "M29C+83 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+83"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRL-lWMpkg67s",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Igor Mamkin, MD",
+      "place_id": "ChIJk7pgcwNbwokROo5M6F5zSDY",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokROo5M6F5zSDY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6678717,
+          "lng": -73.9786866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66940623029151,
+            "lng": -73.97759501970849
+          },
+          "southwest": {
+            "lat": 40.66670826970851,
+            "lng": -73.9802929802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Barry I. Saul, MD",
+      "place_id": "ChIJk7pgcwNbwokRvxtsfLsR8Sk",
+      "plus_code": {
+        "compound_code": "M29C+4G Brooklyn, NY, USA",
+        "global_code": "87G8M29C+4G"
+      },
+      "reference": "ChIJk7pgcwNbwokRvxtsfLsR8Sk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Robert H. Vanamerongen, MD",
+      "place_id": "ChIJk7pgcwNbwokRMxItsVEBZTQ",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "reference": "ChIJk7pgcwNbwokRMxItsVEBZTQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6683276,
+          "lng": -73.9798349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6698010302915,
+            "lng": -73.9784529697085
+          },
+          "southwest": {
+            "lat": 40.6671030697085,
+            "lng": -73.9811509302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sorin J. Brener, MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 540,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115483497910809623445\">Sorin J. Brener, MD</a>"
+          ],
+          "photo_reference": "AeJbb3evptTngUKATK7GMxZ6Rgq4OzSC3x4VhJ_cCy4-1dlkEZrQSlN9M_4n4ZemOFhihmq9g5N4zcEg126Y9RFCnXXvasuBq7K3wZ04d3xfx0FeyWNfe2WuuCn1i26MbJMn01Uxbl-c42xcVmhN-Ggxv-zrym6DhyI9CghzJTUtA8a4fDCh",
+          "width": 540
+        }
+      ],
+      "place_id": "ChIJk7pgcwNbwokRMOj5vLNjLPg",
+      "plus_code": {
+        "compound_code": "M29C+83 New York, NY, USA",
+        "global_code": "87G8M29C+83"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRMOj5vLNjLPg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Amy Lazarides, MD",
+      "place_id": "ChIJk7pgcwNbwokRuLn_NPoQ0mw",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "reference": "ChIJk7pgcwNbwokRuLn_NPoQ0mw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Christine C. Yang-Kauh, MD",
+      "place_id": "ChIJk7pgcwNbwokRN1YTzTgynX8",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "reference": "ChIJk7pgcwNbwokRN1YTzTgynX8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Neil Hadpawat, MD",
+      "place_id": "ChIJk7pgcwNbwokRkYNPB_oNTTA",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "reference": "ChIJk7pgcwNbwokRkYNPB_oNTTA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6681096,
+          "lng": -73.97921529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6695223302915,
+            "lng": -73.97780081970849
+          },
+          "southwest": {
+            "lat": 40.66682436970851,
+            "lng": -73.9804987802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Ronald A. Kester, MD",
+      "place_id": "ChIJk7pgcwNbwokR2bzhWQ8YD38",
+      "plus_code": {
+        "compound_code": "M29C+68 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+68"
+      },
+      "reference": "ChIJk7pgcwNbwokR2bzhWQ8YD38",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6679815,
+          "lng": -73.97941759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66946113029151,
+            "lng": -73.97790196970848
+          },
+          "southwest": {
+            "lat": 40.66676316970851,
+            "lng": -73.9805999302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Peter Brzechffa, MD, FACOG",
+      "place_id": "ChIJk7pgcwNbwokR3q86ZiNf0AA",
+      "plus_code": {
+        "compound_code": "M29C+56 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+56"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokR3q86ZiNf0AA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Van Voorhees Jessica B MD",
+      "place_id": "ChIJk7pgcwNbwokRzeTUgI_wTiw",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokRzeTUgI_wTiw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Portillo Jr Arturo MD",
+      "place_id": "ChIJk7pgcwNbwokR2tnnG0hiu-M",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokR2tnnG0hiu-M",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Liziamma George, MD",
+      "place_id": "ChIJk7pgcwNbwokRfD_nW4QVgFo",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokRfD_nW4QVgFo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6678131,
+          "lng": -73.97897510000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66937693029151,
+            "lng": -73.9777392697085
+          },
+          "southwest": {
+            "lat": 40.66667896970851,
+            "lng": -73.98043723029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harvey Dosik, M.D., M.A.C.P.",
+      "place_id": "ChIJk7pgcwNbwokRJDo4-7pO40A",
+      "plus_code": {
+        "compound_code": "M29C+4C Brooklyn, NY, USA",
+        "global_code": "87G8M29C+4C"
+      },
+      "reference": "ChIJk7pgcwNbwokRJDo4-7pO40A",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6679815,
+          "lng": -73.97941759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66946113029151,
+            "lng": -73.97790196970848
+          },
+          "southwest": {
+            "lat": 40.66676316970851,
+            "lng": -73.9805999302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Revathy Sundaram, M.D.",
+      "place_id": "ChIJk7pgcwNbwokRvmo7UJ8UIVQ",
+      "plus_code": {
+        "compound_code": "M29C+56 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+56"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRvmo7UJ8UIVQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Christopher P. Kelly, MD",
+      "place_id": "ChIJk7pgcwNbwokRhMa1nyHOhoM",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokRhMa1nyHOhoM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Natalya Goldshteyn, MD",
+      "place_id": "ChIJk7pgcwNbwokRp0399ILvjfk",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokRp0399ILvjfk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Apple Richard J MD",
+      "place_id": "ChIJk7pgcwNbwokR-Gvf8SQPQ4M",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokR-Gvf8SQPQ4M",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Amrita Srivastava, MD",
+      "place_id": "ChIJk7pgcwNbwokRgP8MQ9GfIN8",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRgP8MQ9GfIN8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6679341,
+          "lng": -73.9795135
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66943743029151,
+            "lng": -73.9779499197085
+          },
+          "southwest": {
+            "lat": 40.66673946970851,
+            "lng": -73.9806478802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Steven H. Silber, MS, DO, MHCM",
+      "photos": [
+        {
+          "height": 792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115423628283171739180\">Steven H. Silber, MS, DO, MHCM</a>"
+          ],
+          "photo_reference": "AeJbb3fFlxKYvqEeYTaWZeKdSNXeGVIusgLiLb9KukCZk_YeTCH5hYmBux94wLTerrL_noC2jgaEHsV6S2B_8CkjpDwIFYL8IZFauB5U9Fd7gIFHjBcp0-0nNrnT5332AtAKk6uMzu1LawbS1meRBR0pteQQcROw0tJL-Vf_4gor3VGyH3qX",
+          "width": 576
+        }
+      ],
+      "place_id": "ChIJk7pgcwNbwokR8SsnECE28gA",
+      "plus_code": {
+        "compound_code": "M29C+55 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+55"
+      },
+      "reference": "ChIJk7pgcwNbwokR8SsnECE28gA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tegtmeier Walter H",
+      "place_id": "ChIJk7pgcwNbwokR5IqJ9K3h2Hs",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokR5IqJ9K3h2Hs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6679815,
+          "lng": -73.97941759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66946113029151,
+            "lng": -73.97790196970848
+          },
+          "southwest": {
+            "lat": 40.66676316970851,
+            "lng": -73.9805999302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Chava Shefer, MD",
+      "place_id": "ChIJk7pgcwNbwokRtgWY_j3reZU",
+      "plus_code": {
+        "compound_code": "M29C+56 Brooklyn, NY, USA",
+        "global_code": "87G8M29C+56"
+      },
+      "reference": "ChIJk7pgcwNbwokRtgWY_j3reZU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Laura D. Melville, MD",
+      "place_id": "ChIJk7pgcwNbwokRFhn7sUmY6xg",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokRFhn7sUmY6xg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Khan Rana M MD",
+      "place_id": "ChIJk7pgcwNbwokRgEzK49X2MeQ",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokRgEzK49X2MeQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.66761899999999,
+          "lng": -73.9785
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6692798802915,
+            "lng": -73.97750171970848
+          },
+          "southwest": {
+            "lat": 40.66658191970851,
+            "lng": -73.9801996802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Koyfman Sander MD",
+      "place_id": "ChIJk7pgcwNbwokRQqcrynF3CFc",
+      "plus_code": {
+        "compound_code": "M29C+2J Brooklyn, NY, USA",
+        "global_code": "87G8M29C+2J"
+      },
+      "reference": "ChIJk7pgcwNbwokRQqcrynF3CFc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th St, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Joseph J. Bove, MD",
+      "place_id": "ChIJk7pgcwNbwokRomOQZIplm0o",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokRomOQZIplm0o",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Adrian Baranetsky, MD",
+      "place_id": "ChIJk7pgcwNbwokRuOAvH82ycSM",
+      "plus_code": {
+        "compound_code": "M29C+3F Brooklyn, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "reference": "ChIJk7pgcwNbwokRuOAvH82ycSM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "506 6th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6677243,
+          "lng": -73.9788366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.66933253029151,
+            "lng": -73.97767001970848
+          },
+          "southwest": {
+            "lat": 40.66663456970851,
+            "lng": -73.9803679802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Paul A. Thodiyil, MD, FACS",
+      "place_id": "ChIJk7pgcwNbwokRYCr-Dox90YE",
+      "plus_code": {
+        "compound_code": "M29C+3F Manhattan, New York, NY, USA",
+        "global_code": "87G8M29C+3F"
+      },
+      "rating": 5,
+      "reference": "ChIJk7pgcwNbwokRYCr-Dox90YE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "10 Union Square East #2L, Manhattan"
+    }
+  ],
+  "status": "OK"
+}

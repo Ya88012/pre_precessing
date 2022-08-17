@@ -1,0 +1,2479 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3dcOT_QZp7i24_fJDrWwrmv8qSqcaZdKbyAYeRbZpXEwuaGGQond9Vd77ah799-IYdHnJI1ZvaeHF4J3iUicicZ34aVAH8fMEoNTFJmEH2HlhVCZzuBppjPxSbl5RHP44UVpplBM1WT6eKH0-dPB0yXZZpEAE0VI_7i4NXH9uz4aMfD",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7403942,
+          "lng": -73.9723695
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7417487802915,
+            "lng": -73.9711357697085
+          },
+          "southwest": {
+            "lat": 40.7390508197085,
+            "lng": -73.9738337302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Water Club",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 945,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105628166879346404792\">The Water Club</a>"
+          ],
+          "photo_reference": "AeJbb3edP-v0I89sGkxETBCx_777XGGSfgygSzWpjjDBhD6YzdC0tp8ugMuTWb8ELjNBi5RiVU8SRvqJV1VmaD7RtYtWyomSSbk4aCz76lJyZjJvFvknTYTXW7bfShHR_TzaSrk3QJVtzvMcT9AYghJgOldimkscoGzI7xrwRAhjCerWbfLA",
+          "width": 1174
+        }
+      ],
+      "place_id": "ChIJ0wFhOQ5ZwokRU8P93msecs4",
+      "plus_code": {
+        "compound_code": "P2RH+53 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RH+53"
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "ChIJ0wFhOQ5ZwokRU8P93msecs4",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 424,
+      "vicinity": "500 East 30th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7426315,
+          "lng": -73.97322319999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74466275000002,
+            "lng": -73.97215090000002
+          },
+          "southwest": {
+            "lat": 40.74052774999998,
+            "lng": -73.97610289999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Marc J. Bloom, MD",
+      "place_id": "ChIJUyrmBQ9ZwokRQ6SqEEXKqI8",
+      "plus_code": {
+        "compound_code": "P2VG+3P \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2VG+3P"
+      },
+      "reference": "ChIJUyrmBQ9ZwokRQ6SqEEXKqI8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7420674,
+          "lng": -73.97426329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74346928029149,
+            "lng": -73.97312316970849
+          },
+          "southwest": {
+            "lat": 40.7407713197085,
+            "lng": -73.9758211302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lux Joseph Z MD",
+      "place_id": "ChIJ-zShJAxZwokRdu9ABAPthZk",
+      "plus_code": {
+        "compound_code": "P2RG+R7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+R7"
+      },
+      "reference": "ChIJ-zShJAxZwokRdu9ABAPthZk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.743767,
+          "lng": -73.97393
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7450529802915,
+            "lng": -73.97242846970849
+          },
+          "southwest": {
+            "lat": 40.7423550197085,
+            "lng": -73.9751264302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sophie's Cuban Cuisine - Murray Hill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114273684760391044757\">Sophie&#39;s Cuban Cuisine - Murray Hill</a>"
+          ],
+          "photo_reference": "AeJbb3eNJ3FRair8NX8CGwMJDO3Q2Nre-c7816j_DNqN9-OvrD8wxoSOUD0wP1aVdbXegem-Ra8ksTGJ7lrfjRJK6T8r6aD671Q0zbnIwXDv1Y6SUisVfZdYKJ8_-lUYtJzVCqmpaJsid0hJ-fDy22RhTtth1HVE3D3GarkH9P6qmlIMXEYv",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJzdnuS6FZwokR_GMbVHJkVDw",
+      "plus_code": {
+        "compound_code": "P2VG+GC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2VG+GC"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJzdnuS6FZwokR_GMbVHJkVDw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "593 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7421225,
+          "lng": -73.9739642
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7434952302915,
+            "lng": -73.97297361970848
+          },
+          "southwest": {
+            "lat": 40.7407972697085,
+            "lng": -73.9756715802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Caroline M. Badeer, MD",
+      "place_id": "ChIJUyrmBQ9ZwokRaNob65pfIug",
+      "plus_code": {
+        "compound_code": "P2RG+RC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+RC"
+      },
+      "reference": "ChIJUyrmBQ9ZwokRaNob65pfIug",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7420674,
+          "lng": -73.97426329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74346928029149,
+            "lng": -73.97312316970849
+          },
+          "southwest": {
+            "lat": 40.7407713197085,
+            "lng": -73.9758211302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "George Kristinsson, M.D.",
+      "place_id": "ChIJUyrmBQ9ZwokR1Caf0q8rBQA",
+      "plus_code": {
+        "compound_code": "P2RG+R7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+R7"
+      },
+      "reference": "ChIJUyrmBQ9ZwokR1Caf0q8rBQA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74218579999999,
+          "lng": -73.97421059999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74353818029149,
+            "lng": -73.9730813697085
+          },
+          "southwest": {
+            "lat": 40.7408402197085,
+            "lng": -73.9757793302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York University School Med: Reynolds Jeanne MD",
+      "place_id": "ChIJUyrmBQ9ZwokRu53qyd6nmHY",
+      "plus_code": {
+        "compound_code": "P2RG+V8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+V8"
+      },
+      "reference": "ChIJUyrmBQ9ZwokRu53qyd6nmHY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue #605, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7421782,
+          "lng": -73.97421059999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74353818029149,
+            "lng": -73.9730813697085
+          },
+          "southwest": {
+            "lat": 40.7408402197085,
+            "lng": -73.9757793302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. J D. Roccaforte, MD",
+      "place_id": "ChIJUyrmBQ9ZwokR0ekKzyZHIXU",
+      "plus_code": {
+        "compound_code": "P2RG+V8 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+V8"
+      },
+      "reference": "ChIJUyrmBQ9ZwokR0ekKzyZHIXU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue # R607, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7420674,
+          "lng": -73.97426329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74346928029149,
+            "lng": -73.97312316970849
+          },
+          "southwest": {
+            "lat": 40.7407713197085,
+            "lng": -73.9758211302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Jennifer H. Mieres, MD",
+      "place_id": "ChIJUyrmBQ9ZwokR7JYaFt1bvWs",
+      "plus_code": {
+        "compound_code": "P2RG+R7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+R7"
+      },
+      "reference": "ChIJUyrmBQ9ZwokR7JYaFt1bvWs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7420674,
+          "lng": -73.97426329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74346928029149,
+            "lng": -73.97312316970849
+          },
+          "southwest": {
+            "lat": 40.7407713197085,
+            "lng": -73.9758211302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Osman Iman MD",
+      "place_id": "ChIJUyrmBQ9ZwokRwGfO1kBax5I",
+      "plus_code": {
+        "compound_code": "P2RG+R7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+R7"
+      },
+      "reference": "ChIJUyrmBQ9ZwokRwGfO1kBax5I",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7420674,
+          "lng": -73.97426329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74346928029149,
+            "lng": -73.97312316970849
+          },
+          "southwest": {
+            "lat": 40.7407713197085,
+            "lng": -73.9758211302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Juana J. Contreras, MD",
+      "place_id": "ChIJUyrmBQ9ZwokR2M3s3NGLWzM",
+      "plus_code": {
+        "compound_code": "P2RG+R7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+R7"
+      },
+      "reference": "ChIJUyrmBQ9ZwokR2M3s3NGLWzM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7468516,
+          "lng": -73.97222529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7480808802915,
+            "lng": -73.97096451970849
+          },
+          "southwest": {
+            "lat": 40.7453829197085,
+            "lng": -73.9736624802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SL Green Realty",
+      "permanently_closed": true,
+      "place_id": "ChIJb7Ss0ARZwokRFZbZLuXi18Y",
+      "plus_code": {
+        "compound_code": "P2WH+P4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2WH+P4"
+      },
+      "reference": "ChIJb7Ss0ARZwokRFZbZLuXi18Y",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "333 East 38th Street B, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7416214,
+          "lng": -73.9747436
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7430056302915,
+            "lng": -73.97354306970848
+          },
+          "southwest": {
+            "lat": 40.7403076697085,
+            "lng": -73.9762410302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Prashant Sinha, MD",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ-zShJAxZwokRstQ7UWCUe2Q",
+      "plus_code": {
+        "compound_code": "P2RG+J4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+J4"
+      },
+      "rating": 5,
+      "reference": "ChIJ-zShJAxZwokRstQ7UWCUe2Q",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "530 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7414038,
+          "lng": -73.97442149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74289863029149,
+            "lng": -73.9733820197085
+          },
+          "southwest": {
+            "lat": 40.74020066970849,
+            "lng": -73.9760799802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mikel Sadek, MD",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100949149715619822822\">Mikel Sadek, MD</a>"
+          ],
+          "photo_reference": "AeJbb3c39c7W48qQLQKwt5OG4wAdLYsfGkBBxLyRymkBUHOFZV3zYfJWwgc5wa5s_vuxWjrGGqBeksvMwh1By4YSNMSDcA3-nCJJynHhFcVrVx0QoTydrzANQqyuo5wtgyZxxeckk70nuOjPr1syoUdAMyA3DER_QqCo0PBWw4_rnMaprUEY",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJUyrmBQ9ZwokRfK14mBHmC3c",
+      "plus_code": {
+        "compound_code": "P2RG+H6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+H6"
+      },
+      "rating": 4.9,
+      "reference": "ChIJUyrmBQ9ZwokRfK14mBHmC3c",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 33,
+      "vicinity": "530 1st Avenue 11th Floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7414038,
+          "lng": -73.97442149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74289863029149,
+            "lng": -73.9733820197085
+          },
+          "southwest": {
+            "lat": 40.74020066970849,
+            "lng": -73.9760799802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Claudia C. Serrano-Gomez, MD",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100446419321066888075\">Claudia C. Serrano-Gomez, MD</a>"
+          ],
+          "photo_reference": "AeJbb3fnum-aJbVgb7HTTnIhBjeKYFnLmp-2mtc_t4YxIFocKyXTN4vpjd3c9xI5H_bou2CaoJTHgGrX69ZshnzBbiXtVw4p48eYy3tuMEvTVycjWnOTj_e-C-YxdohJ6pgGG4sOn-zUgKefd2RUv491VTotIUrnmmDjHYn_GFqOgPfoQgKj",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJ5dEkHQ9ZwokRHrk6DwueCes",
+      "plus_code": {
+        "compound_code": "P2RG+H6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2RG+H6"
+      },
+      "rating": 5,
+      "reference": "ChIJ5dEkHQ9ZwokRHrk6DwueCes",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "530 1st Avenue Skirball 9U, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7459559,
+          "lng": -73.9713819
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7474104802915,
+            "lng": -73.97024546970849
+          },
+          "southwest": {
+            "lat": 40.7447125197085,
+            "lng": -73.97294343029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NYU Langone Medical Center Surgical Technology Program",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117228257027266609085\">Jordi Grau</a>"
+          ],
+          "photo_reference": "AeJbb3cpffbJzrIzeKJOSjXqhJ8MvE2Z68gs7fAGIPlHA4TDoEI9QESzTQArCv_uZcdZkE3NLL5fK9m72OTkdV4a9GB761_9OQkvL5hCHKDgxrn_7cJh0smGyhaV2yQ8NHP8zPRNgDYg8aSMht84DUtKQn9X8U4G3kANwdaEQe00Pyw0jlIl",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJIxsd1gRZwokRCflRXdfy2rg",
+      "plus_code": {
+        "compound_code": "P2WH+9C \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2WH+9C"
+      },
+      "rating": 4.6,
+      "reference": "ChIJIxsd1gRZwokRCflRXdfy2rg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 53,
+      "vicinity": "660 1st Avenue #2, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7451535,
+          "lng": -73.975869
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7465018802915,
+            "lng": -73.97438966970849
+          },
+          "southwest": {
+            "lat": 40.7438039197085,
+            "lng": -73.9770876302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Garlic New York Pizza Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103436231281816128853\">Jim Sears</a>"
+          ],
+          "photo_reference": "AeJbb3cN5qFaiWAyALD1e06fPGu6CW-tTCdgi_1gfCYSvxC20mKNW_b63e6nhdsqA_VXTvkhs_MG9KX623GMgyfAWnbgDm8vKhSBQ0pPCKyXebPjbcdJJPKNKTK6E8Onwj8CWwRkRPAk2iA9xfecJORMOxU5RSpLxi2slc-zsuEeyZI_kSEG",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJFe1v6wVZwokR9IkbpwFaK-w",
+      "plus_code": {
+        "compound_code": "P2WF+3M \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2WF+3M"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJFe1v6wVZwokR9IkbpwFaK-w",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 469,
+      "vicinity": "629 2nd Avenue, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.74595980000001,
+          "lng": -73.971583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74739598029151,
+            "lng": -73.9703460197085
+          },
+          "southwest": {
+            "lat": 40.74469801970851,
+            "lng": -73.97304398029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Association of Junior Leagues",
+      "permanently_closed": true,
+      "place_id": "ChIJIxsd1gRZwokRWnsw7fVKsJk",
+      "plus_code": {
+        "compound_code": "P2WH+99 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2WH+99"
+      },
+      "reference": "ChIJIxsd1gRZwokRWnsw7fVKsJk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "660 1st Avenue, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7549309,
+          "lng": -73.9840195
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77410688375117,
+            "lng": -73.95889871560205
+          },
+          "southwest": {
+            "lat": 40.72686854646897,
+            "lng": -74.00894884492357
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e2d\u57ce",
+      "photos": [
+        {
+          "height": 5450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110409177493276546551\">Heidi Kirkland</a>"
+          ],
+          "photo_reference": "AeJbb3eCezRfje3LGgO39e4-ZEDwnmTlBs2UdDq3eh-CARjJB2r8BVLodwWlWwhH2EbzRvaa4x6coWoyaP5KJ46A2-ULy3YXhVLe03p7vn5J6RyR20jsWAt0OABkLxoHzu1kCKspr7B-iBNPQ9ipkrAtGHuI55NNR9i1wCuQIIlDnfD4C5k7",
+          "width": 2936
+        }
+      ],
+      "place_id": "ChIJqXwSpAFZwokR28_WgZDMzb4",
+      "reference": "ChIJqXwSpAFZwokR28_WgZDMzb4",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74597139999999,
+          "lng": -73.9714649
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7474017802915,
+            "lng": -73.9702869697085
+          },
+          "southwest": {
+            "lat": 40.7447038197085,
+            "lng": -73.9729849302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "James A. Grifo, MD, PhD",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116633854180667042332\">James A. Grifo, MD, PhD</a>"
+          ],
+          "photo_reference": "AeJbb3eB3dAUz_Zi7fqjALbptm8SNy-5t_y8HstfLuxUM8SRTbn13mhR9pwXIGEz-FoW4ZBkXtWGBnlLSFZhl2ryw3v8bpiUw4uDbWBQKNtUIvzJV6F9qyo4uMjlpEt13QTeesuHKhUZE-2GnY9RIObk7VV5XVyLT-9Yh-IsqBpxD7c5tVVr",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJIxsd1gRZwokR133-hHvi7oQ",
+      "plus_code": {
+        "compound_code": "P2WH+9C New York, NY, USA",
+        "global_code": "87G8P2WH+9C"
+      },
+      "rating": 5,
+      "reference": "ChIJIxsd1gRZwokR133-hHvi7oQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "660 1st Avenue 5th Floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74595980000001,
+          "lng": -73.971583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74739598029151,
+            "lng": -73.9703460197085
+          },
+          "southwest": {
+            "lat": 40.74469801970851,
+            "lng": -73.97304398029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Niu Faculty Center",
+      "place_id": "ChIJIxsd1gRZwokRxKgyten7wi0",
+      "plus_code": {
+        "compound_code": "P2WH+99 New York, NY, USA",
+        "global_code": "87G8P2WH+99"
+      },
+      "reference": "ChIJIxsd1gRZwokRxKgyten7wi0",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "660 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74597139999999,
+          "lng": -73.9714649
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7474017802915,
+            "lng": -73.9702869697085
+          },
+          "southwest": {
+            "lat": 40.7447038197085,
+            "lng": -73.9729849302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "David L. Keefe, MD",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110413001049858925724\">David L. Keefe, MD</a>"
+          ],
+          "photo_reference": "AeJbb3fN58u0d3JViJNmmsjputkprj2J6y9w0UwEr3Cah4DyjO-LuM-GwFJn90GceJaD4PBNPB3NRQWcMfcBWtPjFcKpceaDqokHtOwC64msoc716vnQkSE8IKZsX8qHtOQQAiAby2v1RyPOk3gadnsyzWclBAI1MsM6iYtGR7HUWDrwwGOE",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJIxsd1gRZwokRoNDSQliSBog",
+      "plus_code": {
+        "compound_code": "P2WH+9C New York, NY, USA",
+        "global_code": "87G8P2WH+9C"
+      },
+      "rating": 5,
+      "reference": "ChIJIxsd1gRZwokRoNDSQliSBog",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "660 1st Avenue 5th Floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74595980000001,
+          "lng": -73.971583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74739598029151,
+            "lng": -73.9703460197085
+          },
+          "southwest": {
+            "lat": 40.74469801970851,
+            "lng": -73.97304398029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Goldman Kara N MD",
+      "place_id": "ChIJdxwd1gRZwokRa3DAUIQBKjE",
+      "plus_code": {
+        "compound_code": "P2WH+99 New York, NY, USA",
+        "global_code": "87G8P2WH+99"
+      },
+      "reference": "ChIJdxwd1gRZwokRa3DAUIQBKjE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "660 1st Avenue #4, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7420674,
+          "lng": -73.97426329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74346928029149,
+            "lng": -73.97312316970849
+          },
+          "southwest": {
+            "lat": 40.7407713197085,
+            "lng": -73.9758211302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Galanter Marc MD",
+      "place_id": "ChIJgT-tAg9ZwokRk3hktDS0c9M",
+      "plus_code": {
+        "compound_code": "P2RG+R7 New York, NY, USA",
+        "global_code": "87G8P2RG+R7"
+      },
+      "reference": "ChIJgT-tAg9ZwokRk3hktDS0c9M",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "550 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7460523,
+          "lng": -73.9714357
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7474422302915,
+            "lng": -73.9702723697085
+          },
+          "southwest": {
+            "lat": 40.74474426970851,
+            "lng": -73.97297033029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NYU Medical Center - Neurosurgery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107373236172246870297\">Chadd Roberts</a>"
+          ],
+          "photo_reference": "AeJbb3fjQ2XnWLBM_6Xg903kETyuYgSEv-lXI_gb_sn6USg3YVl9o45DRTKRb3oUo1MoHZGDcyj64sHxXVGBMpaYJDGDjYa2CTNIrz3miEaJMafbaZJYbFvat9ttFrTiRNeklp7oQToKFRpYDJOzFshVk4t5Zm-s4zACcRJVcA0x7M1NeZb7",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJzQtHCQ9ZwokRYVeT5yRo-mM",
+      "plus_code": {
+        "compound_code": "P2WH+CC New York, NY, USA",
+        "global_code": "87G8P2WH+CC"
+      },
+      "rating": 3.7,
+      "reference": "ChIJzQtHCQ9ZwokRYVeT5yRo-mM",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "660 1st Avenue #5, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7445222,
+          "lng": -73.9745544
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7457575802915,
+            "lng": -73.97328896970849
+          },
+          "southwest": {
+            "lat": 40.7430596197085,
+            "lng": -73.9759869302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sonja K. Olsen, MD",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101463959245360652972\">Sonja K. Olsen, MD</a>"
+          ],
+          "photo_reference": "AeJbb3ddFBHrkOYySWk-jcK7kKXuBdWYo6AwqWDP_ZOKCeLnRxz_hmimuA3IHu8M88ikZDucJtH9u4qrieaLzNb35ddJ96XrWlQasw5tXB53XxJtkoMoNf28-sxE2Tuxed7EV8dotFn1sip63vApb5BH1civ0TjNnvE1CoQIuDr2RGchemKj",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJu7sYmMNYwokRjdKDkGTstTw",
+      "plus_code": {
+        "compound_code": "P2VG+R5 New York, NY, USA",
+        "global_code": "87G8P2VG+R5"
+      },
+      "rating": 3.5,
+      "reference": "ChIJu7sYmMNYwokRjdKDkGTstTw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "317 East 34th Street 8th floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74579540000001,
+          "lng": -73.9718243
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7471740802915,
+            "lng": -73.9705644197085
+          },
+          "southwest": {
+            "lat": 40.7444761197085,
+            "lng": -73.9732623802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Douek Victor MD",
+      "place_id": "ChIJgcbIuPpYwokRh9NyulbpCRM",
+      "plus_code": {
+        "compound_code": "P2WH+87 New York, NY, USA",
+        "global_code": "87G8P2WH+87"
+      },
+      "rating": 4.7,
+      "reference": "ChIJgcbIuPpYwokRh9NyulbpCRM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "650 1st Avenue Suite 301, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7457844,
+          "lng": -73.97071439999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7471761802915,
+            "lng": -73.96932791970849
+          },
+          "southwest": {
+            "lat": 40.7444782197085,
+            "lng": -73.97202588029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bideawee",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105633739294173888035\">Bideawee</a>"
+          ],
+          "photo_reference": "AeJbb3cHDCNZtc24yE7YuPCclGrrxR_b14YS3VAxhmY-WnZeFAdeCk53H2j6SYuGuxdWiBy3UhtQ9F5KCcLCT56H1jbB8PuYAacC8XTNogt_hzb-kO368PiCdIimO2H5CeKtvCSHCaMDPk6T0ObJBC97MVP4wEH8YIkYR_VmrUpYJN5M-yfa",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQS-61RpZwokRT89g10WV0EU",
+      "plus_code": {
+        "compound_code": "P2WH+8P New York, NY, USA",
+        "global_code": "87G8P2WH+8P"
+      },
+      "rating": 4.2,
+      "reference": "ChIJQS-61RpZwokRT89g10WV0EU",
+      "scope": "GOOGLE",
+      "types": [
+        "veterinary_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 141,
+      "vicinity": "410 East 38th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7437094,
+          "lng": -73.97254889999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7449318802915,
+            "lng": -73.9713631197085
+          },
+          "southwest": {
+            "lat": 40.7422339197085,
+            "lng": -73.9740610802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rivergate Apartments",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108427399698816213863\">Satish Shikhare</a>"
+          ],
+          "photo_reference": "AeJbb3fJ7qCLNE_NcNmFvTN_7FPk5OnpDYWTW5mUP61AnS3agD5PNOjDGxnIRGgOUMqBB7V70CU4nGoe4DdRqiWpzXzskAMQrpK-SdLJ5a_Ap7VkYLYdnYDkhHg2aFer57RMPZdnihDpOp5DIcw4JyOJfOYTMaMdi4sAle7SkbwpP7cSDxHt",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJoWw_8w9ZwokRuqPyra4R_qg",
+      "plus_code": {
+        "compound_code": "P2VG+FX New York, NY, USA",
+        "global_code": "87G8P2VG+FX"
+      },
+      "rating": 3.3,
+      "reference": "ChIJoWw_8w9ZwokRuqPyra4R_qg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "401 East 34th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74525209999999,
+          "lng": -73.9720054
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7466757802915,
+            "lng": -73.97082871970849
+          },
+          "southwest": {
+            "lat": 40.7439778197085,
+            "lng": -73.9735266802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Republic Asset Management",
+      "place_id": "ChIJxzgnNAVZwokRKuKrO6h7KWU",
+      "plus_code": {
+        "compound_code": "P2WH+45 New York, NY, USA",
+        "global_code": "87G8P2WH+45"
+      },
+      "reference": "ChIJxzgnNAVZwokRKuKrO6h7KWU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "630 1st Avenue #1, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74597139999999,
+          "lng": -73.9714649
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7474017802915,
+            "lng": -73.9702869697085
+          },
+          "southwest": {
+            "lat": 40.7447038197085,
+            "lng": -73.9729849302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lisa M. Kump, MD",
+      "place_id": "ChIJIxsd1gRZwokRQONpSCT3wP0",
+      "plus_code": {
+        "compound_code": "P2WH+9C New York, NY, USA",
+        "global_code": "87G8P2WH+9C"
+      },
+      "reference": "ChIJIxsd1gRZwokRQONpSCT3wP0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "660 1st Avenue 5th Floor, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74595980000001,
+          "lng": -73.971583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74738173029149,
+            "lng": -73.97036771970849
+          },
+          "southwest": {
+            "lat": 40.74468376970849,
+            "lng": -73.9730656802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ko Jane Park MD",
+      "place_id": "ChIJzQtHCQ9ZwokRoyPjO8Hclqs",
+      "plus_code": {
+        "compound_code": "P2WH+99 New York, NY, USA",
+        "global_code": "87G8P2WH+99"
+      },
+      "reference": "ChIJzQtHCQ9ZwokRoyPjO8Hclqs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "660 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74595980000001,
+          "lng": -73.971583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74739598029151,
+            "lng": -73.97036771970849
+          },
+          "southwest": {
+            "lat": 40.74469801970851,
+            "lng": -73.9730656802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Helen Ruddy, NP",
+      "place_id": "ChIJIxsd1gRZwokRjE9MRQA34gw",
+      "plus_code": {
+        "compound_code": "P2WH+99 New York, NY, USA",
+        "global_code": "87G8P2WH+99"
+      },
+      "reference": "ChIJIxsd1gRZwokRjE9MRQA34gw",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "660 1st Avenue #5, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.747184,
+          "lng": -73.97245
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7486335302915,
+            "lng": -73.97102716970849
+          },
+          "southwest": {
+            "lat": 40.7459355697085,
+            "lng": -73.9737251302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Blye Media Relations",
+      "place_id": "ChIJafFqwQRZwokRylHLcs1Et-s",
+      "plus_code": {
+        "compound_code": "P2WH+V2 New York, NY, USA",
+        "global_code": "87G8P2WH+V2"
+      },
+      "reference": "ChIJafFqwQRZwokRylHLcs1Et-s",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "330 East 39th Street # 17B, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74213880000001,
+          "lng": -73.9741466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7435265302915,
+            "lng": -73.97304936970849
+          },
+          "southwest": {
+            "lat": 40.7408285697085,
+            "lng": -73.9757473302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Douglas S. Holmes, MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJzQtHCQ9ZwokRGHWp1CuZxXA",
+      "plus_code": {
+        "compound_code": "P2RG+V8 New York, NY, USA",
+        "global_code": "87G8P2RG+V8"
+      },
+      "reference": "ChIJzQtHCQ9ZwokRGHWp1CuZxXA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "560 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74213880000001,
+          "lng": -73.9741466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7435265302915,
+            "lng": -73.97304936970849
+          },
+          "southwest": {
+            "lat": 40.7408285697085,
+            "lng": -73.9757473302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richard S. Lefleur",
+      "place_id": "ChIJUyrmBQ9ZwokRtCn-d6EeNZ0",
+      "plus_code": {
+        "compound_code": "P2RG+V8 New York, NY, USA",
+        "global_code": "87G8P2RG+V8"
+      },
+      "reference": "ChIJUyrmBQ9ZwokRtCn-d6EeNZ0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "560 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7451873,
+          "lng": -73.9716629
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7466538302915,
+            "lng": -73.9703101697085
+          },
+          "southwest": {
+            "lat": 40.7439558697085,
+            "lng": -73.97300813029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Esquire Appraisals",
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105825930668802655305\">Michel Gunn</a>"
+          ],
+          "photo_reference": "AeJbb3djsR-sJZbCr1TqoOBZ4aal-8oOY338FIrMckqvvqW39Jc9hP5V-N0UsLwhKRpCzERw7G90XlWeHNQhLGFUel3y3LAftBrrmqRCxrmQGiwVBW8hTz5IwqtoGKXNgDiQ9fXR6mqQywwR2k7_iwJ30ZZu-x8SgDnXlItCFnN4vmB7ON8",
+          "width": 2120
+        }
+      ],
+      "place_id": "ChIJxzgnNAVZwokR9zWbuatnGeA",
+      "plus_code": {
+        "compound_code": "P2WH+38 New York, NY, USA",
+        "global_code": "87G8P2WH+38"
+      },
+      "rating": 4.7,
+      "reference": "ChIJxzgnNAVZwokR9zWbuatnGeA",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "630 1st Avenue #14b, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7462271,
+          "lng": -73.9731722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74753863029149,
+            "lng": -73.97185041970847
+          },
+          "southwest": {
+            "lat": 40.74484066970849,
+            "lng": -73.9745483802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Salerno Center for Complementary Medicine - Dr John Salerno",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113269209343799960706\">The Salerno Center for Complementary Medicine - Dr John Salerno</a>"
+          ],
+          "photo_reference": "AeJbb3d1RR77FJL3AfXdeWc9zUaGkJdACUpOca6JpWBnubwalvpDRfz3H3rkO8AzzJmUCGc6HVK3zHA4czaP4LNqk0sdMAo91FTnnfXMwtvEtI9cNxs4thSQSDW2l-DzR7kr9cixmncEMB7YEWNTRzC3uRkNlbD5eIarauZGDqaYlqPFhpf6",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJL_7y6f5YwokR-tr2_x40mds",
+      "plus_code": {
+        "compound_code": "P2WG+FP New York, NY, USA",
+        "global_code": "87G8P2WG+FP"
+      },
+      "rating": 5,
+      "reference": "ChIJL_7y6f5YwokR-tr2_x40mds",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "345 East 37th Street Suite 208, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7464481,
+          "lng": -73.97288069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7476281302915,
+            "lng": -73.97165436970849
+          },
+          "southwest": {
+            "lat": 40.7449301697085,
+            "lng": -73.97435233029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NY Medical Skin Solutions",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115696105939691281159\">NY Medical Skin Solutions</a>"
+          ],
+          "photo_reference": "AeJbb3dOz9Tzz2JOWN5c922sh8ByWz2LTrEdywNB1U2RCtiodWI-mtBN1Up0Ktf1o7HKcXcr611EfN8EwaFoTrCXh9NNskKqfg70aveRDslz1v3U9lqW5kYN1LPrVgGD_i1NQP_pmsjEsHeLJBtaycx1XB--kv2jQ1Ej3B12TzoGdvtW9drb",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJFewxHAVZwokRcvhJ6qdTeKQ",
+      "plus_code": {
+        "compound_code": "P2WG+HR New York, NY, USA",
+        "global_code": "87G8P2WG+HR"
+      },
+      "rating": 3.3,
+      "reference": "ChIJFewxHAVZwokRcvhJ6qdTeKQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "The Corinthian, 345 East 37th Street #301, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74625579999999,
+          "lng": -73.97310879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7475461302915,
+            "lng": -73.9718023697085
+          },
+          "southwest": {
+            "lat": 40.7448481697085,
+            "lng": -73.9745003302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brand Rena S MD",
+      "place_id": "ChIJFewxHAVZwokRwqpCUW5HLjo",
+      "plus_code": {
+        "compound_code": "P2WG+GQ New York, NY, USA",
+        "global_code": "87G8P2WG+GQ"
+      },
+      "rating": 2.2,
+      "reference": "ChIJFewxHAVZwokRwqpCUW5HLjo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "345 East 37th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7414826,
+          "lng": -73.9746466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74293803029149,
+            "lng": -73.9734945697085
+          },
+          "southwest": {
+            "lat": 40.7402400697085,
+            "lng": -73.97619253029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mehl Sydney J MD",
+      "place_id": "ChIJgT-tAg9ZwokRZJWZJzNNY7Y",
+      "plus_code": {
+        "compound_code": "P2RG+H4 New York, NY, USA",
+        "global_code": "87G8P2RG+H4"
+      },
+      "rating": 2,
+      "reference": "ChIJgT-tAg9ZwokRZJWZJzNNY7Y",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "530 1st Avenue suite 4H, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74347710000001,
+          "lng": -73.9744059
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7447483302915,
+            "lng": -73.97312571970849
+          },
+          "southwest": {
+            "lat": 40.7420503697085,
+            "lng": -73.9758236802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "NYC Parking NYULMC H Garage Corporation.",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114407921471112596992\">Subotic Misa</a>"
+          ],
+          "photo_reference": "AeJbb3fr9UeABsWdPAjG5aMrqCA1tlpWxNYjRwpqZUFQ8LY-GQNSfiRrY3G3cKbj1yPjO6SovbSEDS0iIwmyGQosMOB1fGtulfbIp8qcIXsL-QaHttth_XEmtX2OrSaFcGQIH_74gL44OwPqIBfFqEzbbPq2C9LFvGCVFvo9CnUnnbgrVPNs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJay1TnA9ZwokRn0Hejck6AGs",
+      "plus_code": {
+        "compound_code": "P2VG+96 New York, NY, USA",
+        "global_code": "87G8P2VG+96"
+      },
+      "rating": 4,
+      "reference": "ChIJay1TnA9ZwokRn0Hejck6AGs",
+      "scope": "GOOGLE",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "377 East 33rd Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7462271,
+          "lng": -73.9731722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74753863029149,
+            "lng": -73.97185041970847
+          },
+          "southwest": {
+            "lat": 40.74484066970849,
+            "lng": -73.9745483802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Steven Schnipper, MD, PC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJFewxHAVZwokRlgnVtFUv_h0",
+      "plus_code": {
+        "compound_code": "P2WG+FP New York, NY, USA",
+        "global_code": "87G8P2WG+FP"
+      },
+      "rating": 5,
+      "reference": "ChIJFewxHAVZwokRlgnVtFUv_h0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "345 East 37th Street Suite 314, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7451889,
+          "lng": -73.971662
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7463999802915,
+            "lng": -73.97055621970848
+          },
+          "southwest": {
+            "lat": 40.7437020197085,
+            "lng": -73.97325418029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Amy Borkowsky Productions Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJxzgnNAVZwokRkHRlEoxFCHE",
+      "plus_code": {
+        "compound_code": "P2WH+38 New York, NY, USA",
+        "global_code": "87G8P2WH+38"
+      },
+      "reference": "ChIJxzgnNAVZwokRkHRlEoxFCHE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "630 1st Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7446417,
+          "lng": -73.9748283
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7458756302915,
+            "lng": -73.9735639197085
+          },
+          "southwest": {
+            "lat": 40.7431776697085,
+            "lng": -73.97626188029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Art of Dermatology | Jessica Krant, M.D.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101643731945916013970\">Art of Dermatology | Jessica Krant, M.D.</a>"
+          ],
+          "photo_reference": "AeJbb3dIKnBuJuOfikBdTl1p4utzBoW1YugkHIv_CQlbikcu7GvSzFUc1JBBB0Z6ouRSuaftkQb-tKGFEbgMIbHyRhiHkKDH1xERHWV1bflH64UGBzdg390Sf2gvumh3y9uDROOCr6mzH0yFuExiq_WkP7L6mKW5E20D7ZcR6cpYTG-NxTjH",
+          "width": 639
+        }
+      ],
+      "place_id": "ChIJ09udsO1YwokRuntssICBL9I",
+      "plus_code": {
+        "compound_code": "P2VG+V3 New York, NY, USA",
+        "global_code": "87G8P2VG+V3"
+      },
+      "rating": 4.9,
+      "reference": "ChIJ09udsO1YwokRuntssICBL9I",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "323 East 34th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74625579999999,
+          "lng": -73.97310879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7475461302915,
+            "lng": -73.9718023697085
+          },
+          "southwest": {
+            "lat": 40.7448481697085,
+            "lng": -73.9745003302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Louie Eddie jeanty",
+      "place_id": "ChIJFewxHAVZwokRM_o8uEcigyo",
+      "plus_code": {
+        "compound_code": "P2WG+GQ New York, NY, USA",
+        "global_code": "87G8P2WG+GQ"
+      },
+      "reference": "ChIJFewxHAVZwokRM_o8uEcigyo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "345 East 37th Street #208, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7446093,
+          "lng": -73.9749878
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7459528302915,
+            "lng": -73.9737173697085
+          },
+          "southwest": {
+            "lat": 40.7432548697085,
+            "lng": -73.9764153302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Friedman Jeffrey P MD",
+      "place_id": "ChIJxxVVjAVZwokRyflIKp9A1FA",
+      "plus_code": {
+        "compound_code": "P2VG+R2 New York, NY, USA",
+        "global_code": "87G8P2VG+R2"
+      },
+      "rating": 5,
+      "reference": "ChIJxxVVjAVZwokRyflIKp9A1FA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "317 East 34th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74625579999999,
+          "lng": -73.97310879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7475461302915,
+            "lng": -73.9718023697085
+          },
+          "southwest": {
+            "lat": 40.7448481697085,
+            "lng": -73.9745003302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ligh Jonathan K MD",
+      "place_id": "ChIJFewxHAVZwokR8QtgvNaGgKg",
+      "plus_code": {
+        "compound_code": "P2WG+GQ New York, NY, USA",
+        "global_code": "87G8P2WG+GQ"
+      },
+      "reference": "ChIJFewxHAVZwokR8QtgvNaGgKg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "345 East 37th Street #315, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74625579999999,
+          "lng": -73.97310879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7475461302915,
+            "lng": -73.9718023697085
+          },
+          "southwest": {
+            "lat": 40.7448481697085,
+            "lng": -73.9745003302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Andrew S. Gardner, MD",
+      "place_id": "ChIJFewxHAVZwokRGrCjfZVibRQ",
+      "plus_code": {
+        "compound_code": "P2WG+GQ New York, NY, USA",
+        "global_code": "87G8P2WG+GQ"
+      },
+      "rating": 4.9,
+      "reference": "ChIJFewxHAVZwokRGrCjfZVibRQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "345 East 37th Street #311, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74427,
+          "lng": -73.974109
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7455298802915,
+            "lng": -73.97282556970849
+          },
+          "southwest": {
+            "lat": 40.7428319197085,
+            "lng": -73.9755235302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Intentional, Creative, and Engaged LLC",
+      "place_id": "ChIJVZpFG_ZYwokR2pSQoFU67Us",
+      "plus_code": {
+        "compound_code": "P2VG+P9 New York, NY, USA",
+        "global_code": "87G8P2VG+P9"
+      },
+      "reference": "ChIJVZpFG_ZYwokR2pSQoFU67Us",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "333 East 34th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7446882,
+          "lng": -73.9749319
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7459805302915,
+            "lng": -73.9736894197085
+          },
+          "southwest": {
+            "lat": 40.7432825697085,
+            "lng": -73.97638738029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hackford Thomas MD",
+      "place_id": "ChIJxxVVjAVZwokRFVHAwqS7Gbs",
+      "plus_code": {
+        "compound_code": "P2VG+V2 New York, NY, USA",
+        "global_code": "87G8P2VG+V2"
+      },
+      "reference": "ChIJxxVVjAVZwokRFVHAwqS7Gbs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "317 East 34th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7462271,
+          "lng": -73.9731722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74753863029149,
+            "lng": -73.97185041970847
+          },
+          "southwest": {
+            "lat": 40.74484066970849,
+            "lng": -73.9745483802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Horowitz Robyn E MD",
+      "place_id": "ChIJFewxHAVZwokRFUv32-gwT_Y",
+      "plus_code": {
+        "compound_code": "P2WG+FP New York, NY, USA",
+        "global_code": "87G8P2WG+FP"
+      },
+      "reference": "ChIJFewxHAVZwokRFUv32-gwT_Y",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "345 East 37th Street #210, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74625579999999,
+          "lng": -73.97310879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7475461302915,
+            "lng": -73.9718023697085
+          },
+          "southwest": {
+            "lat": 40.7448481697085,
+            "lng": -73.9745003302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mark Nachamie, MD",
+      "place_id": "ChIJFewxHAVZwokRr4ggCu2M3wo",
+      "plus_code": {
+        "compound_code": "P2WG+GQ New York, NY, USA",
+        "global_code": "87G8P2WG+GQ"
+      },
+      "rating": 4.7,
+      "reference": "ChIJFewxHAVZwokRr4ggCu2M3wo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "345 East 37th Street #308, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74625579999999,
+          "lng": -73.97310879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7475461302915,
+            "lng": -73.9718023697085
+          },
+          "southwest": {
+            "lat": 40.7448481697085,
+            "lng": -73.9745003302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Howard Weintraub, MD",
+      "place_id": "ChIJFewxHAVZwokRyrqFhMJe38E",
+      "plus_code": {
+        "compound_code": "P2WG+GQ New York, NY, USA",
+        "global_code": "87G8P2WG+GQ"
+      },
+      "rating": 3.3,
+      "reference": "ChIJFewxHAVZwokRyrqFhMJe38E",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "530 1st Avenue #4f, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7462054,
+          "lng": -73.9730555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74750658029151,
+            "lng": -73.9717412197085
+          },
+          "southwest": {
+            "lat": 40.74480861970851,
+            "lng": -73.97443918029153
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Corinthian Ob/Gyn",
+      "place_id": "ChIJFewxHAVZwokRBhnTCVhTYJg",
+      "plus_code": {
+        "compound_code": "P2WG+FQ New York, NY, USA",
+        "global_code": "87G8P2WG+FQ"
+      },
+      "rating": 3.7,
+      "reference": "ChIJFewxHAVZwokRBhnTCVhTYJg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "345 East 37th Street #311, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7429206,
+          "lng": -73.9730996
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74454323029149,
+            "lng": -73.97158131970849
+          },
+          "southwest": {
+            "lat": 40.7418452697085,
+            "lng": -73.9742792802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Caner Z. Dinlenc, MD",
+      "place_id": "ChIJkZD06A9ZwokRBNjB231GtMg",
+      "plus_code": {
+        "compound_code": "P2VG+5Q New York, NY, USA",
+        "global_code": "87G8P2VG+5Q"
+      },
+      "rating": 5,
+      "reference": "ChIJkZD06A9ZwokRBNjB231GtMg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "400 East 34th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7463691,
+          "lng": -73.9731773
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7476269302915,
+            "lng": -73.9718945197085
+          },
+          "southwest": {
+            "lat": 40.7449289697085,
+            "lng": -73.9745924802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Alex Donner Entertainment",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJVwqa5wRZwokRkbPmCu1IIso",
+      "plus_code": {
+        "compound_code": "P2WG+GP New York, NY, USA",
+        "global_code": "87G8P2WG+GP"
+      },
+      "reference": "ChIJVwqa5wRZwokRkbPmCu1IIso",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "330 East 38th Street 23 - F, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7463691,
+          "lng": -73.9731773
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7476269302915,
+            "lng": -73.9718945197085
+          },
+          "southwest": {
+            "lat": 40.7449289697085,
+            "lng": -73.9745924802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hopewell Group Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJVwqa5wRZwokRIu5kvzgTGKU",
+      "plus_code": {
+        "compound_code": "P2WG+GP New York, NY, USA",
+        "global_code": "87G8P2WG+GP"
+      },
+      "reference": "ChIJVwqa5wRZwokRIu5kvzgTGKU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "330 East 38th Street # 36K, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7467548,
+          "lng": -73.9719331
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7479545802915,
+            "lng": -73.9706198697085
+          },
+          "southwest": {
+            "lat": 40.7452566197085,
+            "lng": -73.9733178302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Shenkman Robert",
+      "permanently_closed": true,
+      "place_id": "ChIJb7Ss0ARZwokRAdLrC1xhNkk",
+      "plus_code": {
+        "compound_code": "P2WH+P6 New York, NY, USA",
+        "global_code": "87G8P2WH+P6"
+      },
+      "reference": "ChIJb7Ss0ARZwokRAdLrC1xhNkk",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "333 East 38th Street #12, New York"
+    }
+  ],
+  "status": "OK"
+}

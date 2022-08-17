@@ -1,0 +1,2547 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3fvI2IWlJ6at_gAEsxgNGQeNeB9LN3iHyN6FsyOj4zAzAyjCqmx2817bAbUAKSWtyeApxlxa_6l1qvVFkjNWmnkogdvOzH0wQFYhRXVJbwK4kvgl9dJjiwGjeqCJM2H79Z1KXQJd2WE8y7BnqRJCX30j67JEPtfURReVixC6SLREcjd",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8138277,
+          "lng": -73.9189434
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8152840802915,
+            "lng": -73.9176251697085
+          },
+          "southwest": {
+            "lat": 40.8125861197085,
+            "lng": -73.92032313029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dennelisse Corporation",
+      "place_id": "ChIJjWSlPc_1wokRFZF6hEqf3JE",
+      "plus_code": {
+        "compound_code": "R37J+GC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37J+GC"
+      },
+      "rating": 3.8,
+      "reference": "ChIJjWSlPc_1wokRFZF6hEqf3JE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "460 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.816112,
+          "lng": -73.9247757
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8186809,
+            "lng": -73.92249490000002
+          },
+          "southwest": {
+            "lat": 40.81469449999998,
+            "lng": -73.92576209999997
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Lincoln Medical Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103902073171360095728\">Abdul-Mumin Sanni-Adam</a>"
+          ],
+          "photo_reference": "AeJbb3fMWwCowudJ2A48VxBNJtnUIftn6EpA_5jKlr0JKcqW-B48MihmaQr2Bh9hZk1ZTT4KiBzD4t4P3WO9AjYKI_pusfCOIUKj9YlkgU6wStcFQ4ZJrzS8YHCQiKxMzimojBLlijUpjZDI-jER9Qi93qIgE6kY9C9oo1nSBJHFhbmreUnO",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ56F418_1wokRMwWHcUO188E",
+      "plus_code": {
+        "compound_code": "R38G+C3 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38G+C3"
+      },
+      "rating": 2.6,
+      "reference": "ChIJ56F418_1wokRMwWHcUO188E",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 684,
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8103744,
+          "lng": -73.9252934
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8116505302915,
+            "lng": -73.9238073197085
+          },
+          "southwest": {
+            "lat": 40.8089525697085,
+            "lng": -73.92650528029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "New York City Police Department - 40th Precinct",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AeJbb3eJJbVQkPqHrFMUFu1itUtDtBvvIHheX8YTRg7fStMXLXltkcm62zAcWhOg-9594P8zKAc7dO_qoSULj2soJBKya1KMhXHndbbgtewypQd6choAUnUW1fiD_WVshkXfRCSA7f5dLKG32eBPgkJzDraEHNR2hY-vUpoZk5U9mUEcSjVD",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJ_39nu9z1wokRpdoefx2Uv_Y",
+      "plus_code": {
+        "compound_code": "R36F+4V \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R36F+4V"
+      },
+      "rating": 2.8,
+      "reference": "ChIJ_39nu9z1wokRpdoefx2Uv_Y",
+      "scope": "GOOGLE",
+      "types": [
+        "police",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 60,
+      "vicinity": "257 Alexander Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81444090000001,
+          "lng": -73.91933829999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81573493029151,
+            "lng": -73.91784951970848
+          },
+          "southwest": {
+            "lat": 40.81303696970851,
+            "lng": -73.9205474802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Papa John's Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105123153766062428893\">Jose Miranda</a>"
+          ],
+          "photo_reference": "AeJbb3cqUWxAkhSGpCmjBr335naC-U5wgyGMY8Ci2qgyNWQCMDP8WUTc29d70oibjBnkj1Xl8TmYKC1P3Y_Vn7VCiQJtjbiYV36oZUaRwCJsAO2ZVxjOEshFHw9K405v6-ceKfM670L4sNxcXmhq0da7Ot4K3Qxoud2EhpVySUgDSe9uLixm",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJqVNp7sX1wokR8fqArldlt4I",
+      "plus_code": {
+        "compound_code": "R37J+Q7 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R37J+Q7"
+      },
+      "price_level": 1,
+      "rating": 3.2,
+      "reference": "ChIJqVNp7sX1wokR8fqArldlt4I",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 267,
+      "vicinity": "475 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81192970000001,
+          "lng": -73.9250977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131834802915,
+            "lng": -73.92371371970849
+          },
+          "southwest": {
+            "lat": 40.8104855197085,
+            "lng": -73.9264116802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Gabriel L. Dassa, DO",
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117894339928941250028\">Jose Lizardi</a>"
+          ],
+          "photo_reference": "AeJbb3dBUmRUSjW7JefacIjrG2VycTCR_9xLRRpcjy3YrhVyk4dEBwyCR4OuuJ_nLyTKDRBrCNXomyrQo078PXQDV50lpKuzwBzU35yykbJ6Mf4SRt_aB7KyNvy2wS89E451R7CcU2-SXuKeTQ9vpu2xpZ19AwfAh9-CYYYURpc3UfeyqrB5",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJOULHRdv1wokRAUHCp6AXU3E",
+      "plus_code": {
+        "compound_code": "R36F+QX \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R36F+QX"
+      },
+      "rating": 3,
+      "reference": "ChIJOULHRdv1wokRAUHCp6AXU3E",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "2604 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8138277,
+          "lng": -73.9189434
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8152569302915,
+            "lng": -73.9175659197085
+          },
+          "southwest": {
+            "lat": 40.8125589697085,
+            "lng": -73.9202638802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lower West Side Household Services",
+      "place_id": "ChIJXQHw7gBZwokR1NZ-qwgOtA0",
+      "plus_code": {
+        "compound_code": "R37J+GC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37J+GC"
+      },
+      "rating": 3,
+      "reference": "ChIJXQHw7gBZwokR1NZ-qwgOtA0",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "460 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8128,
+          "lng": -73.91929999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81403958029149,
+            "lng": -73.91798246970848
+          },
+          "southwest": {
+            "lat": 40.81134161970849,
+            "lng": -73.9206804302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Brilla Public Charter Schools - Brilla College Prep Elementary",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105214056743342860322\">P. E</a>"
+          ],
+          "photo_reference": "AeJbb3f0C8FjDeGk2gy4UvlIxe7MXKLN4vB524pnMqJo-uXCCdnJgO18zAg2JoLX_KA2fxxU4gYiWQEPI3-rQNwsXYGPXgaF4mLdRtGTuq5KksBmjX2hjtGxiysWvOA_8nH0s_4_0HgEH_NIByrW6yxtAsAiNEEczWIkIqXGs76o1AWamBd0",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJsdX6zMX1wokRlsUKDCyiB-I",
+      "plus_code": {
+        "compound_code": "R37J+47 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37J+47"
+      },
+      "rating": 4.3,
+      "reference": "ChIJsdX6zMX1wokRlsUKDCyiB-I",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "413 East 144th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8136597,
+          "lng": -73.9260025
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81491258029149,
+            "lng": -73.92437736970851
+          },
+          "southwest": {
+            "lat": 40.81221461970849,
+            "lng": -73.92707533029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Is 183 Paul Robeson School is Is 183 Paul Robeson School",
+      "place_id": "ChIJNQ3k4dr1wokRlslsOLYH_V4",
+      "plus_code": {
+        "compound_code": "R37F+FH \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R37F+FH"
+      },
+      "reference": "ChIJNQ3k4dr1wokRlslsOLYH_V4",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "339 Morris Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8160855,
+          "lng": -73.9247762
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8172404302915,
+            "lng": -73.9235230197085
+          },
+          "southwest": {
+            "lat": 40.8145424697085,
+            "lng": -73.9262209802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "GVS @ Lincoln Medical Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ56F418_1wokRxq12iAQpacQ",
+      "plus_code": {
+        "compound_code": "R38G+C3 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38G+C3"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ56F418_1wokRxq12iAQpacQ",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "234 East 149th Street RM 2-A3, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81189199999999,
+          "lng": -73.92508
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81316973029149,
+            "lng": -73.92373746970848
+          },
+          "southwest": {
+            "lat": 40.81047176970849,
+            "lng": -73.9264354302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Damian Family Care Center.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJOULHRdv1wokRjDTzyZacAmE",
+      "plus_code": {
+        "compound_code": "R36F+QX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R36F+QX"
+      },
+      "rating": 2.6,
+      "reference": "ChIJOULHRdv1wokRjDTzyZacAmE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "2604 3rd Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8160855,
+          "lng": -73.9247762
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8178850302915,
+            "lng": -73.92252380000001
+          },
+          "southwest": {
+            "lat": 40.81518706970851,
+            "lng": -73.92552699999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Michael G. Thomas, PharmD",
+      "place_id": "ChIJ56F418_1wokR8PS3LC40IHQ",
+      "plus_code": {
+        "compound_code": "R38G+C3 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+C3"
+      },
+      "reference": "ChIJ56F418_1wokR8PS3LC40IHQ",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "\u5e03\u6717\u514b\u65af"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8159683,
+          "lng": -73.9205374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81735193029151,
+            "lng": -73.91917286970849
+          },
+          "southwest": {
+            "lat": 40.81465396970851,
+            "lng": -73.92187083029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Anita Jose, PHD",
+      "place_id": "ChIJr0n8b8_1wokR-tBEKsKjHUM",
+      "plus_code": {
+        "compound_code": "R38H+9Q \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R38H+9Q"
+      },
+      "reference": "ChIJr0n8b8_1wokR-tBEKsKjHUM",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "334 East 148th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8126472,
+          "lng": -73.9264185
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8140511302915,
+            "lng": -73.92499296970848
+          },
+          "southwest": {
+            "lat": 40.8113531697085,
+            "lng": -73.92769093029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Western Beef Supermarket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108928643727729527616\">christopher rattray</a>"
+          ],
+          "photo_reference": "AeJbb3fpFyXsonkKbEwxO9Mk6-ZwECq_7mIT3FkuLbqKN41vKUaT1gd68YquBThit7ljldCrlol9PHDSk2Wv5fbde8enwHv6HE2KEO0QeMv-SqiQpMyouYB1e_6RIPlDQqhN3XP24JIWpZlzby0YjBeE5fsQ-uPmc0BTeJIAeuqoq4rdslQn",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJsaT1Edv1wokRafk7Q_xeJbM",
+      "plus_code": {
+        "compound_code": "R37F+3C \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37F+3C"
+      },
+      "rating": 4.1,
+      "reference": "ChIJsaT1Edv1wokRafk7Q_xeJbM",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 993,
+      "vicinity": "301 Morris Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.814067,
+          "lng": -73.927947
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81531743029149,
+            "lng": -73.92612671970849
+          },
+          "southwest": {
+            "lat": 40.81261946970849,
+            "lng": -73.9288246802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Waste Connections - New York City",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107746416219251231075\">Waste Connections - New York City</a>"
+          ],
+          "photo_reference": "AeJbb3fbzF-RH1zGVNxA-te0Zrq3vRXU13NhLQDlq0U9dBETt4RVyIIq9iJx59E9Tm89s8B3NmAA6sCBo5nUkKqBGUU4YVR7CMOCUQwRrSRjz79SyKpAf8pxkXj0yLiIAAQKdqbvemiq9Xa-ewv8WiMMBcCJpARU5NaliT9FZfp4AQJOwMhJ",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJedjBVtr1wokR72mRVFJAISg",
+      "plus_code": {
+        "compound_code": "R37C+JR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37C+JR"
+      },
+      "rating": 3.4,
+      "reference": "ChIJedjBVtr1wokR72mRVFJAISg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 55,
+      "vicinity": "2630 Park Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81114999999999,
+          "lng": -73.927837
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81259233029149,
+            "lng": -73.92636751970849
+          },
+          "southwest": {
+            "lat": 40.80989436970849,
+            "lng": -73.9290654802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Hire Point Staffing Solutions",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113304307774960291559\">Julio Roman</a>"
+          ],
+          "photo_reference": "AeJbb3eT0Y53XzPCcDsCmnnkoyhTImIfcXaJJ0fSgIjn69zlh9cr6bRFTwi1DS1ViYzPRvBlkxzgxFM8hKKDRh-n2tpliihOExfJaV-JpCFQ31-xdZo5XWDdFdKOGIUiz8E2rbrOHjC_3hwAYr1ryFMkeIh0XvWmBHEWus63gMHvDgZuIJ3b",
+          "width": 2976
+        }
+      ],
+      "place_id": "ChIJdy8xi8X1wokRRpEet8iaRiU",
+      "plus_code": {
+        "compound_code": "R36C+FV \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R36C+FV"
+      },
+      "rating": 3.7,
+      "reference": "ChIJdy8xi8X1wokRRpEet8iaRiU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 86,
+      "vicinity": "258 East 138th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81689049999999,
+          "lng": -73.9244406
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182875302915,
+            "lng": -73.92250861970848
+          },
+          "southwest": {
+            "lat": 40.8155895697085,
+            "lng": -73.9252065802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lincoln Hospital Pediatrics Department",
+      "place_id": "ChIJ56F418_1wokRrfTZ1mfZN4g",
+      "plus_code": {
+        "compound_code": "R38G+Q6 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R38G+Q6"
+      },
+      "rating": 3,
+      "reference": "ChIJ56F418_1wokRrfTZ1mfZN4g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81459520000001,
+          "lng": -73.9192643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8158863802915,
+            "lng": -73.91776321970849
+          },
+          "southwest": {
+            "lat": 40.8131884197085,
+            "lng": -73.9204611802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Riverabenet Migdalia MD",
+      "place_id": "ChIJ7-XR8cX1wokREpa8hEDozQc",
+      "plus_code": {
+        "compound_code": "R37J+R7 \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R37J+R7"
+      },
+      "reference": "ChIJ7-XR8cX1wokREpa8hEDozQc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "477 Willis Avenue # 479, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8138868,
+          "lng": -73.9201212
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8151736302915,
+            "lng": -73.9188218697085
+          },
+          "southwest": {
+            "lat": 40.8124756697085,
+            "lng": -73.9215198302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mercy Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113613667222036821308\">Mercy Center</a>"
+          ],
+          "photo_reference": "AeJbb3fqm8seztvLSsGrGXjqMtnn_toDzJlqSqKUJTz9rPDc_uWZ-X4B6A2-n8M6rcmya9XOVfDUz0rPjY0xxLvH6GZrshvx1e5mmOZ34oVLMJlvcUmtwTa__xzAHdPVC8VdthVNsUzeUYhSV4rOpwHqmaDDM8EJpgqtR7W4VYhvnvi2AzCS",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJT6G0vsX1wokRyttsDvzy1ds",
+      "plus_code": {
+        "compound_code": "R37H+HX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R37H+HX"
+      },
+      "rating": 4.3,
+      "reference": "ChIJT6G0vsX1wokRyttsDvzy1ds",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 143,
+      "vicinity": "377 East 145th Street, The Bronx"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8519547,
+          "lng": -73.90070899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91527805889627,
+            "lng": -73.86840408623851
+          },
+          "southwest": {
+            "lat": 40.79678004393696,
+            "lng": -73.93340593816593
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West Bronx",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113738462812435835913\">Alex Lin</a>"
+          ],
+          "photo_reference": "AeJbb3dj_9szYvn6-LSOV8wkS630Uqvdjxt3-2S1pKBZbq3aAVjFikWjfQ1YFWFqbo6RFEw-YGuDqtQZH3YEYdb4SAuPxYMguK_CMegHM3-MoOk4eBbkjpDc8dFefWqSu6WUBDeoZ0lsGTe6A8YQt4U_D7dBcIpsYdH1vNLmuaHHIf_NbvPQ",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "reference": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cassandra M. Clay, PA",
+      "place_id": "ChIJ56F418_1wokRGw5SZk3AsR0",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRGw5SZk3AsR0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arlene K. Huey, PA",
+      "place_id": "ChIJ56F418_1wokRcxgwvNcXJFM",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRcxgwvNcXJFM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rena Autar, OT",
+      "place_id": "ChIJ56F418_1wokR1uC8GzCwOkA",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokR1uC8GzCwOkA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Eunice V. Mello, PA",
+      "place_id": "ChIJ56F418_1wokRb_nzsnIJ6DE",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRb_nzsnIJ6DE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Hansook Han, RPh",
+      "place_id": "ChIJ56F418_1wokRuX4Rsm9hs5s",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRuX4Rsm9hs5s",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "point_of_interest",
+        "store",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Sung H. Joe, RPh",
+      "place_id": "ChIJ56F418_1wokRxElmz_qvlxw",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRxElmz_qvlxw",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "point_of_interest",
+        "store",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lisa C. Schwartz, MSW",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111839201158954212265\">Maggy Machocho</a>"
+          ],
+          "photo_reference": "AeJbb3cFsUPnIz7dN3ZHT2ixeAFKJhj-VHHFvnX9xgNI6dnrirBsPUWVFRs7jfojWAp9OBbvCOsW5ISC6vjaFVx2qzpRyq5M5yL8VhfFOS7c4JNhwM9jHWzctoJFLUJ5r7qRx5D7RQ7DIQWIkkuWD8zLomrBJDR5IyaEGG4nq3z5-z0TDLwp",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJ56F418_1wokRivKvFg9N_r0",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRivKvFg9N_r0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tracey J. Saffer, Physician",
+      "place_id": "ChIJ56F418_1wokRt6UsVRr-cuA",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRt6UsVRr-cuA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pegah Bardi, Physician",
+      "place_id": "ChIJ56F418_1wokRB8i4a_eMFCs",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRB8i4a_eMFCs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "George Leo, RPh",
+      "place_id": "ChIJ56F418_1wokRlPwCTfoNQ0o",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRlPwCTfoNQ0o",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "point_of_interest",
+        "store",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Michaela Guiteau, PA",
+      "place_id": "ChIJ56F418_1wokRsxXr949DeJY",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRsxXr949DeJY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Christina A. Persaud, RD",
+      "place_id": "ChIJ56F418_1wokRVUH1pk0bx3E",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRVUH1pk0bx3E",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Regina J. Bonillarodriguez, LMHC",
+      "place_id": "ChIJ56F418_1wokRUrDrfbr0yD4",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRUrDrfbr0yD4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Adeline R. Cheff, R",
+      "place_id": "ChIJ56F418_1wokRRtx7I0kV7nc",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRRtx7I0kV7nc",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "point_of_interest",
+        "store",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Ancy V. Easo, RPh",
+      "place_id": "ChIJ56F418_1wokRb8sl7hNQRR8",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRb8sl7hNQRR8",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "point_of_interest",
+        "store",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Laura M. Hunt, BA",
+      "place_id": "ChIJ56F418_1wokRxYhV-Qfzor0",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRxYhV-Qfzor0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8085926,
+          "lng": -73.9229162
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8099996802915,
+            "lng": -73.9216786697085
+          },
+          "southwest": {
+            "lat": 40.80730171970851,
+            "lng": -73.9243766302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Jimbo's Hamburgers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114533566466285480881\">Kimberly Sattaur</a>"
+          ],
+          "photo_reference": "AeJbb3fSeonBm_O-daw_XExEd4ddI_Or0QetD5ItaovjdyMUWInsNF2dogiEGlvfS3XS7NJysW-U1Nx6f7J5XS88ztDHd0yQ27I2adNTkk-FqizQW0MLZbXie7-eH_XbpjtYsqSpQn6tIIYfm7kiNr9nHTSyCiusnzgOmtrX9J3aT8HcT44F",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ_4vrIsP1wokRrn7mre73gZI",
+      "plus_code": {
+        "compound_code": "R35G+CR New York, NY, USA",
+        "global_code": "87G8R35G+CR"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJ_4vrIsP1wokRrn7mre73gZI",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 510,
+      "vicinity": "228 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8168904,
+          "lng": -73.92444069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8182874802915,
+            "lng": -73.92250866970848
+          },
+          "southwest": {
+            "lat": 40.8155895197085,
+            "lng": -73.9252066302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kara Goldschmidt, LMSW",
+      "place_id": "ChIJ56F418_1wokRaeEh22i8DWM",
+      "plus_code": {
+        "compound_code": "R38G+Q6 The Bronx, NY, USA",
+        "global_code": "87G8R38G+Q6"
+      },
+      "reference": "ChIJ56F418_1wokRaeEh22i8DWM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81134040000001,
+          "lng": -73.9209643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8127203302915,
+            "lng": -73.91974681970851
+          },
+          "southwest": {
+            "lat": 40.8100223697085,
+            "lng": -73.92244478029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Abraham House",
+      "place_id": "ChIJ9_XpY8T1wokRQ-UFeUrs5WM",
+      "plus_code": {
+        "compound_code": "R36H+GJ The Bronx, NY, USA",
+        "global_code": "87G8R36H+GJ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ9_XpY8T1wokRQ-UFeUrs5WM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "340 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81192970000001,
+          "lng": -73.9250977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131834802915,
+            "lng": -73.92371371970849
+          },
+          "southwest": {
+            "lat": 40.8104855197085,
+            "lng": -73.9264116802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Elena Vairo, PhD",
+      "place_id": "ChIJOULHRdv1wokRQNZ_FtJrOPg",
+      "plus_code": {
+        "compound_code": "R36F+QX New York, NY, USA",
+        "global_code": "87G8R36F+QX"
+      },
+      "reference": "ChIJOULHRdv1wokRQNZ_FtJrOPg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2604 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8118126,
+          "lng": -73.922698
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8130639802915,
+            "lng": -73.9214210197085
+          },
+          "southwest": {
+            "lat": 40.8103660197085,
+            "lng": -73.92411898029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Orquesta Lirica",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105225793572892974029\">Hernandez Amayo</a>"
+          ],
+          "photo_reference": "AeJbb3cwaR-f6GQbXRPxlQabsbA8XrVpN_nSloMIuJLcynuNj18LbJxMng3kU1sg1cFhb9x7auOH-n8jcFmsEfxFLA5YdogYZqCtbIchVTtddY_JBbj0rNR8PfcgCW8cK0guWKGp1flA4dVkwK_YtCrROl_3z2hSc10bt6SO3RsRK0_s-Svv",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJAcmcvsT1wokRw8-g_Iwbbs4",
+      "plus_code": {
+        "compound_code": "R36G+PW New York, NY, USA",
+        "global_code": "87G8R36G+PW"
+      },
+      "reference": "ChIJAcmcvsT1wokRw8-g_Iwbbs4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "353 East 141st Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81192970000001,
+          "lng": -73.9250977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131834802915,
+            "lng": -73.92371371970849
+          },
+          "southwest": {
+            "lat": 40.8104855197085,
+            "lng": -73.9264116802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Romeeda Mohammed, NP",
+      "place_id": "ChIJOULHRdv1wokRHbASu14Mie8",
+      "plus_code": {
+        "compound_code": "R36F+QX New York, NY, USA",
+        "global_code": "87G8R36F+QX"
+      },
+      "reference": "ChIJOULHRdv1wokRHbASu14Mie8",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2604 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81192970000001,
+          "lng": -73.9250977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131834802915,
+            "lng": -73.92371371970849
+          },
+          "southwest": {
+            "lat": 40.8104855197085,
+            "lng": -73.9264116802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Monica A. Martin, MD",
+      "place_id": "ChIJOULHRdv1wokRlHl1qMfYVIc",
+      "plus_code": {
+        "compound_code": "R36F+QX New York, NY, USA",
+        "global_code": "87G8R36F+QX"
+      },
+      "reference": "ChIJOULHRdv1wokRlHl1qMfYVIc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2604 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81389,
+          "lng": -73.92082649999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81528738029149,
+            "lng": -73.91944211970849
+          },
+          "southwest": {
+            "lat": 40.81258941970849,
+            "lng": -73.9221400802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "South Bronx Preparatory 07X221",
+      "place_id": "ChIJDStguMX1wokR44_OWXkNCB8",
+      "plus_code": {
+        "compound_code": "R37H+HM The Bronx, NY, USA",
+        "global_code": "87G8R37H+HM"
+      },
+      "rating": 3.5,
+      "reference": "ChIJDStguMX1wokR44_OWXkNCB8",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "360 East 145th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8093085,
+          "lng": -73.92299830000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8106078802915,
+            "lng": -73.9216647697085
+          },
+          "southwest": {
+            "lat": 40.8079099197085,
+            "lng": -73.92436273029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Advanced Oral Surgery and Orthodontist | Avanzada Cirug\u00eda Oral y Ortodoncia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117519124739179180231\">Melissa Garcia</a>"
+          ],
+          "photo_reference": "AeJbb3csTVuaJ2qNM0Lj3spxpwivsdlOLSNkxA6NCnKqupVA3OJFlXTFn6rLrldu2cyQ3zwcgPOHcNNH9qvHbLlvcS5ahBkv1WAVph38SkQTIvN_qE0tpvP9jM2eH4MUiKWLBihBtfJetXTzPr8MulUdcbWq8hW42rKBat3gz_HGFIIt5aRQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJTxORP8P1wokRA6lvmQ_nExY",
+      "plus_code": {
+        "compound_code": "R35G+PR The Bronx, NY, USA",
+        "global_code": "87G8R35G+PR"
+      },
+      "rating": 4.5,
+      "reference": "ChIJTxORP8P1wokRA6lvmQ_nExY",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 386,
+      "vicinity": "237 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8107041,
+          "lng": -73.9214859
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8120982302915,
+            "lng": -73.9202440697085
+          },
+          "southwest": {
+            "lat": 40.8094002697085,
+            "lng": -73.92294203029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "R G Ortiz Funeral Home",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112687896851136376092\">Anna Hamilton</a>"
+          ],
+          "photo_reference": "AeJbb3fOr0KqOZWfUq2tiAir6_qHqUuX0HL2mMt4II4mw3zmozsN9-05De4Ws0_fZvZ50FxSl46VOUm7VmzcTOU6MUIbDqCvXZlWQhqjnYPUEqv25xb-gNo0US7grUlC3gH4-lwjOfkBBr6MloIixhK2um5eR0KKeFevBf62T-G7ijA6XVyJ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJRegBgcT1wokRHwb6O5Ww1Qk",
+      "plus_code": {
+        "compound_code": "R36H+7C New York, NY, USA",
+        "global_code": "87G8R36H+7C"
+      },
+      "rating": 1.2,
+      "reference": "ChIJRegBgcT1wokRHwb6O5Ww1Qk",
+      "scope": "GOOGLE",
+      "types": [
+        "funeral_home",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "310 Willis Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81192970000001,
+          "lng": -73.9250977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131834802915,
+            "lng": -73.92371371970849
+          },
+          "southwest": {
+            "lat": 40.8104855197085,
+            "lng": -73.9264116802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Danilo H. Sotelo-Garza, MD",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104123470296569282549\">Mar\u00eda Clara Valenzuela Gallegos</a>"
+          ],
+          "photo_reference": "AeJbb3e8aq1CMKFJ7Md0nTYmX7K1twJbz9chv4kWc0G3_kQ8qQOa4D97IEIDYzzlVMKNTXQzdIeRDWzN-uO9iGIV1iaswc15Spd-p2CwPBhtGCG6QOKtbzyGXRRaQUq9Nbo-4aiJ7dOA1X7_69lBS93wq8wcNkduADnaVmbfj5d5XhNfgLQ",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJOULHRdv1wokRO9mecrY2wXU",
+      "plus_code": {
+        "compound_code": "R36F+QX New York, NY, USA",
+        "global_code": "87G8R36F+QX"
+      },
+      "rating": 3,
+      "reference": "ChIJOULHRdv1wokRO9mecrY2wXU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "2604 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81692029999999,
+          "lng": -73.9222502
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8184083302915,
+            "lng": -73.92086646970849
+          },
+          "southwest": {
+            "lat": 40.8157103697085,
+            "lng": -73.92356443029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "CVS",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104318656290350571346\">Darlene jackson</a>"
+          ],
+          "photo_reference": "AeJbb3cz2pm6XXNpN2AKQfWQLD_8zkHFdD7_iHsnnzFT1moYH8976YhfMDQsIXWb7oxj5xxuNRZbXP0ghg6m0tWV-8b9_3mfT-H0gFJY0NHRuWA6lIGBjSa8NkoQmy-JYbVU6HkP9o1a3pE9E3asBg2BqViIVjhPmo6bTLwGkU_PaB2rMNVf",
+          "width": 1836
+        }
+      ],
+      "place_id": "ChIJ15Jlu8_1wokRXSDIxDEPF34",
+      "plus_code": {
+        "compound_code": "R38H+Q3 New York, NY, USA",
+        "global_code": "87G8R38H+Q3"
+      },
+      "rating": 3.2,
+      "reference": "ChIJ15Jlu8_1wokRXSDIxDEPF34",
+      "scope": "GOOGLE",
+      "types": [
+        "drugstore",
+        "convenience_store",
+        "clothing_store",
+        "health",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 92,
+      "vicinity": "282 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81350550000001,
+          "lng": -73.92672859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8148364802915,
+            "lng": -73.92533441970849
+          },
+          "southwest": {
+            "lat": 40.8121385197085,
+            "lng": -73.9280323802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "UFO Contemporary, Inc",
+      "place_id": "ChIJVWBhAtv1wokRwtZxO4TBEw8",
+      "plus_code": {
+        "compound_code": "R37F+C8 The Bronx, NY, USA",
+        "global_code": "87G8R37F+C8"
+      },
+      "rating": 3.5,
+      "reference": "ChIJVWBhAtv1wokRwtZxO4TBEw8",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "321 Rider Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8153595,
+          "lng": -73.926388
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8166287802915,
+            "lng": -73.9249149197085
+          },
+          "southwest": {
+            "lat": 40.8139308197085,
+            "lng": -73.92761288029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "RobotBIKES",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117297170942421748780\">Jamie Damato</a>"
+          ],
+          "photo_reference": "AeJbb3cr2ne5Xwhsr5lbxq92eADRJXisEJZa6t0uAZ07NirPGLaQos0nL62swxCyP-BCMe4Ge-eX9Ks3g8ZKTV7INutzQHz2jT07pIszSDMquuGhcuS3h_JJObHf9zD_N4NcVvk35k_OqC6KmEqcg-VR9KDjjKuieCyXFXUjpHuGA64E_EpG",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ-77Zk9r1wokRrGRb4_vNXkU",
+      "plus_code": {
+        "compound_code": "R38F+4C The Bronx, NY, USA",
+        "global_code": "87G8R38F+4C"
+      },
+      "rating": 3,
+      "reference": "ChIJ-77Zk9r1wokRrGRb4_vNXkU",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "381 Canal Place, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8128419,
+          "lng": -73.9213331
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81406528029151,
+            "lng": -73.92001781970849
+          },
+          "southwest": {
+            "lat": 40.81136731970851,
+            "lng": -73.9227157802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "East Side House Settlement",
+      "place_id": "ChIJD8wW_8T1wokRQrp94fP7HkM",
+      "plus_code": {
+        "compound_code": "R37H+4F The Bronx, NY, USA",
+        "global_code": "87G8R37H+4F"
+      },
+      "rating": 4,
+      "reference": "ChIJD8wW_8T1wokRQrp94fP7HkM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "375 East 143rd Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81338,
+          "lng": -73.929323
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81476818029149,
+            "lng": -73.9281059697085
+          },
+          "southwest": {
+            "lat": 40.81207021970849,
+            "lng": -73.9308039302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SAMARITAN VILLAGE inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116940632508231611697\">Guy Smiley</a>"
+          ],
+          "photo_reference": "AeJbb3f562RdHo2tPYUsF1j4IeXVWY-B0Fz3KQAfXw7-KUfa41_Q25tZ6s20QUOWbsajAQWLsstyfusboscEyfwfa-KE28m0kIo_zG6Mvfij-zmJvfhaNxcSAKwlhfYisbx5kf4uu6Y3SGFdH1xCtRu5KyVvWjyp_-PqImPwCqprtqRD4tF1",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJA7XRxNv1wokRZpaoJg357Zc",
+      "plus_code": {
+        "compound_code": "R37C+97 New York, NY, USA",
+        "global_code": "87G8R37C+97"
+      },
+      "rating": 3.8,
+      "reference": "ChIJA7XRxNv1wokRZpaoJg357Zc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 70,
+      "vicinity": "250 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81474590000001,
+          "lng": -73.9259244
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8161805802915,
+            "lng": -73.92479966970849
+          },
+          "southwest": {
+            "lat": 40.81348261970851,
+            "lng": -73.9274976302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wood Spring & Down Ltd",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ8V6K7dr1wokRhot2E4G_61E",
+      "plus_code": {
+        "compound_code": "R37F+VJ The Bronx, NY, USA",
+        "global_code": "87G8R37F+VJ"
+      },
+      "reference": "ChIJ8V6K7dr1wokRhot2E4G_61E",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "366 Canal Place # 3, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8103434,
+          "lng": -73.9241103
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8117557802915,
+            "lng": -73.92271481970849
+          },
+          "southwest": {
+            "lat": 40.8090578197085,
+            "lng": -73.92541278029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "HDFC",
+      "place_id": "ChIJdaYAmnr2wokRswQORge7Tfc",
+      "plus_code": {
+        "compound_code": "R36G+49 New York, NY, USA",
+        "global_code": "87G8R36G+49"
+      },
+      "rating": 3,
+      "reference": "ChIJdaYAmnr2wokRswQORge7Tfc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "342 East 139th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8142722,
+          "lng": -73.9269755
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8155999802915,
+            "lng": -73.92556541970849
+          },
+          "southwest": {
+            "lat": 40.8129020197085,
+            "lng": -73.9282633802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Color Carton Corporation",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 383,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102551998090178338254\">Color Carton Corporation</a>"
+          ],
+          "photo_reference": "AeJbb3fccEO5mGuJmsovef2hcbB9-bOxyGUeIqvH2PbD-HLvoDAVDcWLiKyZ__7Od3BRzzxwWRdj6cBkMnmXlsni4JVXgBWYNi9p5KZSkVnqzHvimZVLDKeJ4jG4-T5nfN0uRfNPe5__-WK1l-o-mVxHMmdTnXwpk0tQ6XyMMO3cCl_Volc",
+          "width": 552
+        }
+      ],
+      "place_id": "ChIJGVNw-Nr1wokRUEBEsa3DAgM",
+      "plus_code": {
+        "compound_code": "R37F+P6 The Bronx, NY, USA",
+        "global_code": "87G8R37F+P6"
+      },
+      "rating": 5,
+      "reference": "ChIJGVNw-Nr1wokRUEBEsa3DAgM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "341 Canal Place, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8115937,
+          "lng": -73.92436289999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81288423029151,
+            "lng": -73.9230625197085
+          },
+          "southwest": {
+            "lat": 40.81018626970851,
+            "lng": -73.9257604802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Mott Haven Library",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112730517792720665871\">Ezeikel Newton</a>"
+          ],
+          "photo_reference": "AeJbb3fbKs1pXbtspE7FsTz68uDNE--NtMmN34EvFTvVtOhWy5VZEnIbzmLc4he_K-KV2pfu77Rp2GjtnGpaKoXfW72wMg02pa-z0glFa3XGquqQiyv4JYi6d3oODpRevR3ln4-xlctsAMJN2zGgiYCr9KO3kTQsc84v_0dUCNgED7RlIWN-",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJNeN8Utv1wokRDNpoijxWkQ4",
+      "plus_code": {
+        "compound_code": "R36G+J7 The Bronx, NY, USA",
+        "global_code": "87G8R36G+J7"
+      },
+      "rating": 3.5,
+      "reference": "ChIJNeN8Utv1wokRDNpoijxWkQ4",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 50,
+      "vicinity": "321 East 140th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8144757,
+          "lng": -73.9213027
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8157319802915,
+            "lng": -73.9199782197085
+          },
+          "southwest": {
+            "lat": 40.8130340197085,
+            "lng": -73.9226761802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "CTown Supermarkets",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 453,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107192466194362520037\">CTown Supermarkets</a>"
+          ],
+          "photo_reference": "AeJbb3f-maBMhfPQo1cd6Duy9bk_IcR53E7zdDwyYqXJgHazR4pGftCgxu4i2ZEWc2zMEdl3FoT3ZzXC6qg6-dxIDnKqvnuNN_FGXh6qDM9R-4LBXWFWMiRxY4FzulTVqEER8eTrZT55RlRmQLTRtH9-DaBpwgYjC9hEYDUTKtQ2O6gWQ4X1",
+          "width": 806
+        }
+      ],
+      "place_id": "ChIJFZyFn8X1wokR3b-x3HRD3YY",
+      "plus_code": {
+        "compound_code": "R37H+QF New York, NY, USA",
+        "global_code": "87G8R37H+QF"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJFZyFn8X1wokR3b-x3HRD3YY",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 310,
+      "vicinity": "2733 3rd Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8171495,
+          "lng": -73.92421499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8184067802915,
+            "lng": -73.9223958197085
+          },
+          "southwest": {
+            "lat": 40.8157088197085,
+            "lng": -73.9250937802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Prosper, Gerard, MD",
+      "place_id": "ChIJ56F418_1wokR9mfDPs2fiLM",
+      "plus_code": {
+        "compound_code": "R38G+V8 The Bronx, NY, USA",
+        "global_code": "87G8R38G+V8"
+      },
+      "rating": 5,
+      "reference": "ChIJ56F418_1wokR9mfDPs2fiLM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "234 East 149th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8117391,
+          "lng": -73.92714149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131096802915,
+            "lng": -73.9256412197085
+          },
+          "southwest": {
+            "lat": 40.8104117197085,
+            "lng": -73.9283391802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Silver Hill Atelier LLC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJAQc9eNv1wokRoMtUwvXX2OE",
+      "plus_code": {
+        "compound_code": "R36F+M4 New York, NY, USA",
+        "global_code": "87G8R36F+M4"
+      },
+      "rating": 5,
+      "reference": "ChIJAQc9eNv1wokRoMtUwvXX2OE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "250 East 139th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81535399999999,
+          "lng": -73.9243305
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8167829302915,
+            "lng": -73.9229463697085
+          },
+          "southwest": {
+            "lat": 40.8140849697085,
+            "lng": -73.9256443302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Ryan Triangle",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103140684005055004013\">Ryan Triangle</a>"
+          ],
+          "photo_reference": "AeJbb3f0fYmirktLiPBAwbex3IxLQwMG7z_JREvT46iA-862VkWhxYdJgmGjcX597VGRX5cV5M4zgcfIgVDRbfi29tiUnLpXJdZuUmhu5YYgtJvrfMNREBrcFltOCIfymJNznYRpTu6U4Cskrot_CqAAeiZtn1_j1DHfhVlaiuq_8FPQ5enc",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJneQNrdr1wokRfZgpYC7PlJo",
+      "plus_code": {
+        "compound_code": "R38G+47 The Bronx, NY, USA",
+        "global_code": "87G8R38G+47"
+      },
+      "rating": 3.7,
+      "reference": "ChIJneQNrdr1wokRfZgpYC7PlJo",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 71,
+      "vicinity": "Morris Avenue, East 144th Street, The Bronx"
+    }
+  ],
+  "status": "OK"
+}

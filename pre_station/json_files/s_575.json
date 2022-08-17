@@ -1,0 +1,2613 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3c69Kyt1chqx0ZHx7fYUom2no1j_k4HtArZhtCz5W9IlTfiHfVeajyRP_niNWM2hdiIjLWcUWVHSDdxH8Xd73tzOIuhCxXlMOGo624wBeZ3VJbSCNAGqOCU4HMUNNspp-ajEw3LhxOX2RjdsObtahMRbSihJh4CO7XrO6diGJSX7M5z",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74164449999999,
+          "lng": -73.93348870000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7430093802915,
+            "lng": -73.9320109697085
+          },
+          "southwest": {
+            "lat": 40.7403114197085,
+            "lng": -73.9347089302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "City Ice Pavilion",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115566367671752838595\">City Ice Pavilion</a>"
+          ],
+          "photo_reference": "AeJbb3dBN0gEs-oq4sbkVMbpYL6lpble93FxzfvcscEJIZa6zNzjETU3UxCimHNAsUnv1JBlPhSRoD3WZcx9aH6nUy6D1EqOLv6ujJxeYTVQRr5a7_ozvaaoBYY4p1M5Mxsx-4bZgYR_zRssokAKWQK54V4BuDQdn3YkLa_NRJuMh6kyad04",
+          "width": 620
+        }
+      ],
+      "place_id": "ChIJKcw3CtNewokRpSovxoxqooA",
+      "plus_code": {
+        "compound_code": "P3R8+MJ \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3R8+MJ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJKcw3CtNewokRpSovxoxqooA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 259,
+      "vicinity": "47-32 32nd Place, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7446524,
+          "lng": -73.93692949999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7456919302915,
+            "lng": -73.93563766970848
+          },
+          "southwest": {
+            "lat": 40.7429939697085,
+            "lng": -73.9383356302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Academy of Finance and Enterprise",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJbXSVOStZwokRS_476Ebfc7w",
+      "plus_code": {
+        "compound_code": "P3V7+V6 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P3V7+V6"
+      },
+      "rating": 3.8,
+      "reference": "ChIJbXSVOStZwokRS_476Ebfc7w",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "30-20 Thomson Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7446926,
+          "lng": -73.9378186
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74630338029149,
+            "lng": -73.93633626970849
+          },
+          "southwest": {
+            "lat": 40.7436054197085,
+            "lng": -73.9390342302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Program for Deaf Adults, Division of Adult and Continuing Education",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJeZK5ZStZwokRlctvLDOzcH4",
+      "plus_code": {
+        "compound_code": "P3V6+VV \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V6+VV"
+      },
+      "rating": 4,
+      "reference": "ChIJeZK5ZStZwokRlctvLDOzcH4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "29-10 Thomson Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7442821,
+          "lng": -73.9380442
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7460764302915,
+            "lng": -73.93650471970851
+          },
+          "southwest": {
+            "lat": 40.7433784697085,
+            "lng": -73.93920268029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Laguardia Workforce Career",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJeZK5ZStZwokRLgmCnha9M6s",
+      "plus_code": {
+        "compound_code": "P3V6+PQ \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V6+PQ"
+      },
+      "reference": "ChIJeZK5ZStZwokRLgmCnha9M6s",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2910 Thomson Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74506959999999,
+          "lng": -73.9377013
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74650053029149,
+            "lng": -73.93634146970851
+          },
+          "southwest": {
+            "lat": 40.74380256970849,
+            "lng": -73.93903943029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Continuing Education - LaGuardia Community College",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100872391141690109962\">- Anna -</a>"
+          ],
+          "photo_reference": "AeJbb3cPObuE9bQ_Rqo1_r0LNzU5ngn8YVtJFgLSLOFQbuieDNob9NQny3pwN1JTKDGvBxrFjvyzG3IbcsnJ2_pIG2PAJX4AqzwHdndNH4OzLYPT3mmW_E3jMbkiIpa-rR5Mk8qrdxFHceIlQM8fXpw8wuyIj3aQwYzPdxh94P8d_zokS_O7",
+          "width": 3036
+        }
+      ],
+      "place_id": "ChIJeZK5ZStZwokR6QgBWgERr80",
+      "plus_code": {
+        "compound_code": "P3W6+2W \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P3W6+2W"
+      },
+      "rating": 5,
+      "reference": "ChIJeZK5ZStZwokR6QgBWgERr80",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "29-10 Thomson Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7439997,
+          "lng": -73.9350126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7457981302915,
+            "lng": -73.93357321970848
+          },
+          "southwest": {
+            "lat": 40.74310016970851,
+            "lng": -73.9362711802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "City University of New York",
+      "place_id": "ChIJS3gYNCtZwokRmW-RhA7CJyI",
+      "plus_code": {
+        "compound_code": "P3V7+HX \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V7+HX"
+      },
+      "rating": 4.8,
+      "reference": "ChIJS3gYNCtZwokRmW-RhA7CJyI",
+      "scope": "GOOGLE",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "3110 Thomson Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7446926,
+          "lng": -73.9378186
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7463059802915,
+            "lng": -73.9363553197085
+          },
+          "southwest": {
+            "lat": 40.7436080197085,
+            "lng": -73.93905328029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "ASL-English Interpretation Program - CUNY/LaGuardia Community College",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ7UHOOStZwokRnOLYQB0LJBA",
+      "plus_code": {
+        "compound_code": "P3V6+VV \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V6+VV"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ7UHOOStZwokRnOLYQB0LJBA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "29-10 Thomson Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74479079999999,
+          "lng": -73.9378414
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74633078029149,
+            "lng": -73.93644516970852
+          },
+          "southwest": {
+            "lat": 40.74363281970849,
+            "lng": -73.93914313029153
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "High School of Applied Communication",
+      "place_id": "ChIJbXSVOStZwokRzOc15JBE4ww",
+      "plus_code": {
+        "compound_code": "P3V6+WV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P3V6+WV"
+      },
+      "rating": 2.6,
+      "reference": "ChIJbXSVOStZwokRzOc15JBE4ww",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "30-20 Thomson Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7427897,
+          "lng": -73.9355578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417098029149,
+            "lng": -73.93419811970848
+          },
+          "southwest": {
+            "lat": 40.74147301970849,
+            "lng": -73.9368960802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Micro Management",
+      "place_id": "ChIJWXopBCxZwokR71b6Io7r5SA",
+      "plus_code": {
+        "compound_code": "P3V7+4Q \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V7+4Q"
+      },
+      "reference": "ChIJWXopBCxZwokR71b6Io7r5SA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3100 47th Avenue N, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74303219999999,
+          "lng": -73.9336896
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7443655802915,
+            "lng": -73.9324514697085
+          },
+          "southwest": {
+            "lat": 40.7416676197085,
+            "lng": -73.9351494302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Van Dam Diner",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2169,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111444671146808251214\">Eric Finkelstein</a>"
+          ],
+          "photo_reference": "AeJbb3cQ_wULDnX-w-0up3ZfA89nLcWLVKD7m9IrZzP6XtnWcQjheZc-DakGb4Puy48apQ8yAttioeQHzcDfmxMGioSxNorE5PlIJ_eHM2y5Pbq5mGHOgCPkjxXIbWx4FPPKUKXvsVVbwyuOscBbjExXLhuA-ocnlFdgphEeYLBlUp7Xbgx8",
+          "width": 3649
+        }
+      ],
+      "place_id": "ChIJLU8ELs1ewokRZA7ySTR_WaI",
+      "plus_code": {
+        "compound_code": "P3V8+6G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P3V8+6G"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJLU8ELs1ewokRZA7ySTR_WaI",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 321,
+      "vicinity": "4555 Van Dam Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.742804,
+          "lng": -73.9363744
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417683029149,
+            "lng": -73.93523536970851
+          },
+          "southwest": {
+            "lat": 40.74147886970849,
+            "lng": -73.93793333029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "LiveOnNY",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105956881036674259631\">LiveOnNY</a>"
+          ],
+          "photo_reference": "AeJbb3fFy9Prc6YdBBTBQUW0KItDS7UxnE5OMP8kw-TQx2T9_URKqInyorikrZucB2wnf1klckgC1J2jOZ4FcR-igWWO9PZ7JYakApsW4EUXgS-JEsCQca2OXZvGVETpEu9pEBXtUSmfjqyQ-OXwf12BUduoxfuKkdX7vc7xIqgtK2wN24p-",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJbbNJorNZwokRTdlUX1cnl9Q",
+      "plus_code": {
+        "compound_code": "P3V7+4F \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P3V7+4F"
+      },
+      "rating": 4,
+      "reference": "ChIJbbNJorNZwokRTdlUX1cnl9Q",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "30-30 47th Avenue 9th Floor, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7445949,
+          "lng": -73.9378807
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74623283029149,
+            "lng": -73.93644516970852
+          },
+          "southwest": {
+            "lat": 40.7435348697085,
+            "lng": -73.93914313029153
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Bard High School Early College Queens",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"
+          ],
+          "photo_reference": "AeJbb3fmTKmFTc9kken_j3co9zKeCvoasaht6j1FT_kAUUVjyiPkVjCLG8EqDCCE3EuNcmc8gNAPGxa0_9a_OBDvznfK4kY9epaIPa-pX-pIvnhFqxzjkkFp0QNnz8Wi7PVmKKSvGx79AZc4Ki4vNvxrRDCUfnBU9VFYR-uFRq0fTEuwfC_h",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJs9z8UylZwokRx5b85QE4LAA",
+      "plus_code": {
+        "compound_code": "P3V6+RR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P3V6+RR"
+      },
+      "rating": 4.7,
+      "reference": "ChIJs9z8UylZwokRx5b85QE4LAA",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "university",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 63,
+      "vicinity": "30-20 Thomson Avenue, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7427897,
+          "lng": -73.9355578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417098029149,
+            "lng": -73.93419811970848
+          },
+          "southwest": {
+            "lat": 40.74147301970849,
+            "lng": -73.9368960802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lick Studios",
+      "permanently_closed": true,
+      "place_id": "ChIJ2dO4UdNewokRUX4MX96xGAE",
+      "plus_code": {
+        "compound_code": "P3V7+4Q \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V7+4Q"
+      },
+      "reference": "ChIJ2dO4UdNewokRUX4MX96xGAE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3100 47th Avenue C, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7441012,
+          "lng": -73.94062219999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7455183302915,
+            "lng": -73.93937816970849
+          },
+          "southwest": {
+            "lat": 40.7428203697085,
+            "lng": -73.9420761302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Feather Factory Hotel",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105288344522572383346\">Katia Pereira</a>"
+          ],
+          "photo_reference": "AeJbb3fPT2uQOQ3WSjyApcSfFORizaZRCUzzkmjQVUerr2u0PKWW8JF8Ew_eGR-SGaum8_eEBHaZHh79aJUH7-hIBLHHpV8Z6NfvbHE--ineC8n1HDrZDerGoIGLaiD0-vAM09P4UjDjVebg7E3TYmP3i_HhDtdv0X9Bf_RCyvkPREmsqZlH",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJffXi9StZwokRhAf3Lp6dMzI",
+      "plus_code": {
+        "compound_code": "P3V5+JQ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P3V5+JQ"
+      },
+      "rating": 4.1,
+      "reference": "ChIJffXi9StZwokRhAf3Lp6dMzI",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 560,
+      "vicinity": "Queens County, 26-32 Skillman Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7442821,
+          "lng": -73.9380442
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7460764302915,
+            "lng": -73.93650471970851
+          },
+          "southwest": {
+            "lat": 40.7433784697085,
+            "lng": -73.93920268029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mercury Beach Maid Inc",
+      "place_id": "ChIJeZK5ZStZwokRKnQ3lgp-tYU",
+      "plus_code": {
+        "compound_code": "P3V6+PQ \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V6+PQ"
+      },
+      "reference": "ChIJeZK5ZStZwokRKnQ3lgp-tYU",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2910 Thomson Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7439998,
+          "lng": -73.9350125
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7457981302915,
+            "lng": -73.93357311970851
+          },
+          "southwest": {
+            "lat": 40.7431001697085,
+            "lng": -73.93627108029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "International High School at LaGuardia Community College",
+      "place_id": "ChIJS3gYNCtZwokRf4xm2Q-xirc",
+      "plus_code": {
+        "compound_code": "P3V7+HX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P3V7+HX"
+      },
+      "rating": 4.5,
+      "reference": "ChIJS3gYNCtZwokRf4xm2Q-xirc",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "45-35 Van Dam Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74265659999999,
+          "lng": -73.9341677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74399513029149,
+            "lng": -73.9327284697085
+          },
+          "southwest": {
+            "lat": 40.7412971697085,
+            "lng": -73.9354264302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Queensboro Correctional Facility",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJGZMNZtNewokRnDdQ2b_VMqA",
+      "plus_code": {
+        "compound_code": "P3V8+38 \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V8+38"
+      },
+      "reference": "ChIJGZMNZtNewokRnDdQ2b_VMqA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "47-04 Van Dam Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7439393,
+          "lng": -73.9351889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7457771802915,
+            "lng": -73.93370781970849
+          },
+          "southwest": {
+            "lat": 40.74307921970851,
+            "lng": -73.9364057802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "LaGuardia Performing Arts Center",
+      "photos": [
+        {
+          "height": 3266,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107179911950381260118\">La Guardia Performing Arts</a>"
+          ],
+          "photo_reference": "AeJbb3dFlSIiixloCIig5NE5cS9THyYxto8-0f7FIx8-p-quRBwb0Ux6rYc2zY81epJtYaAONlXvy2UQ-j-wnMlcyeUQI3-eq-XFG0zJ6a81QKqPSFmIleCYOIY_28dz9zBMVrBBiD0AEK1swdUfANH9QPYq6gzoeethrEqLYDFrP1Qvd13f",
+          "width": 4907
+        }
+      ],
+      "place_id": "ChIJS3gYNCtZwokReDd0o89zXg0",
+      "plus_code": {
+        "compound_code": "P3V7+HW \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8P3V7+HW"
+      },
+      "rating": 4.4,
+      "reference": "ChIJS3gYNCtZwokReDd0o89zXg0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1786,
+      "vicinity": "31-10 Thomson Avenue, Long Island City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.744679,
+          "lng": -73.9485424
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76305627050633,
+            "lng": -73.90948293911667
+          },
+          "southwest": {
+            "lat": 40.727849032336,
+            "lng": -73.96285774645361
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u9577\u5cf6\u5e02",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106309005578646235768\">love alter</a>"
+          ],
+          "photo_reference": "AeJbb3epZzWIAQV8fTGlHMQk3wjlzh1ClDOh8Qd2ZjMlXvuNN7jzTNrptCU4UTPfJTNVGc1dca60o7RuCVM1b60Lw678o_SuH_1I-XP2osRc962CP88mpSxBRfyuZPXeN1aGyblb95wZS3_onRADqfAKnyRd5Zmaba-lWsbCunmk7DDYGH8K",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJWbG6xytZwokRMY7uxcRsFVY",
+      "reference": "ChIJWbG6xytZwokRMY7uxcRsFVY",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u7687\u540e\u5340"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7433295,
+          "lng": -73.9333269
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74562780000002,
+            "lng": -73.9325801197085
+          },
+          "southwest": {
+            "lat": 40.74256339999999,
+            "lng": -73.93527808029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Middle College High School at LaGuardia Community College",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116169908472051739378\">Domingo Rodr\u00edguez</a>"
+          ],
+          "photo_reference": "AeJbb3ccSXWvAYEiQRkElZNxfMrUcBurJFdzpCUNUQS_lWSaPqBI9uylYFuX88DukMiihjaLAn0kZmYOVRGdx6TYUao1tSq4KTVWIsYuj6bLmCgs0Xv4l1pXwBOGl2iMHATJMfFiwAIKeCjiAuWqC7F0nOpgp5ofU84lZ_dvQvVx1X4UV07l",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJS3gYNCtZwokR8tuGmD-Ny0M",
+      "plus_code": {
+        "compound_code": "P3V8+8M New York, NY, USA",
+        "global_code": "87G8P3V8+8M"
+      },
+      "rating": 4.4,
+      "reference": "ChIJS3gYNCtZwokR8tuGmD-Ny0M",
+      "scope": "GOOGLE",
+      "types": [
+        "secondary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "45-35 Van Dam Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7423837,
+          "lng": -73.9364608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7439451302915,
+            "lng": -73.93532021970849
+          },
+          "southwest": {
+            "lat": 40.7412471697085,
+            "lng": -73.93801818029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spin Master Inc.",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112026086779139845041\">Patty Parker</a>"
+          ],
+          "photo_reference": "AeJbb3eY2CIFKAMV7hc0Beepk3AQf1CmRCZAtDZe0sippGC4IrYH1UhcvVvKbECCDYAjsTMaWx4Z5V5P5_Dg1IaK3HRiI4UqBy_SRC6W08wal9FKDLMvoSoBT8mCAkbDCFETLW-8S5o9Scql3c0pIcdz9aRs8gTvJQkR77aEjQrNdgaZsVY6",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJjyX2GqRZwokRzp9N2NY2wuY",
+      "plus_code": {
+        "compound_code": "P3R7+XC New York, NY, USA",
+        "global_code": "87G8P3R7+XC"
+      },
+      "rating": 3.7,
+      "reference": "ChIJjyX2GqRZwokRzp9N2NY2wuY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "30-30 47th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.742804,
+          "lng": -73.9363744
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417683029149,
+            "lng": -73.93523536970851
+          },
+          "southwest": {
+            "lat": 40.74147886970849,
+            "lng": -73.93793333029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cardinal Industries Inc",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117067749643694208252\">Michelle Allen</a>"
+          ],
+          "photo_reference": "AeJbb3day5uOMBd2H0yzQnlzfJCfjqdJxYmgto0R578fPSgPjEzxiT-dzZ-XINDu1wlrcPeQw9XE4UttvSzun3XlVLc7xClksU9BIPHB8aYHSQ6qCthprxI7ugS_7UtnR7Sytzj7pzdVByy61rdYI0f6rzWDC7vUOxIr8xdzI101XAPnWryl",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJV6cTOiVZwokRC8aw8vVUqOA",
+      "plus_code": {
+        "compound_code": "P3V7+4F Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4F"
+      },
+      "rating": 2.1,
+      "reference": "ChIJV6cTOiVZwokRC8aw8vVUqOA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "30-30 47th Avenue suite 680, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7439997,
+          "lng": -73.9350126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7457981302915,
+            "lng": -73.93357321970848
+          },
+          "southwest": {
+            "lat": 40.74310016970851,
+            "lng": -73.9362711802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+      "name": "La Guardia & Wagner Archives",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJS3gYNCtZwokRSy8JvCLT33I",
+      "plus_code": {
+        "compound_code": "P3V7+HX Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+HX"
+      },
+      "rating": 3.8,
+      "reference": "ChIJS3gYNCtZwokRSy8JvCLT33I",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "3110 Thomson Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.742448,
+          "lng": -73.9325837
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7439300802915,
+            "lng": -73.93120826970849
+          },
+          "southwest": {
+            "lat": 40.7412321197085,
+            "lng": -73.9339062302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Taffard Fabrics",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112398354644811016547\">Taffard Fabrics</a>"
+          ],
+          "photo_reference": "AeJbb3eiRx6ZzbgGLB50Pfkbl0PtQ_FZOJaZPNzgSirkePp3MMo5gMJaDPEswnCvOd3tzZtP6MIL5N1MoqFlTEp_gU2YSkxdLWS4Pr9igfCqI8ira6YrzEECvUDujEjiycCG8-A3TiHpFd0AS3BZfrSOiouLJtUPSC7BNM6zG1mOd0y6vHPT",
+          "width": 980
+        }
+      ],
+      "place_id": "ChIJ_8y5g6hZwokRkIM6eVXaQcs",
+      "plus_code": {
+        "compound_code": "P3R8+XX New York, NY, USA",
+        "global_code": "87G8P3R8+XX"
+      },
+      "reference": "ChIJ_8y5g6hZwokRkIM6eVXaQcs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "33-00 47th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74283,
+          "lng": -73.935434
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7442848302915,
+            "lng": -73.9339923197085
+          },
+          "southwest": {
+            "lat": 40.7415868697085,
+            "lng": -73.9366902802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Unique Settings of New York",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJmTKoUdNewokRb69sQ0tocVk",
+      "plus_code": {
+        "compound_code": "P3V7+4R Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4R"
+      },
+      "rating": 4.1,
+      "reference": "ChIJmTKoUdNewokRb69sQ0tocVk",
+      "scope": "GOOGLE",
+      "types": [
+        "jewelry_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "The Falchi Building, 31-00 47th Avenue, 2nd Floor, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7440161,
+          "lng": -73.935088
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7458107302915,
+            "lng": -73.9336493697085
+          },
+          "southwest": {
+            "lat": 40.7431127697085,
+            "lng": -73.93634733029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Collegiate Bookstore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 827,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116210560245821620778\">Thuy\u1ebft Rose Tattoo</a>"
+          ],
+          "photo_reference": "AeJbb3frHNlqFWTXnFP4I8CPMe1-wcbsKFrv54JFhzhWEk29OOPNkNiNGgXqd3amYnpbuyu4eaZt1-CS-WJL4JPEtCLkLQ-oT_BTlF-vcH5z-iP-dwaLq3jyIn651VY8sZvuo1NM5WVwryDhcNQRy5l9r2U6yYoXw1tFk-mlVj_qT4DB5Crf",
+          "width": 1792
+        }
+      ],
+      "place_id": "ChIJS3gYNCtZwokRPEfl6NFqY_s",
+      "plus_code": {
+        "compound_code": "P3V7+JX New York, NY, USA",
+        "global_code": "87G8P3V7+JX"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJS3gYNCtZwokRPEfl6NFqY_s",
+      "scope": "GOOGLE",
+      "types": [
+        "book_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "31-10 Thomson Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.742852,
+          "lng": -73.9362864
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7443441802915,
+            "lng": -73.9349234197085
+          },
+          "southwest": {
+            "lat": 40.7416462197085,
+            "lng": -73.9376213802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Sirona Dental Systems INC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJc4PFrSxZwokRNSlCJdKNntQ",
+      "plus_code": {
+        "compound_code": "P3V7+4F Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4F"
+      },
+      "reference": "ChIJc4PFrSxZwokRNSlCJdKNntQ",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "3030 47th Avenue UNIT 500, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7439616,
+          "lng": -73.9361658
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74523423029149,
+            "lng": -73.9350155697085
+          },
+          "southwest": {
+            "lat": 40.7425362697085,
+            "lng": -73.93771353029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "New York City Administration",
+      "place_id": "ChIJTRm9UitZwokRqo1El2xnsUQ",
+      "plus_code": {
+        "compound_code": "P3V7+HG Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+HG"
+      },
+      "rating": 3.7,
+      "reference": "ChIJTRm9UitZwokRqo1El2xnsUQ",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "3030 Thomson Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7448805,
+          "lng": -73.9359119
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74630103029151,
+            "lng": -73.9345809197085
+          },
+          "southwest": {
+            "lat": 40.74360306970851,
+            "lng": -73.9372788802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "School Construction Authority",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108983803859134937182\">Julio Morales</a>"
+          ],
+          "photo_reference": "AeJbb3dmXvHQ8SPqrPSJGyET13z_eoygQu-zo3YGCg7cXINTaCCpW31a5rZlm5PjkTY9RWS4_Ec3QePPKO-egIztH4wrACPG397L-fwRo61Qzn5xng9b_he5UcKf6e0N1-KHsmYxbiv-PAzONp5CZ-IlLhETQ_Ibh4LkelK53kD7N0E0-TSd",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJvUFiy9RewokRqW30mdspZaE",
+      "plus_code": {
+        "compound_code": "P3V7+XJ New York, NY, USA",
+        "global_code": "87G8P3V7+XJ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJvUFiy9RewokRqW30mdspZaE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "30-30 Thomson Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7416523,
+          "lng": -73.9336553
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74303648029149,
+            "lng": -73.9325643697085
+          },
+          "southwest": {
+            "lat": 40.7403385197085,
+            "lng": -73.93526233029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Goodwill NYNJ Outlet Store & Donation Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106323060574953843325\">Volodymyr T</a>"
+          ],
+          "photo_reference": "AeJbb3dejpZghnI_m9Rq_uaUpvIiu4M_DkeIGnMHXnOXTxMlELFa6a-S4N_k2keqdifURCfTPMhGjbYH0D18u8Ha_wiFZv4yiBzpz8pXuSPOwg0fbOEO0pK7fCHHn4-gdw040WVfG9WR7wIQ78jijQC46kUrcRT0rEiEVhsC5UyIRcbEXu9S",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJh_gFFNNewokRiDxda63fCuE",
+      "plus_code": {
+        "compound_code": "P3R8+MG New York, NY, USA",
+        "global_code": "87G8P3R8+MG"
+      },
+      "rating": 3.7,
+      "reference": "ChIJh_gFFNNewokRiDxda63fCuE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 409,
+      "vicinity": "47-47 Van Dam Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7428809,
+          "lng": -73.9375002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7442793802915,
+            "lng": -73.93626786970849
+          },
+          "southwest": {
+            "lat": 40.7415814197085,
+            "lng": -73.9389658302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jaydan Interiors LLC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2620,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110645034110384927859\">MARC OFFNER</a>"
+          ],
+          "photo_reference": "AeJbb3e4WrdpBBZMWsvaHLrDhh0uBm4OkCrlUIKa5w6QWArkQwqdGXMuHxG1-5NKi4eNRbyoq7QizSX5Dh5v8V-YTptJ1QFdwl7T6LrBHTjHaLfQAzbPavR_M72TYLHChLjJ-2SKqisweLDsBYMZejUGu561tcoh_QXUPRefvCYRlLwuZIFK",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJsygN1ylZwokRUghdJNdc4Qg",
+      "plus_code": {
+        "compound_code": "P3V6+5X New York, NY, USA",
+        "global_code": "87G8P3V6+5X"
+      },
+      "rating": 5,
+      "reference": "ChIJsygN1ylZwokRUghdJNdc4Qg",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "47-09 30th Street 1st Floor, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7427897,
+          "lng": -73.9355578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417098029149,
+            "lng": -73.93419811970848
+          },
+          "southwest": {
+            "lat": 40.74147301970849,
+            "lng": -73.9368960802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rosado Chechanover Bayrasli",
+      "place_id": "ChIJO3UdTtNewokRwrg6U6Rz-RY",
+      "plus_code": {
+        "compound_code": "P3V7+4Q Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4Q"
+      },
+      "rating": 2.5,
+      "reference": "ChIJO3UdTtNewokRwrg6U6Rz-RY",
+      "scope": "GOOGLE",
+      "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "3100 47th Avenue # 2A, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7427897,
+          "lng": -73.9355578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417098029149,
+            "lng": -73.93419811970848
+          },
+          "southwest": {
+            "lat": 40.74147301970849,
+            "lng": -73.9368960802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Genesis Industries Ltd",
+      "place_id": "ChIJ2crLYdlewokRZfvj7HcgfHg",
+      "plus_code": {
+        "compound_code": "P3V7+4Q Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4Q"
+      },
+      "reference": "ChIJ2crLYdlewokRZfvj7HcgfHg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3100 47th Avenue # 2E, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7427897,
+          "lng": -73.9355578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417098029149,
+            "lng": -73.93419811970848
+          },
+          "southwest": {
+            "lat": 40.74147301970849,
+            "lng": -73.9368960802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Genal Strap Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJnTpnzdBewokRTBDbPH5tE00",
+      "plus_code": {
+        "compound_code": "P3V7+4Q Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4Q"
+      },
+      "reference": "ChIJnTpnzdBewokRTBDbPH5tE00",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3100 47th Avenue UNIT 3A, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.74288670000001,
+          "lng": -73.935538
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74430353029149,
+            "lng": -73.93404431970848
+          },
+          "southwest": {
+            "lat": 40.7416055697085,
+            "lng": -73.9367422802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Perceptual Productions",
+      "permanently_closed": true,
+      "place_id": "ChIJbTQdUdNewokR38fqG0OoAkM",
+      "plus_code": {
+        "compound_code": "P3V7+5Q Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+5Q"
+      },
+      "reference": "ChIJbTQdUdNewokR38fqG0OoAkM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "31-00 47th Avenue, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7429352,
+          "lng": -73.9363381
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7443888302915,
+            "lng": -73.9349614697085
+          },
+          "southwest": {
+            "lat": 40.7416908697085,
+            "lng": -73.9376594302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Michael C Fina Co",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1028,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100164942376283524742\">Michael C Fina Co</a>"
+          ],
+          "photo_reference": "AeJbb3ecUzCpDVP831Kl9Yy0vWTDpFyD8u15czqMiWFYILKBac5q3ckyNlGZDJelCXD_Iq4EYNoJTub3UPpJWyUSSjfcas8StaxGmbbs56M5SU3ba9tsatLw9q15RMO6ZsdLPcEOZ9C0iOt3RvCupwKBROfjG5M6Cfj-FctC2NlPZVPSRoik",
+          "width": 1534
+        }
+      ],
+      "place_id": "ChIJPXAPZdJewokRy81E9HQGkhc",
+      "plus_code": {
+        "compound_code": "P3V7+5F Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+5F"
+      },
+      "rating": 3.6,
+      "reference": "ChIJPXAPZdJewokRy81E9HQGkhc",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "30-30 47th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7438107,
+          "lng": -73.9364738
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74513588029149,
+            "lng": -73.9351929197085
+          },
+          "southwest": {
+            "lat": 40.74243791970849,
+            "lng": -73.9378908802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Department of Design and Construction",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112435417613540045980\">Department of Design and Construction</a>"
+          ],
+          "photo_reference": "AeJbb3d8PnSvPffWv93nmcMMB-x8kCGpp0KKlnI8gsSDWekwk-ffLlF_A1CztLmRrBzlHJGk_0oYiJkZozsRvW6vQL3mdY0xsrn1ZX99C9ga5HoD_VCreIQyGibbyRmJDf3eNUnEOZNc40-2Hf3FvpaonvPC9LPU3nhUqLPHFI6Pml7YL9iG",
+          "width": 2488
+        }
+      ],
+      "place_id": "ChIJvUFiy9RewokRWJ5Em64GlEk",
+      "plus_code": {
+        "compound_code": "P3V7+GC New York, NY, USA",
+        "global_code": "87G8P3V7+GC"
+      },
+      "rating": 4.3,
+      "reference": "ChIJvUFiy9RewokRWJ5Em64GlEk",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "30-30 Thomson Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7448676,
+          "lng": -73.93590379999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7462918802915,
+            "lng": -73.93456191970849
+          },
+          "southwest": {
+            "lat": 40.7435939197085,
+            "lng": -73.9372598802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "CB Richard Ellis",
+      "place_id": "ChIJvUFiy9RewokRXY0RbiEgs-s",
+      "plus_code": {
+        "compound_code": "P3V7+WJ Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+WJ"
+      },
+      "reference": "ChIJvUFiy9RewokRXY0RbiEgs-s",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3030 Thomson Avenue # 6A, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7406477,
+          "lng": -73.9329511
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7421087802915,
+            "lng": -73.93157891970849
+          },
+          "southwest": {
+            "lat": 40.7394108197085,
+            "lng": -73.9342768802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Service Fitters Training Center",
+      "place_id": "ChIJ972xr9NewokRFDPE1b1G_Rk",
+      "plus_code": {
+        "compound_code": "P3R8+7R Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3R8+7R"
+      },
+      "rating": 5,
+      "reference": "ChIJ972xr9NewokRFDPE1b1G_Rk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "32-32 48th Avenue, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7427897,
+          "lng": -73.9355578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417098029149,
+            "lng": -73.93419811970848
+          },
+          "southwest": {
+            "lat": 40.74147301970849,
+            "lng": -73.9368960802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Doll House Footwear",
+      "permanently_closed": true,
+      "place_id": "ChIJ2dO4UdNewokRyOA8KNJjQo8",
+      "plus_code": {
+        "compound_code": "P3V7+4Q Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4Q"
+      },
+      "rating": 5,
+      "reference": "ChIJ2dO4UdNewokRyOA8KNJjQo8",
+      "scope": "GOOGLE",
+      "types": [
+        "shoe_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3100 47th Avenue # 5A, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.738729,
+          "lng": -73.93774719999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7401002302915,
+            "lng": -73.9368120197085
+          },
+          "southwest": {
+            "lat": 40.7374022697085,
+            "lng": -73.9395099802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rapid Steel Supply Corporation",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117376838183901280960\">Daniel Balfour</a>"
+          ],
+          "photo_reference": "AeJbb3e29VhSqKnTlfpGgscA7WLj-AbCgBmgdncf31tOEQEHu3SjZS2XHQw7TMsOvS4_A0OgGf8t3lC8R_fbAyQAkGFyCIV7oOhoERYtnS4-SZ9kvHRTASjMpOELQ6eyAuiZI8OC2XPmWl53ZUo9FE9eIrK2kwB_m-f5iD2toFkoZuTafs1f",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJv5vyEi1ZwokRz3-z5RDwAgY",
+      "plus_code": {
+        "compound_code": "P3Q6+FW Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3Q6+FW"
+      },
+      "rating": 4.6,
+      "reference": "ChIJv5vyEi1ZwokRz3-z5RDwAgY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "4963 30th Street, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.74037089999999,
+          "lng": -73.9428842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7418143302915,
+            "lng": -73.9415039197085
+          },
+          "southwest": {
+            "lat": 40.7391163697085,
+            "lng": -73.94420188029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wirelesslink Group Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJ8dNYw6VZwokR4iVv_BBSBvQ",
+      "plus_code": {
+        "compound_code": "P3R4+4R Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3R4+4R"
+      },
+      "rating": 5,
+      "reference": "ChIJ8dNYw6VZwokR4iVv_BBSBvQ",
+      "scope": "GOOGLE",
+      "types": [
+        "shopping_mall",
+        "electronics_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "2598 50th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7377627,
+          "lng": -73.9408625
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7391345802915,
+            "lng": -73.93980451970849
+          },
+          "southwest": {
+            "lat": 40.7364366197085,
+            "lng": -73.94250248029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Access Self Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101800382806729737457\">Access Self Storage</a>"
+          ],
+          "photo_reference": "AeJbb3f_2yKXRV0RZ2no5FaSrpMWojbBM7DIfx1oZGxjq6uv2ePqRt_qctynyjEyTyCJ6pROiNhN5gYet0p0zWfGEh0h1Y1f9BVPPWVRMmMm0y35zb4qEhGI0uTnMgGcS2y3cNyzjjuIK0yPd4wrrz0wWa3l5HiOUW488YBsy2fmoqDsus5g",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJPyNXLzJZwokRbWKeJltrnFg",
+      "plus_code": {
+        "compound_code": "P3Q5+4M New York, NY, USA",
+        "global_code": "87G8P3Q5+4M"
+      },
+      "rating": 4.5,
+      "reference": "ChIJPyNXLzJZwokRbWKeJltrnFg",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 123,
+      "vicinity": "29-00 Review Avenue, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7429063,
+          "lng": -73.937446
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74429208029149,
+            "lng": -73.93623761970849
+          },
+          "southwest": {
+            "lat": 40.7415941197085,
+            "lng": -73.93893558029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SharkStores",
+      "permanently_closed": true,
+      "place_id": "ChIJGxQKmCxZwokRG5BB2Mv-htQ",
+      "plus_code": {
+        "compound_code": "P3V7+52 Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+52"
+      },
+      "rating": 1.5,
+      "reference": "ChIJGxQKmCxZwokRG5BB2Mv-htQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "47-09 30th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7373203,
+          "lng": -73.93814619999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7390383802915,
+            "lng": -73.93716861970849
+          },
+          "southwest": {
+            "lat": 40.7363404197085,
+            "lng": -73.9398665802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Storage Post Self Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108064174592648883744\">illiotti Media inc</a>"
+          ],
+          "photo_reference": "AeJbb3cLEeLDcHjxxNaxTBy1ZSKPbEfhgbj25O5X_71xDhMVEDabi2UkNKYh2hJNS7B8ysLS_3S5wFbsxswKMg1bBGa0TkDZkEkTBBMWCZctrIo5NvI7_JjQ8QGE-qbQmIZNnQw_cpFkfBD2mMZpO7bwZOh5CeCAwi6u58aJ_j9RcqSLh6dU",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJI6Xj7DJZwokRCMawGXrEPIo",
+      "plus_code": {
+        "compound_code": "P3P6+WP New York, NY, USA",
+        "global_code": "87G8P3P6+WP"
+      },
+      "rating": 4.5,
+      "reference": "ChIJI6Xj7DJZwokRCMawGXrEPIo",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 201,
+      "vicinity": "30-28 Starr Avenue, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7440702,
+          "lng": -73.93313479999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7455289802915,
+            "lng": -73.9315990697085
+          },
+          "southwest": {
+            "lat": 40.7428310197085,
+            "lng": -73.9342970302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Profound Beauty Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJXW2x9dRewokRUDLy44eloFI",
+      "plus_code": {
+        "compound_code": "P3V8+JP Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V8+JP"
+      },
+      "rating": 4,
+      "reference": "ChIJXW2x9dRewokRUDLy44eloFI",
+      "scope": "GOOGLE",
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3202 Queens Boulevard # 6, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74229809999999,
+          "lng": -73.93578330000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74354098029149,
+            "lng": -73.9345185697085
+          },
+          "southwest": {
+            "lat": 40.74084301970849,
+            "lng": -73.93721653029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "EIA Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100988193003931599212\">EIA Inc.</a>"
+          ],
+          "photo_reference": "AeJbb3fXuoIsLXYOEtexYlr8nRJMR1f9iMXVVweerX8VCsZDiY0oDwia-rcSh7r_ZTxJLHJbkxFRvCF351RyFoNLwS5X9VUb2cv8QYbh7f3OrcDP2ea7VGztMM9nI7RogsE8T2h1zg4SAzAMlwirSMZ5nJ2P86mOWUe79l08NLrDoAc9kSbr",
+          "width": 250
+        }
+      ],
+      "place_id": "ChIJXdmwhZhZwokR0QEFOTf1cr4",
+      "plus_code": {
+        "compound_code": "P3R7+WM New York, NY, USA",
+        "global_code": "87G8P3R7+WM"
+      },
+      "rating": 3.9,
+      "reference": "ChIJXdmwhZhZwokR0QEFOTf1cr4",
+      "scope": "GOOGLE",
+      "types": [
+        "electrician",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "31-00 47th Avenue Suite 5100, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7416668,
+          "lng": -73.93270319999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7429919802915,
+            "lng": -73.93115106970849
+          },
+          "southwest": {
+            "lat": 40.7402940197085,
+            "lng": -73.9338490302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Verterra",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJG8skidNewokRfJQvtW15s64",
+      "plus_code": {
+        "compound_code": "P3R8+MW Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3R8+MW"
+      },
+      "reference": "ChIJG8skidNewokRfJQvtW15s64",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "4700 33rd Street #2, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74270839999999,
+          "lng": -73.9363284
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74427543029149,
+            "lng": -73.9349566197085
+          },
+          "southwest": {
+            "lat": 40.7415774697085,
+            "lng": -73.93765458029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "La Maison Du Chocolat",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115174553397114730509\">Ramez Mekhail</a>"
+          ],
+          "photo_reference": "AeJbb3drlmVam4ocDx9blT8Ijghq_RWlU-_fWtuBoaSW_dK07w6OdXlxz42fLCJIIP8zIWWjpFGb0Gfo0fwPp7DAnCiYQMum96fvO2IEtpyIOscaqpCHJDLNO6q1TlLc5gyeBeP7HdZOUZWfJDmPUHxyrHEYz-IsksUGUNvJji_xfewYziL9",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJrY4wUBRfwokRYDHlMDVTXK4",
+      "plus_code": {
+        "compound_code": "P3V7+3F New York, NY, USA",
+        "global_code": "87G8P3V7+3F"
+      },
+      "rating": 4.5,
+      "reference": "ChIJrY4wUBRfwokRYDHlMDVTXK4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "30-30 47th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.742804,
+          "lng": -73.9363744
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7443232302915,
+            "lng": -73.93497961970851
+          },
+          "southwest": {
+            "lat": 40.7416252697085,
+            "lng": -73.93767758029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "A. Link",
+      "place_id": "ChIJQZcBO_xYwokR43xnLD1EDP8",
+      "plus_code": {
+        "compound_code": "P3V7+4F Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4F"
+      },
+      "rating": 5,
+      "reference": "ChIJQZcBO_xYwokR43xnLD1EDP8",
+      "scope": "GOOGLE",
+      "types": [
+        "jewelry_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "30-30 47th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7426433,
+          "lng": -73.9344109
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7439682802915,
+            "lng": -73.9328541697085
+          },
+          "southwest": {
+            "lat": 40.7412703197085,
+            "lng": -73.93555213029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sicilia Americo R MD",
+      "place_id": "ChIJGZMNZtNewokRmFvQ1RzIO4w",
+      "plus_code": {
+        "compound_code": "P3V8+36 Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V8+36"
+      },
+      "reference": "ChIJGZMNZtNewokRmFvQ1RzIO4w",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4704 Van Dam Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74447979999999,
+          "lng": -73.93319749999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74592208029149,
+            "lng": -73.93182846970849
+          },
+          "southwest": {
+            "lat": 40.74322411970849,
+            "lng": -73.93452643029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mana Products Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3124,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116062071343759220644\">Daniel Santiago</a>"
+          ],
+          "photo_reference": "AeJbb3d8wpVzATGfzzU0-0xHzw3lm-_cVPY4u-cF7zFeq9mQpG77PY8jHp0wY3C2KeFbLbu0_WeTUPwK9ATYkBamnji-jAxGg4xQeBHL0DRBU3FB8c8wHXopPIpbEGWUfeodEBQLCL4DYHREm2NuUN2msMtriM6aoOmEnVoz188EgIUvmm65",
+          "width": 2474
+        }
+      ],
+      "place_id": "ChIJ_yOA0C1ZwokRjbc9j_S_S78",
+      "plus_code": {
+        "compound_code": "P3V8+QP Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V8+QP"
+      },
+      "rating": 3.4,
+      "reference": "ChIJ_yOA0C1ZwokRjbc9j_S_S78",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "3202 Queens Boulevard, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74207689999999,
+          "lng": -73.9411774
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74350423029149,
+            "lng": -73.93985356970849
+          },
+          "southwest": {
+            "lat": 40.7408062697085,
+            "lng": -73.94255153029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Larkin Cold Storage",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107291480348467784818\">kamal minhas</a>"
+          ],
+          "photo_reference": "AeJbb3emPq7DSoWxPthdpk5f9UqpfKLEFpNWGh0TpfSsxapdQdlGyEq61gw0plxJdZCjShfMA0MuyarnFrSxPrkYjEFo4yTBHWHJLcof3uUDpmG2Lk5oPGu6I6hNBEkW0by2ltqON2hNnSFENNS2hefimRzjWIeDGOO98glxy8P_49XqOT38",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJs4HVMSxZwokRA2uiMlABL8k",
+      "plus_code": {
+        "compound_code": "P3R5+RG Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3R5+RG"
+      },
+      "rating": 4.5,
+      "reference": "ChIJs4HVMSxZwokRA2uiMlABL8k",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "4755 27th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.742804,
+          "lng": -73.9363744
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74417683029149,
+            "lng": -73.93523536970851
+          },
+          "southwest": {
+            "lat": 40.74147886970849,
+            "lng": -73.93793333029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Trans Core",
+      "place_id": "ChIJh36Cta1ZwokRzNlWpL5-Gy0",
+      "plus_code": {
+        "compound_code": "P3V7+4F Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V7+4F"
+      },
+      "rating": 5,
+      "reference": "ChIJh36Cta1ZwokRzNlWpL5-Gy0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "30-30 47th Avenue #420, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.739455,
+          "lng": -73.936054
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7408353802915,
+            "lng": -73.9344712697085
+          },
+          "southwest": {
+            "lat": 40.7381374197085,
+            "lng": -73.9371692302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "OCS America Inc",
+      "place_id": "ChIJ-fsiTi1ZwokRmhC7k9Ho5mM",
+      "plus_code": {
+        "compound_code": "P3Q7+QH Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3Q7+QH"
+      },
+      "reference": "ChIJ-fsiTi1ZwokRmhC7k9Ho5mM",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4927 31st Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7408958,
+          "lng": -73.9368132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74244408029151,
+            "lng": -73.93538446970851
+          },
+          "southwest": {
+            "lat": 40.73974611970851,
+            "lng": -73.93808243029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hugh O'Kane Electric",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105992039693696956779\">Hugh O&#39;Kane Electric</a>"
+          ],
+          "photo_reference": "AeJbb3fcc88hwUtI1NJ5GXCVhfjglwQFAR2Uqq4K4aEuYW3LjCcrxDY3m36Zq3R36jaikyZquWfuUcVaYsz4k-cbH_0ZuOI72KkXsEAIwrBlYiwAEGEnbLLQuIaZCGaoQlWBFESgi1zvOCusXVuEbeIH-DFb3BYsAlvFqig6UM2sjAAe1seY",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJuXmHKNNewokRm90zOD97XsA",
+      "plus_code": {
+        "compound_code": "P3R7+97 New York, NY, USA",
+        "global_code": "87G8P3R7+97"
+      },
+      "rating": 3,
+      "reference": "ChIJuXmHKNNewokRm90zOD97XsA",
+      "scope": "GOOGLE",
+      "types": [
+        "electrician",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "30-40 48th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7431662,
+          "lng": -73.93831940000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7444875802915,
+            "lng": -73.9369361697085
+          },
+          "southwest": {
+            "lat": 40.74178961970851,
+            "lng": -73.93963413029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E&J Moving Service",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118174462257099282915\">michelle vazquez</a>"
+          ],
+          "photo_reference": "AeJbb3e-bB12UdPbbPs0FnZUELwD4UYeD7-QcHx0cqD71mCXKNAy2-JEJHDKu-ibT-JjjRlX69mg2ffo-zK6cdCQfXV3zIyJxer6b5ikPTE5QI0Gka-tQ_EyOTDRnMKbpy5Z1L6qu3ymOCgaIrT8tBSMPXOp-jPo4BmmaWUd7bqG8GkJFzvt",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJkS1kjyxZwokRIm92kaTfbKw",
+      "plus_code": {
+        "compound_code": "P3V6+7M Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3V6+7M"
+      },
+      "reference": "ChIJkS1kjyxZwokRIm92kaTfbKw",
+      "scope": "GOOGLE",
+      "types": [
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4732 29th Street #A, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74243559999999,
+          "lng": -73.9329549
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74379508029149,
+            "lng": -73.93166586970851
+          },
+          "southwest": {
+            "lat": 40.74109711970849,
+            "lng": -73.93436383029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Concord Electronics Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJxxOqy5pZwokRuw0k83ZT5ws",
+      "plus_code": {
+        "compound_code": "P3R8+XR Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3R8+XR"
+      },
+      "reference": "ChIJxxOqy5pZwokRuw0k83ZT5ws",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3300 47th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74195479999999,
+          "lng": -73.9357452
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74335918029149,
+            "lng": -73.93453286970849
+          },
+          "southwest": {
+            "lat": 40.7406612197085,
+            "lng": -73.9372308302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "AlliedMedix Resources Inc",
+      "place_id": "ChIJn5hSOdRewokRklmMjh5D4Lg",
+      "plus_code": {
+        "compound_code": "P3R7+QP Long Island City, Queens, NY, USA",
+        "global_code": "87G8P3R7+QP"
+      },
+      "rating": 4.7,
+      "reference": "ChIJn5hSOdRewokRklmMjh5D4Lg",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "3100 47th Avenue #2120d, Long Island City"
+    }
+  ],
+  "status": "OK"
+}

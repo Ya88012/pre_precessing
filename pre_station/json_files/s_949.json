@@ -1,0 +1,2274 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3eV9RsxdXjI2SJvHz-MMysN5qjoClgQ5ndWZhAXf_eQtJQyy0VSW99Fu9EVyDhrrYun4JyG8E1s0vNFlBA108iy9obsAVW5Z2jwyDM5Lu4YRSwyl16Qw19pgIJA_XvgWCmB6YMknO7oLt_qc74jXp1tKVjtKeoj_WQYn0TfqHohMtBy",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434675,
+          "lng": -73.9110798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448444802915,
+            "lng": -73.9096536197085
+          },
+          "southwest": {
+            "lat": 40.84214651970851,
+            "lng": -73.9123515802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "BronxCare Health System",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114376610197427481121\">Yamil Pena</a>"
+          ],
+          "photo_reference": "AeJbb3cLmzl8lHaEVIlPnDB67fIz4-j2s50ocTtORTAZRCdZmZmbWXduPWumGU-jEUE-iWXWfchOZ0DmemyAU5TY5WGjpGKVbKVFpT6u9ELad2NRDohiObMofXwAS3l5CiFC0ybXPK-g71t9tt46OA20OdzIMg02fbWv7lK0huKsoMMEzRBr",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJOWaslk_0wokRC6fbHVFa4aE",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "rating": 2.6,
+      "reference": "ChIJOWaslk_0wokRC6fbHVFa4aE",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 466,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434675,
+          "lng": -73.9110798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448626302915,
+            "lng": -73.9100074697085
+          },
+          "southwest": {
+            "lat": 40.8421646697085,
+            "lng": -73.91270543029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Maria M. Emerson, MD",
+      "place_id": "ChIJ_zgzHUD0wokR0LQh8daMOcA",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "rating": 4,
+      "reference": "ChIJ_zgzHUD0wokR0LQh8daMOcA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84343380000001,
+          "lng": -73.91118139999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448457802915,
+            "lng": -73.91005826970849
+          },
+          "southwest": {
+            "lat": 40.8421478197085,
+            "lng": -73.91275623029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Jay L. Lombard, MD",
+      "place_id": "ChIJ_zgzHUD0wokR17d_YBCLRWo",
+      "plus_code": {
+        "compound_code": "R3VQ+9G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3VQ+9G"
+      },
+      "rating": 5,
+      "reference": "ChIJ_zgzHUD0wokR17d_YBCLRWo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8433269,
+          "lng": -73.91117919999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8447923302915,
+            "lng": -73.9100571697085
+          },
+          "southwest": {
+            "lat": 40.84209436970851,
+            "lng": -73.91275513029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Myoung J. Kim, MD",
+      "place_id": "ChIJ_zgzHUD0wokRpImelF4RvqE",
+      "plus_code": {
+        "compound_code": "R3VQ+8G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3VQ+8G"
+      },
+      "reference": "ChIJ_zgzHUD0wokRpImelF4RvqE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84343380000001,
+          "lng": -73.91118139999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448457802915,
+            "lng": -73.91005826970849
+          },
+          "southwest": {
+            "lat": 40.8421478197085,
+            "lng": -73.91275623029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Eduard Sklyar, MD",
+      "place_id": "ChIJy12SH0D0wokRRFykPFkMvPI",
+      "plus_code": {
+        "compound_code": "R3VQ+9G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3VQ+9G"
+      },
+      "rating": 3.7,
+      "reference": "ChIJy12SH0D0wokRRFykPFkMvPI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84352809999999,
+          "lng": -73.9114707
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448929302915,
+            "lng": -73.9102029197085
+          },
+          "southwest": {
+            "lat": 40.84219496970851,
+            "lng": -73.9129008802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bronx Lebanon Hospital:Gastroenterology Department",
+      "place_id": "ChIJ_zgzHUD0wokRWyJBjH4-kAY",
+      "plus_code": {
+        "compound_code": "R3VQ+CC \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+CC"
+      },
+      "rating": 3.5,
+      "reference": "ChIJ_zgzHUD0wokRWyJBjH4-kAY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8435144,
+          "lng": -73.9112572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448980302915,
+            "lng": -73.9100922197085
+          },
+          "southwest": {
+            "lat": 40.8422000697085,
+            "lng": -73.91279018029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jonathan Bella, M.D.",
+      "place_id": "ChIJ_zgzHUD0wokRb3DHWs8C_h4",
+      "plus_code": {
+        "compound_code": "R3VQ+CF \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+CF"
+      },
+      "reference": "ChIJ_zgzHUD0wokRb3DHWs8C_h4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse #12, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Nahar Tamanna MD",
+      "place_id": "ChIJ_zgzHUD0wokR1sKleR9tEvg",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "rating": 5,
+      "reference": "ChIJ_zgzHUD0wokR1sKleR9tEvg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434114,
+          "lng": -73.9111677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448345802915,
+            "lng": -73.9100514197085
+          },
+          "southwest": {
+            "lat": 40.8421366197085,
+            "lng": -73.9127493802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Husayn J. Al-Husayni, MD",
+      "place_id": "ChIJ_zgzHUD0wokR8oM9uakVZIY",
+      "plus_code": {
+        "compound_code": "R3VQ+9G \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+9G"
+      },
+      "reference": "ChIJ_zgzHUD0wokR8oM9uakVZIY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Adeniyi Ayodde O MD",
+      "place_id": "ChIJ_zgzHUD0wokR6moFvhYbsMg",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR6moFvhYbsMg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434114,
+          "lng": -73.9111677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448345802915,
+            "lng": -73.9100514197085
+          },
+          "southwest": {
+            "lat": 40.8421366197085,
+            "lng": -73.9127493802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Margaret L. Meyer, MD",
+      "place_id": "ChIJ_zgzHUD0wokRVADsT75cN28",
+      "plus_code": {
+        "compound_code": "R3VQ+9G \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+9G"
+      },
+      "reference": "ChIJ_zgzHUD0wokRVADsT75cN28",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Heidi Dupret, MD",
+      "place_id": "ChIJ_zgzHUD0wokRzgXg8j_AIfE",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRzgXg8j_AIfE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434114,
+          "lng": -73.9111676
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448345802915,
+            "lng": -73.9100513697085
+          },
+          "southwest": {
+            "lat": 40.8421366197085,
+            "lng": -73.9127493302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Feng Jimmy MD",
+      "place_id": "ChIJ_zgzHUD0wokRFZg_9RqqdZ4",
+      "plus_code": {
+        "compound_code": "R3VQ+9G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3VQ+9G"
+      },
+      "reference": "ChIJ_zgzHUD0wokRFZg_9RqqdZ4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434114,
+          "lng": -73.9111676
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448345802915,
+            "lng": -73.9100513697085
+          },
+          "southwest": {
+            "lat": 40.8421366197085,
+            "lng": -73.9127493302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tricia Chan, M.D.",
+      "place_id": "ChIJ_zgzHUD0wokR_2PNNYIHwQ8",
+      "plus_code": {
+        "compound_code": "R3VQ+9G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3VQ+9G"
+      },
+      "rating": 5,
+      "reference": "ChIJ_zgzHUD0wokR_2PNNYIHwQ8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8446551802915,
+            "lng": -73.9094666197085
+          },
+          "southwest": {
+            "lat": 40.8419572197085,
+            "lng": -73.9121645802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Verna Yves G MD",
+      "place_id": "ChIJ_zgzHUD0wokRosLSKAV4MMM",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRosLSKAV4MMM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse # 6F, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ledewitz Benjamin M MD",
+      "place_id": "ChIJ_zgzHUD0wokRCFjd4MtcJnM",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRCFjd4MtcJnM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cuevas Juana L MD",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ_zgzHUD0wokRPgBxEhRKBjw",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "rating": 5,
+      "reference": "ChIJ_zgzHUD0wokRPgBxEhRKBjw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Andrzej Riess, MD",
+      "place_id": "ChIJ_zgzHUD0wokR9mrW5Vwht3s",
+      "plus_code": {
+        "compound_code": "R3VQ+9H \u7f8e\u570b\u7d10\u7d04\u5e03\u6717\u514b\u65af",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR9mrW5Vwht3s",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8519547,
+          "lng": -73.90070899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91527805889627,
+            "lng": -73.86840408623851
+          },
+          "southwest": {
+            "lat": 40.79678004393696,
+            "lng": -73.93340593816593
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West Bronx",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113738462812435835913\">Alex Lin</a>"
+          ],
+          "photo_reference": "AeJbb3cylHTKZY2EsqUrKM0WluT_uihZZSIx4xvQby6L0ZcGEIFxkUfzXwylv6tc3C7yStyali7pnk0Npdk4ZKoyyDZ5YY9Lhv5QY4YiNScIRlarpjGb987lNlTbwRKNbFB5xT9_kVtDJk91TxBfMJ8vyQnRvmvW0xJsOCBeJGw-c8cBjEEN",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "reference": "ChIJWdLZpnD0wokRgikpekRYd9o",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84344189999999,
+          "lng": -73.91117299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448498302915,
+            "lng": -73.9100540697085
+          },
+          "southwest": {
+            "lat": 40.8421518697085,
+            "lng": -73.9127520302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tieng Arlene T MD",
+      "place_id": "ChIJ_zgzHUD0wokRnwyR3Gtg6kU",
+      "plus_code": {
+        "compound_code": "R3VQ+9G New York, NY, USA",
+        "global_code": "87G8R3VQ+9G"
+      },
+      "rating": 3,
+      "reference": "ChIJ_zgzHUD0wokRnwyR3Gtg6kU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434663,
+          "lng": -73.911181
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448620302915,
+            "lng": -73.9100580697085
+          },
+          "southwest": {
+            "lat": 40.8421640697085,
+            "lng": -73.9127560302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Coffey John P MD",
+      "place_id": "ChIJ_zgzHUD0wokRiYlVJQK7eM0",
+      "plus_code": {
+        "compound_code": "R3VQ+9G New York, NY, USA",
+        "global_code": "87G8R3VQ+9G"
+      },
+      "reference": "ChIJ_zgzHUD0wokRiYlVJQK7eM0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Sara Karimi, MD",
+      "place_id": "ChIJ_zgzHUD0wokRj2S7iuZrWnY",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRj2S7iuZrWnY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8435144,
+          "lng": -73.9112572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448860802915,
+            "lng": -73.9100961697085
+          },
+          "southwest": {
+            "lat": 40.8421881197085,
+            "lng": -73.91279413029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Abayomi Salako, M.D.",
+      "place_id": "ChIJ_zgzHUD0wokRTXEd5kTIZYM",
+      "plus_code": {
+        "compound_code": "R3VQ+CF New York, NY, USA",
+        "global_code": "87G8R3VQ+CF"
+      },
+      "rating": 5,
+      "reference": "ChIJ_zgzHUD0wokRTXEd5kTIZYM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8435144,
+          "lng": -73.9112572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448860802915,
+            "lng": -73.9100961697085
+          },
+          "southwest": {
+            "lat": 40.8421881197085,
+            "lng": -73.91279413029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walid Zaza, M.D.",
+      "place_id": "ChIJ_zgzHUD0wokRbZ8QFVGDvNA",
+      "plus_code": {
+        "compound_code": "R3VQ+CF New York, NY, USA",
+        "global_code": "87G8R3VQ+CF"
+      },
+      "reference": "ChIJ_zgzHUD0wokRbZ8QFVGDvNA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8435144,
+          "lng": -73.9112572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448980302915,
+            "lng": -73.9100922197085
+          },
+          "southwest": {
+            "lat": 40.8422000697085,
+            "lng": -73.91279018029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Aruna Mishra, MD, FACOG",
+      "place_id": "ChIJ_zgzHUD0wokRxNsORxT5Z8g",
+      "plus_code": {
+        "compound_code": "R3VQ+CF The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+CF"
+      },
+      "reference": "ChIJ_zgzHUD0wokRxNsORxT5Z8g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse #12, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8435144,
+          "lng": -73.9112572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8448860802915,
+            "lng": -73.9100961697085
+          },
+          "southwest": {
+            "lat": 40.8421881197085,
+            "lng": -73.91279413029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Charles Martinez, M.D.",
+      "place_id": "ChIJ_zgzHUD0wokRiV65ieVVWG4",
+      "plus_code": {
+        "compound_code": "R3VQ+CF New York, NY, USA",
+        "global_code": "87G8R3VQ+CF"
+      },
+      "rating": 1,
+      "reference": "ChIJ_zgzHUD0wokRiV65ieVVWG4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Nadeem Shabbir, MD",
+      "place_id": "ChIJ_zgzHUD0wokRFSnSR_x5feg",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRFSnSR_x5feg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Hernan Valdez, MD",
+      "place_id": "ChIJSxYgnWr0wokRK-a3MnJuM68",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJSxYgnWr0wokRK-a3MnJuM68",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Eliot N. Heller, MD",
+      "place_id": "ChIJ_zgzHUD0wokRAriSkGFdBLg",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRAriSkGFdBLg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Stacy M. Nunberg, MD",
+      "place_id": "ChIJ_zgzHUD0wokRg9m0qLM_vCE",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRg9m0qLM_vCE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Kalpana A Uday",
+      "place_id": "ChIJ_zgzHUD0wokRiuF-t78-9yo",
+      "plus_code": {
+        "compound_code": "R3VQ+9H New York, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRiuF-t78-9yo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bronx Lebanon Hospital: Awad Amir T MD",
+      "place_id": "ChIJ_zgzHUD0wokRV0SkRpC4leU",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRV0SkRpC4leU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Chantal Simpson, MD",
+      "place_id": "ChIJ_zgzHUD0wokRUFLxV2wqpVs",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRUFLxV2wqpVs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Santana Domingo A MD",
+      "place_id": "ChIJ_zgzHUD0wokRi0Fv0_p_Yfg",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRi0Fv0_p_Yfg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Monther Sharif, MD",
+      "place_id": "ChIJ_zgzHUD0wokR4LlVeZht3z0",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR4LlVeZht3z0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Christina R. Flores, MD",
+      "place_id": "ChIJ_zgzHUD0wokRX_u8Mae3zcc",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRX_u8Mae3zcc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Patel Madanmohan MD",
+      "place_id": "ChIJ_zgzHUD0wokRYPhs56QkSDE",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "rating": 2,
+      "reference": "ChIJ_zgzHUD0wokRYPhs56QkSDE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Masooma Niazi, MD",
+      "place_id": "ChIJ_zgzHUD0wokR3djshe0seDM",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR3djshe0seDM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. John P. Magnan, MD",
+      "place_id": "ChIJ_zgzHUD0wokRXk78ELQxu6o",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "rating": 5,
+      "reference": "ChIJ_zgzHUD0wokRXk78ELQxu6o",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Parker Kathryn Suz MD",
+      "place_id": "ChIJ_zgzHUD0wokRwFYl3944USU",
+      "plus_code": {
+        "compound_code": "R3VQ+9H New York, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRwFYl3944USU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Elizabeth Tillem, MD",
+      "place_id": "ChIJ_zgzHUD0wokRNHYrT_6jTAg",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRNHYrT_6jTAg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Barbara K. Russell, DO",
+      "place_id": "ChIJ_zgzHUD0wokR7z6If5h1HsQ",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR7z6If5h1HsQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Maehee H. Kim, MD",
+      "place_id": "ChIJ_zgzHUD0wokRAkVqGn1v3-4",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRAkVqGn1v3-4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bronx Lebanon Hospital: Lugo Mirian D MD",
+      "place_id": "ChIJ_zgzHUD0wokRhKQCpiij4MI",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRhKQCpiij4MI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Laura Daugialaite, MD",
+      "place_id": "ChIJ_zgzHUD0wokRxhft4n79IAo",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRxhft4n79IAo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Pushpa Nadgir, MD",
+      "place_id": "ChIJ_zgzHUD0wokRyw6jeVAimdY",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRyw6jeVAimdY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bronx Lebanon Hospital: Alvarez Ricardo MD",
+      "place_id": "ChIJ_zgzHUD0wokRRw1jAedFVzw",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRRw1jAedFVzw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Balar Bhavna MD",
+      "place_id": "ChIJ_zgzHUD0wokRNZQBGaalRHQ",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRNZQBGaalRHQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "John C. Loraditch, MD",
+      "place_id": "ChIJ_zgzHUD0wokRn-OYTS5CVzs",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRn-OYTS5CVzs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. James Chien, MD",
+      "place_id": "ChIJ_zgzHUD0wokRRik-tXPOmYc",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRRik-tXPOmYc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Shahin A. Gharib, MD",
+      "place_id": "ChIJ_zgzHUD0wokR_40O-YUml0g",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR_40O-YUml0g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Craig Mochson, MD",
+      "place_id": "ChIJ_zgzHUD0wokRu2qJy__0CF8",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRu2qJy__0CF8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bronx Lebanon Hospital: Rahman Arif MD",
+      "place_id": "ChIJ_zgzHUD0wokR2aPSmECCTP8",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR2aPSmECCTP8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bronx Lebanon Hospital: Ahmadi Arshanoush MD",
+      "place_id": "ChIJ_zgzHUD0wokRdo0O7_volu8",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRdo0O7_volu8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bronx Lebanon Hospital: Case Lisa M MD",
+      "place_id": "ChIJ_zgzHUD0wokRwx9x-xJ506g",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRwx9x-xJ506g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Mourad B. Samaan, MD",
+      "place_id": "ChIJ_zgzHUD0wokRtI30uOlkKmk",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRtI30uOlkKmk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Calderon Dinorah MD",
+      "place_id": "ChIJ_zgzHUD0wokR9AEoE3Itn78",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR9AEoE3Itn78",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Coley Katherine P MD",
+      "place_id": "ChIJ_zgzHUD0wokR6QAU0JcnGAE",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokR6QAU0JcnGAE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8434664,
+          "lng": -73.91103509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84486208029151,
+            "lng": -73.9099851197085
+          },
+          "southwest": {
+            "lat": 40.84216411970851,
+            "lng": -73.9126830802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Ghassan E. Keriaky, MD",
+      "place_id": "ChIJ_zgzHUD0wokRp6pcKdXEXIk",
+      "plus_code": {
+        "compound_code": "R3VQ+9H The Bronx, NY, USA",
+        "global_code": "87G8R3VQ+9H"
+      },
+      "reference": "ChIJ_zgzHUD0wokRp6pcKdXEXIk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1650 Grand Concourse, The Bronx"
+    }
+  ],
+  "status": "OK"
+}

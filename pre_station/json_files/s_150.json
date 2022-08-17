@@ -1,0 +1,2800 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3dHqq5EaLr4T07Jzy7zWr45uiE04tzULfXMpaRryWDuWd3YMRmG7AaI1AYpLxUkjwBNWXKLE4jRQ3KxLhMpNF5tJlxMoiNkCD7WuKiR4SDjcfPG5dzF2d1MVuR36aedc8xu9WhiJFRRRTqr54jcWAhR3AL9EMGSUk-2plidA-KRe1-Q",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7303744,
+          "lng": -73.9545461
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7317310302915,
+            "lng": -73.95307691970848
+          },
+          "southwest": {
+            "lat": 40.7290330697085,
+            "lng": -73.9557748802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jack David Barchas, M.D.",
+      "place_id": "ChIJu7sYmMNYwokRXQfzRqh10mQ",
+      "plus_code": {
+        "compound_code": "P2JW+45 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2JW+45"
+      },
+      "reference": "ChIJu7sYmMNYwokRXQfzRqh10mQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7318203,
+          "lng": -73.95813509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73317953029149,
+            "lng": -73.95667671970848
+          },
+          "southwest": {
+            "lat": 40.73048156970849,
+            "lng": -73.9593746802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Shanghai Lee",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107243238858429294338\">James Russo</a>"
+          ],
+          "photo_reference": "AeJbb3eQQTRASCQ_9gYL1vOrrf2VioxMp0lhqXcfOEXvEmIKBp-PGQk509h9oOFZmQAjwU0P5HPO07-1TCY0y-9dBLoxrhnl6FpFGxNy2SKY-X8RPrLWwT7blpOTM00TjgetowEsf252sfGOavs28FM_Alx1RfwLw31RwWjmm0xd__XKw12A",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJP5pM9T9ZwokRCKcaiDkyP-g",
+      "plus_code": {
+        "compound_code": "P2JR+PP \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8P2JR+PP"
+      },
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "ChIJP5pM9T9ZwokRCKcaiDkyP-g",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 87,
+      "vicinity": "157 Franklin Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73326,
+          "lng": -73.9570619
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73478173029149,
+            "lng": -73.9554014697085
+          },
+          "southwest": {
+            "lat": 40.7320837697085,
+            "lng": -73.95809943029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Better World Advertising",
+      "place_id": "ChIJbyxmpD9ZwokRp-cZFRiDC4o",
+      "plus_code": {
+        "compound_code": "P2MV+85 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2MV+85"
+      },
+      "rating": 5,
+      "reference": "ChIJbyxmpD9ZwokRp-cZFRiDC4o",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "110 Green Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.729615,
+          "lng": -73.95855200000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73104823029149,
+            "lng": -73.9572370697085
+          },
+          "southwest": {
+            "lat": 40.72835026970849,
+            "lng": -73.9599350302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Paulie Gee's",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107146711858841264424\">Paulie Gee&#39;s</a>"
+          ],
+          "photo_reference": "AeJbb3fUO8d_3ajkTCOI4zDyj76XYn6UID6QMeW3xEakPFDEM04UPHxBfjlGjEbDmy1gh3aw_synULO7xBeULfTuf7JeJN4Y0VLEM8jlgTzCfAARZWfEhXoyHfh59mg9BH9MFLaY0bPSejFEzWAEhg9tWYo298Y5qkc0I5Y0un3Ls6rnfc63",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJuc8AM0BZwokRtpm2S66ltsE",
+      "plus_code": {
+        "compound_code": "P2HR+RH \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2HR+RH"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJuc8AM0BZwokRtpm2S66ltsE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1319,
+      "vicinity": "60 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.730412,
+          "lng": -73.95374129999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7316824302915,
+            "lng": -73.95237896970849
+          },
+          "southwest": {
+            "lat": 40.7289844697085,
+            "lng": -73.95507693029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Chinese Musician",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115481157564608627256\">Ramon Trotman</a>"
+          ],
+          "photo_reference": "AeJbb3clICaG5N9FlE65DPLK91Oa2PHXJ1FWk_8qIeO_DoLavegkPAWn2Iys5-BIaHUcmbCU7ORaDbkOeB-XnFcvzvoIUe69JFVU_rm1jzvSYONxWK4BFamIsbL7lJMpCIglhL5ViPgIkuZ6iY0DjKWMxw4SvTffHFReMfjcCfh5T_yPvkFs",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJa8oQs0BZwokREzE3DfdPTvs",
+      "plus_code": {
+        "compound_code": "P2JW+5G \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2JW+5G"
+      },
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "ChIJa8oQs0BZwokREzE3DfdPTvs",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 148,
+      "vicinity": "151 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72863189999999,
+          "lng": -73.959301
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72999248029149,
+            "lng": -73.9578398697085
+          },
+          "southwest": {
+            "lat": 40.7272945197085,
+            "lng": -73.9605378302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Manuel Saez & Partners",
+      "place_id": "ChIJh8Ih2kFZwokR8d7ps3cMfd0",
+      "plus_code": {
+        "compound_code": "P2HR+F7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2HR+F7"
+      },
+      "reference": "ChIJh8Ih2kFZwokR8d7ps3cMfd0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "67 West Street #317, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72979900000001,
+          "lng": -73.95568949999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73127968029151,
+            "lng": -73.95436266970849
+          },
+          "southwest": {
+            "lat": 40.72858171970851,
+            "lng": -73.9570606302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ivan Grunberger, MD",
+      "photos": [
+        {
+          "height": 405,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110886935388234910076\">Ivan Grunberger, MD</a>"
+          ],
+          "photo_reference": "AeJbb3cQx3S60ZddMaGiI8gZnxGCe4KtGsiEU1aiUZpvuwQAOTUIdIBVoe709mLmqLOUSARqDjc51Dn6i6StPiChNchbiBF5heE3b_0BIfHE_8fphPgvYRyEPP7Q4L1nMZDGKb-08ue-1Mzp9Pvnmxp4g3P7O6PN57SpD_xcG8qhlimEalGn",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJRSSaZGZbwokRp7IhJlO4i6A",
+      "plus_code": {
+        "compound_code": "P2HV+WP \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8P2HV+WP"
+      },
+      "rating": 1,
+      "reference": "ChIJRSSaZGZbwokRp7IhJlO4i6A",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "126 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7296422,
+          "lng": -73.9577802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73102273029151,
+            "lng": -73.9563226197085
+          },
+          "southwest": {
+            "lat": 40.72832476970851,
+            "lng": -73.95902058029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Franklin Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113350063575469848088\">Franklin Pizza</a>"
+          ],
+          "photo_reference": "AeJbb3cx4TMklFmzyyzl_i_ATVklFbBMNvwpCaJeZNTBSnZp4zXpFJPZkk8T5voHi4nOtJYH5N4McARv_cVrb2JZmTqOFNiO3KYON_D4hsx4UmERSqrHoedZUdBse-WXpAbxkOp4rFEQm6KWtGBiZLtDGLcfigaR-uiFmtvkJFP5g-cwHKjt",
+          "width": 666
+        }
+      ],
+      "place_id": "ChIJ73BGSUBZwokRr58FLy5IJXc",
+      "plus_code": {
+        "compound_code": "P2HR+VV \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8P2HR+VV"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJ73BGSUBZwokRr58FLy5IJXc",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 105,
+      "vicinity": "109 Franklin Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.728621,
+          "lng": -73.95955239999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72999443029151,
+            "lng": -73.95796686970849
+          },
+          "southwest": {
+            "lat": 40.72729646970851,
+            "lng": -73.96066483029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Get2Living",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113654248841215748619\">Attilio La Manna</a>"
+          ],
+          "photo_reference": "AeJbb3fmkSzHeh_S79YdPGBfXP0XiqyJV15A-JEAq2pGiXHvdhWP-Wu5FFx0Wf37Y_vssmwoEjMlq9WpEvtDxi_8M8HuR7r1fKjftUhrngbkZAdYzaMJYoDMWZWNXSzttbBurh1NuFf62BiOFu7EB4vErt_DLm4jRAKd9QcRFEgOzsnw5o8_",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJh8Ih2kFZwokRAnNLwx1IHTI",
+      "plus_code": {
+        "compound_code": "P2HR+C5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2HR+C5"
+      },
+      "reference": "ChIJh8Ih2kFZwokRAnNLwx1IHTI",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "67 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7331806,
+          "lng": -73.9596202
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73454868029149,
+            "lng": -73.95836771970849
+          },
+          "southwest": {
+            "lat": 40.7318507197085,
+            "lng": -73.96106568029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Achilles Heel",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 347,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110385968610681158309\">Achilles Heel</a>"
+          ],
+          "photo_reference": "AeJbb3d7FotISUfoMN7roLeYKzA4h6sTdrujoaHiFi5DmqcrKyZ816OGfO3XIs_Wit13Z8Bd88M91O-M2pNf2ZgoXiKwq9qe_kQU1aie99aOGWcRceWlkXwe0AbpDyW8K_PNOGa-zzr35eE8jPkOF389-5LY4gmIHmANY6Tg_6_3fJJUSjpH",
+          "width": 617
+        }
+      ],
+      "place_id": "ChIJfelAXhVZwokRphnsZ_Or_o8",
+      "plus_code": {
+        "compound_code": "P2MR+75 \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8P2MR+75"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJfelAXhVZwokRphnsZ_Or_o8",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 295,
+      "vicinity": "180 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7299969,
+          "lng": -73.9551152
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7314065302915,
+            "lng": -73.9537763197085
+          },
+          "southwest": {
+            "lat": 40.7287085697085,
+            "lng": -73.9564742802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Karczma",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1371,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109933326447207810636\">Karczma</a>"
+          ],
+          "photo_reference": "AeJbb3dwGzClywxESn2g_D9YxonAakDw5YnwYuHEPeQwzjCzAujSSgKTWFN1Y6OyS3MNzmOKO79-KC_1hw5KGoNDIuosp05D0NRZoxf0NOoo-O0_AH_S0dw4jUrTimgvsispLdMwD1hEFq9y4zwXVj9MSMXIubl6mXlic8w76BWzg-u_DQAH",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ9d0I6kBZwokRHVwTlrpWxss",
+      "plus_code": {
+        "compound_code": "P2HV+XX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2HV+XX"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJ9d0I6kBZwokRHVwTlrpWxss",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1728,
+      "vicinity": "136 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73,
+          "lng": -73.9580737
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7312684302915,
+            "lng": -73.9567157697085
+          },
+          "southwest": {
+            "lat": 40.7285704697085,
+            "lng": -73.95941373029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Highview Creations",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2396,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108507511230828005714\">Highview Creations</a>"
+          ],
+          "photo_reference": "AeJbb3eKkwQfOJSAv9isCkyzslQ1dOP_-0STpP5GG5hBLvPekbIrqcEQyjz9F-cwNAC7qL6yr50j2ufEEvxP-PeADM25QpEN0DwiE99IEsbLEjoYJm4Peip5uhMoUIlV38b1ngJxZtCOY-5P0pfAa9VqLhgxrrj4Z7crTFSXbkmHjqF0NB2j",
+          "width": 2396
+        }
+      ],
+      "place_id": "ChIJDeg3dopZwokRaFSQl8-BBTs",
+      "plus_code": {
+        "compound_code": "P2HR+XQ \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8P2HR+XQ"
+      },
+      "rating": 5,
+      "reference": "ChIJDeg3dopZwokRaFSQl8-BBTs",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "61 Greenpoint Avenue Suite 648, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7300301,
+          "lng": -73.9584378
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7312664302915,
+            "lng": -73.95706841970849
+          },
+          "southwest": {
+            "lat": 40.7285684697085,
+            "lng": -73.9597663802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gerry Smith Architect",
+      "place_id": "ChIJh8Ih2kFZwokRJbOQJRAeq2U",
+      "plus_code": {
+        "compound_code": "P2JR+2J \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8P2JR+2J"
+      },
+      "rating": 1,
+      "reference": "ChIJh8Ih2kFZwokRJbOQJRAeq2U",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "61 Greenpoint Avenue #207, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7332398,
+          "lng": -73.9579327
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7346036302915,
+            "lng": -73.95669421970851
+          },
+          "southwest": {
+            "lat": 40.7319056697085,
+            "lng": -73.95939218029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Anella",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100186303246675118847\">Anella</a>"
+          ],
+          "photo_reference": "AeJbb3dPFHadGCegyaUVKd2ESEGUFkCCXbBaLxDpoIR8hqCn9oBOLyytzW1PHhss5bz1P1T4XZEBCjnXERtoTw-t1Lg8MbnhXs1wyvMlnZ5cgc1Iarl9ZdARyJh9X9jSKlJm7i849qT0AL2P52a-SICVzIEKxhF-fDMNqTBTOcji8BDbPUrc",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ553EwD9ZwokRJ6jsBJwTxKw",
+      "plus_code": {
+        "compound_code": "P2MR+7R \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8P2MR+7R"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ553EwD9ZwokRJ6jsBJwTxKw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 331,
+      "vicinity": "222 Franklin Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7301028,
+          "lng": -73.95662779999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7313895302915,
+            "lng": -73.95526216970849
+          },
+          "southwest": {
+            "lat": 40.7286915697085,
+            "lng": -73.9579601302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Black Rabbit",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113989847163904010327\">Juan Gutierrez</a>"
+          ],
+          "photo_reference": "AeJbb3eUIVtcfAdrT3ZJazIty4k7ZCHN4a0rRBZIzNILQAeFalI5fMOGLTqxqeRKBR3_vL00_nt8CUTpPJAC6Apbr6Ks1IGx-oT5ilkRGzyz8IcAv8ZwDttCZWthJnakuYqjefYETGz9AsIrsXXpCuXCa5orcS6QP53ec4HJcM_srQh0Jd3R",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJt5IlX0BZwokR9waXJTw1XhU",
+      "plus_code": {
+        "compound_code": "P2JV+28 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2JV+28"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJt5IlX0BZwokR9waXJTw1XhU",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 228,
+      "vicinity": "91 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7346192,
+          "lng": -73.9551747
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7359843302915,
+            "lng": -73.9537345697085
+          },
+          "southwest": {
+            "lat": 40.7332863697085,
+            "lng": -73.95643253029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "East River Tattoo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109337141917151113571\">Jason Silverstein</a>"
+          ],
+          "photo_reference": "AeJbb3c09alTM8rO7ybZAzHU8IFyMbcOoLHFRgq4THVogkeF3C9LoeU-4ohrC7S2bwj6dzb2HQwpCNdm5AzjHBUB6H1qvEJecqJFurL4LOD9wnqUOoaYIHIpLOR35GvGNBQNRkeU1o0IzoN_n4A09zfyNDv-ZoVJHFaFqbZUHOS-YuJPXeyV",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJm4ozQUBZwokRh_Sm6tCDqJs",
+      "plus_code": {
+        "compound_code": "P2MV+RW \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2MV+RW"
+      },
+      "rating": 4.8,
+      "reference": "ChIJm4ozQUBZwokRh_Sm6tCDqJs",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 73,
+      "vicinity": "1047 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.730324,
+          "lng": -73.9582561
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73177993029149,
+            "lng": -73.95692471970848
+          },
+          "southwest": {
+            "lat": 40.7290819697085,
+            "lng": -73.9596226802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Karl Bednarek, MD",
+      "photos": [
+        {
+          "height": 999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109006931305280623911\">Karl Bednarek, MD</a>"
+          ],
+          "photo_reference": "AeJbb3eXqHLAd7JEcFE-zNAJgUAe8RZOEHOQBktzcLE3B8CYG4uEfgKkYKvAObm9TRKgKRAScvd20w9hMZ32GnPluvmdzAlw1f7FvFhZxTyTSMtGS0xa0hoAPvZDY57CjyWdENW6oOUy-P_gLGbtyGRDFMeE2Uhb9RFFdFMc5DYBoQHyLJy3",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJnb8jVj9ZwokRpNoKbpbmqd4",
+      "plus_code": {
+        "compound_code": "P2JR+4M \u7f8e\u570b\u7d10\u7d04\u5e03\u9c81\u514b\u6797",
+        "global_code": "87G8P2JR+4M"
+      },
+      "rating": 3.6,
+      "reference": "ChIJnb8jVj9ZwokRpNoKbpbmqd4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "74 Kent Street Lower Level, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7317024,
+          "lng": -73.9546794
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73305883029149,
+            "lng": -73.95324836970849
+          },
+          "southwest": {
+            "lat": 40.7303608697085,
+            "lng": -73.9559463302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Alina Marek, MD",
+      "place_id": "ChIJnb8jVj9ZwokRHYnUnl5yFJU",
+      "plus_code": {
+        "compound_code": "P2JW+M4 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8P2JW+M4"
+      },
+      "rating": 1,
+      "reference": "ChIJnb8jVj9ZwokRHYnUnl5yFJU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.6781784,
+          "lng": -73.9441579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73944597129348,
+            "lng": -73.83336505117123
+          },
+          "southwest": {
+            "lat": 40.55104197967331,
+            "lng": -74.05662998413648
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u5e03\u9c81\u514b\u6797",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114417859579881743500\">Chengxiang Yuan</a>"
+          ],
+          "photo_reference": "AeJbb3chmXSB6l5ZZWjCb1CAMoNMTMw5uiZOmHlRbY7gUaQXajYWyqhqAILOdrgMjY2kz1xcKBwcpJ20iJKwsoSUjtHkOt-bVthw7vsVTz3TghYwN71g9NeQF2Sa5mPbkvo9ip8pKnGdXYYPiizBo0HCd47BNqtYs1Xt5R96j4LnpodiYTWO",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "reference": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "\u5e03\u9c81\u514b\u6797"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7286593,
+          "lng": -73.9592232
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73001568029149,
+            "lng": -73.95780266970849
+          },
+          "southwest": {
+            "lat": 40.72731771970849,
+            "lng": -73.96050063029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Toyoil Studio LLC",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 828,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109127427417790154183\">Toyoil Studio LLC</a>"
+          ],
+          "photo_reference": "AeJbb3fHz47X3dn_5iv6Rp3uo5T3105zNGjLTRNhobdhkyeTcPgIIaLJFfka6WyhBN9lt_2cwt0bpLhKcTU_QqFl5dEyr0uMwP0DroXAAUo3OChABMSUZdhFmzMmwO1mrygdHpTsFYCUYTbkTnSOot-5C2mXmfHpYlnLxLgdBE1U8jq45YDX",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJ9cIh2kFZwokRE9gKZFVXiKo",
+      "plus_code": {
+        "compound_code": "P2HR+F8 New York, NY, USA",
+        "global_code": "87G8P2HR+F8"
+      },
+      "reference": "ChIJ9cIh2kFZwokRE9gKZFVXiKo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "67 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73102859999999,
+          "lng": -73.9579985
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73238108029149,
+            "lng": -73.9565426197085
+          },
+          "southwest": {
+            "lat": 40.7296831197085,
+            "lng": -73.9592405802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pentatonic Guitars",
+      "photos": [
+        {
+          "height": 608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100348206774193085884\">Pentatonic Guitars</a>"
+          ],
+          "photo_reference": "AeJbb3cVTz_nA5g_OAnDiJ5G9tRpF33Em6-A_W4qoM55K3PoVzOLzl70cUvCPBuJu7UFvn4-1YQSWbwt1ElYAzzTJAUR7B1-j9KxFytqJX5mmqU0VeH0rjCzdj0ggSMInYgwxSs4PFkTfwqFB-iOLRwuXd3PnqUc4Ho7Y0x_ve6cYmIDuCEx",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ4dwpE0BZwokROYor1dJpjEg",
+      "plus_code": {
+        "compound_code": "P2JR+CR Brooklyn, NY, USA",
+        "global_code": "87G8P2JR+CR"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ4dwpE0BZwokROYor1dJpjEg",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 49,
+      "vicinity": "139 Franklin Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7286593,
+          "lng": -73.9592232
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73001568029149,
+            "lng": -73.95780266970849
+          },
+          "southwest": {
+            "lat": 40.72731771970849,
+            "lng": -73.96050063029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rebecca Handler Photography",
+      "photos": [
+        {
+          "height": 1289,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116835237837207001438\">Rebecca Handler Photography</a>"
+          ],
+          "photo_reference": "AeJbb3cX8Krg_7eet6NaFLvhlYHMsZUq8f5r13qx7PFODfsQPyp-biT6UFCLUznENLEN1OuES3shIFZKRPjxq2fAhwpKJNNtfe7nmCTTXqmzlhk0ufULqBguZt26XrRv8ZqYuWvgO0y6tJvxvJPDUZeoRvJZwaN48sNa4eHV2FYbgHcHv-I2",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJh8Ih2kFZwokRJomE020HUUs",
+      "plus_code": {
+        "compound_code": "P2HR+F8 Brooklyn, NY, USA",
+        "global_code": "87G8P2HR+F8"
+      },
+      "rating": 5,
+      "reference": "ChIJh8Ih2kFZwokRJomE020HUUs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "67 West Street #524, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7286148,
+          "lng": -73.9593582
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7299834302915,
+            "lng": -73.95786836970849
+          },
+          "southwest": {
+            "lat": 40.72728546970851,
+            "lng": -73.9605663302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Greenpoint Loft",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113609907867126754603\">Mavic DP</a>"
+          ],
+          "photo_reference": "AeJbb3cQGZyDoRAW3gJcny4BBztMWKo3oGA_8w56DSg7g0XG5XM-4JxVrqL8yq8t2_m5CukOeD2AjFzwihmjrfWvJ6wW3NmTRu1UXsaiEltHH2b8GnRFxOJIjqOutDuQKsk3QaC-3hx8gbIn6E-BKxFWRkqe-5U8FvR56HWpvdXChmmEYzwG",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJh8Ih2kFZwokR3AXhKmxJ5Bs",
+      "plus_code": {
+        "compound_code": "P2HR+C7 New York, NY, USA",
+        "global_code": "87G8P2HR+C7"
+      },
+      "rating": 4.6,
+      "reference": "ChIJh8Ih2kFZwokR3AXhKmxJ5Bs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 199,
+      "vicinity": "67 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7288196,
+          "lng": -73.95926349999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7301030302915,
+            "lng": -73.95783586970849
+          },
+          "southwest": {
+            "lat": 40.7274050697085,
+            "lng": -73.9605338302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Al-Hamad Design Studio",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJh8Ih2kFZwokReLj5gbLfGEA",
+      "plus_code": {
+        "compound_code": "P2HR+G7 Brooklyn, NY, USA",
+        "global_code": "87G8P2HR+G7"
+      },
+      "rating": 5,
+      "reference": "ChIJh8Ih2kFZwokReLj5gbLfGEA",
+      "scope": "GOOGLE",
+      "types": [
+        "furniture_store",
+        "general_contractor",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "67 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7293076,
+          "lng": -73.9606878
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73081793029151,
+            "lng": -73.9591182697085
+          },
+          "southwest": {
+            "lat": 40.72811996970851,
+            "lng": -73.9618162302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "WNYC-AM New York",
+      "place_id": "ChIJQ5_yZmpZwokRYXGOrr47KsY",
+      "plus_code": {
+        "compound_code": "P2HQ+PP Brooklyn, NY, USA",
+        "global_code": "87G8P2HQ+PP"
+      },
+      "rating": 5,
+      "reference": "ChIJQ5_yZmpZwokRYXGOrr47KsY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7286593,
+          "lng": -73.9592232
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73001568029149,
+            "lng": -73.95780266970849
+          },
+          "southwest": {
+            "lat": 40.72731771970849,
+            "lng": -73.96050063029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Mc Nino Design Floral & Events",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118084873425483273122\">Wade Trefethen</a>"
+          ],
+          "photo_reference": "AeJbb3drpK9S1-ngHTMbMf3kG01uV66crGtgTpgM8JflJ1D0N4s9ybhYg3SZV6Fo9XJt_dXkssoAx1VkAKU9C7xQKuPb97jewN75iWaA6O5JPzCithkGU7dDrnXGhR3G_yWqBiDUn7f4zkpll9U9lwTS_VTbr9G0BQDPPjzmjRTU_4KDbAVs",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJh8Ih2kFZwokR6y7pYL4Ij5g",
+      "plus_code": {
+        "compound_code": "P2HR+F8 Brooklyn, NY, USA",
+        "global_code": "87G8P2HR+F8"
+      },
+      "rating": 5,
+      "reference": "ChIJh8Ih2kFZwokR6y7pYL4Ij5g",
+      "scope": "GOOGLE",
+      "types": [
+        "florist",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "67 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73125950000001,
+          "lng": -73.9541495
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73260878029149,
+            "lng": -73.9529472697085
+          },
+          "southwest": {
+            "lat": 40.72991081970849,
+            "lng": -73.95564523029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "George Feinbaum, MD",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102686403147965360470\">George Feinbaum, MD</a>"
+          ],
+          "photo_reference": "AeJbb3ejfNQMSsvtVqQG1j4siGUdJCEBnBB_93BmQz26xmhaI5TZ7kfxnJDQxVOk_BY2m0XVgUW_00Vtk69DoO2o7GXPlfOp3Q4BmVQ1eXbDutFFAH138Fy8zuz-zls1c7a_LqsghrZfpVgfQlGz_YYFOvNzRcSjs6IStq3H31Chd-DJz7y0",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJnb8jVj9ZwokRYw0vxM9xUqo",
+      "plus_code": {
+        "compound_code": "P2JW+G8 New York, NY, USA",
+        "global_code": "87G8P2JW+G8"
+      },
+      "rating": 2,
+      "reference": "ChIJnb8jVj9ZwokRYw0vxM9xUqo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73125950000001,
+          "lng": -73.9541495
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73260878029149,
+            "lng": -73.9529472697085
+          },
+          "southwest": {
+            "lat": 40.72991081970849,
+            "lng": -73.95564523029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Shuja U. Qadir, MD",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114773187162053874204\">Shuja U. Qadir, MD</a>"
+          ],
+          "photo_reference": "AeJbb3dG9ZgPx1rgon509yKNai07XF3a4w19eFjQJDk-qym4a_YxhvhffJmh0cUDqnAORasiG8Ss1qF6c91ytO9gDWqZYbFDcXXzkAcbwv8kcuqtlVzbeDRVYf_D4x1iperEWneBSJPU5DE0AhppaazBhdKGM698ZsOPzrOX9Lth_wmfXdYw",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJnb8jVj9ZwokRUoh7lyPmQkc",
+      "plus_code": {
+        "compound_code": "P2JW+G8 New York, NY, USA",
+        "global_code": "87G8P2JW+G8"
+      },
+      "rating": 3,
+      "reference": "ChIJnb8jVj9ZwokRUoh7lyPmQkc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7312251,
+          "lng": -73.9542196
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73259448029149,
+            "lng": -73.95298231970851
+          },
+          "southwest": {
+            "lat": 40.7298965197085,
+            "lng": -73.95568028029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Manhattan Medical",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118404619479962183811\">T Szawkalo</a>"
+          ],
+          "photo_reference": "AeJbb3dGaX98CY53VeQyCf3n2eZeUy5qNu844FYoFbIhamktKKStjoRt1mZVOZgucOQZHBW-rbJpM4k9B9ezdVtGgYE2cyeRC8MhP4qOTyDapTtT-Hy6aVmostHSDD-jYEVZnQ3VTvD3z_Bo9iBV8cV5cRdjxPR6wqbvQZPle3WOXuvrGEyZ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJnb8jVj9ZwokR2edROZ169sY",
+      "plus_code": {
+        "compound_code": "P2JW+F8 Brooklyn, NY, USA",
+        "global_code": "87G8P2JW+F8"
+      },
+      "rating": 2.6,
+      "reference": "ChIJnb8jVj9ZwokR2edROZ169sY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7287306,
+          "lng": -73.9599564
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7301191802915,
+            "lng": -73.9581803697085
+          },
+          "southwest": {
+            "lat": 40.7274212197085,
+            "lng": -73.96087833029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "COLONY Studios Brooklyn",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108745225633303431875\">COLONY Studios Brooklyn</a>"
+          ],
+          "photo_reference": "AeJbb3d83cwqyml8ja4_bJVh0Jq9Tj9o9xfi_2WGkM3uXd4Csxwv9P01laYyLKMU9Mmxld7PL1Vd-du7iWBAf6lNSNWoCXplAS-pekFX6NY_sOuYeUkoC_34lW-UGfbFe4P-SL2Nk60AzRiO-1Z722Tswlke-M0EkmfV49HfR-eysdacwzZD",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJh8Ih2kFZwokRbdSUlBTLTp4",
+      "plus_code": {
+        "compound_code": "P2HR+F2 New York, NY, USA",
+        "global_code": "87G8P2HR+F2"
+      },
+      "rating": 4.9,
+      "reference": "ChIJh8Ih2kFZwokRbdSUlBTLTp4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "67 West Street #523, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73125339999999,
+          "lng": -73.9541443
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73260863029149,
+            "lng": -73.9529446697085
+          },
+          "southwest": {
+            "lat": 40.7299106697085,
+            "lng": -73.9556426302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Areta D. Podhorodecki, MD",
+      "place_id": "ChIJZxMFqEBZwokRN3i3aBoBftU",
+      "plus_code": {
+        "compound_code": "P2JW+G8 New York, NY, USA",
+        "global_code": "87G8P2JW+G8"
+      },
+      "rating": 3.7,
+      "reference": "ChIJZxMFqEBZwokRN3i3aBoBftU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73125599999999,
+          "lng": -73.954133
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73259628029149,
+            "lng": -73.95293706970848
+          },
+          "southwest": {
+            "lat": 40.7298983197085,
+            "lng": -73.9556350302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Julie B. Penzner, M.D.",
+      "place_id": "ChIJu7sYmMNYwokR2l4RWDK_o-g",
+      "plus_code": {
+        "compound_code": "P2JW+G8 New York, NY, USA",
+        "global_code": "87G8P2JW+G8"
+      },
+      "rating": 5,
+      "reference": "ChIJu7sYmMNYwokR2l4RWDK_o-g",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7298694,
+          "lng": -73.9595746
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73113048029149,
+            "lng": -73.9582109697085
+          },
+          "southwest": {
+            "lat": 40.72843251970849,
+            "lng": -73.96090893029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Ovenly Greenpoint",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102742956794448020016\">Vivianne Barretto</a>"
+          ],
+          "photo_reference": "AeJbb3d3jX7f4U0JJbQpsFqpbmOvi9QQVqYyhmJ6LNS1siLrTAbiup-MigunBR9L_OG5JWdPOvgiAgzv97ll9vT7-lEXsbfDUKd54V18vVP-Je4ZcjQ3Tu1jY0TCO1Miey6Ukk4OaOSsaAEAWgAZLZzRjUQHWRGGS8rZu8HgnFddvgMdLSya",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJyasWgmpZwokRkIN7xKkBPXU",
+      "plus_code": {
+        "compound_code": "P2HR+W5 New York, NY, USA",
+        "global_code": "87G8P2HR+W5"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJyasWgmpZwokRkIN7xKkBPXU",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "cafe",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 166,
+      "vicinity": "31 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7287306,
+          "lng": -73.9599564
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7301191802915,
+            "lng": -73.9581803697085
+          },
+          "southwest": {
+            "lat": 40.7274212197085,
+            "lng": -73.96087833029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "bigflannel",
+      "place_id": "ChIJh8Ih2kFZwokRxUF3bIH0ERQ",
+      "plus_code": {
+        "compound_code": "P2HR+F2 New York, NY, USA",
+        "global_code": "87G8P2HR+F2"
+      },
+      "reference": "ChIJh8Ih2kFZwokRxUF3bIH0ERQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "67 West Street Suite 401 Unit B64, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.728621,
+          "lng": -73.95955239999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72999443029151,
+            "lng": -73.95796686970849
+          },
+          "southwest": {
+            "lat": 40.72729646970851,
+            "lng": -73.96066483029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Oh Snap Smile NYC Photo Booths",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJHX4Y2kFZwokR1glTraMGUmI",
+      "plus_code": {
+        "compound_code": "P2HR+C5 New York, NY, USA",
+        "global_code": "87G8P2HR+C5"
+      },
+      "rating": 5,
+      "reference": "ChIJHX4Y2kFZwokR1glTraMGUmI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "67 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7312604,
+          "lng": -73.95412209999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73259798029149,
+            "lng": -73.9529318697085
+          },
+          "southwest": {
+            "lat": 40.7299000197085,
+            "lng": -73.95562983029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Osvaldo Trigo, M.D.",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118405263041455417943\">Brian Hubbard</a>"
+          ],
+          "photo_reference": "AeJbb3fCP9ZWuRh2NFiemEAHX9ZJ7_jKHI7KU6pmLJNzsNEjupSvEd_rVtZfB-4ncZkjt9TGBOYRCLgNNTim__PvHe_SVqd6ZS4ABai_5wGbeSvpj7MW6VyK3ioHZL7LvGeXUcHZotnpyrvXIK0SYk6Vy9LboABg31pF1huirI9XOTFeK-x0",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJnb8jVj9ZwokRKTp2IEfXvZ0",
+      "plus_code": {
+        "compound_code": "P2JW+G9 New York, NY, USA",
+        "global_code": "87G8P2JW+G9"
+      },
+      "rating": 4.8,
+      "reference": "ChIJnb8jVj9ZwokRKTp2IEfXvZ0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "934 Manhattan Avenue A, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7284936,
+          "lng": -73.95928420000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72985458029149,
+            "lng": -73.9578190697085
+          },
+          "southwest": {
+            "lat": 40.7271566197085,
+            "lng": -73.96051703029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "AirportLostandFound.com",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJHX4Y2kFZwokRgd_rDbpu1iY",
+      "plus_code": {
+        "compound_code": "P2HR+97 Brooklyn, NY, USA",
+        "global_code": "87G8P2HR+97"
+      },
+      "rating": 4.4,
+      "reference": "ChIJHX4Y2kFZwokRgd_rDbpu1iY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 163,
+      "vicinity": "67 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73125950000001,
+          "lng": -73.9541495
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73260878029149,
+            "lng": -73.9529472697085
+          },
+          "southwest": {
+            "lat": 40.72991081970849,
+            "lng": -73.95564523029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dariusz Grabowski, MD",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107149046530117387308\">Dariusz Grabowski, MD</a>"
+          ],
+          "photo_reference": "AeJbb3eXdGlhNauzVb4Tb53i8e6CvilDGarB_CNZyGFCpzooE-KCUWHxxcBg9oq26zMn-6LfUCKmstEd0KIGCJrvrVlznT2YE0-kwO46N-eBboCoNhx7ku69ABSdMCUDUa_0lVp1IZq-6YccdN3yDe9H3wR_7EElvYTPdY4OJ8ewXL-x47jE",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJnb8jVj9ZwokRwL8AW8B5jRE",
+      "plus_code": {
+        "compound_code": "P2JW+G8 New York, NY, USA",
+        "global_code": "87G8P2JW+G8"
+      },
+      "rating": 4,
+      "reference": "ChIJnb8jVj9ZwokRwL8AW8B5jRE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7310166,
+          "lng": -73.9545572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73236488029151,
+            "lng": -73.9531331697085
+          },
+          "southwest": {
+            "lat": 40.72966691970851,
+            "lng": -73.95583113029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Thai Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2444,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104842433142609722240\">Rob Cooke</a>"
+          ],
+          "photo_reference": "AeJbb3dZ2thcuUeiSOleBxKrmbjB_KVx9VcYwq4Gtw5E3ehIuvDG53Qp2HPSVgoALhlRLoKKXZYxaAWqIhNsaOvQ71JZ5SAQ8IxDWXR3ivHYQweuRTIbbeMJI_ZA1uWcWzKKYwXQ1zOYaiX0I1xd5ZwhXAmwhHRxL6BhxWpuHoelOdyT4wrp",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJk-ARpkBZwokRMD1D0zgfAh0",
+      "plus_code": {
+        "compound_code": "P2JW+C5 New York, NY, USA",
+        "global_code": "87G8P2JW+C5"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJk-ARpkBZwokRMD1D0zgfAh0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 134,
+      "vicinity": "925 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73125950000001,
+          "lng": -73.9541495
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73259873029149,
+            "lng": -73.9529457197085
+          },
+          "southwest": {
+            "lat": 40.72990076970849,
+            "lng": -73.9556436802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Manhattan Avenue Hearing Aids",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJnb8jVj9ZwokR_TqJowQycXc",
+      "plus_code": {
+        "compound_code": "P2JW+G8 New York, NY, USA",
+        "global_code": "87G8P2JW+G8"
+      },
+      "rating": 5,
+      "reference": "ChIJnb8jVj9ZwokR_TqJowQycXc",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72907410000001,
+          "lng": -73.957258
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7304304802915,
+            "lng": -73.9560094197085
+          },
+          "southwest": {
+            "lat": 40.7277325197085,
+            "lng": -73.9587073802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "WORD",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101841024085412380127\">\ub2e5\ud130\uc624\uc774\ubaa8\uac00\uc9c0</a>"
+          ],
+          "photo_reference": "AeJbb3diqK1MsqtjkiSFmqloZlbHWNEh_GO_eqzBP7l2_H0wXo0mCu_jsc6R-dRUw_wkKQ1uTAtdDFxD-m_NkcWRWtaTuPn0Z1fqSj0leXVvOjx3OZRvindgaN7LV8SAxP8QFxaOrUkfzjlJ_IFKF0NYouTw63B9Pl-B8AELZMbGYGNsOUkj",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJh1cMrUFZwokRWS1nhRXR2V8",
+      "plus_code": {
+        "compound_code": "P2HV+J3 Brooklyn, NY, USA",
+        "global_code": "87G8P2HV+J3"
+      },
+      "rating": 4.7,
+      "reference": "ChIJh1cMrUFZwokRWS1nhRXR2V8",
+      "scope": "GOOGLE",
+      "types": [
+        "book_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 217,
+      "vicinity": "126 Franklin Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7334499,
+          "lng": -73.9549905
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73480788029151,
+            "lng": -73.9535452697085
+          },
+          "southwest": {
+            "lat": 40.73210991970851,
+            "lng": -73.9562432302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Troost",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 886,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114782888181702147497\">Troost</a>"
+          ],
+          "photo_reference": "AeJbb3dc-7ZCDlTURi5aArKck3Q5ck9V-42bULGDz0EWIBtzgPNGZryPHOolVpkjnC6ytNR--6CPEwGpLDXiWKZLMVvIZu5K8IFw9sHF3laJr4sZdyRLVULxqTI1LNPpm15U4yzjSdtG3pgonWFUDAs-1K64qjH0srwtZXWr2S7icDIq1uHI",
+          "width": 886
+        }
+      ],
+      "place_id": "ChIJaWZBIz9ZwokRPKO2K25Uho8",
+      "plus_code": {
+        "compound_code": "P2MW+92 Brooklyn, NY, USA",
+        "global_code": "87G8P2MW+92"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJaWZBIz9ZwokRPKO2K25Uho8",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 159,
+      "vicinity": "1011 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7353952,
+          "lng": -73.9553612
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7367563802915,
+            "lng": -73.95388926970851
+          },
+          "southwest": {
+            "lat": 40.7340584197085,
+            "lng": -73.95658723029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Lobster Joint",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114220774791882698491\">Lobster Joint</a>"
+          ],
+          "photo_reference": "AeJbb3dY4_pJOiiFN-ZZ_Mxv7GsFiUFbeYv2sb2K928GsJ3_a8EJu6wozHQJFDZoZxI8YLslB9OaN69eWDsb2_XAoIQMDqEVCD4leTDAjGC7YGFAZFYwrwhmPw7xXq7VJpptJTeXpQuLOcq71r3NnIgUhiklqpsS5SWWD9NBXOuY7zKT_6m8",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJM_VylD5ZwokRnCg1JTcA6VA",
+      "plus_code": {
+        "compound_code": "P2PV+5V Brooklyn, NY, USA",
+        "global_code": "87G8P2PV+5V"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJM_VylD5ZwokRnCg1JTcA6VA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 742,
+      "vicinity": "1073 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7295772,
+          "lng": -73.95962209999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7309799802915,
+            "lng": -73.9582257197085
+          },
+          "southwest": {
+            "lat": 40.7282820197085,
+            "lng": -73.9609236802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "myplasticheart",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110367625094586960973\">myplasticheart</a>"
+          ],
+          "photo_reference": "AeJbb3c9HrGTteI5SHmZXtKWIrxzwebWPAN60z0Q2kecQLmA3-dzgWuj-rC0El5lgVp_13R0hMHU_NHY56313yohaVyjd8BIG82DXNG_GT-rwle4mpOimACdqkRAvfMUom81mws0gdUlCg3ptdVm1GMyVqeKcJ2ZKfEE74I6Ak99eGjsvQCE",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJM0QtQIRZwokRFbeYkts2veE",
+      "plus_code": {
+        "compound_code": "P2HR+R5 New York, NY, USA",
+        "global_code": "87G8P2HR+R5"
+      },
+      "rating": 4.6,
+      "reference": "ChIJM0QtQIRZwokRFbeYkts2veE",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 169,
+      "vicinity": "40 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7299541,
+          "lng": -73.9589888
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7312015302915,
+            "lng": -73.9575441197085
+          },
+          "southwest": {
+            "lat": 40.7285035697085,
+            "lng": -73.96024208029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Professional Interior Construction",
+      "place_id": "ChIJo_OfL0BZwokRcd_LUHegdzw",
+      "plus_code": {
+        "compound_code": "P2HR+XC Brooklyn, NY, USA",
+        "global_code": "87G8P2HR+XC"
+      },
+      "reference": "ChIJo_OfL0BZwokRcd_LUHegdzw",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "37 Greenpoint Avenue # 1E, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.73458669999999,
+          "lng": -73.95955169999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7360182802915,
+            "lng": -73.95813816970849
+          },
+          "southwest": {
+            "lat": 40.7333203197085,
+            "lng": -73.9608361302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Eagle Street Rooftop Farm",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100099612017805323370\">Annie Novak</a>"
+          ],
+          "photo_reference": "AeJbb3eIs9Q4ykJZ4vqJNfVxmWPiqcekxYqyVl-dH2Gk5DWFeuSli4tJwa7uGEtyiCXxyfW__Lol_wgyPVMtJT96GhyWCxEesp16hQYBqpg7KRLfw5BNokMTczL6d9YJ6wV3JK1Fe_bQPaH_ZyCIM-CyarAw9TexuJ5w2ypkHCQ24_m2CCML",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJZQVvKj5ZwokRVZElDl_LOnQ",
+      "plus_code": {
+        "compound_code": "P2MR+R5 Brooklyn, NY, USA",
+        "global_code": "87G8P2MR+R5"
+      },
+      "rating": 4.4,
+      "reference": "ChIJZQVvKj5ZwokRVZElDl_LOnQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "44 Eagle Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7297928,
+          "lng": -73.9556827
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7312768802915,
+            "lng": -73.95435646970849
+          },
+          "southwest": {
+            "lat": 40.7285789197085,
+            "lng": -73.9570544302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ivan Grunberger, MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJkZWM7kBZwokRS2vmQmhmKwE",
+      "plus_code": {
+        "compound_code": "P2HV+WP Brooklyn, NY, USA",
+        "global_code": "87G8P2HV+WP"
+      },
+      "rating": 5,
+      "reference": "ChIJkZWM7kBZwokRS2vmQmhmKwE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "126 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7312604,
+          "lng": -73.95412209999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73259798029149,
+            "lng": -73.9529318697085
+          },
+          "southwest": {
+            "lat": 40.7299000197085,
+            "lng": -73.95562983029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kudej Miroslawa MD",
+      "place_id": "ChIJnb8jVj9ZwokRi4Jt4DXJnes",
+      "plus_code": {
+        "compound_code": "P2JW+G9 New York, NY, USA",
+        "global_code": "87G8P2JW+G9"
+      },
+      "rating": 5,
+      "reference": "ChIJnb8jVj9ZwokRi4Jt4DXJnes",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7299565,
+          "lng": -73.9589895
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7312027302915,
+            "lng": -73.95754446970851
+          },
+          "southwest": {
+            "lat": 40.7285047697085,
+            "lng": -73.96024243029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Station Film",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJe_VWrYlZwokRAerViKhHjR0",
+      "plus_code": {
+        "compound_code": "P2HR+XC Brooklyn, NY, USA",
+        "global_code": "87G8P2HR+XC"
+      },
+      "rating": 3,
+      "reference": "ChIJe_VWrYlZwokRAerViKhHjR0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "37 Greenpoint Avenue #420, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73125950000001,
+          "lng": -73.9541495
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73260878029149,
+            "lng": -73.9529472697085
+          },
+          "southwest": {
+            "lat": 40.72991081970849,
+            "lng": -73.95564523029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ewa P. Wierzba, MD",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115986668703177414359\">Ewa P. Wierzba, MD</a>"
+          ],
+          "photo_reference": "AeJbb3d8QZ75iSja9xQB0fqXsZ-doNiMg_2Tkoqp6yZEk69igpmL4U07DZLM5mg3Xy_V_sNlTQqC7baWTAeYHrS_ub19bFP6AtDnjDVkGufwvFLz64pjTnH-CneqDHAAHP_NI2g4DDZsmEiIbdy2Wo50FUSaZQR0-elXM30HbhqHjYJxythZ",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJnb8jVj9ZwokRoRcxHG_SlCM",
+      "plus_code": {
+        "compound_code": "P2JW+G8 New York, NY, USA",
+        "global_code": "87G8P2JW+G8"
+      },
+      "rating": 2.6,
+      "reference": "ChIJnb8jVj9ZwokRoRcxHG_SlCM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "934 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7327684,
+          "lng": -73.9555175
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7342100802915,
+            "lng": -73.95418366970848
+          },
+          "southwest": {
+            "lat": 40.7315121197085,
+            "lng": -73.9568816302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "North Brooklyn Development",
+      "place_id": "ChIJNdFUEz9ZwokRipsjgDjiqxU",
+      "plus_code": {
+        "compound_code": "P2MV+4Q Brooklyn, NY, USA",
+        "global_code": "87G8P2MV+4Q"
+      },
+      "rating": 5,
+      "reference": "ChIJNdFUEz9ZwokRipsjgDjiqxU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "148 Huron St # Mgmt, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.730234,
+          "lng": -73.95922
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7315774802915,
+            "lng": -73.95792891970848
+          },
+          "southwest": {
+            "lat": 40.7288795197085,
+            "lng": -73.9606268802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Bellocq Tea Atelier",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1085,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110522914481815771884\">LUNA T</a>"
+          ],
+          "photo_reference": "AeJbb3fpkfnGmUkHwGKK682FiM0fSL2jAMXQsNFeeVgb3K6t0ABq9eLqEpUJ415e6ClisSTnNWmsNOJjPEXojr1740QB2c-zKGZ63voibESDZ8SedNkEsboH_Dp4aunId1vw75c0HghKu07b0kGnwItCwop1SkzM7VgoWbEcHh-PJuMfiVqP",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJ8_NdJkBZwokRtZ-e0Iexm5w",
+      "plus_code": {
+        "compound_code": "P2JR+38 New York, NY, USA",
+        "global_code": "87G8P2JR+38"
+      },
+      "price_level": 3,
+      "rating": 4.7,
+      "reference": "ChIJ8_NdJkBZwokRtZ-e0Iexm5w",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "104 West Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7313699,
+          "lng": -73.9549278
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73282193029149,
+            "lng": -73.95359616970849
+          },
+          "southwest": {
+            "lat": 40.7301239697085,
+            "lng": -73.95629413029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Eurodental Studio",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111066615398737607327\">Eurodental Studio</a>"
+          ],
+          "photo_reference": "AeJbb3cJj1cy-68wZ0kZSKWAEFCW0brFW2J69xBE3iTcNUxsHpN_KoyXWSwhB0ZQGOMarAZGELiWahbClYiu1oaqW6rylqcoa83cLhhYsA2ssMHMlfoiQNG6e81v_9mlO-fwqM7WqIrJgk_XbHQV4HinfalM3QwuQ6rqltyfURztC1hk4aik",
+          "width": 2120
+        }
+      ],
+      "place_id": "ChIJOfh-Xz9ZwokRUJ3Q11vdtkY",
+      "plus_code": {
+        "compound_code": "P2JW+G2 New York, NY, USA",
+        "global_code": "87G8P2JW+G2"
+      },
+      "rating": 5,
+      "reference": "ChIJOfh-Xz9ZwokRUJ3Q11vdtkY",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 122,
+      "vicinity": "150 Java Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73135329999999,
+          "lng": -73.9546093
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73270608029149,
+            "lng": -73.95318566970849
+          },
+          "southwest": {
+            "lat": 40.73000811970849,
+            "lng": -73.9558836302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Greenpoint Frames",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103199766096058050862\">Greenpoint Frames</a>"
+          ],
+          "photo_reference": "AeJbb3dZh3goF913BLMSD0Wvx1X3Y4utOsy_xldTaQVazHSUQS-oa6QdIfUmfm6oBV61A6YiHN40PsOiDFamNLHpv_wEs0slGYeQEAXvRnT7FnI0LKuSghlqwvOf9_TLZt0-ams_TlW1Ap4ec_MHKVpZaVAE7jPK7OtG-h2tF5iAoCBugQ7O",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJPVNan0ZZwokRw99YL1VMw8k",
+      "plus_code": {
+        "compound_code": "P2JW+G5 New York, NY, USA",
+        "global_code": "87G8P2JW+G5"
+      },
+      "rating": 4.7,
+      "reference": "ChIJPVNan0ZZwokRw99YL1VMw8k",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "937 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7285888,
+          "lng": -73.959301
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7299497802915,
+            "lng": -73.9578360197085
+          },
+          "southwest": {
+            "lat": 40.7272518197085,
+            "lng": -73.9605339802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SahoNYC by Rafi Elbaz",
+      "place_id": "ChIJZfW2E4pZwokRx9Ft8BLJTSQ",
+      "plus_code": {
+        "compound_code": "P2HR+C7 New York, NY, USA",
+        "global_code": "87G8P2HR+C7"
+      },
+      "reference": "ChIJZfW2E4pZwokRx9Ft8BLJTSQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "67 West Street #606, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.730853,
+          "lng": -73.95805059999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7322158302915,
+            "lng": -73.9565556697085
+          },
+          "southwest": {
+            "lat": 40.7295178697085,
+            "lng": -73.9592536302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Macha Studio - Open for walk-in\u2019s",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107640171425612163139\">Macha Studio - Open for walk-in\u2019s</a>"
+          ],
+          "photo_reference": "AeJbb3d0aNYZh-2Yhh2GdAOPmwMk-x9epJPdJZ8sYyEMFI_yC2m_fpkE_ZHpi_kriUKBjAMca8aNCgTzBSGDgmmNhOo9dMpPrR6B17SLfla7iqcbhmX_XG_X_P03g6fdY0qby7QMdVRCiSpY2I6_lqujJ6cdp0xsgU3tsViYAg4XVVTp8JNF",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJ9cIh2kFZwokRmcg5JwaY-M8",
+      "plus_code": {
+        "compound_code": "P2JR+8Q New York, NY, USA",
+        "global_code": "87G8P2JR+8Q"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ9cIh2kFZwokRmcg5JwaY-M8",
+      "scope": "GOOGLE",
+      "types": [
+        "jewelry_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "135 Franklin Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7297928,
+          "lng": -73.9556827
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7312768802915,
+            "lng": -73.95435646970849
+          },
+          "southwest": {
+            "lat": 40.7285789197085,
+            "lng": -73.9570544302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Andrzej Salita, MD",
+      "place_id": "ChIJkZWM7kBZwokRaauPoGk4lio",
+      "plus_code": {
+        "compound_code": "P2HV+WP New York, NY, USA",
+        "global_code": "87G8P2HV+WP"
+      },
+      "rating": 1,
+      "reference": "ChIJkZWM7kBZwokRaauPoGk4lio",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "126 Greenpoint Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7305566,
+          "lng": -73.9540864
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7318858302915,
+            "lng": -73.95285841970849
+          },
+          "southwest": {
+            "lat": 40.7291878697085,
+            "lng": -73.95555638029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Starbucks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108324188293804198260\">Desmond</a>"
+          ],
+          "photo_reference": "AeJbb3dFceY3z3EZiwhSKkQn7O8z_px7wSn1DOefXHzjUFQS1Qt71-ovqKqSQANY1pnI00t0osdAueZqGhsPrYtqx8fgVe-gr1H6sQsGWcGbvAWLlKIwUci0TIAa8ebOvpnQnbFqVQG_aR2TCuJS8TP5wzoiouLF5uRf9sF1c4haDg-7NuYP",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJJYi2sUBZwokRfsq_XXpGvQw",
+      "plus_code": {
+        "compound_code": "P2JW+69 New York, NY, USA",
+        "global_code": "87G8P2JW+69"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJJYi2sUBZwokRfsq_XXpGvQw",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 349,
+      "vicinity": "910 Manhattan Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7297855,
+          "lng": -73.9574588
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7311886802915,
+            "lng": -73.9561189197085
+          },
+          "southwest": {
+            "lat": 40.7284907197085,
+            "lng": -73.95881688029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Pencil Factory",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 723,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117976011803563549115\">Pencil Factory</a>"
+          ],
+          "photo_reference": "AeJbb3fFETOGlFYplw_IJNp72Sg5Tuc5iNVpm_jMntvKftKPeLZe_dK0aTlUhSJ8MUGNUheToJcU1kBCfD1kaHGEWpMcx-wsk-vVem04Jlg-SwRYPTPZLccef6g7-jcljvVX1L0-LrVPc2sobiW1pSi59cjtL95hFgc8sJbQMynAFwiMLle9",
+          "width": 1284
+        }
+      ],
+      "place_id": "ChIJffbgT0BZwokR0p6VfTvN-9Q",
+      "plus_code": {
+        "compound_code": "P2HV+W2 Brooklyn, NY, USA",
+        "global_code": "87G8P2HV+W2"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJffbgT0BZwokR0p6VfTvN-9Q",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 238,
+      "vicinity": "Corner Of, 142 Franklin St, Greenpoint Avenue, Brooklyn"
+    }
+  ],
+  "status": "OK"
+}

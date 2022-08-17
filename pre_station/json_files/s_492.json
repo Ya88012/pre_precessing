@@ -1,0 +1,2705 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3cBTph_YLWmXqakvKNL5LAW5YOAz3Z8Hjh0Mouo-3jkJ4YsJB9cYZ6jCBUet0feAQnAM2IfqS2Req3IasweKt5A0GTCNtKLs3zHod_c1OG3NoL1_QD0sMxGmJlvlZzXHIxBFMM4yuJoMmp0eS8oSL_4K_h6bnVrwhRcwaUdoPD1WSAm",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.751816,
+          "lng": -73.948798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7532726302915,
+            "lng": -73.94757406970851
+          },
+          "southwest": {
+            "lat": 40.7505746697085,
+            "lng": -73.95027203029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "East Office PC",
+      "permanently_closed": true,
+      "place_id": "ChIJg_HfGwFZwokRICIDRSzXClU",
+      "plus_code": {
+        "compound_code": "Q322+PF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q322+PF"
+      },
+      "rating": 4,
+      "reference": "ChIJg_HfGwFZwokRICIDRSzXClU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "43-05 10th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75387029999999,
+          "lng": -73.9493586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7551594802915,
+            "lng": -73.9479791697085
+          },
+          "southwest": {
+            "lat": 40.7524615197085,
+            "lng": -73.95067713029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Penthouse",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114109314739966841007\">The Penthouse</a>"
+          ],
+          "photo_reference": "AeJbb3fKjdPNB7r_QeMbqFTzhKXvvYAiiCVvNDl0JjU8u3yNCV_hOgR3PCc3CdOTKkK0Mm1Q_J2nWP3y-_Mn5I2aJso6wIJ7HcRfNlTg7yZQKFk_CMnnyMrSlDRfZCkEIeDf4nga6x52DaHWAYoajcwxU6FRrAhg6uG594Wz4YzobTP6rFe_",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJjTsXXNBZwokRv-7Xf0DuNX0",
+      "plus_code": {
+        "compound_code": "Q332+G7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q332+G7"
+      },
+      "rating": 3.9,
+      "reference": "ChIJjTsXXNBZwokRv-7Xf0DuNX0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1462,
+      "vicinity": "8-08 Queens Plaza South, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7530722,
+          "lng": -73.9494472
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75437988029149,
+            "lng": -73.94800486970848
+          },
+          "southwest": {
+            "lat": 40.7516819197085,
+            "lng": -73.95070283029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Foundry",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 685,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102801651219861638565\">The Foundry</a>"
+          ],
+          "photo_reference": "AeJbb3cpT1U-0qYm9eeWCziPZj2DcauvAEmhmSCbC9Depof8YhykJKvON7Ms0rlA_qvv8e5FmcsdS6JNiv57FC8mkjNo6Ln_jyqwClySQZdrAoWxlqCWxMcgCq4iVKsoHXuC5zyaQwn3c-_MyXHx1OIE-G_S1IZPkNwK8lZkD9vT40ZA5lpo",
+          "width": 1021
+        }
+      ],
+      "place_id": "ChIJOWNrttlYwokR8fIB6u6gEHo",
+      "plus_code": {
+        "compound_code": "Q332+66 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q332+66"
+      },
+      "rating": 4.7,
+      "reference": "ChIJOWNrttlYwokR8fIB6u6gEHo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 223,
+      "vicinity": "42-38 9th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7566667,
+          "lng": -73.9486111
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75827019999998,
+            "lng": -73.9454184
+          },
+          "southwest": {
+            "lat": 40.75376540000001,
+            "lng": -73.94996920000001
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "\u7687\u540e\u6a4b\u516c\u5712",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112694143132405012651\">Queensbridge Park</a>"
+          ],
+          "photo_reference": "AeJbb3dYC4YaIJ1ocxn-LDonMSJpi_-4IxoPKuNrzJL7xdx-OErbOhuInDr0mtEFVxbGmFDKnu6RsslZ233QulzI01FwNtEffybkVfi-ABlI-QCqjk4-p6nzZWgC-qkmnXE976axosV9Ha0mKwcLXcHqndAaJuUKpFQ8l2UmMEHuGVs-suQ3",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJOzs_bdpYwokRptRUx_jDQMs",
+      "plus_code": {
+        "compound_code": "Q342+MH \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q342+MH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJOzs_bdpYwokRptRUx_jDQMs",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1531,
+      "vicinity": "Vernon Boulevard, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7526194,
+          "lng": -73.94995829999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7540296302915,
+            "lng": -73.9485554697085
+          },
+          "southwest": {
+            "lat": 40.7513316697085,
+            "lng": -73.9512534302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brooklyn Studios (Studio 1) - Film & Photo Studios w/ Kitchen, Sound Stage & Production Offices NYC",
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116472118674276423168\">Brooklyn Studios (Studio 1) - Film &amp; Photo Studios w/ Kitchen, Sound Stage &amp; Event Venue NYC</a>"
+          ],
+          "photo_reference": "AeJbb3fZGcN_gF5lX0y0w_xQ16EGzKL16kYE5-gI6JsLkQjsflNoGGMoWF98Wq_QMfkCaXhAJuLaePZ7EMhSFbLIx1ebUVmaDFRymnloq8e2j-GH9VHJVePr50qaW6FVS324Un3otTImb5L7G-QjGfsY2GioWzkH_diqja9tzWTxqQNKVa93",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJb_xmc0hZwokRAY0V5zkn7k8",
+      "plus_code": {
+        "compound_code": "Q332+22 \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q332+22"
+      },
+      "rating": 4.6,
+      "reference": "ChIJb_xmc0hZwokRAY0V5zkn7k8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "8-16 43rd Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7518083,
+          "lng": -73.94730419999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7531072302915,
+            "lng": -73.94599221970849
+          },
+          "southwest": {
+            "lat": 40.75040926970851,
+            "lng": -73.9486901802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arrow Transportation",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117355852769673540387\">Parwinder Singh</a>"
+          ],
+          "photo_reference": "AeJbb3elkJ9fjeDTi7qNJTPRxlOu7IJhoFz33Xn3A4VnvH7u__83S28ulJteSzu0MIKYAoT7RZbnFbqpp6hfP5-wFo_FdwmQuWZR_AoT0nEQk8ViV_7ZfHFjA9SLie7OKSO0gxAqKbvdbtLYmp81z8ct3JU6cHKQVOJrQPPTP57VFhjBbKO6",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ8zIVj9dYwokRbXgUx5-hDhM",
+      "plus_code": {
+        "compound_code": "Q323+P3 \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q323+P3"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ8zIVj9dYwokRbXgUx5-hDhM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 26,
+      "vicinity": "11-17 43rd Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7576425,
+          "lng": -73.9528997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7591510802915,
+            "lng": -73.95172431970849
+          },
+          "southwest": {
+            "lat": 40.7564531197085,
+            "lng": -73.95442228029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Firefighters Field",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110158959089242171559\">Dave Fields</a>"
+          ],
+          "photo_reference": "AeJbb3cA76OV5B-ZfADnLR2DBojzxYsNOayKp3XGIO58dYYGyKM0i_w-zEuE0cyExI3Dv62clo3104RCNMnupH8XKJU990Cg2f9x7BnT_ZrT08_msrbWSn23br7UP557WVf-nXSTwEmWTIC9z9OCpsX7LV-JdA3QIQ66Xy6yJWOsQKM0Ld0o",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJX5BdhdtYwokRmOBPLspuOa0",
+      "plus_code": {
+        "compound_code": "Q25W+3R \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q25W+3R"
+      },
+      "rating": 4.4,
+      "reference": "ChIJX5BdhdtYwokRmOBPLspuOa0",
+      "scope": "GOOGLE",
+      "types": [
+        "stadium",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 137,
+      "vicinity": "405-425 Main Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75164789999999,
+          "lng": -73.9488068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75320833029149,
+            "lng": -73.9475219697085
+          },
+          "southwest": {
+            "lat": 40.75051036970849,
+            "lng": -73.95021993029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tom Cat",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115680826786519238499\">Evan Reisfeld</a>"
+          ],
+          "photo_reference": "AeJbb3dFf5LkIdzrF8hRhDSXxhZgJOSR8mrg5HkWgLuo_8f5GPkE9rvMIkKtnthw6VL5LDUndUg87xhrdZ5iHmjVdW-mL7dbGrumNAlhjBjL7yds8rZnanxc4IUriTOeZTwde-gLKHp1iKXc9U8zigGpNK49NmY3QZ-XmunOA60ReaPkJTLl",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJYcofOthYwokRVqY1BpFSInA",
+      "plus_code": {
+        "compound_code": "Q322+MF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q322+MF"
+      },
+      "rating": 4.3,
+      "reference": "ChIJYcofOthYwokRVqY1BpFSInA",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 79,
+      "vicinity": "43-05 10th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75290080000001,
+          "lng": -73.949809
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75416138029151,
+            "lng": -73.94842581970849
+          },
+          "southwest": {
+            "lat": 40.75146341970851,
+            "lng": -73.95112378029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "New York Wine Warehouse",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113777242887734434191\">Aaron Hawkins</a>"
+          ],
+          "photo_reference": "AeJbb3dWNKQuNIwKrtPmnWCo_ziA8_Aen-B1llfNfqLg9S8G2PumS_rjMdhg_6uogcjw0ea-qAQ9W8qJyJDNQBGJe0woKjANbGSIHpUYwcJc3y766WJ91dnZkPf-68l2Zg5ahGJ78mraLS3TFvCHV3zw5BS6pPUUFxoW09E-OMInFgZRPRbt",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJLStgq9lYwokRYTi1HM1rRwA",
+      "plus_code": {
+        "compound_code": "Q332+53 \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q332+53"
+      },
+      "rating": 3.8,
+      "reference": "ChIJLStgq9lYwokRYTi1HM1rRwA",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "805 43rd Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7528344,
+          "lng": -73.9475477
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7541148302915,
+            "lng": -73.94604611970848
+          },
+          "southwest": {
+            "lat": 40.7514168697085,
+            "lng": -73.9487440802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Beacon Building Products",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116896784450276808299\">Victor Daniel Rengifo Arvelaez</a>"
+          ],
+          "photo_reference": "AeJbb3eZ2kUuPI1Q-pNAV1M7C6OjQxbZx3Uj92Cw8GKtboqHAcDwFQ3bRrp2c4sQ93JTKLwuGFS8vY06ha-Co8bTPx2wn_nbBH_bqeUCGymcRt7HwrsEGyrkZGyCoSP6Yovs557nT81y3Jm1NsGm7RwBw_tKqYzlu23trCGOqAyhXsIjTnEd",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJzX6OF9hYwokRlV8U814DyOs",
+      "plus_code": {
+        "compound_code": "Q332+4X \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q332+4X"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJzX6OF9hYwokRlV8U814DyOs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 72,
+      "vicinity": "42-16 11th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7516018,
+          "lng": -73.9479971
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75302398029149,
+            "lng": -73.9465832197085
+          },
+          "southwest": {
+            "lat": 40.7503260197085,
+            "lng": -73.9492811802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bay Crane Service of New York",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102951664903293210580\">Bay Crane Service of New York</a>"
+          ],
+          "photo_reference": "AeJbb3dBnzMIqKA209npNDGbhHbpjLblvUf2XWg24NcuxHFW0_0DCut3aTlDBS2u-zDc603mcZiYlF_s2Tx4o8yItIMK7tb0z97AGHsb6z0AaQnoiJ9Qj504LqHnTSKrm1W-nfVUs4msk7TiuJ0tMNwxrJ5X8A77IqJdckFwEyl0hbi-5sv0",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJK4uNJthYwokR2pr65mzed5o",
+      "plus_code": {
+        "compound_code": "Q322+JR \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q322+JR"
+      },
+      "rating": 3.9,
+      "reference": "ChIJK4uNJthYwokR2pr65mzed5o",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "1102 43rd Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7578105,
+          "lng": -73.9450749
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7593247302915,
+            "lng": -73.9432882697085
+          },
+          "southwest": {
+            "lat": 40.7566267697085,
+            "lng": -73.94598623029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Moishe's Self Storage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109448784680654970963\">Moishe&#39;s Self Storage</a>"
+          ],
+          "photo_reference": "AeJbb3c-i_0u_ACogHtfBg6L5NpOlykU6_UH7T29ZLS7mTm--g1eODEVL1SrzmNFJ4vqXOCM-0IitTLps_uC9pXQYl0-EyEUVy-caVV1D9CaOsv0qrginT2ibZGkgJHSXNMtNcLFw25dciyRBVhPz9wRCBNxiddYVsUllh8UgyBmWFf5d7QX",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJF71ttdFYwokRShdK_Q5H4-4",
+      "plus_code": {
+        "compound_code": "Q353+4X \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q353+4X"
+      },
+      "rating": 4.1,
+      "reference": "ChIJF71ttdFYwokRShdK_Q5H4-4",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 233,
+      "vicinity": "8-33 40th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7533201,
+          "lng": -73.9491999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7546303302915,
+            "lng": -73.9477724197085
+          },
+          "southwest": {
+            "lat": 40.7519323697085,
+            "lng": -73.9504703802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "American Bolero Dance Co",
+      "place_id": "ChIJwQ7lwtlYwokR4gpCyBvveLE",
+      "plus_code": {
+        "compound_code": "Q332+88 \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q332+88"
+      },
+      "reference": "ChIJwQ7lwtlYwokR4gpCyBvveLE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4224 9th Street, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7556756,
+          "lng": -73.94525039999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7570999302915,
+            "lng": -73.94402216970849
+          },
+          "southwest": {
+            "lat": 40.7544019697085,
+            "lng": -73.9467201302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Arista Trading Corporation",
+      "permanently_closed": true,
+      "place_id": "ChIJq5XY7tFYwokR9bCBo6Pt3Ds",
+      "plus_code": {
+        "compound_code": "Q343+7V \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q343+7V"
+      },
+      "rating": 4,
+      "reference": "ChIJq5XY7tFYwokR9bCBo6Pt3Ds",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3826 10th Street #2, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7534658,
+          "lng": -73.9490393
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7548607302915,
+            "lng": -73.9476466197085
+          },
+          "southwest": {
+            "lat": 40.75216276970851,
+            "lng": -73.9503445802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henick Lane",
+      "place_id": "ChIJrzGEKilZwokR9neswwoVeKg",
+      "plus_code": {
+        "compound_code": "Q332+99 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q332+99"
+      },
+      "reference": "ChIJrzGEKilZwokR9neswwoVeKg",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4222 9th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7555154,
+          "lng": -73.9445939
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7567728802915,
+            "lng": -73.94333481970848
+          },
+          "southwest": {
+            "lat": 40.7540749197085,
+            "lng": -73.9460327802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jacob A. Riis Neighborhood Settlement",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112978415528147910600\">Jacob A. Riis Neighborhood Settlement</a>"
+          ],
+          "photo_reference": "AeJbb3fjhYz4GYUzw9CyFHVsusPqQ2AQ2eDr8KxjQHYdg2P87lqhr5EzYRafrUsNjO4soX-rh9Dq3fcTRQCzuXMHSoTAe7bv4FwO8mc0_LoAzfibJE_OeHf9Yk_N567mEAGC-p_T6lgihAQovZhJWKS1bQokhPj3_62eHJSZP3EzxdkRWTzU",
+          "width": 5616
+        }
+      ],
+      "place_id": "ChIJwRPY1tlYwokRVN_upeuVUAA",
+      "plus_code": {
+        "compound_code": "Q344+65 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q344+65"
+      },
+      "rating": 4.2,
+      "reference": "ChIJwRPY1tlYwokRVN_upeuVUAA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 74,
+      "vicinity": "10-25 41st Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7555154,
+          "lng": -73.9445939
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75677083029149,
+            "lng": -73.9433308697085
+          },
+          "southwest": {
+            "lat": 40.75407286970849,
+            "lng": -73.94602883029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York City Housing Authority Queensbridge Senior Center",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105784863498893007845\">Theodore Miller</a>"
+          ],
+          "photo_reference": "AeJbb3f7n4mysQz70Yo8aE-khgFKxnPCqRNQNT6NTrIY0e7qDdcQ1RwGwrSP3oAXq5Y8j4kE3g6uNmKWzI6tC2x7M0x1y7wGaMiGIjxuUX7jZrm1sMh5Geu0-Bmb0BlzhIRQhlIC7u1EMO_VxbxYFStn8xQY6y7_S32vttz4xnfc7UEfySIK",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJDbwo3NBYwokRScSdHG6vXrM",
+      "plus_code": {
+        "compound_code": "Q344+65 \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q344+65"
+      },
+      "rating": 3.8,
+      "reference": "ChIJDbwo3NBYwokRScSdHG6vXrM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "10-25 41st Avenue, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.752882,
+          "lng": -73.9462738
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7542718302915,
+            "lng": -73.94489481970848
+          },
+          "southwest": {
+            "lat": 40.7515738697085,
+            "lng": -73.9475927802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sherry Hill Painting LLC",
+      "permanently_closed": true,
+      "place_id": "ChIJA-SVc9dYwokR-PvkdmQVPdE",
+      "plus_code": {
+        "compound_code": "Q333+5F \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q333+5F"
+      },
+      "reference": "ChIJA-SVc9dYwokR-PvkdmQVPdE",
+      "scope": "GOOGLE",
+      "types": [
+        "painter",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1102 Queens Plaza South, Queens"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7830603,
+          "lng": -73.9712488
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.820045,
+            "lng": -73.90331300000001
+          },
+          "southwest": {
+            "lat": 40.698078,
+            "lng": -74.03514899999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813",
+      "photos": [
+        {
+          "height": 1199,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108803842220307386999\">Debeli Atleti\u010dar</a>"
+          ],
+          "photo_reference": "AeJbb3fS8gvwgkfF1qB6YptQjMynckHfubVB4Ww5e94aQNKWgMVdNjyjU63KsFym1_ZgrXemh4viXxqG9tRfWVtLY51JhrF239_3jYU3SH1lkamW89EM7SKwJsNMjlPpr-vRidCxRYGujmFoBOBDzZ-xGo8Zd4Unyaiebtf9v7Zj-T60MTyc",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+      "reference": "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7539223,
+          "lng": -73.9494071
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75526053029149,
+            "lng": -73.9479706197085
+          },
+          "southwest": {
+            "lat": 40.7525625697085,
+            "lng": -73.95066858029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Chakra",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117381007175203154557\">Romaine Paige</a>"
+          ],
+          "photo_reference": "AeJbb3eiBKH9SGsm97l4Q5gdermBIN7pTnyf5yC7nJ9LQ2ORftyGaqAsvEyO13ZFmr4UqrUJemmlOzTtPAzJDn7vIW3WiTeHHHR7y0IG7WR_OOZAn-jZ6Egvc8fvIJzdBTmT4NlMhng5l2ZqL3Pz6kZpbfNmThWvDFPkdAPLTQn77vWhiAXe",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJUbwgwNlYwokRIkq7Do5Wdtc",
+      "plus_code": {
+        "compound_code": "Q332+H6 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q332+H6"
+      },
+      "rating": 4,
+      "reference": "ChIJUbwgwNlYwokRIkq7Do5Wdtc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "8-08 Queens Plaza South, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7538522,
+          "lng": -73.94944389999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7551658302915,
+            "lng": -73.94801756970848
+          },
+          "southwest": {
+            "lat": 40.7524678697085,
+            "lng": -73.9507155302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Ravel Hotel, Trademark Collection by Wyndham",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115405982415693315787\">Ravel Hotel, Trademark Collection by Wyndham</a>"
+          ],
+          "photo_reference": "AeJbb3duyU5JM_c3J_OpaUyNvr5gQDpc90-YU28eM_9LUDuyAZtJGIgJ8LWJwAzfb6WWAa4ZaXpM3BXyGW57Kdt4Iqgj_jEPsASGijnpBkKmkn_hIpmW36dQGq_N-C47Y99pcm9DbW_Y5jUNYO7gFX9DDpUsA4DYaUAYPs7GlMZNQSxnlgDm",
+          "width": 711
+        }
+      ],
+      "place_id": "ChIJOztq6I1ZwokRA3ZvRqXzGBk",
+      "plus_code": {
+        "compound_code": "Q332+G6 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q332+G6"
+      },
+      "rating": 4,
+      "reference": "ChIJOztq6I1ZwokRA3ZvRqXzGBk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1318,
+      "vicinity": "8-08 Queens Plaza South, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7537859,
+          "lng": -73.94740139999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75506943029149,
+            "lng": -73.94613941970849
+          },
+          "southwest": {
+            "lat": 40.7523714697085,
+            "lng": -73.9488373802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "GreenThumb Compound",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107152814897925261301\">Sarah Maltby</a>"
+          ],
+          "photo_reference": "AeJbb3cUs9nlu04gh6JIGO8HaTAvg0ervmw849IST-xafL3uHsZlDBrVvWFm670snccermTjGKH_WHFG2rm7Vu4RP3hZ0mPdbtaNaz06z_haOKNUVWmMjRwmVdnCIzhZ22b7mkE4GRIKX0ICS_nLDLpetJO-PBEppfl3JMtVpStXg3VlIT3P",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJuX_IYddYwokRYeyncxjRk4Y",
+      "plus_code": {
+        "compound_code": "Q333+G2 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q333+G2"
+      },
+      "rating": 4.7,
+      "reference": "ChIJuX_IYddYwokRYeyncxjRk4Y",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "10-10 Queens Plaza South, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7533227,
+          "lng": -73.9491914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7546340302915,
+            "lng": -73.9477661197085
+          },
+          "southwest": {
+            "lat": 40.75193606970851,
+            "lng": -73.95046408029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "CHUCK BAKER PHOTOGRAPHY",
+      "place_id": "ChIJCyEcyNlYwokRKqKCgsFCMOk",
+      "plus_code": {
+        "compound_code": "Q332+88 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q332+88"
+      },
+      "reference": "ChIJCyEcyNlYwokRKqKCgsFCMOk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "42-24 9th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7552679,
+          "lng": -73.9455112
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7566519802915,
+            "lng": -73.9439887697085
+          },
+          "southwest": {
+            "lat": 40.7539540197085,
+            "lng": -73.9466867302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "The Dollar Store",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104015392419275231879\">Joe Kovacs</a>"
+          ],
+          "photo_reference": "AeJbb3dz5h43fOtOnyZE0bILD5cKZR3Ow6iFuPlF9KAGplhITmPbDuJkDJJxEKKYKiWHSEQH7LSYBCCGlJ3vb1twhB-PA1fXsdJXeB5hYmdSpNqQ4JnsJXCbPoSEPz8Q8LTs1wV7bSLE6XdjbMzuVrlhvTf5ek8kLrqf_4YRlUq2hWi8RWkh",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ9-uC2tBYwokRS91Sd0aMRmM",
+      "plus_code": {
+        "compound_code": "Q343+4Q New York, NY, USA",
+        "global_code": "87G8Q343+4Q"
+      },
+      "rating": 4,
+      "reference": "ChIJ9-uC2tBYwokRS91Sd0aMRmM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 46,
+      "vicinity": "1012 41st Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75233599999999,
+          "lng": -73.948419
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7536484802915,
+            "lng": -73.9472236197085
+          },
+          "southwest": {
+            "lat": 40.7509505197085,
+            "lng": -73.94992158029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Eurotec Kitchen & Design Inc",
+      "place_id": "ChIJ7bhVVzVfwokRBBe1SobrBHQ",
+      "plus_code": {
+        "compound_code": "Q322+WJ Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q322+WJ"
+      },
+      "rating": 1.6,
+      "reference": "ChIJ7bhVVzVfwokRBBe1SobrBHQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "10-09 43rd Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.751816,
+          "lng": -73.948798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7532726302915,
+            "lng": -73.94757406970851
+          },
+          "southwest": {
+            "lat": 40.7505746697085,
+            "lng": -73.95027203029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Office in New York",
+      "place_id": "ChIJb41rTwBZwokRseYTbxUHn_A",
+      "plus_code": {
+        "compound_code": "Q322+PF New York, NY, USA",
+        "global_code": "87G8Q322+PF"
+      },
+      "rating": 4,
+      "reference": "ChIJb41rTwBZwokRseYTbxUHn_A",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "43-05 10th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7525283,
+          "lng": -73.94998850000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75397538029149,
+            "lng": -73.9485533197085
+          },
+          "southwest": {
+            "lat": 40.7512774197085,
+            "lng": -73.95125128029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brooklyn Stages",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJJZD0TdhYwokRtZ6Vy85FkQ8",
+      "plus_code": {
+        "compound_code": "Q332+22 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q332+22"
+      },
+      "rating": 5,
+      "reference": "ChIJJZD0TdhYwokRtZ6Vy85FkQ8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "8-16 43rd Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7526478,
+          "lng": -73.95038269999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75404098029149,
+            "lng": -73.9491546197085
+          },
+          "southwest": {
+            "lat": 40.75134301970849,
+            "lng": -73.9518525802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "EZ Leasing NYC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107351377863187251010\">EZ Leasing NYC</a>"
+          ],
+          "photo_reference": "AeJbb3cfRdLUg512CVPYJXsW-nh7yAhSgU_pbya32aKfcH5yok_JOA-vXyQvXPg93pW7X7Hsdf-gqYU5fDBOOmursHqkbiyK5Iajz2gerMseIb91FQxi7d6M_PWvpR1w6ntdwtd0v7sdQAcV1tT_v_gF6LFbYHGam9UrEWRgZOYlOw8ntxXt",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJNZkJVNhYwokRqFe0kY2owIs",
+      "plus_code": {
+        "compound_code": "Q23X+3R Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q23X+3R"
+      },
+      "reference": "ChIJNZkJVNhYwokRqFe0kY2owIs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "43-05 Vernon Boulevard, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7525165,
+          "lng": -73.95044759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7539438302915,
+            "lng": -73.94922771970849
+          },
+          "southwest": {
+            "lat": 40.7512458697085,
+            "lng": -73.9519256802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Towne House Restorations Inc.",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110506454760116074005\">Ira Temchin</a>"
+          ],
+          "photo_reference": "AeJbb3d4orypaMGBmqlWjitw7zq-gBJNR_Wx2xwBeSaeXqSIq31bzn5QVuwp5x97vAyLFGsqe18n8ZLC-cNg4KiSIOmiLdVv7WW6cFZ8MafFnIXyWinKErdEmRqd0uL6zxLMYuyJdLF5H1aRjALa57Yto8m5UP5VZS7llns6Y0NpTitrLAar",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJN_L2VthYwokRUP5xPBLBCFQ",
+      "plus_code": {
+        "compound_code": "Q23X+2R Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q23X+2R"
+      },
+      "rating": 5,
+      "reference": "ChIJN_L2VthYwokRUP5xPBLBCFQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "43-09 Vernon Boulevard, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7552412,
+          "lng": -73.94440809999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75654438029149,
+            "lng": -73.9431119197085
+          },
+          "southwest": {
+            "lat": 40.75384641970849,
+            "lng": -73.9458098802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "The Floating Hospital: Queensbridge Health Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118322012209301595637\">Phillip Mejia</a>"
+          ],
+          "photo_reference": "AeJbb3dr1L603EzmO_TVC5JNsE7odyXyno8P6Jai05J-DKYDBNb4Zml2-xDbzdqjlS1QVnOAMoiRK1nkiVqGiQ-tqSx3y0I1wTPnQ3zVTfiudfvGVByZnMXtuQ0LsIOiE-2EM07zgh2uoRYOy6IFgIfNGf6pRiGQMr31k2WI0QfusQt3d4Qm",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJmeHAJdFYwokRgM3VFkUlrkY",
+      "plus_code": {
+        "compound_code": "Q344+36 New York, NY, USA",
+        "global_code": "87G8Q344+36"
+      },
+      "rating": 3.7,
+      "reference": "ChIJmeHAJdFYwokRgM3VFkUlrkY",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 41,
+      "vicinity": "10-29 41st Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7548912,
+          "lng": -73.94440589999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75628258029149,
+            "lng": -73.94301931970848
+          },
+          "southwest": {
+            "lat": 40.75358461970849,
+            "lng": -73.9457172802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Police Athletic League Western Queens Nursery School",
+      "place_id": "ChIJ2ZilONdYwokRF7FyIZF1Olc",
+      "plus_code": {
+        "compound_code": "Q334+X6 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q334+X6"
+      },
+      "rating": 4,
+      "reference": "ChIJ2ZilONdYwokRF7FyIZF1Olc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1044 41st Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7521261,
+          "lng": -73.9475729
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7534914302915,
+            "lng": -73.94629831970849
+          },
+          "southwest": {
+            "lat": 40.7507934697085,
+            "lng": -73.9489962802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Limousines",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117722868258538902719\">Henry Limousines</a>"
+          ],
+          "photo_reference": "AeJbb3dttDxQYdu_F2IqhkVHIphnEQxUDNPhA9clWwHHhpM7G8GD1VoQDTQVm76ewXII-JGP5Fi6Ocf73kJDsuPVkyL9igg7Pc5hTT23S16s9vs19jH70ydBdaU-sd1--x_6NgZH1B6P7-yyCUh9G3z9BQtf7F6jz_xV6DS9Gyf_0pKtXkau",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJz5lQj9dYwokRDX5foxc6fRk",
+      "plus_code": {
+        "compound_code": "Q322+VX New York, NY, USA",
+        "global_code": "87G8Q322+VX"
+      },
+      "reference": "ChIJz5lQj9dYwokRDX5foxc6fRk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "11-01 43rd Avenue, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7522507,
+          "lng": -73.95016749999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7535729302915,
+            "lng": -73.94872496970851
+          },
+          "southwest": {
+            "lat": 40.75087496970851,
+            "lng": -73.95142293029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ursula Plumbing Heating and Cooling",
+      "permanently_closed": true,
+      "place_id": "ChIJR5R6WthYwokRKCgx04LRKG4",
+      "plus_code": {
+        "compound_code": "Q22X+WW New York, NY, USA",
+        "global_code": "87G8Q22X+WW"
+      },
+      "reference": "ChIJR5R6WthYwokRKCgx04LRKG4",
+      "scope": "GOOGLE",
+      "types": [
+        "plumber",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "813 43rd Road, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75501599999999,
+          "lng": -73.9441662
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75632233029149,
+            "lng": -73.94285501970849
+          },
+          "southwest": {
+            "lat": 40.75362436970849,
+            "lng": -73.94555298029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Queens Public Library Tech Lab at Queensbridge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJZxofXNRYwokRyx278foLlMw",
+      "plus_code": {
+        "compound_code": "Q344+28 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q344+28"
+      },
+      "rating": 4.3,
+      "reference": "ChIJZxofXNRYwokRyx278foLlMw",
+      "scope": "GOOGLE",
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "10-43 41st Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75249090000001,
+          "lng": -73.94562549999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7539432302915,
+            "lng": -73.94449776970848
+          },
+          "southwest": {
+            "lat": 40.7512452697085,
+            "lng": -73.9471957302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Major World Chrysler Dodge Jeep Ram Service",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2252,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108516437932562329057\">Major Chrysler Dodge Jeep Ram Service</a>"
+          ],
+          "photo_reference": "AeJbb3fJ5WUlQmBhaRZo1_6qunKy1Pexw-OztRzCrXXl4wdjZzHmGW5o10D0HoDf5SaWGpflMWBEpOPmwMGp-bGIKYdMqT4OdRrhNDsRfNFM1SV6udN8y8oEwUEPHZCVl51BZW9WHbpiH3JMM_0_hithGPahdXF9-o0oy_vCxZk3BkEVbBbd",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ2-NGESNfwokRaQBA4JRceYI",
+      "plus_code": {
+        "compound_code": "Q323+XP New York, NY, USA",
+        "global_code": "87G8Q323+XP"
+      },
+      "rating": 3.5,
+      "reference": "ChIJ2-NGESNfwokRaQBA4JRceYI",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 140,
+      "vicinity": "42-05 12th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.754544,
+          "lng": -73.94394980000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75595398029149,
+            "lng": -73.9427119697085
+          },
+          "southwest": {
+            "lat": 40.75325601970849,
+            "lng": -73.94540993029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Queensbridge South",
+      "place_id": "ChIJoyHzLdFYwokR8QeXVjQTWH4",
+      "plus_code": {
+        "compound_code": "Q334+RC Astoria, Queens, NY, USA",
+        "global_code": "87G8Q334+RC"
+      },
+      "rating": 3.6,
+      "reference": "ChIJoyHzLdFYwokR8QeXVjQTWH4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "41-1 12th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7521367,
+          "lng": -73.9464309
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75351683029149,
+            "lng": -73.9451387197085
+          },
+          "southwest": {
+            "lat": 40.75081886970849,
+            "lng": -73.94783668029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "J & J Johnson Gen Contractor",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117979751334919367476\">Alexander Mejia</a>"
+          ],
+          "photo_reference": "AeJbb3dySpyUaqqBxf-El7my3IGt3jm4l8WSvnLSlTNzIgt321TWhDMuPnMD9D6uGHjnaLpjt2dEsJ-3vRHv0_rGhmLqF3uQnl3yok_XQYwX0ANJwX23gVCgVcQ3aj4sklVHHmnyQE0A3whysk8NBoWXVE5mn18UPSJW-l1vUiqjZ9iIkeph",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJKdBsP9FYwokRT6jGifh0YKE",
+      "plus_code": {
+        "compound_code": "Q323+VC New York, NY, USA",
+        "global_code": "87G8Q323+VC"
+      },
+      "rating": 5,
+      "reference": "ChIJKdBsP9FYwokRT6jGifh0YKE",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "4225 12th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75231199999999,
+          "lng": -73.947992
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7536017802915,
+            "lng": -73.9465160697085
+          },
+          "southwest": {
+            "lat": 40.7509038197085,
+            "lng": -73.9492140302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Stanley Supply & Tool Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 503,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101871388238454091407\">Stanley Supply &amp; Tool Inc.</a>"
+          ],
+          "photo_reference": "AeJbb3cO4ZLn_8SEZnOGKIJLAkIWFhzUtMX9YBB1NQhLqdWWbCKqWt74NafchTyGemNpiz0JBCaRjjMp4unmaunHp8FMXutWHa11-BFcoQFP9mB6NBxnFmTdmmEoSK4ayX2fGfKSomym_CCpMNH0DNKS32TaAXGnNg26BnzKjYZC_ARAkkus",
+          "width": 741
+        }
+      ],
+      "place_id": "ChIJgSeLKdhYwokRvz_RlEx9D4U",
+      "plus_code": {
+        "compound_code": "Q322+WR Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q322+WR"
+      },
+      "rating": 3.9,
+      "reference": "ChIJgSeLKdhYwokRvz_RlEx9D4U",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "42-42 11th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7518083,
+          "lng": -73.94730419999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7531072302915,
+            "lng": -73.94599221970849
+          },
+          "southwest": {
+            "lat": 40.75040926970851,
+            "lng": -73.9486901802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Laborers' International Union",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108441314838943673410\">Sofia Mayvaldov</a>"
+          ],
+          "photo_reference": "AeJbb3dJnSWUYDl2b8AjZt9N16C_J0WaejC2zcBlJk0CIZfFO1LxcaXhIssEK9gJZmGGPmvWnf5-oIhuMgIfexF-4F1hXBhutRKYSdynMGB33Pfh-zoosIneF4JKAFbFI00q8SckRKvRoNO_YgkTVysSDr9TKdC0imVbH_DDk9dT-4zV2OJn",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJ04u4LyRZwokRWWQZMcliQ1s",
+      "plus_code": {
+        "compound_code": "Q323+P3 New York, NY, USA",
+        "global_code": "87G8Q323+P3"
+      },
+      "reference": "ChIJ04u4LyRZwokRWWQZMcliQ1s",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "11-17 43rd Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7571176,
+          "lng": -73.9444091
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7584144802915,
+            "lng": -73.94311706970849
+          },
+          "southwest": {
+            "lat": 40.7557165197085,
+            "lng": -73.9458150302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Xandtax Service",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 680,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114955296368399817792\">Xandtax Service</a>"
+          ],
+          "photo_reference": "AeJbb3cXTSkcy-CvdxM6e438K2uQsVUaFZnciGG4DAE7QHmzCsHKM-JSci1L973dOwL_g0lSnaIRiMO-PjBTkU-MzghbBL54LnP_0uDESQsueNTQHb7WhBpY_U_wuGqZ5FnqWRPNHBuaBr1VfroB-HMDB2rE4rKx0SYrCWUcrtuzqHrYGp0m",
+          "width": 509
+        }
+      ],
+      "place_id": "ChIJ_xEaqtFYwokRQcmib5MxZgk",
+      "plus_code": {
+        "compound_code": "Q344+R6 New York, NY, USA",
+        "global_code": "87G8Q344+R6"
+      },
+      "rating": 5,
+      "reference": "ChIJ_xEaqtFYwokRQcmib5MxZgk",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "917 40th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75195900000001,
+          "lng": -73.9511345
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7533371302915,
+            "lng": -73.9498526197085
+          },
+          "southwest": {
+            "lat": 40.7506391697085,
+            "lng": -73.9525505802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Power Cooling",
+      "photos": [
+        {
+          "height": 1224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108045646142334864480\">Power Cooling</a>"
+          ],
+          "photo_reference": "AeJbb3cVy9xd9iHxqsvj7L9brAZma_fqdFdXZhkLBi7PvGZfcA_l7lJk1RuNHe_zCOA5jfTclNBQ7zIOZdBf91PoYvWUZq-xBbCaewHcfs4W2U3PlZvzCBWB6ANJvCHnSBc9s5g7wZsf2CbhMlhw3anHSVf8FU641vsjnKWUFnjeTSzuXG5u",
+          "width": 1632
+        }
+      ],
+      "place_id": "ChIJQ6Cn89hYwokRntZ6KeXPNao",
+      "plus_code": {
+        "compound_code": "Q22X+QG Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q22X+QG"
+      },
+      "rating": 4.3,
+      "reference": "ChIJQ6Cn89hYwokRntZ6KeXPNao",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "43-43 Vernon Boulevard, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7555154,
+          "lng": -73.9445939
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75677083029149,
+            "lng": -73.9433308697085
+          },
+          "southwest": {
+            "lat": 40.75407286970849,
+            "lng": -73.94602883029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Community Services",
+      "photos": [
+        {
+          "height": 1908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101723629317135098187\">Hugo Maillard</a>"
+          ],
+          "photo_reference": "AeJbb3dVikpaBZGwp31YOBEPK6vlizQYJ3Gkh_dYiLeos0vmUOu5gC0Q1gkc4cr6LdyAsry31xf-3eQOUQKh_z-IKJVL3JSFMB_JlUdP-9eO3_Ys2hYB3Z-ioh1tjkB7UUnaPsG_O4s6oTdd3cMEiTxaOOj_XDmA3wvhFJV12dIbNnjXIBAF",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJDbwo3NBYwokRlfgdPRq4J6c",
+      "plus_code": {
+        "compound_code": "Q344+65 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q344+65"
+      },
+      "reference": "ChIJDbwo3NBYwokRlfgdPRq4J6c",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1025 41st Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7574649,
+          "lng": -73.9444091
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75890793029149,
+            "lng": -73.94320981970849
+          },
+          "southwest": {
+            "lat": 40.75620996970849,
+            "lng": -73.9459077802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "JelIinek Radiator",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1150,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100404471767374146509\">JelIinek Radiator</a>"
+          ],
+          "photo_reference": "AeJbb3eiIt3UAWQpj5MrkAn8DFRYnUiwke8ULWOYOaQHX1zskL-woNrlE90pol0QMdYWPNZ2XUJd8NTjIfD1b_SBpxTE-v0YmotHSWHkK1X-Y65OI4zeRrBHuUksGmNIVbIsBK6mVtmOZ95wScwVHs85M8Jyfu2fVtkwffLfw1-bce2zWjC9",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJm5TardFYwokRdDtXqsQd7Ck",
+      "plus_code": {
+        "compound_code": "Q344+X6 New York, NY, USA",
+        "global_code": "87G8Q344+X6"
+      },
+      "rating": 4.3,
+      "reference": "ChIJm5TardFYwokRdDtXqsQd7Ck",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "3859 9th Street, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.75816469999999,
+          "lng": -73.94476
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7595665802915,
+            "lng": -73.94371856970848
+          },
+          "southwest": {
+            "lat": 40.7568686197085,
+            "lng": -73.9464165302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Avenue A Cards Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJF71ttdFYwokRWSBaLxmaq4A",
+      "plus_code": {
+        "compound_code": "Q354+73 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q354+73"
+      },
+      "reference": "ChIJF71ttdFYwokRWSBaLxmaq4A",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "833 40th Avenue, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.75816469999999,
+          "lng": -73.94476
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7595665802915,
+            "lng": -73.94371856970848
+          },
+          "southwest": {
+            "lat": 40.7568686197085,
+            "lng": -73.9464165302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Luftmensch Books",
+      "permanently_closed": true,
+      "place_id": "ChIJF71ttdFYwokRLhsgYbJf5zo",
+      "plus_code": {
+        "compound_code": "Q354+73 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q354+73"
+      },
+      "reference": "ChIJF71ttdFYwokRLhsgYbJf5zo",
+      "scope": "GOOGLE",
+      "types": [
+        "book_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "833 40th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.751268,
+          "lng": -73.9483609
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7526531802915,
+            "lng": -73.94708441970849
+          },
+          "southwest": {
+            "lat": 40.7499552197085,
+            "lng": -73.94978238029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bionova Lab",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJq8JCGNhYwokRW_2K4pN4U20",
+      "plus_code": {
+        "compound_code": "Q322+GM New York, NY, USA",
+        "global_code": "87G8Q322+GM"
+      },
+      "rating": 3.8,
+      "reference": "ChIJq8JCGNhYwokRW_2K4pN4U20",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "43-15 11th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.751257,
+          "lng": -73.948205
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7526476802915,
+            "lng": -73.9470064697085
+          },
+          "southwest": {
+            "lat": 40.7499497197085,
+            "lng": -73.9497044302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Atlas Scientific LLC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113108712313318448289\">Atlas Scientific LLC</a>"
+          ],
+          "photo_reference": "AeJbb3fzi5kabehi0LDF7eiH1CTtnl3BjpG5EAWzi9lMIQM47xTxwqjxFZ8eOYHX9KUIshnu0xPJhNF9nHNWJYcVZ4fRiUA4poIvBCi5gq5lcbAw8sICJd2SJDXAtLYHxKe9spSp6-BXQEVt8daEsxTIapKiEJQxflm1_Wl4DcBwBTLPDIzZ",
+          "width": 4272
+        }
+      ],
+      "place_id": "ChIJaUf44-9bwokRqh0f7VT14lo",
+      "plus_code": {
+        "compound_code": "Q322+GP Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q322+GP"
+      },
+      "rating": 5,
+      "reference": "ChIJaUf44-9bwokRqh0f7VT14lo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "43-15 11th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75647209999999,
+          "lng": -73.94335219999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7577792802915,
+            "lng": -73.94200546970849
+          },
+          "southwest": {
+            "lat": 40.7550813197085,
+            "lng": -73.94470343029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Discount store",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJF2NTDNFYwokRLe8CkbgAgdo",
+      "plus_code": {
+        "compound_code": "Q344+HM Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q344+HM"
+      },
+      "rating": 4.5,
+      "reference": "ChIJF2NTDNFYwokRLe8CkbgAgdo",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "11-1 40th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75092850000001,
+          "lng": -73.9496327
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75232683029151,
+            "lng": -73.94838371970849
+          },
+          "southwest": {
+            "lat": 40.74962886970851,
+            "lng": -73.95108168029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mike + Ally",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2922,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112509816782176632629\">Mike + Ally</a>"
+          ],
+          "photo_reference": "AeJbb3cZOdbwZ7XxEHpOVt2_TVY_TAh2xONp_Z9lR7bi2SVeUUS-_mz7mbQphGo9Go22CIqWdUJ_BmlwIA0y1LJI5KVK38cbOnHta_i2IfvNS2Rza-SJAE2a3eB5hq2hymCV4k-bo_wbFxYyRAIL8BBP1RIId39lby_p_MWf_4Coi3SuSPVh",
+          "width": 2922
+        }
+      ],
+      "place_id": "ChIJvagqxddYwokRF552lmwzSOQ",
+      "plus_code": {
+        "compound_code": "Q322+94 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q322+94"
+      },
+      "reference": "ChIJvagqxddYwokRF552lmwzSOQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "43-49 10th Street #200, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75558509999999,
+          "lng": -73.94611359999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7568695302915,
+            "lng": -73.9446510697085
+          },
+          "southwest": {
+            "lat": 40.7541715697085,
+            "lng": -73.9473490302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Inlay Travel",
+      "place_id": "ChIJC6AGx9BYwokRBxjkHzPf0nQ",
+      "plus_code": {
+        "compound_code": "Q343+6H Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q343+6H"
+      },
+      "reference": "ChIJC6AGx9BYwokRBxjkHzPf0nQ",
+      "scope": "GOOGLE",
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "41-05 Vernon Boulevard, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7547888,
+          "lng": -73.94521929999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7563127302915,
+            "lng": -73.94371871970849
+          },
+          "southwest": {
+            "lat": 40.75361476970851,
+            "lng": -73.94641668029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Queensbridge North Houses",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106765251077100194377\">Bess Fung</a>"
+          ],
+          "photo_reference": "AeJbb3cXIt_wJmjmobfhIqFQYXuhapH-9wFg85yR9ztwTsWF2elrvt1x0CY3V7ZNV--mhGInUUZbPv55pp3OdoTme4VqY_hrJityzG2RJk9F4rjLVgOsPsFCnRUNW2OokD4-jVWeyfS1LOo3uclxl_xvJQlpQebzzI01j3TCIDdOIniKhHsh",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJzdgVmdBYwokRFVsf3877n90",
+      "plus_code": {
+        "compound_code": "Q333+WW New York, NY, USA",
+        "global_code": "87G8Q333+WW"
+      },
+      "rating": 4,
+      "reference": "ChIJzdgVmdBYwokRFVsf3877n90",
+      "scope": "GOOGLE",
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 136,
+      "vicinity": "10-26 41st Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75207220000001,
+          "lng": -73.9473251
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7535178302915,
+            "lng": -73.9461472197085
+          },
+          "southwest": {
+            "lat": 40.7508198697085,
+            "lng": -73.9488451802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Benslimo",
+      "place_id": "ChIJ__8vhNdYwokRxTPczlXeVyQ",
+      "rating": 3,
+      "reference": "ChIJ__8vhNdYwokRxTPczlXeVyQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "11-01 43rd Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7509993,
+          "lng": -73.9477825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7523174302915,
+            "lng": -73.94638261970849
+          },
+          "southwest": {
+            "lat": 40.7496194697085,
+            "lng": -73.9490805802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Altus Metal & Marble",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104381584763318908284\">Richard Blakeley</a>"
+          ],
+          "photo_reference": "AeJbb3fdnC5bD7zI7muBeSRkk2GzyCGdsxHNC8nbfU4iHNTNcOoOdX8WBjcIpw-aTefwxn6-AyVrumLjYS2Lu6WCwiTxXA9GkJF4alegeTkmRGKMrgl8cOYcV9mn17DDd08UUeGTg_PqDjGy6v6bBCODKsfekWVJHDtAnsqiwYSpJZkVLJCf",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJuf9kHthYwokRjt7MQvWzl2A",
+      "plus_code": {
+        "compound_code": "Q322+9V Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q322+9V"
+      },
+      "rating": 3.7,
+      "reference": "ChIJuf9kHthYwokRjt7MQvWzl2A",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "4316 12th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7512598,
+          "lng": -73.9506122
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7527627802915,
+            "lng": -73.9491955197085
+          },
+          "southwest": {
+            "lat": 40.7500648197085,
+            "lng": -73.9518934802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Stuart Dean Company",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112385749461986717978\">Daniel Catano</a>"
+          ],
+          "photo_reference": "AeJbb3dVoH08CSp69wVQMkhXSrRs98_-4Lt8s2_gDHwuFYNCcRLyhsIsyDeJaz-O9XLZXWtmlMPp2WMQAOTWi63LuzZDGOyRcboWAdlv90PfTPlPefGUTyCz4SlX1DN7G9NArZqZkbPJSzgIIB2qtHMcP2sXjvttkGaEaPNnIrpG8Nhf86zT",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJlerJethYwokRjGcw9n61tro",
+      "plus_code": {
+        "compound_code": "Q22X+GQ New York, NY, USA",
+        "global_code": "87G8Q22X+GQ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJlerJethYwokRjGcw9n61tro",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "43-50 10th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7536324,
+          "lng": -73.9497078
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7549775802915,
+            "lng": -73.94841476970849
+          },
+          "southwest": {
+            "lat": 40.7522796197085,
+            "lng": -73.9511127302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Plant Specialists",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 524,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110165824514545010948\">Plant Specialists</a>"
+          ],
+          "photo_reference": "AeJbb3fKGD7uNabm3hYKkfvhdiFFhl9-yvNUqXkbfCW2zdCyk47B6d9YLFEsi8AduVnWzk-Dx6al5h0BkvbjLRY2nLo2jMHeftxvlVVpYIvkmWkiYEzcua74CUiGMhUQWriCj8Iw12sXdCYoLlV5r90pKleH_E9s6BHeVC5h-RLLBOnYlTzH",
+          "width": 864
+        }
+      ],
+      "place_id": "ChIJeSpBsdlYwokR7YhtQkTwde4",
+      "plus_code": {
+        "compound_code": "Q332+F4 New York, NY, USA",
+        "global_code": "87G8Q332+F4"
+      },
+      "rating": 4.8,
+      "reference": "ChIJeSpBsdlYwokR7YhtQkTwde4",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "42-25 Vernon Boulevard, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7509455,
+          "lng": -73.949713
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75232738029149,
+            "lng": -73.94843071970848
+          },
+          "southwest": {
+            "lat": 40.7496294197085,
+            "lng": -73.9511286802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Stat Security",
+      "place_id": "ChIJG0ZEcNhYwokRMyfbxshN0J4",
+      "plus_code": {
+        "compound_code": "Q322+94 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q322+94"
+      },
+      "rating": 1,
+      "reference": "ChIJG0ZEcNhYwokRMyfbxshN0J4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "4349 10th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7576487,
+          "lng": -73.94386399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7588998802915,
+            "lng": -73.94244551970849
+          },
+          "southwest": {
+            "lat": 40.7562019197085,
+            "lng": -73.9451434802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Queens Commissary Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJVXVw3dBYwokRHmNS6wQag20",
+      "plus_code": {
+        "compound_code": "Q354+3F Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q354+3F"
+      },
+      "rating": 3,
+      "reference": "ChIJVXVw3dBYwokRHmNS6wQag20",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "3840 10th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75208620000001,
+          "lng": -73.9505873
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75347488029151,
+            "lng": -73.94919081970849
+          },
+          "southwest": {
+            "lat": 40.75077691970851,
+            "lng": -73.9518887802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Big aLICe Brewing",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114187930866665041024\">Thomas</a>"
+          ],
+          "photo_reference": "AeJbb3f7B3qBPIsRSziDrJ2EMNaz8uZsxjXJfWYPgF8-4htWTUy4tkOOQDVENn4WLOGV07W3xGKjtsemW3XVDgdYKWBgBRidOyXc8Z1GBdmE16AfzPy2KL7YkBXCQNZcb22Nd_ie5iiG9YgGx4wyHIBCvEzSePXrNLhaLdbyeI8QdkHZncB2",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJh9-J99hYwokRxc9AgwkG1Io",
+      "plus_code": {
+        "compound_code": "Q22X+RQ Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q22X+RQ"
+      },
+      "rating": 4.6,
+      "reference": "ChIJh9-J99hYwokRxc9AgwkG1Io",
+      "scope": "GOOGLE",
+      "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 297,
+      "vicinity": "8-08 43rd Road, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.753568,
+          "lng": -73.948393
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7548618302915,
+            "lng": -73.9472593197085
+          },
+          "southwest": {
+            "lat": 40.7521638697085,
+            "lng": -73.94995728029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Titan Machine Corporation",
+      "place_id": "ChIJtSs-xNlYwokRDyUimUc4vlc",
+      "plus_code": {
+        "compound_code": "Q332+CJ New York, NY, USA",
+        "global_code": "87G8Q332+CJ"
+      },
+      "rating": 5,
+      "reference": "ChIJtSs-xNlYwokRDyUimUc4vlc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "4211 9th Street, Queens"
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,2453 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3e2Nw3bCbrpj42ZLpXc24FWFw4qKHZA1inpQbbLT1wnOz6_eeXPxzo8raKVGM-TUxvSHapuk9HrMGfBeKGpTGfcyckV3pAiefCBgIbJ5U1ZdfK2C5DYFWe1bhnjiyN9ay8tg2ykwD7GLXypkQwS3960I2nFc8QkeSdKZtrFlzN_fRpP",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8396572,
+          "lng": -73.940451
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84107743029151,
+            "lng": -73.9392152197085
+          },
+          "southwest": {
+            "lat": 40.83837946970851,
+            "lng": -73.94191318029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Dallas BBQ Washington Heights",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2147,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111719219215411994893\">Hecatonic</a>"
+          ],
+          "photo_reference": "AeJbb3c9Qqn1NnghaOH5xxgG76C42UTVpBY-JAPtzJ4puXfXHJH1qRDeubcgxUknpPZD-w-e4Eh0mlDCeyEnIr9BZROLmeOTaeIJwcdMvu0ScO8vnFc-1BmMR2_88CjQW-rK8f-jHtpEcs-rZkxQh9o385k5PdQfgNzExIOBiRSBoxr2PFiJ",
+          "width": 4088
+        }
+      ],
+      "place_id": "ChIJ1Tldkpz2wokR1BvQMWlaoOs",
+      "plus_code": {
+        "compound_code": "R3Q5+VR \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VR"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJ1Tldkpz2wokR1BvQMWlaoOs",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3474,
+      "vicinity": "3956 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.94142149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992576970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.9426237302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Div Of Pediatric Surgery, Columbia University",
+      "place_id": "ChIJC9X3mpz2wokR_ior-MwANHY",
+      "plus_code": {
+        "compound_code": "R3Q5+VC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokR_ior-MwANHY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8344548,
+          "lng": -73.9385727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8357959302915,
+            "lng": -73.9374075697085
+          },
+          "southwest": {
+            "lat": 40.8330979697085,
+            "lng": -73.9401055302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morris-Jumel Mansion",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1509,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113328106824155509327\">Morris-Jumel Mansion</a>"
+          ],
+          "photo_reference": "AeJbb3cHAu9bbiknuDrnUY7dIRkmpAIZYS6sfQn-hoU9Dw44V0IQDzoC0qs_eohA6AMT0-KJSnwanLzfmOSkBi2ZhzkHJbWkxkGZHRgpPJ1DkIY1hX6YNwxUyuFAFjmkbwManDcaZXXCo00U3UXfvQEvG8RE7jW_8qqVpaveNakKdU-2WHQz",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJqTIQToL2wokRKbmUA423_YY",
+      "plus_code": {
+        "compound_code": "R3M6+QH \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3M6+QH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJqTIQToL2wokRKbmUA423_YY",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 410,
+      "vicinity": "65 Jumel Terrace, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410789802915,
+            "lng": -73.9398191197085
+          },
+          "southwest": {
+            "lat": 40.8383810197085,
+            "lng": -73.94251708029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Joshua E Hyman, MD",
+      "photos": [
+        {
+          "height": 1100,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110144590460089323788\">Joshua E Hyman, MD</a>"
+          ],
+          "photo_reference": "AeJbb3e9nsvygelhu1IdynvECAfJMBbrVocke2qqtbEXFWqWaVdnYa-T4tzflNyMGZ6HnbaWncthX1yphaFeIIjezBHBzySl5LFdomxPS3wt9efHeLhqbhaNQcTN7PlxjJk_YMQ-My4zEkEnpbsCLmddwUeM0toxTkAMZB6kmeUqFC_Ow8sA",
+          "width": 1955
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokRk1LHJ8I58LQ",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "rating": 4.7,
+      "reference": "ChIJC9X3mpz2wokRk1LHJ8I58LQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 42,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Robert L. Seigle, MD",
+      "place_id": "ChIJC9X3mpz2wokR5q0U94q08ZA",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokR5q0U94q08ZA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 701, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Turkish Aaron R MD",
+      "place_id": "ChIJC9X3mpz2wokRBlg82OyNPtc",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRBlg82OyNPtc",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Julie A. Vincent, MD",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJC9X3mpz2wokRrmR8ZnkqFxA",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "rating": 1.5,
+      "reference": "ChIJC9X3mpz2wokRrmR8ZnkqFxA",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pediatric Hand Center of New York",
+      "place_id": "ChIJU-Ppj5z2wokRA87DBzM3zGI",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJU-Ppj5z2wokRA87DBzM3zGI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 8n, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8393896,
+          "lng": -73.9387421
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8408085302915,
+            "lng": -73.9375606697085
+          },
+          "southwest": {
+            "lat": 40.8381105697085,
+            "lng": -73.94025863029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "New York Presbyterian Hospital",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108434605385638852727\">Leonardo Guevara raicestv</a>"
+          ],
+          "photo_reference": "AeJbb3dk3inlWsYFXq4--JBB5lInd_4mbdG8BN9jElB36khqURK_5ybUWjDSBQ5lRk-8y3LA0jUXrLpCJWzS1jFk1_1LhADqsPR8XwNaRXnZRUnBacMgLiO0LZU1Q6cDNYcFvKpPRJ7XEuhCl-Mvw_dwDbAdC2385h5ZAlf95jcYh_Jztavq",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ1bi4eZz2wokRQN0l_v9vN14",
+      "plus_code": {
+        "compound_code": "R3Q6+QG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q6+QG"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ1bi4eZz2wokRQN0l_v9vN14",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 45,
+      "vicinity": "21 Audubon Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. David J. Resnick, MD",
+      "place_id": "ChIJC9X3mpz2wokRRMJ3-eXIQuQ",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRRMJ3-eXIQuQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 107N, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jan M. Quaegebeur, MD, PhD",
+      "place_id": "ChIJUW9tVR9awokREBTuCjoNAzI",
+      "plus_code": {
+        "compound_code": "R3Q5+VC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "rating": 5,
+      "reference": "ChIJUW9tVR9awokREBTuCjoNAzI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Kenneth I. Glassberg, MD",
+      "place_id": "ChIJC9X3mpz2wokRi6MsMAZ0Y94",
+      "plus_code": {
+        "compound_code": "R3Q5+VC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokRi6MsMAZ0Y94",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Allergy Division",
+      "place_id": "ChIJC9X3mpz2wokR3B6ZmJ3CypQ",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokR3B6ZmJ3CypQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 107N, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ten Vadim MD",
+      "place_id": "ChIJC9X3mpz2wokRmTBvuu_nF60",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "rating": 5,
+      "reference": "ChIJC9X3mpz2wokRmTBvuu_nF60",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3959 Broadway # 1201, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Altman Peter R MD",
+      "place_id": "ChIJC9X3mpz2wokRJgsOg0ansRU",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRJgsOg0ansRU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morgan Stanley Children's Hospital: Stone Anne MD",
+      "place_id": "ChIJC9X3mpz2wokRP_NLY9Cuurk",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRP_NLY9Cuurk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Cherise A. Rowan, MD",
+      "place_id": "ChIJC9X3mpz2wokRNPxVoHMoOI0",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRNPxVoHMoOI0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Ulana M. Sanocka, MD",
+      "place_id": "ChIJC9X3mpz2wokRF-t3SnrV0I0",
+      "plus_code": {
+        "compound_code": "R3Q5+VF \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRF-t3SnrV0I0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.8240478,
+          "lng": -73.9447643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87822003591612,
+            "lng": -73.91064591328563
+          },
+          "southwest": {
+            "lat": 40.78278392408598,
+            "lng": -73.97119006413347
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u66fc\u54c8\u9813\u4e0a\u57ce",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108665206705263687409\">Chris Lidstone</a>"
+          ],
+          "photo_reference": "AeJbb3eQRCBbVfOIzpqHWCkjKOUh2Ai28UGLTRybi-xfZkhmUZmGAwX6GZ8xo-mgyWCX2TZg1YxeZQp1uZbhu_IpAG4y7kcbXF2Srm5Hh9BCy7gEhcX_KtQXOIxR5kwHkr66QG0TELXcp1IgmjMR99t3-5vLAjfw867izRm-oduI_7fkHOFX",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "reference": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u66fc\u54c8\u9813"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morgan Stanley Children's Hospital: Szlam Sarah M MD",
+      "place_id": "ChIJC9X3mpz2wokRhg-ENZB6vqQ",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRhg-ENZB6vqQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Veniamin Ratner, MD",
+      "place_id": "ChIJC9X3mpz2wokRKxmnQVsctYg",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRKxmnQVsctYg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Landis Benjamin J MD",
+      "place_id": "ChIJC9X3mpz2wokRCKKgS2XOj5A",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRCKKgS2XOj5A",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morgan Stanley Children's Hospital: Walsh Christopher MD",
+      "place_id": "ChIJC9X3mpz2wokRX2J8e02sdQI",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRX2J8e02sdQI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morgan Stanley Children's Hospital: Driscoll Jr John M MD",
+      "place_id": "ChIJC9X3mpz2wokRBc0FvtOhiVg",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRBc0FvtOhiVg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410789802915,
+            "lng": -73.9398191197085
+          },
+          "southwest": {
+            "lat": 40.8383810197085,
+            "lng": -73.94251708029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. John M. Lorenz, MD",
+      "place_id": "ChIJC9X3mpz2wokRnXRX6FVao04",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRnXRX6FVao04",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morgan Stanley Children's Hospital: Guimbellot Jennifer S MD",
+      "place_id": "ChIJC9X3mpz2wokRql21o4IHmGQ",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRql21o4IHmGQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ali Andre Mencin, MD",
+      "photos": [
+        {
+          "height": 653,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105075524988992791297\">Ali Andre Mencin, MD</a>"
+          ],
+          "photo_reference": "AeJbb3fIhFsVJYhQ9yu27JI853BjhD_3SFWU-2yynWXXNjmq1gbgcucPf_DHN_AZszZQmPt_B_4dAYsGLWcrn6GJFA6qWw9j_l_QN_uE_kVd20I2ag7eWYYJfIaAgnEFe1qiqezNXkssnzE8MFxYzo9zhap6JlMOnTufSr72sAuG9LNkqkXg",
+          "width": 435
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokRbc6HWVuuImU",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "rating": 5,
+      "reference": "ChIJC9X3mpz2wokRbc6HWVuuImU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morgan Stanley Children's Hospital: Huang Jennifer MD",
+      "place_id": "ChIJC9X3mpz2wokRW4HlaFhNtas",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRW4HlaFhNtas",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morgan Stanley Children's Hospital: Greenstein Emily P MD",
+      "place_id": "ChIJC9X3mpz2wokRx9fDMZPWEx4",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRx9fDMZPWEx4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morgan Stanley Children's Hospital: Markley Tonnie C MD",
+      "place_id": "ChIJC9X3mpz2wokRY3Elrujynak",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRY3Elrujynak",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410789802915,
+            "lng": -73.9398191197085
+          },
+          "southwest": {
+            "lat": 40.8383810197085,
+            "lng": -73.94251708029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Zucker Howard A MD",
+      "place_id": "ChIJC9X3mpz2wokRLFIyVIHPRyY",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "rating": 2.2,
+      "reference": "ChIJC9X3mpz2wokRLFIyVIHPRyY",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8398048,
+          "lng": -73.9414011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410983802915,
+            "lng": -73.93991556970849
+          },
+          "southwest": {
+            "lat": 40.83840041970851,
+            "lng": -73.9426135302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Eli Grunstein, MD",
+      "photos": [
+        {
+          "height": 645,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113434820629639369187\">Eli Grunstein, MD</a>"
+          ],
+          "photo_reference": "AeJbb3d6niYdTJguZ6cWqiE033shsr3rpFmounZmK2ifMsAuwZzsUlJpYODtvpp1sQHi_JCdGXra1eGMtZbUmzcO6iRqcYzaeHkJd2SzqyY5PmNUkk-JjoAiIzfBsOCbyT1MAuMFYuORLjFZuMIptfoh7zez3f3JzrYGbS0ApQqW7tveR1Gh",
+          "width": 430
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokR9XoUCfbiR2E",
+      "plus_code": {
+        "compound_code": "R3Q5+WC New York, NY, USA",
+        "global_code": "87G8R3Q5+WC"
+      },
+      "rating": 5,
+      "reference": "ChIJC9X3mpz2wokR9XoUCfbiR2E",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Catallozzi Marina MD",
+      "place_id": "ChIJD5D-HJ32wokRkWT8zuF52sE",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJD5D-HJ32wokRkWT8zuF52sE",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lisa F Imundo, MD",
+      "photos": [
+        {
+          "height": 630,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103157596756666646132\">Lisa F Imundo, MD</a>"
+          ],
+          "photo_reference": "AeJbb3f8UX_iXNjf2QhcEUilKLBlEnVgidsScL-0DRTGPYEMpkCEG7dsKO5mzT2omK12fDa9vN1io4buAI8_DFVlHnxsNk0KVRvLrm2qGTjjdJx3JucwEwaeX66F72ZUOSgwI0VJs7_QoEJTDQ_xTwBMNm6FrJF9VRd2u24vmXFJKPCLPzLI",
+          "width": 422
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokRm17YX8pJ6BU",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "rating": 4,
+      "reference": "ChIJC9X3mpz2wokRm17YX8pJ6BU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "161 Fort Washington Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jeffrey L. Zitsman, MD",
+      "photos": [
+        {
+          "height": 630,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112227840015191358753\">Jeffrey L. Zitsman, MD</a>"
+          ],
+          "photo_reference": "AeJbb3fPqT2w4y2rv6CdtLvJknJ8rAXqkzRpN3Nf-ZZq0pTyrh5x64x6t4FT-M08E-KogzxnyzzoN371hSxBPkHyqaUQqkfeIfJdweiVkxlz37ipnG46zUTVmcXHKnS3GOkqLTUrie9Ak-mrGz5adIXSETa3LqJQ3O9ZxDDo1hMFNv1IOnTJ",
+          "width": 422
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokRGw3aTjlZUJU",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokRGw3aTjlZUJU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tennenbaum Steven Y MD",
+      "place_id": "ChIJC9X3mpz2wokRnKHFRnQx8B8",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRnKHFRnQx8B8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 1138N, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Danielle Taylor, MD",
+      "place_id": "ChIJC9X3mpz2wokR0iv5C0SqLp8",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokR0iv5C0SqLp8",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410789802915,
+            "lng": -73.9398191197085
+          },
+          "southwest": {
+            "lat": 40.8383810197085,
+            "lng": -73.94251708029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arteaga-Solis Emilio MD",
+      "place_id": "ChIJC9X3mpz2wokRIYlFzeqo5-Q",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRIYlFzeqo5-Q",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Archana Gupta, MD",
+      "place_id": "ChIJC9X3mpz2wokRXBRBgPob36Q",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "rating": 5,
+      "reference": "ChIJC9X3mpz2wokRXBRBgPob36Q",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3959 Broadway # 517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Children's Hospital Of Ny-Ortho",
+      "place_id": "ChIJC9X3mpz2wokR_iG8UKNuzf4",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokR_iG8UKNuzf4",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Stephanie Lovinsky-Desir, MD",
+      "photos": [
+        {
+          "height": 633,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118238078360747559065\">Stephanie Lovinsky-Desir, MD</a>"
+          ],
+          "photo_reference": "AeJbb3dSOcIA_PxH3GJByOtjWWd4iFZYr_oEkHlgAvjoKBEsqrgQdfTOG14qRx8fZO9Gw1Trwex_L_AGpB8aM34DDNHPugIG9Zmp3Aa9GLUjCo3hc-AdCOVpJOCDCOIMNLGH06ZLoxUu8tBinqnnSMWdz6OfktajEOvgsgaKIfwelsou5BgD",
+          "width": 422
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokRwCxa9Umqd2Y",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokRwCxa9Umqd2Y",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Helen M. Towers, MD",
+      "place_id": "ChIJC9X3mpz2wokRuoSfHE-W0lk",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "rating": 5,
+      "reference": "ChIJC9X3mpz2wokRuoSfHE-W0lk",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York Presbyterian Hospital Ped Crt Cre",
+      "permanently_closed": true,
+      "place_id": "ChIJW2D3c5v2wokR_uDmYBJatMY",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "rating": 2.5,
+      "reference": "ChIJW2D3c5v2wokR_uDmYBJatMY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Linda Addonizio , MD",
+      "place_id": "ChIJC9X3mpz2wokRyj4hlxtQQY0",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokRyj4hlxtQQY0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 229, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ilene Fennoy, MD",
+      "photos": [
+        {
+          "height": 653,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115161033048256100355\">Ilene Fennoy, MD</a>"
+          ],
+          "photo_reference": "AeJbb3etxCAHk2mvAysVHZUj5N6yXrWveEW4Ml3oPOvkiNOi6k7RxbGKF-oYEADR7AnluLvJxp6pwXacrH1CZkSyNNUlc5n_ahesFfCAlerKzmEHbPSmGPo3CkhlDQPVwNTJspOAFOVZeYhpHgWnfdeg_caFBbJ1wlMI8nZvjoHvMHE2atHb",
+          "width": 435
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokRMfbESOmomiw",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "rating": 3.7,
+      "reference": "ChIJC9X3mpz2wokRMfbESOmomiw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Wendy K. Chung, MD",
+      "place_id": "ChIJC9X3mpz2wokR7wFe1L6Plaw",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokR7wFe1L6Plaw",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8398048,
+          "lng": -73.9414011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410983802915,
+            "lng": -73.93991556970849
+          },
+          "southwest": {
+            "lat": 40.83840041970851,
+            "lng": -73.9426135302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "William Middlesworth, MD",
+      "photos": [
+        {
+          "height": 630,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110062610502099903100\">William Middlesworth, MD</a>"
+          ],
+          "photo_reference": "AeJbb3d3KeLtXp40wE5bYjIFr5JyTCRFEPxJhmi5R78FD1BvAeUwqDDKZNOkxVIMmKDzzodHvhXr3FURpvH8mGudW1Q0n3BI_Z84CLilA-SPAvszoAyCKPWfJSe7pXz5pwtqgBCUZYEmqjyfuMD4dEXg-YTeXvPjQv32mG1w3bVN2dHzqwsL",
+          "width": 422
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokRa3ZI6S1tP8o",
+      "plus_code": {
+        "compound_code": "R3Q5+WC New York, NY, USA",
+        "global_code": "87G8R3Q5+WC"
+      },
+      "rating": 4,
+      "reference": "ChIJC9X3mpz2wokRa3ZI6S1tP8o",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "3959 Broadway Suite 216B, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410789802915,
+            "lng": -73.93990356970849
+          },
+          "southwest": {
+            "lat": 40.8383810197085,
+            "lng": -73.9426015302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ria G. Hawks, CPNP",
+      "place_id": "ChIJC9X3mpz2wokRgyWupFpwCMQ",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokRgyWupFpwCMQ",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8398048,
+          "lng": -73.9414011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410983802915,
+            "lng": -73.93991556970849
+          },
+          "southwest": {
+            "lat": 40.83840041970851,
+            "lng": -73.9426135302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Leonardo Liberman, MD",
+      "photos": [
+        {
+          "height": 630,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108285132950532370532\">Leonardo Liberman, MD</a>"
+          ],
+          "photo_reference": "AeJbb3fdu0L4Afk1InoNXLWkuk_LI82cZ7sADNSVeiF1scPgN3DyoLLLxStfPzipHraHg_-vzvgZ1BvwlxiCjTyf6IFWrv5ubIq5dMOQ3vvUWKkcNA3x5s6m2k8R3q9CIRZsZhwEdomCMPd0KT9xsFiBKPEANDxQMhEREUCMEWcBAIQc13Ur",
+          "width": 422
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokREL9ChUhTboQ",
+      "plus_code": {
+        "compound_code": "R3Q5+WC New York, NY, USA",
+        "global_code": "87G8R3Q5+WC"
+      },
+      "rating": 5,
+      "reference": "ChIJC9X3mpz2wokREL9ChUhTboQ",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8398049,
+          "lng": -73.9414011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410984302915,
+            "lng": -73.93991556970849
+          },
+          "southwest": {
+            "lat": 40.8384004697085,
+            "lng": -73.9426135302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Printz Beth Feller MD",
+      "place_id": "ChIJC9X3mpz2wokRwawTKR21bK0",
+      "plus_code": {
+        "compound_code": "R3Q5+WC New York, NY, USA",
+        "global_code": "87G8R3Q5+WC"
+      },
+      "reference": "ChIJC9X3mpz2wokRwawTKR21bK0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway #517, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8398048,
+          "lng": -73.9414011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410983802915,
+            "lng": -73.93991556970849
+          },
+          "southwest": {
+            "lat": 40.83840041970851,
+            "lng": -73.9426135302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Charles A. Popkin, MD",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116079977436629468982\">Charles A. Popkin, MD</a>"
+          ],
+          "photo_reference": "AeJbb3eUuKmajjZCG06qWN1CQEG-RmrrQfJWScZw5isTiOey-fFS71CFjkXwU1nfODcTJKenyKVIF2M3DYxgrQUEo8L7T6Vv6lzU8dsGGrkkrkRwovv2A7OElgzNRcP9e3EQzs2QFLORSrqHPcJZOYLY8D9JFDllrcxIZ5YqPxGUwNl7EElS",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokR_DnWN8IKR2o",
+      "plus_code": {
+        "compound_code": "R3Q5+WC New York, NY, USA",
+        "global_code": "87G8R3Q5+WC"
+      },
+      "rating": 4.9,
+      "reference": "ChIJC9X3mpz2wokR_DnWN8IKR2o",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8398447,
+          "lng": -73.9413787
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8411061302915,
+            "lng": -73.9398516197085
+          },
+          "southwest": {
+            "lat": 40.8384081697085,
+            "lng": -73.94254958029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "NewYork-Presbyterian Morgan Stanley Children's Hospital",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105289502610381455194\">George Li</a>"
+          ],
+          "photo_reference": "AeJbb3eylHc_TcnCzmxMxRnRO4kFBs568l93c0KRJtiiH4ww3QlAwUFATW-SMt6PvbRF5rO72pd3qaLp889_zpPY4IS-0Lky4Afc__efeLo-_dcArnN__Gkx4WgHAuIkhKIYlujF2NzwsLMqGr_WaNkVltbk0LI9z7El1OFkfvu08G4k19-E",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokRMQIJt2JmuPk",
+      "plus_code": {
+        "compound_code": "R3Q5+WC New York, NY, USA",
+        "global_code": "87G8R3Q5+WC"
+      },
+      "rating": 3.8,
+      "reference": "ChIJC9X3mpz2wokRMQIJt2JmuPk",
+      "scope": "GOOGLE",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 333,
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8399581,
+          "lng": -73.9420394
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84214225,
+            "lng": -73.9402048697085
+          },
+          "southwest": {
+            "lat": 40.83923004999999,
+            "lng": -73.9429028302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "New York Presbyterian Hospital-Columbia: Cancer Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100537377439989665909\">Bryce Bensema</a>"
+          ],
+          "photo_reference": "AeJbb3crrjdSHv8iIy35ZY85M3HBsfaAi1cGmSk5bCM96aBioU8_2hYqPVUUkfc_lOo-aQRRtuaPUzZbkF4kOGpGCqGIZaNJmIHszLsd-pS7zKBQcBVpwdBaWiSSftkr81YTTsUf0-NW-IG8RFIN_2qs5vhsKmmzSYVD4LQX0T_dUr0yJ0Q1",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ61x_cpz2wokRG1SmA_ez-kM",
+      "plus_code": {
+        "compound_code": "R3Q5+X5 New York, NY, USA",
+        "global_code": "87G8R3Q5+X5"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ61x_cpz2wokRG1SmA_ez-kM",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "622 West 168th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8398048,
+          "lng": -73.9414011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410983802915,
+            "lng": -73.93991556970849
+          },
+          "southwest": {
+            "lat": 40.83840041970851,
+            "lng": -73.9426135302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Philip G. Kazlow, MD",
+      "photos": [
+        {
+          "height": 649,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113894840176518541561\">Philip G. Kazlow, MD</a>"
+          ],
+          "photo_reference": "AeJbb3csSjxYE8x-k0sY1PmsRHTEA5kPz_MK3MjS1TKw4mda6EnCusByEPK_9E4WAFaDnJeb-PZn-szsYjcsHT1pVrNKaTzViXPsdj3TT9ukVs5c2lL_Q3z_ytGqTaMK8-rz9oY3sCx8HncjISTswXp_PdmwyV3vxcpw1UsVDUTuvSgZfrUt",
+          "width": 435
+        }
+      ],
+      "place_id": "ChIJC9X3mpz2wokR77eJjGLhWjs",
+      "plus_code": {
+        "compound_code": "R3Q5+WC New York, NY, USA",
+        "global_code": "87G8R3Q5+WC"
+      },
+      "reference": "ChIJC9X3mpz2wokR77eJjGLhWjs",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8370763,
+          "lng": -73.94430679999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8384252802915,
+            "lng": -73.94295781970848
+          },
+          "southwest": {
+            "lat": 40.8357273197085,
+            "lng": -73.9456557802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Timothy Cragin Wang, MD",
+      "photos": [
+        {
+          "height": 651,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117450971121256517324\">Timothy Cragin Wang, MD</a>"
+          ],
+          "photo_reference": "AeJbb3eJlW3BYOKRpMI2wvSoRoen5Bh49KOQa_UmZaAN97wZjYHftkCojA-ClPjHALxMmnkWDJO7bb7vT1LaUvvwRf5zqjU5-o4OMSlV7ltw8Wcc9z22aY2YP5Ea9dgkEAHIYik2qPvj_E8uNWu2tWjTsWYTkn2gBUcpWzmk8UpUIPch2rnR",
+          "width": 433
+        }
+      ],
+      "place_id": "ChIJDY9T8Jz2wokRRPXUvra4fmo",
+      "plus_code": {
+        "compound_code": "R3P4+R7 New York, NY, USA",
+        "global_code": "87G8R3P4+R7"
+      },
+      "reference": "ChIJDY9T8Jz2wokRRPXUvra4fmo",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "161 Fort Washington Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Krishnamurthy Ganga MD",
+      "place_id": "ChIJC9X3mpz2wokRDvcrejTpv3A",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRDvcrejTpv3A",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 115, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Levy Joseph MD",
+      "place_id": "ChIJC9X3mpz2wokRW_ZuEwukiQM",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokRW_ZuEwukiQM",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 726N, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397069,
+          "lng": -73.94125249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410548302915,
+            "lng": -73.9398581697085
+          },
+          "southwest": {
+            "lat": 40.8383568697085,
+            "lng": -73.9425561302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kaufman Stuart MD",
+      "place_id": "ChIJC9X3mpz2wokR_x7p1Z6x_eI",
+      "plus_code": {
+        "compound_code": "R3Q5+VF New York, NY, USA",
+        "global_code": "87G8R3Q5+VF"
+      },
+      "reference": "ChIJC9X3mpz2wokR_x7p1Z6x_eI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway # 2n, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8397384,
+          "lng": -73.9414214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8410477802915,
+            "lng": -73.93992571970848
+          },
+          "southwest": {
+            "lat": 40.8383498197085,
+            "lng": -73.94262368029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. David A. Bateman, MD",
+      "place_id": "ChIJC9X3mpz2wokRSXRCQjouNCI",
+      "plus_code": {
+        "compound_code": "R3Q5+VC New York, NY, USA",
+        "global_code": "87G8R3Q5+VC"
+      },
+      "reference": "ChIJC9X3mpz2wokRSXRCQjouNCI",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3959 Broadway, New York"
+    }
+  ],
+  "status": "OK"
+}

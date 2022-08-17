@@ -1,0 +1,2720 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7127753,
+          "lng": -74.0059728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.91757705070789,
+            "lng": -73.70027206817629
+          },
+          "southwest": {
+            "lat": 40.47739906045452,
+            "lng": -74.25908991427882
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u7d10\u7d04",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102389334567210814614\">Bukurie</a>"
+          ],
+          "photo_reference": "AeJbb3ds37yqwSiuumSwfXFZjKpUYuLMNVS3Y3Jt8Nz-ssvGYlVch0F4HZ8l3Rp4ATNRAA4tqnOLkyF0fwTgQOWumoF2qJYjDDkeG4RODGzfaYJcSICdBuXcgImOr-ngnFWUdqSzBqFfIqITBZbyC6l5JAwhoepJ5kqLaBtAdUkL9FjqtIKL",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "\u7d10\u7d04"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7565994,
+          "lng": -73.9353118
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7578885302915,
+            "lng": -73.9338600697085
+          },
+          "southwest": {
+            "lat": 40.7551905697085,
+            "lng": -73.93655803029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Time Equities Inc",
+      "place_id": "ChIJ746Cy9JYwokRb42qzP8wUKE",
+      "plus_code": {
+        "compound_code": "Q347+JV \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q347+JV"
+      },
+      "reference": "ChIJ746Cy9JYwokRb42qzP8wUKE",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3724 24th Street #100, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75700399999999,
+          "lng": -73.9298204
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75828278029149,
+            "lng": -73.92832906970848
+          },
+          "southwest": {
+            "lat": 40.7555848197085,
+            "lng": -73.9310270302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tantra Restaurant and Lounge",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 563,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103393893358899036425\">Tantra Restaurant and Lounge</a>"
+          ],
+          "photo_reference": "AeJbb3ctPxGnEQRQ0Urps11exz5-e_YT70AHGCqmMjouPNP8Hfpb8XUgb-UCVf-DSNtHC-AcYrdEftbjUy_gO--z6GgznRjY0yXxUrDLGo-SK_jNAiOtJxAbJDxgtB7dMGQA7M53BkOvJROrJ3VIHoSecW97v3uIPHK2P2Flu3UxPpJdagaG",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJ0_MzBC5fwokRlKSir3Ug-00",
+      "plus_code": {
+        "compound_code": "Q34C+R3 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q34C+R3"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJ0_MzBC5fwokRlKSir3Ug-00",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "night_club",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 108,
+      "vicinity": "35-50 31st Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7604304,
+          "lng": -73.9368057
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76168573029149,
+            "lng": -73.93528651970848
+          },
+          "southwest": {
+            "lat": 40.75898776970849,
+            "lng": -73.93798448029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ravenswood",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101750277446063472847\">Todd Medeiros</a>"
+          ],
+          "photo_reference": "AeJbb3d2v7E_RoeOfFIaFTWhrJXaOo4K4b3mHqBgw7WkfInBO-tB7Fw36diNZVVI7Y4mYt9gsjJiJJ8qWz0Qy_R3jkRodwqXI1J_5OyggLtD4sYs6kEQsAhJrOM-M6RnzCWLNlgEWumMseHoRavgea9CbHjb5crgehYlWUQ1v-cjPymJ685A",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJPw4mJTNfwokRjn43hZW2syo",
+      "plus_code": {
+        "compound_code": "Q367+57 \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q367+57"
+      },
+      "rating": 3.4,
+      "reference": "ChIJPw4mJTNfwokRjn43hZW2syo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 492,
+      "vicinity": "35-40 21st Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.756981,
+          "lng": -73.9362065
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7582616802915,
+            "lng": -73.93473376970849
+          },
+          "southwest": {
+            "lat": 40.7555637197085,
+            "lng": -73.9374317302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Retail Aid Business Solutions",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJn_IW4h-B5IkRzR_BoxKaEKA",
+      "plus_code": {
+        "compound_code": "Q347+QG \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q347+QG"
+      },
+      "reference": "ChIJn_IW4h-B5IkRzR_BoxKaEKA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "37-24 24th Street Suite #103, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7568686,
+          "lng": -73.936235
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7581636302915,
+            "lng": -73.9347882197085
+          },
+          "southwest": {
+            "lat": 40.7554656697085,
+            "lng": -73.9374861802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Abby Suckle Architect",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ4brFmLdZwokRmsPOjG6E4ds",
+      "plus_code": {
+        "compound_code": "Q347+PG \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q347+PG"
+      },
+      "reference": "ChIJ4brFmLdZwokRmsPOjG6E4ds",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "37-24 24th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7593731,
+          "lng": -73.93676889999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7608007802915,
+            "lng": -73.9356067697085
+          },
+          "southwest": {
+            "lat": 40.7581028197085,
+            "lng": -73.9383047302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Prina P. Amin, M.D.",
+      "photos": [
+        {
+          "height": 301,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110392029193615365758\">Prina P. Amin, M.D.</a>"
+          ],
+          "photo_reference": "AeJbb3efdHtQwijZ0C1dsS0EUy5pWuHhkKg-STQCRc8zlNYl0ZhPfkVTQay5hxty23kGgof0UoF7VNXuUdFCJTtElzAOoElpK-D9hAe1w8HKFHm5_M2SO4iWkb263FWUPL6MARpUl5RddqCpmFZ1700dUOrcEe9hFvH2dIgVE7o8kkCvF9ka",
+          "width": 301
+        }
+      ],
+      "place_id": "ChIJ1-NkqqBYwokR_XuSZt9lNzU",
+      "plus_code": {
+        "compound_code": "Q357+P7 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q357+P7"
+      },
+      "reference": "ChIJ1-NkqqBYwokR_XuSZt9lNzU",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "36-11 21st Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.756625,
+          "lng": -73.936421
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7580574302915,
+            "lng": -73.9349009197085
+          },
+          "southwest": {
+            "lat": 40.7553594697085,
+            "lng": -73.9375988802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little New York Photography",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 534,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109789095216311442239\">Little New York Photography</a>"
+          ],
+          "photo_reference": "AeJbb3clIrjo8D6W0lvyUdo-lXCK_Xrj5d3EQlvaBFLFrQ7Jznm2Tcvzl8PjofXysMftR2Zii78sAgrPxLlKqi1-bpcKEaR_NKiNVaJP6cQbJoOqrPZrEF4ZYH1nZxM8GFQve0r8XvH7zfdkVpgZa9Jyo8KPESx93E75D42UlICkJLg6pTy0",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJwyfx4NRhwokRJkK8l_BvrpA",
+      "plus_code": {
+        "compound_code": "Q347+JC \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q347+JC"
+      },
+      "rating": 4.9,
+      "reference": "ChIJwyfx4NRhwokRJkK8l_BvrpA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 76,
+      "vicinity": "37-24 24th Street #209, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.761309,
+          "lng": -73.93009719999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7626624802915,
+            "lng": -73.92891766970848
+          },
+          "southwest": {
+            "lat": 40.7599645197085,
+            "lng": -73.93161563029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walgreens",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108148368557561806989\">Fran\u00e7ois Dang Ngoc</a>"
+          ],
+          "photo_reference": "AeJbb3fTmZPezVCgSi9sPCA2HDiOMz-NeAU6DyI7qurf0awghzb-WyV4es-zRwDIod2hR5zT_kDCd3OVzDAZUrwCr_MqACET7L3sqUL4l9l1Faqm2ho6QqX0murZlc4vgY2SwwgPiqhN0HXE-Xfe6fUiXnyG_mhSPrpqIq9HFfg2olTdub2m",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ33Dy_DZfwokR0Cqoeo-jkik",
+      "plus_code": {
+        "compound_code": "Q369+GX \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q369+GX"
+      },
+      "price_level": 2,
+      "rating": 3,
+      "reference": "ChIJ33Dy_DZfwokR0Cqoeo-jkik",
+      "scope": "GOOGLE",
+      "types": [
+        "drugstore",
+        "clothing_store",
+        "convenience_store",
+        "health",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 72,
+      "vicinity": "3355 Crescent Street #67, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7566266,
+          "lng": -73.9364873
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7580771302915,
+            "lng": -73.9349161697085
+          },
+          "southwest": {
+            "lat": 40.7553791697085,
+            "lng": -73.93761413029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Alexandros Giannakis Photography",
+      "place_id": "ChIJ746Cy9JYwokRNKdjUkJjejA",
+      "plus_code": {
+        "compound_code": "Q347+MC \u7f8e\u570b\u7d10\u7d04\u963f\u65af\u6258\u5229\u4e9e",
+        "global_code": "87G8Q347+MC"
+      },
+      "reference": "ChIJ746Cy9JYwokRNKdjUkJjejA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "37-24 24th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.756651,
+          "lng": -73.9364914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7580893302915,
+            "lng": -73.93491821970848
+          },
+          "southwest": {
+            "lat": 40.7553913697085,
+            "lng": -73.93761618029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Silks Building",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102611326287929453884\">Silks Building</a>"
+          ],
+          "photo_reference": "AeJbb3cnY0xk1N6uce_FWyRTzLd3pBuY4zRSjepe-wuUaMaR9zvdDu2jG9RRG8CMhBeZvXQ7wvkouPDgnZB8r-Ar-Z8G0AxGpBA2uFgXJLZ_nrVWkJpM7fupcZ_bNvahuH6F6O67X0yPyslnif05WDRurkOptQYSxFTyf6xivpwJZLN0DWas",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ746Cy9JYwokRUA2bWnSWATA",
+      "plus_code": {
+        "compound_code": "Q347+MC \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q347+MC"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ746Cy9JYwokRUA2bWnSWATA",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "37-24 24th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.756651,
+          "lng": -73.9364914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7580076302915,
+            "lng": -73.93500141970848
+          },
+          "southwest": {
+            "lat": 40.7553096697085,
+            "lng": -73.93769938029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Tuscan Fine Wood Floors",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJyykjz9JYwokRxQU8VK_dS94",
+      "plus_code": {
+        "compound_code": "Q347+MC \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q347+MC"
+      },
+      "reference": "ChIJyykjz9JYwokRxQU8VK_dS94",
+      "scope": "GOOGLE",
+      "types": [
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "3718 24th Street suite 300, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7571698,
+          "lng": -73.9370228
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75848058029149,
+            "lng": -73.9356008697085
+          },
+          "southwest": {
+            "lat": 40.7557826197085,
+            "lng": -73.9382988302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Myradiostore Inc",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ746Cy9JYwokRNqpe1-qhhOU",
+      "plus_code": {
+        "compound_code": "Q347+V5 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q347+V5"
+      },
+      "rating": 5,
+      "reference": "ChIJ746Cy9JYwokRNqpe1-qhhOU",
+      "scope": "GOOGLE",
+      "types": [
+        "electronics_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3724 24th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7566266,
+          "lng": -73.9364873
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7580006802915,
+            "lng": -73.93499936970849
+          },
+          "southwest": {
+            "lat": 40.7553027197085,
+            "lng": -73.9376973302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Baring Industries",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ746Cy9JYwokRzvMyMMjO90c",
+      "plus_code": {
+        "compound_code": "Q347+MC \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q347+MC"
+      },
+      "reference": "ChIJ746Cy9JYwokRzvMyMMjO90c",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "3724 24th Street # 217A, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7566266,
+          "lng": -73.9364873
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7580006802915,
+            "lng": -73.93499936970849
+          },
+          "southwest": {
+            "lat": 40.7553027197085,
+            "lng": -73.9376973302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bura Construction",
+      "place_id": "ChIJyykjz9JYwokRe2pUqbO5wfU",
+      "plus_code": {
+        "compound_code": "Q347+MC \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q347+MC"
+      },
+      "rating": 5,
+      "reference": "ChIJyykjz9JYwokRe2pUqbO5wfU",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "3724 24th Street #107, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75939299999999,
+          "lng": -73.9334355
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76077938029149,
+            "lng": -73.93215851970851
+          },
+          "southwest": {
+            "lat": 40.75808141970849,
+            "lng": -73.93485648029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "H.L. Dalis",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103439782208655981487\">Hellen Zhang</a>"
+          ],
+          "photo_reference": "AeJbb3eXjbUc2PRYLUTMtSXFDkmRgpSxeWJNOIc2CL_ez3kbu5L7RCrDjmdkyr1FIlyd7Zhcj-M_FTgrsVjevvZjGzQEgIAC0CNB5FZuCUaotbSj84D21SCrzOIvRiIKzVTzvsoGN5MCvZ1tdhEi8ZDbFC_SC9MT-aF_7twzD_Km-_1TgH1Y",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJ2aWI8zJfwokRnnmcWvb_jJI",
+      "plus_code": {
+        "compound_code": "Q358+QJ \u7f8e\u570b\u7d10\u7d04\u7687\u540e\u5340",
+        "global_code": "87G8Q358+QJ"
+      },
+      "rating": 4,
+      "reference": "ChIJ2aWI8zJfwokRnnmcWvb_jJI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "3535 24th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76153429999999,
+          "lng": -73.9348383
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7629493802915,
+            "lng": -73.93361991970849
+          },
+          "southwest": {
+            "lat": 40.7602514197085,
+            "lng": -73.93631788029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Police Service Area 9 Satellite",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114494644855288931970\">Elias Ramos</a>"
+          ],
+          "photo_reference": "AeJbb3eqmqKaQBpC8mISEk1U9iriX4DKNx2pJExc642h5jwDFfTJgGiGmlAwnIw2U8gYEMWB0kTWXQN3eE792ySqMNuL2YRStVcjYW-VFjEaIrPH_ivCKUIFR-Bx8A8kPHqLo7-cnH4Vd-S6hUytkN2FoigQBSmK60ZzyCGZr7-YASeWnuE",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJs8l3aDNfwokRyl_2AXgI5h4",
+      "plus_code": {
+        "compound_code": "Q368+J3 \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q368+J3"
+      },
+      "rating": 3,
+      "reference": "ChIJs8l3aDNfwokRyl_2AXgI5h4",
+      "scope": "GOOGLE",
+      "types": [
+        "police",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "3441 21st Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7569863,
+          "lng": -73.93090459999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7583847302915,
+            "lng": -73.9295150697085
+          },
+          "southwest": {
+            "lat": 40.7556867697085,
+            "lng": -73.9322130302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ashok Kumar H Dave",
+      "place_id": "ChIJy1IQ8C1fwokRXPs2CJ4bRGM",
+      "plus_code": {
+        "compound_code": "Q349+QJ \u7f8e\u570b\u7d10\u7d04",
+        "global_code": "87G8Q349+QJ"
+      },
+      "rating": 5,
+      "reference": "ChIJy1IQ8C1fwokRXPs2CJ4bRGM",
+      "scope": "GOOGLE",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "29-16 36th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75756949999999,
+          "lng": -73.93307639999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7591007302915,
+            "lng": -73.93203851970848
+          },
+          "southwest": {
+            "lat": 40.7564027697085,
+            "lng": -73.93473648029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dutch Kills Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111108343506794221179\">Dutch Kills Playground</a>"
+          ],
+          "photo_reference": "AeJbb3dnFYZsqAS2dVwMpRahBIJzEfKyyeIzuy1yxf2OUUFYtjvc2FXCPkfc2hEauVIfSlSGekNYsr9Dy2cIUFVYiZNzIPUIwg7RnK8v8f30yUA4HJZdi7ti_KjAbr-98KjqIJpHnoiMmMxNM6Q7Pqa4FjSSyvrn1lVlrm6L00jwjLc0XcG5",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJ1QFwdy1fwokRT53H2KnyAWI",
+      "plus_code": {
+        "compound_code": "Q358+2Q \u7f8e\u570b\u7d10\u7d04\u9577\u5cf6\u5e02",
+        "global_code": "87G8Q358+2Q"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ1QFwdy1fwokRT53H2KnyAWI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 315,
+      "vicinity": "36th Avenue &, Crescent Street, Long Island City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 40.7643574,
+          "lng": -73.92346189999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7826018068365,
+            "lng": -73.90221823033325
+          },
+          "southwest": {
+            "lat": 40.75294753494164,
+            "lng": -73.94473418403395
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "\u963f\u65af\u6258\u5229\u4e9e",
+      "photos": [
+        {
+          "height": 2040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100919248807932008582\">ariovaldo oliveira</a>"
+          ],
+          "photo_reference": "AeJbb3cb_e-u9dRFOIWDqh7MUbzry3WRKjnW5PNyq4hE-oYSjIVCFLecgcMjdagH6Fk3izRxEAP1orLkYd1UUaQj3jvVGoxybVT1yN1MfVhiUNVh_YgCEF_k3RVKzi-n8mYkJQu-l_PM_yrr2aSgWL-daDgRW0FnjgTK7heyP8BNlUOrhzvP",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJU6W15zZfwokRDhGErMSvCpw",
+      "reference": "ChIJU6W15zZfwokRDhGErMSvCpw",
+      "scope": "GOOGLE",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "vicinity": "\u7687\u540e\u5340"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76001600000001,
+          "lng": -73.932852
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7614013802915,
+            "lng": -73.93142406970848
+          },
+          "southwest": {
+            "lat": 40.7587034197085,
+            "lng": -73.93412203029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "All Children's Child Care",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108148368557561806989\">Fran\u00e7ois Dang Ngoc</a>"
+          ],
+          "photo_reference": "AeJbb3dvG9E7pt0hJ4kLCaTDM5GVR9yOoqKOkOwqE3y6PmMVLHPCU_z8WBzOtq7Db3y3ISKIGs1tUkaV5HBL-pqi0WHgA5ShpdJ7qZmVc5ZD5Do_ZGHQYG_ZoWmf-UTdJWE4BtrqD05CbK7beNOV0bB3n2FCjydiaq0VQWxrO82hJEQLpzGx",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJPdifVjJfwokRwCHMs3FIANo",
+      "plus_code": {
+        "compound_code": "Q368+2V New York, NY, USA",
+        "global_code": "87G8Q368+2V"
+      },
+      "rating": 4.6,
+      "reference": "ChIJPdifVjJfwokRwCHMs3FIANo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "35-01 24th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7561689,
+          "lng": -73.92853579999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75747958029149,
+            "lng": -73.92724311970849
+          },
+          "southwest": {
+            "lat": 40.7547816197085,
+            "lng": -73.9299410802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Mad Donkey Beer Bar & Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118404619479962183811\">T Szawkalo</a>"
+          ],
+          "photo_reference": "AeJbb3cMJzcpHxAAT8_kDpdU-GVxN_0OyxRmyqllFo-MgjqbXrn76OS4KC2wfSDoBIQzYxK2eWyaLwLvZ_4DR8piLthEHYs4oj-MVtfib1ats-D2b_IInVhZYOkhM_JEToaXeTwJmeGDSbaz-fFZylALsLQ-z4srMby4xRu8dVsD6Cc4_a2V",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJXwfMPy5fwokRuz6hCTUpZ9o",
+      "plus_code": {
+        "compound_code": "Q34C+FH Astoria, Queens, NY, USA",
+        "global_code": "87G8Q34C+FH"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJXwfMPy5fwokRuz6hCTUpZ9o",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 530,
+      "vicinity": "32-07 36th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7565278,
+          "lng": -73.930207
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7579792302915,
+            "lng": -73.9287910697085
+          },
+          "southwest": {
+            "lat": 40.7552812697085,
+            "lng": -73.9314890302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "36th Ave Wine & Spirits",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116427881854125073858\">36th Ave Wine &amp; Spirits</a>"
+          ],
+          "photo_reference": "AeJbb3ceZUzLrBWO1kfKqSWtdXYAToSfUdJFr7N9ZyeGVPjlUMDTFXse6xCiRGxEC2h3PE69gNZxjVK5OB4h3ojJiY0tHTREYO13ENV0GDA4d1xTXDyRsmRJpMBLNw59sCS3ECNyaj9r89BBoBY1PucLR0PI3U5HNsK1p103olGo2ezhluSq",
+          "width": 300
+        }
+      ],
+      "place_id": "ChIJlQx04i1fwokRfuaVDCCbEdc",
+      "plus_code": {
+        "compound_code": "Q349+JW New York, NY, USA",
+        "global_code": "87G8Q349+JW"
+      },
+      "rating": 4.5,
+      "reference": "ChIJlQx04i1fwokRfuaVDCCbEdc",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 137,
+      "vicinity": "30-14 36th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7567362,
+          "lng": -73.93055149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7581704802915,
+            "lng": -73.92914876970849
+          },
+          "southwest": {
+            "lat": 40.7554725197085,
+            "lng": -73.9318467302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "name": "Masjid El-Ber",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103991394048571491108\">AUOKAT HOSSAIN</a>"
+          ],
+          "photo_reference": "AeJbb3eNo484rRLWurX89AcXWsvXBusGGv3BQiaVFCvb-SIxA5Pw51oYfwwfyYw3ruIgVI2l2354iLAM6yBI1kqwfqsDWI3rxxBi9kQwFTI59i_ycrFiQ9sKH6BNtuXtDt_d2rGGJd_nc6Ilg9R-2sitzHO1ueJzcoCzQPzIXmpdXSOSSfHJ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJA4xL5C1fwokRCRwbf0OLFJw",
+      "plus_code": {
+        "compound_code": "Q349+MQ Astoria, Queens, NY, USA",
+        "global_code": "87G8Q349+MQ"
+      },
+      "rating": 4.7,
+      "reference": "ChIJA4xL5C1fwokRCRwbf0OLFJw",
+      "scope": "GOOGLE",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 101,
+      "vicinity": "3605 30th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7590992,
+          "lng": -73.93558139999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7605074302915,
+            "lng": -73.93416161970848
+          },
+          "southwest": {
+            "lat": 40.7578094697085,
+            "lng": -73.9368595802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Trade Fair Supermarket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116457772100353280445\">Nadeem Hafeez</a>"
+          ],
+          "photo_reference": "AeJbb3c__X1o4gBhKUNKMQYYUbiHQ7YU4haH4bn8vhggG8IvAgNAj0eUh6LuvxDQzcNi9rcjwX7rVg5wF7jcZDjL1vyQtlSwjswVizMyvG5l2KRetQKZnWJ4AZn2JJy0pGcF0zT_phX50KEUoJ5DtFKAMeyHutTuAPSVFt_FvMnkkEOxyosx",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJQXmrtjJfwokRx_e770_nqLE",
+      "plus_code": {
+        "compound_code": "Q357+JQ New York, NY, USA",
+        "global_code": "87G8Q357+JQ"
+      },
+      "rating": 3.8,
+      "reference": "ChIJQXmrtjJfwokRx_e770_nqLE",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 756,
+      "vicinity": "22-20 36th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7567151,
+          "lng": -73.9364229
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7580404802915,
+            "lng": -73.93496611970849
+          },
+          "southwest": {
+            "lat": 40.7553425197085,
+            "lng": -73.93766408029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Computer Services Group",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ39nlE6pZwokRG1Mjvn_AlNc",
+      "plus_code": {
+        "compound_code": "Q347+MC Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q347+MC"
+      },
+      "rating": 5,
+      "reference": "ChIJ39nlE6pZwokRG1Mjvn_AlNc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "37-24 24th Street Suite 340, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76051289999999,
+          "lng": -73.9347599
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7620593302915,
+            "lng": -73.93324726970849
+          },
+          "southwest": {
+            "lat": 40.7593613697085,
+            "lng": -73.9359452302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "New York City Housing Authority's Ravenswood Day Care Center",
+      "place_id": "ChIJPw4mJTNfwokRtxYmXtdD6IA",
+      "plus_code": {
+        "compound_code": "Q368+63 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q368+63"
+      },
+      "reference": "ChIJPw4mJTNfwokRtxYmXtdD6IA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "21-20 35th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7567151,
+          "lng": -73.9364229
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75812138029151,
+            "lng": -73.9348839697085
+          },
+          "southwest": {
+            "lat": 40.75542341970851,
+            "lng": -73.9375819302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "L S O Orthotics Group",
+      "place_id": "ChIJyykjz9JYwokRraWNS5b1WfI",
+      "plus_code": {
+        "compound_code": "Q347+MC Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q347+MC"
+      },
+      "reference": "ChIJyykjz9JYwokRraWNS5b1WfI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "3724 24th Street, Long Island City"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7567151,
+          "lng": -73.9364229
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75812138029151,
+            "lng": -73.9348839697085
+          },
+          "southwest": {
+            "lat": 40.75542341970851,
+            "lng": -73.9375819302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Flagg Whitey",
+      "permanently_closed": true,
+      "place_id": "ChIJyykjz9JYwokRppd4ApJcayo",
+      "plus_code": {
+        "compound_code": "Q347+MC Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q347+MC"
+      },
+      "reference": "ChIJyykjz9JYwokRppd4ApJcayo",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3724 24th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.759377,
+          "lng": -73.9367508
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76080273029149,
+            "lng": -73.9355977197085
+          },
+          "southwest": {
+            "lat": 40.7581047697085,
+            "lng": -73.9382956802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Andrea Card, M.D.",
+      "photos": [
+        {
+          "height": 633,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112333301425988132531\">Andrea Card, M.D.</a>"
+          ],
+          "photo_reference": "AeJbb3cxpkzBSOFO8BS3VZXSRbU5USqjIJsce4LYE5rIq22rDmGKVZZsfdKGuq71blxloDum4ZhNplsvfpI-nAhBE5JXh1xpdu3QRTPPbU095vyJOwQOHROsCMwGETjokyqqaLigMTJkcCOzO61zqtKA6qSeUnn268VkMsnp8oPn5MD78bSm",
+          "width": 420
+        }
+      ],
+      "place_id": "ChIJ6T_ttzT0wokRI2tntH2eqB0",
+      "plus_code": {
+        "compound_code": "Q357+Q7 New York, NY, USA",
+        "global_code": "87G8Q357+Q7"
+      },
+      "reference": "ChIJ6T_ttzT0wokRI2tntH2eqB0",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "36-11 21st Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7553935,
+          "lng": -73.932104
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7567984302915,
+            "lng": -73.9307047197085
+          },
+          "southwest": {
+            "lat": 40.7541004697085,
+            "lng": -73.93340268029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Available Light of New York",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114246586127268729662\">Juan Enrique Cruz</a>"
+          ],
+          "photo_reference": "AeJbb3cPmkC3hYyGd-Bem9gi9moqMnsUzEE1EDlB4Sz8528onvVyUtCgNMSsHciGFpjN4cfmjxZykjOrEj-M0P5Msdsvo35-D_SaAoNVodjgFhLga2s-9T53dd2bHHkMZILRvpBTQ4fmeMNaUfZlI-PZbvHR8pgK_XGWZ97Ps6il00xpR0s9",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJQ_R6sy1fwokR9lbxI5ltUrI",
+      "plus_code": {
+        "compound_code": "Q349+55 New York, NY, USA",
+        "global_code": "87G8Q349+55"
+      },
+      "rating": 4.3,
+      "reference": "ChIJQ_R6sy1fwokR9lbxI5ltUrI",
+      "scope": "GOOGLE",
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "2920 37th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7630727,
+          "lng": -73.9304095
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7643398302915,
+            "lng": -73.9291274197085
+          },
+          "southwest": {
+            "lat": 40.7616418697085,
+            "lng": -73.9318253802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "MSLK Design",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102733904605287638652\">MSLK Design</a>"
+          ],
+          "photo_reference": "AeJbb3ekfv3X0FzovpzWx6vtIRU8RyrZY6JRn9-sh2dQWSwhMui0MSmA1jbQLL7cwjDvLu2_k4zfaIXiAMF1tfZ0V4y0p5yKEm6iMsd4ldfEHPkimCs8S_3ecuBo34j_fwS8kOe2-tRO_Tf6PNm2uUmEOplU-QyaIMv0RDpzTpIGazMD298O",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJm3W0HDRfwokRwIlmFHPWxgA",
+      "plus_code": {
+        "compound_code": "Q379+6R New York, NY, USA",
+        "global_code": "87G8Q379+6R"
+      },
+      "rating": 5,
+      "reference": "ChIJm3W0HDRfwokRwIlmFHPWxgA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "23-23 33rd Road, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7566266,
+          "lng": -73.9364873
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7580006802915,
+            "lng": -73.93499936970849
+          },
+          "southwest": {
+            "lat": 40.7553027197085,
+            "lng": -73.9376973302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Parts To Go",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJyykjz9JYwokRQQ2Nw3BFwS4",
+      "plus_code": {
+        "compound_code": "Q347+MC Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q347+MC"
+      },
+      "reference": "ChIJyykjz9JYwokRQQ2Nw3BFwS4",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3724 24th Street #112, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76260449999999,
+          "lng": -73.9317688
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76403683029149,
+            "lng": -73.92993571970848
+          },
+          "southwest": {
+            "lat": 40.7613388697085,
+            "lng": -73.9326336802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Self-Help Community Services",
+      "place_id": "ChIJVeTChTRfwokRPBRmEBazML8",
+      "plus_code": {
+        "compound_code": "Q379+27 Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q379+27"
+      },
+      "rating": 5,
+      "reference": "ChIJVeTChTRfwokRPBRmEBazML8",
+      "scope": "GOOGLE",
+      "types": [
+        "physiotherapist",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "3334 Crescent Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7590124,
+          "lng": -73.9379986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7604171302915,
+            "lng": -73.93659811970849
+          },
+          "southwest": {
+            "lat": 40.7577191697085,
+            "lng": -73.9392960802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+      "name": "bp",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114592143269096100906\">Jesse Spector</a>"
+          ],
+          "photo_reference": "AeJbb3du7yX2elyqwlSSrbL7e3IQZRh8kukORRDlAPXhY8FJq3ZgUfq8EDbGEHbYENaDRNLDIp4JLjohUfMmGm4xww5qC8bdoRLzCY2xDLMHH2vXESPeespBR8mWptCaskPgh2acP8IxwNiTCdLQnR9v41C0sn8td0G4bzwNCc6Qy-N0DgVU",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ60q4Zc1YwokRlQwmO3T--BQ",
+      "plus_code": {
+        "compound_code": "Q356+JR New York, NY, USA",
+        "global_code": "87G8Q356+JR"
+      },
+      "rating": 1.6,
+      "reference": "ChIJ60q4Zc1YwokRlQwmO3T--BQ",
+      "scope": "GOOGLE",
+      "types": [
+        "gas_station",
+        "convenience_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "36-42 21st Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7566465,
+          "lng": -73.9352079
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7579111802915,
+            "lng": -73.93381461970851
+          },
+          "southwest": {
+            "lat": 40.7552132197085,
+            "lng": -73.93651258029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Bragard USA",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100059536354648134814\">Bragard USA</a>"
+          ],
+          "photo_reference": "AeJbb3fcn9tdgdOtDk9JNcy64msdx3hgwm1Vg6Re0k4EjapMQ7DCmc5LXMPFpdVmMiDQ6tpI6SsbTjIlY3VRFc0TAU2mTAjuu71wSXDtUrazSgqaL-B7IBtLB-V2eQvLG5U8uSCSGXTC6bzu68jhlSjtoHQamAnbT5vK0-Rurv-zHdvUP6mi",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJh3AVrCxZwokRqmgJWkgDYGo",
+      "plus_code": {
+        "compound_code": "Q347+MW New York, NY, USA",
+        "global_code": "87G8Q347+MW"
+      },
+      "rating": 3.3,
+      "reference": "ChIJh3AVrCxZwokRqmgJWkgDYGo",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "37-10 Crescent Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7609559,
+          "lng": -73.9302764
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7623554302915,
+            "lng": -73.92891106970849
+          },
+          "southwest": {
+            "lat": 40.7596574697085,
+            "lng": -73.9316090302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Kiosku Zenzen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJx5we3zNfwokR_54S3izwn5E",
+      "plus_code": {
+        "compound_code": "Q369+9V New York, NY, USA",
+        "global_code": "87G8Q369+9V"
+      },
+      "reference": "ChIJx5we3zNfwokR_54S3izwn5E",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "point_of_interest",
+        "school",
+        "health",
+        "establishment"
+      ],
+      "vicinity": "25-08 34th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7603223,
+          "lng": -73.9317045
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76161763029149,
+            "lng": -73.9302574197085
+          },
+          "southwest": {
+            "lat": 40.75891966970849,
+            "lng": -73.9329553802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Little Angels Montessori, inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110334816216686839187\">Little Angels Montessori, inc.</a>"
+          ],
+          "photo_reference": "AeJbb3dSj3O8_bBrWqWKipEw9KlPzUkV-c2gETf8M_D2w4JMXvHzeN333XpZQEmcqfyQCO3srEPDM9rX2e5karPBN78ksyY-3xZ_1AtxBF3eDNmYPT1f6WXa_gY-UnOX2HFQUQzhLi60VmKjDKDeLagzyiEh1eo_3gh9IFtohTzJEeRDtHfB",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ2XZutTNfwokRPZ6UkNPV-vY",
+      "plus_code": {
+        "compound_code": "Q369+48 New York, NY, USA",
+        "global_code": "87G8Q369+48"
+      },
+      "rating": 5,
+      "reference": "ChIJ2XZutTNfwokRPZ6UkNPV-vY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "34-44 Crescent Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.756358,
+          "lng": -73.93074299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7577584802915,
+            "lng": -73.9295051197085
+          },
+          "southwest": {
+            "lat": 40.75506051970851,
+            "lng": -73.9322030802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "American Legion",
+      "place_id": "ChIJu5oO6C1fwokRjmF3ebxZ6fQ",
+      "plus_code": {
+        "compound_code": "Q349+GP Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q349+GP"
+      },
+      "rating": 2,
+      "reference": "ChIJu5oO6C1fwokRjmF3ebxZ6fQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3619 30th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7591197,
+          "lng": -73.929934
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7604768302915,
+            "lng": -73.9286027697085
+          },
+          "southwest": {
+            "lat": 40.7577788697085,
+            "lng": -73.93130073029153
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Vicki Kramer Nathan",
+      "place_id": "ChIJPwHMYDfGxokR-ALPf397zpQ",
+      "plus_code": {
+        "compound_code": "Q35C+J2 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q35C+J2"
+      },
+      "reference": "ChIJPwHMYDfGxokR-ALPf397zpQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "34-50 29th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7582074,
+          "lng": -73.9329235
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75953648029149,
+            "lng": -73.9316531697085
+          },
+          "southwest": {
+            "lat": 40.7568385197085,
+            "lng": -73.9343511302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Hosneara Masub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJwXikdzJfwokRv6fFNM2eL64",
+      "plus_code": {
+        "compound_code": "Q358+7R New York, NY, USA",
+        "global_code": "87G8Q358+7R"
+      },
+      "rating": 2.2,
+      "reference": "ChIJwXikdzJfwokRv6fFNM2eL64",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "25-09 36th Avenue, Queens"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7599099,
+          "lng": -73.9284419
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76122943029149,
+            "lng": -73.92698416970849
+          },
+          "southwest": {
+            "lat": 40.75853146970849,
+            "lng": -73.9296821302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Square Water",
+      "permanently_closed": true,
+      "place_id": "ChIJ5SDNCzFfwokRS9hRt2ukJEM",
+      "plus_code": {
+        "compound_code": "Q35C+XJ Queens, NY, USA",
+        "global_code": "87G8Q35C+XJ"
+      },
+      "reference": "ChIJ5SDNCzFfwokRS9hRt2ukJEM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3408 30th Street # B6, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7584434,
+          "lng": -73.9294905
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7598478802915,
+            "lng": -73.9280954197085
+          },
+          "southwest": {
+            "lat": 40.7571499197085,
+            "lng": -73.9307933802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Concrete Workers District Council",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117979751334919367476\">Alexander Mejia</a>"
+          ],
+          "photo_reference": "AeJbb3d8MTKHh7GelixUOET7xOHQkvH1R1M96sfjZRcFeHB9rfqav_QXCD78-ih5AFZW2W152Fz_gMr-3mt4R8Ir4HUmNxHwFMwfbMJkehXAIJ9F5meSnp4cUNS65IoQkuWjSsUu06WAOyXDufdxx-Gox1bCvm0VOxLR6FaLm86xdFM-gW_8",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ_Su1ijFfwokR7JeXwInEAxM",
+      "plus_code": {
+        "compound_code": "Q35C+96 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q35C+96"
+      },
+      "rating": 4.9,
+      "reference": "ChIJ_Su1ijFfwokR7JeXwInEAxM",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "29-18 35th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7597612,
+          "lng": -73.9316078
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7610496302915,
+            "lng": -73.93031231970849
+          },
+          "southwest": {
+            "lat": 40.7583516697085,
+            "lng": -73.9330102802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "\u30ab\u30fc\u30c9\u30c8\u30ed\u30cb\u30af\u30b9 ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJr_zQSTJfwokRJcw36S1XneI",
+      "plus_code": {
+        "compound_code": "Q359+W9 New York, NY, USA",
+        "global_code": "87G8Q359+W9"
+      },
+      "reference": "ChIJr_zQSTJfwokRJcw36S1XneI",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "34-53 Crescent Street"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7572719,
+          "lng": -73.9306205
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7585190802915,
+            "lng": -73.9293549697085
+          },
+          "southwest": {
+            "lat": 40.7558211197085,
+            "lng": -73.9320529302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Blue Drawings - Woodwork Shop Drawings",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 355,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118437337661803743791\">The Blue Drawings - Woodwork Shop Drawings</a>"
+          ],
+          "photo_reference": "AeJbb3ftam55xrvGHg-yFwF3mDaBQDdNdfel_uVx2bdqxa3p4veCHMHbeDzLwQMvEd-W-m3MH6xMySJVqXu-vUTXxeFKasHsCALP-hbGQ20w75HDISuK1yB6DT_NwpuQb27vbSgxg_kzfpHRSmSYIVtNN37A7BeDhoDxzSEzODI9xoa0BeXW",
+          "width": 497
+        }
+      ],
+      "place_id": "ChIJy1IQ8C1fwokRku4Ree9YQ1E",
+      "plus_code": {
+        "compound_code": "Q349+WQ Astoria, Queens, NY, USA",
+        "global_code": "87G8Q349+WQ"
+      },
+      "reference": "ChIJy1IQ8C1fwokRku4Ree9YQ1E",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "29-15 36th Avenue, Astoria"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7588137,
+          "lng": -73.9348859
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7602134802915,
+            "lng": -73.93349421970849
+          },
+          "southwest": {
+            "lat": 40.7575155197085,
+            "lng": -73.93619218029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Misty USA Inc",
+      "permanently_closed": true,
+      "place_id": "ChIJi359uzJfwokRnmpzXE53U58",
+      "plus_code": {
+        "compound_code": "Q358+G2 New York, NY, USA",
+        "global_code": "87G8Q358+G2"
+      },
+      "reference": "ChIJi359uzJfwokRnmpzXE53U58",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2308 36th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7577157,
+          "lng": -73.9321535
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7590904802915,
+            "lng": -73.93078201970849
+          },
+          "southwest": {
+            "lat": 40.7563925197085,
+            "lng": -73.93347998029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Joseph E. Kruft, Psychoanalysis and Psychotherapy",
+      "place_id": "ChIJtf82dypZwokRtbau6o0-8zA",
+      "plus_code": {
+        "compound_code": "Q359+34 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q359+34"
+      },
+      "rating": 5,
+      "reference": "ChIJtf82dypZwokRtbau6o0-8zA",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "36th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7595344,
+          "lng": -73.932563
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7608101802915,
+            "lng": -73.9310780197085
+          },
+          "southwest": {
+            "lat": 40.7581122197085,
+            "lng": -73.9337759802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "The Spirited Shipper",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107531836710626166793\">The Spirited Shipper</a>"
+          ],
+          "photo_reference": "AeJbb3e-6U8UOhTmBK-TWNmMpI3V9ojudrAULN4sQouDOhu4NvzcLdXoDlNvJ_1SkkP3VIN_aUpAZivqb0rnIz7EgdiTfeXvhTVfoaH1VUw_m4JLsWc3u2HJWP41IftIQUO9iYhugFdaH9gKGn4pMmokHiXBsFLhFz98EPtXJtivyo38a1gC",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJz_JIWjJfwokRHTS9v03C9SY",
+      "plus_code": {
+        "compound_code": "Q358+RX Astoria, Queens, NY, USA",
+        "global_code": "87G8Q358+RX"
+      },
+      "rating": 4.7,
+      "reference": "ChIJz_JIWjJfwokRHTS9v03C9SY",
+      "scope": "GOOGLE",
+      "types": [
+        "storage",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 46,
+      "vicinity": "35-14 Crescent Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7590925,
+          "lng": -73.93223379999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7605025802915,
+            "lng": -73.93099506970849
+          },
+          "southwest": {
+            "lat": 40.7578046197085,
+            "lng": -73.93369303029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Soleares Research LLC",
+      "place_id": "ChIJs72LQjJfwokRICszAMcQJjU",
+      "plus_code": {
+        "compound_code": "Q359+J4 New York, NY, USA",
+        "global_code": "87G8Q359+J4"
+      },
+      "reference": "ChIJs72LQjJfwokRICszAMcQJjU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3521 Crescent Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7593577,
+          "lng": -73.9333049
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7607727802915,
+            "lng": -73.93208321970849
+          },
+          "southwest": {
+            "lat": 40.7580748197085,
+            "lng": -73.93478118029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "P.O. Joe's Cop Shop",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3754,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102340297736143544290\">H.J. Reyes</a>"
+          ],
+          "photo_reference": "AeJbb3e1nsFpEAs0H67SJt3Pdqj9PcLSPictrXiKcqsf2f96wjowdidbZrEVPZXXWHD2rDe636ChBNONo7TjzcyOyPbgEDlI0fjomn8J-2ld0lQ_WZ-D0zwsZp7MLQrKl1Jl66tN1kg4qhU_08wTxbT-sKT0dhld17yFD4JbRZM-RB0nR4m2",
+          "width": 2112
+        }
+      ],
+      "place_id": "ChIJY3xB9DJfwokRTsAXAxNwVrI",
+      "plus_code": {
+        "compound_code": "Q358+PM New York, NY, USA",
+        "global_code": "87G8Q358+PM"
+      },
+      "rating": 4.8,
+      "reference": "ChIJY3xB9DJfwokRTsAXAxNwVrI",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 26,
+      "vicinity": "35-35 24th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.760606,
+          "lng": -73.930666
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7620133302915,
+            "lng": -73.9292457197085
+          },
+          "southwest": {
+            "lat": 40.7593153697085,
+            "lng": -73.93194368029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "deelk",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102683704197406014531\">deelk</a>"
+          ],
+          "photo_reference": "AeJbb3cxudso1XpHNqVguXHcnzW_6ASUNGWY1UhjDKiFa1m1JcDOiGEAOUNVbYMBw8bBVxb-FFqnKuiaUqsQbftn0DEzoVrDVvbXjA_eGQNSeBU31mluhnSRZp3uPzIBERUPPRvxLGi5eKu9NLEl1XI3Z92LZMHia29I01r6wP_ntiohmTgk",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJDWB-0DNfwokRi9NBB9Npp_M",
+      "plus_code": {
+        "compound_code": "Q369+6P Queens, NY, USA",
+        "global_code": "87G8Q369+6P"
+      },
+      "rating": 4.5,
+      "reference": "ChIJDWB-0DNfwokRi9NBB9Npp_M",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "electronics_store",
+        "shopping_mall",
+        "health",
+        "book_store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "34-15 Crescent Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.758273,
+          "lng": -73.933082
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7595760302915,
+            "lng": -73.9317650697085
+          },
+          "southwest": {
+            "lat": 40.7568780697085,
+            "lng": -73.93446303029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Exit Car & Limo Service, Inc.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 375,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102250765892564090765\">Exit Car &amp; Limo Service, Inc.</a>"
+          ],
+          "photo_reference": "AeJbb3dPeH4DebfqM_0QwRSObVdVBZ_3zC3Ru-iPwEc7kUzu0IcD6Rw9ecRwCS0QCGtLSm4YOxcRpZE-Fx5q9rxj9jzorb2hy44WU9ffz1NrODjVrYb_Dx4Fzh-NGCUXM0YoLIf99VjHnqz_z2tfiMFDFsh1h4vHn5_5JtUqAOXfYBn8pMU7",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJGwvnG9NYwokR1tQY5NkTS4s",
+      "plus_code": {
+        "compound_code": "Q358+8Q Astoria, Queens, NY, USA",
+        "global_code": "87G8Q358+8Q"
+      },
+      "rating": 4,
+      "reference": "ChIJGwvnG9NYwokR1tQY5NkTS4s",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "25-3 36th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.758206,
+          "lng": -73.9329206
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7595358302915,
+            "lng": -73.9316517197085
+          },
+          "southwest": {
+            "lat": 40.7568378697085,
+            "lng": -73.93434968029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rainbow Dental, PC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 697,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115552404188605101094\">Rainbow Dental, PC</a>"
+          ],
+          "photo_reference": "AeJbb3dDmlEqPR3Bt1NCtfnGy615nOtJmI7t3MdluftaxoPadcLX8iAxjGZuHO7cJX20OWTHDAke4OTOBvbkVOtS2oBJOrEaW151n3HL7ya9Sb2u7wT1_hfaXDAf6TZjUaQrYFWfs0B8MO4XQu4Y7YEGfhASso3tM8zds3-sYEoevpN7_eUi",
+          "width": 1242
+        }
+      ],
+      "place_id": "ChIJheEjdzJfwokRe_tKI7qpSa0",
+      "plus_code": {
+        "compound_code": "Q358+7R Queens, NY, USA",
+        "global_code": "87G8Q358+7R"
+      },
+      "rating": 4.1,
+      "reference": "ChIJheEjdzJfwokRe_tKI7qpSa0",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 112,
+      "vicinity": "2509 36th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.758,
+          "lng": -73.9315589
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7594117802915,
+            "lng": -73.93034271970849
+          },
+          "southwest": {
+            "lat": 40.7567138197085,
+            "lng": -73.9330406802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "HelloHero - Corporate Office",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ_bGtDDJfwokRist2FqWy-BA",
+      "plus_code": {
+        "compound_code": "Q359+59 New York, NY, USA",
+        "global_code": "87G8Q359+59"
+      },
+      "rating": 5,
+      "reference": "ChIJ_bGtDDJfwokRist2FqWy-BA",
+      "scope": "GOOGLE",
+      "types": [
+        "physiotherapist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "3545 28th Street, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7611912,
+          "lng": -73.9310974
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7626560302915,
+            "lng": -73.92968696970848
+          },
+          "southwest": {
+            "lat": 40.7599580697085,
+            "lng": -73.9323849302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Bravo Supermarkets",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110559852382432372758\">Bravo Supermarkets</a>"
+          ],
+          "photo_reference": "AeJbb3ffswseY0S9HYuQcFhtgn6_T4ycwaGnHnvo5JFZ-xNcK11cIj3IcWKrRU_4TiIihtwwH9myrVb4q0zofVMpGCX66ZEf3A_3MyrcQPQtBLg6N8ytCZL3ug8RpAChqN2DO3TR0F6yFDyU1UFyoAF0nr4ql2GWJYccyac6h0_QTKzT427j",
+          "width": 3641
+        }
+      ],
+      "place_id": "ChIJv3uB6zNfwokRygB1lZ9r_eA",
+      "plus_code": {
+        "compound_code": "Q369+FH New York, NY, USA",
+        "global_code": "87G8Q369+FH"
+      },
+      "rating": 4,
+      "reference": "ChIJv3uB6zNfwokRygB1lZ9r_eA",
+      "scope": "GOOGLE",
+      "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 250,
+      "vicinity": "24-18 34th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.761142,
+          "lng": -73.930899
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7626307802915,
+            "lng": -73.92962481970851
+          },
+          "southwest": {
+            "lat": 40.7599328197085,
+            "lng": -73.93232278029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Santander Bank Branch",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114592143269096100906\">Jesse Spector</a>"
+          ],
+          "photo_reference": "AeJbb3c_Gd9A8cZJOHWa0B0aOmUH0ftfxuLy-Xfmpgg3pwiswPIvPlgpNBBn1Myo-PN6wLH7IgU8oWzHEC8hTCQ1yiqztADUqa1IYZCJu3Nf8k1e9UAjqhZQHsPGbDGMHM-EJ77_ga80OttQuGIAQTnV__JRC7hx8lnc8DpOAlGvZe5ZV6La",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJkZ2YbjFfwokRzxeC6-iE3Qc",
+      "plus_code": {
+        "compound_code": "Q369+FJ New York, NY, USA",
+        "global_code": "87G8Q369+FJ"
+      },
+      "rating": 3,
+      "reference": "ChIJkZ2YbjFfwokRzxeC6-iE3Qc",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "24-28 34th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.761171,
+          "lng": -73.930891
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76264528029149,
+            "lng": -73.9296208197085
+          },
+          "southwest": {
+            "lat": 40.75994731970849,
+            "lng": -73.93231878029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Santander Bank ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2034,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106740845827278873381\">Steve</a>"
+          ],
+          "photo_reference": "AeJbb3efhDadG7qYOsTMu0G46dvJqXif_wakBbjTAL5vfDKT0T6lD1Tli8mk5Os-Li6sYJ48C4QFce8IHm0ijqjI-1zrtdfrN64zcZxCLDAnuEliUva-meTx7oglgZUPsr-YOeb3Qra4dmZmRhF6MbeeoSY47rvtomJGYzNA5d6N5kCfrz8A",
+          "width": 2712
+        }
+      ],
+      "place_id": "ChIJL8PFwjNfwokRbF9KrVYckYI",
+      "plus_code": {
+        "compound_code": "Q369+FJ New York, NY, USA",
+        "global_code": "87G8Q369+FJ"
+      },
+      "rating": 1,
+      "reference": "ChIJL8PFwjNfwokRbF9KrVYckYI",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "24-28 34th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76090370000001,
+          "lng": -73.9302077
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7623104802915,
+            "lng": -73.9288115697085
+          },
+          "southwest": {
+            "lat": 40.7596125197085,
+            "lng": -73.9315095302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Cardtronics ATM",
+      "place_id": "ChIJ6-WFsTZfwokR0Qcpnrht9OY",
+      "plus_code": {
+        "compound_code": "Q369+9W Astoria, Queens, NY, USA",
+        "global_code": "87G8Q369+9W"
+      },
+      "reference": "ChIJ6-WFsTZfwokR0Qcpnrht9OY",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3355 Crescent Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.757682,
+          "lng": -73.932563
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7591123802915,
+            "lng": -73.9311475197085
+          },
+          "southwest": {
+            "lat": 40.75641441970851,
+            "lng": -73.93384548029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Uber Diet Coach",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 586,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104403249747434368091\">Uber Diet Coach</a>"
+          ],
+          "photo_reference": "AeJbb3feumnADtbIteguRBmOrF3c8ehklOscAK2Yb5b534k8LiGJ7n8Sgnf_muoTxUqxqMY8_S6mjDLzlAgL4FQUmUGzn5-ehUUZFNCe8_1ppGliAUEp8K6fKWhSALEftiLpjkY0e98lahtWZQedjk25g_Hi6tQhYiudEBqbDnQqApaGzG0V",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJZ44Zhy1fwokRV18q5abGVNk",
+      "plus_code": {
+        "compound_code": "Q358+3X Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q358+3X"
+      },
+      "reference": "ChIJZ44Zhy1fwokRV18q5abGVNk",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "25-26 36th Avenue, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75882730000001,
+          "lng": -73.92959479999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76011208029151,
+            "lng": -73.9282991697085
+          },
+          "southwest": {
+            "lat": 40.75741411970851,
+            "lng": -73.9309971302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Star Tax Services",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114889645949192203112\">Md Islam</a>"
+          ],
+          "photo_reference": "AeJbb3cvYvXZU_43b8fH0BSA5bs4I-_fFQs_c6lGHw-61FpjY68yAwDwbavQ9bIbB3NyiX8ns5ZQ_-rk83vDq0iGuwEOq0c7neHZTb3_3PfBDc57yucEo_TEYqzKEVLwHO_KgTyIO-o9N23-06OV8Pndmzk_UlEvyzQtk6ib9WLO5j75DaFk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3e63GCVfwokRbTaeAmYgbak",
+      "plus_code": {
+        "compound_code": "Q35C+G5 New York, NY, USA",
+        "global_code": "87G8Q35C+G5"
+      },
+      "rating": 4.9,
+      "reference": "ChIJ3e63GCVfwokRbTaeAmYgbak",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 63,
+      "vicinity": "2911 35th Avenue, Queens"
+    }
+  ],
+  "status": "OK"
+}
